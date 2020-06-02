@@ -1,0 +1,53 @@
+<html>
+<html noscrollbar>
+<title>Bathiat</title>
+<body>
+<table border=0 cellpadding=0 cellspacing=0 width=290 height=358 background="l2ui_ct1.Windows_DF_TooltipBG">
+<tr><td valign="top" align="center"><br><br> 
+<table width="275">
+<tr><td>
+Вы выбираете не самый легкий путь, для победы<br1>
+вам понадобится не только ваша сила, ваши <br1>
+навыки, но и удача. Порой один критический<br1>
+ удар определяет победителя и проигравшего</center><br>
+</td></tr>	
+</table>
+<center><img src="L2UI.SquareWhite" width=280 height=1>
+<table bgcolor=333333 width=280>
+	<tr>
+		<td width=280>
+			<center><font color="FFFF00">Укажите валюту и её кол-во (ставка на победу)</font></center>
+		</td>
+	</tr>
+</table>
+<img src="L2UI.SquareWhite" width=280 height=1></center>
+<table width="280">
+<tr>
+<td width="170" valign="top" align="center"></td>
+<td width="100" valign="top" align="center"></td>
+</tr>
+<tr>
+<td width="170" valign="middle" align="center"><font color="B59A75">Выберите награду: </font></td>
+<td width="100" valign="middle" align="center"><combobox var="item" width="100" List="%items%"></td>
+</tr>
+<tr>
+<td width="170" valign="top" align="center"></td>
+<td width="100" valign="top" align="center"></td>
+</tr>
+<tr>
+<td width="170" valign="middle" align="center"><font color="B59A75">Укажите количество: </font></td>
+<td width="100" valign="middle" align="center"><edit var=count width=100 type=number></td>
+</tr>
+</table><br>
+<center>
+<table width="280">
+<tr>
+<td width="200" valign="top" align="center"><button value="Создать бой" action="bypass -h npc_%objectId%_addbattle $count $item" width=200 height=29 back="L2UI_CT1.OlympiadWnd_DF_HeroConfirm_Down" fore="L2UI_CT1.OlympiadWnd_DF_HeroConfirm"></td>
+</tr>
+<tr>
+<td width="200" valign="top" align="center"><button value="Назад" action="bypass -h npc_%objectId%_index" width=200 height=29 back="L2UI_CT1.OlympiadWnd_DF_Back_Down" fore="L2UI_CT1.OlympiadWnd_DF_Back"></td>
+</tr>
+</table>
+</center>
+</td></tr></table></body>
+</html></html>

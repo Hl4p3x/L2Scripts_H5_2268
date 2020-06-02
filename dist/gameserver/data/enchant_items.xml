@@ -1,0 +1,474 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "enchant_items.dtd">
+<!--AUTHOR: VISTALL && Bonux-->
+<list>
+	<chance_variations>
+		<variation id="1"><!--weapon_scroll-->
+			<enchant level="1-3" base_chance="100.0" magic_weapon_chance="100.0"/>
+			<enchant level="4-6" base_chance="70.0" magic_weapon_chance="50.0"/>
+			<enchant level="7" base_chance="70.0" magic_weapon_chance="50.0" success_visual_effect="true"/>
+			<enchant level="8-14" base_chance="70.0" magic_weapon_chance="50.0"/>
+			<enchant level="15" base_chance="70.0" magic_weapon_chance="50.0" success_visual_effect="true"/>
+			<enchant level="16-128" base_chance="35.0" magic_weapon_chance="30.0"/>
+		</variation>
+		<variation id="2"><!--armor_scroll-->
+			<enchant level="1-3" base_chance="100.0"/>
+			<enchant level="4" base_chance="66.67" full_body_armor_chance="100.0"/>
+			<enchant level="5" base_chance="33.34" full_body_armor_chance="66.67"/>
+			<enchant level="6" base_chance="25.0" full_body_armor_chance="33.34" success_visual_effect="true"/>
+			<enchant level="7" base_chance="20.0" full_body_armor_chance="25.0"/>
+			<enchant level="8" base_chance="16.67" full_body_armor_chance="20.0"/>
+			<enchant level="9" base_chance="14.29" full_body_armor_chance="16.67"/>
+			<enchant level="10" base_chance="12.5" full_body_armor_chance="14.29"/>
+			<enchant level="11" base_chance="11.12" full_body_armor_chance="12.5"/>
+			<enchant level="12" base_chance="10.0" full_body_armor_chance="11.12"/>
+			<enchant level="13" base_chance="9.10" full_body_armor_chance="10.0"/>
+			<enchant level="14" base_chance="8.34" full_body_armor_chance="9.10"/>
+			<enchant level="15" base_chance="7.70" full_body_armor_chance="8.34" success_visual_effect="true"/>
+			<enchant level="16" base_chance="7.15" full_body_armor_chance="7.70"/>
+			<enchant level="17" base_chance="6.67" full_body_armor_chance="7.15"/>
+			<enchant level="18" base_chance="6.25" full_body_armor_chance="6.67"/>
+			<enchant level="19" base_chance="5.89" full_body_armor_chance="6.25"/>
+			<enchant level="20" base_chance="5.56" full_body_armor_chance="5.89"/>
+			<enchant level="21-128" base_chance="0" full_body_armor_chance="0"/>
+		</variation>
+		<variation id="3"><!--ancient_weapon_scroll-->
+			<enchant level="1-3" base_chance="100.0" magic_weapon_chance="100.0"/>
+			<enchant level="4-6" base_chance="80.0" magic_weapon_chance="60.0"/>
+			<enchant level="7" base_chance="80.0" magic_weapon_chance="60.0" success_visual_effect="true"/>
+			<enchant level="8-14" base_chance="80.0" magic_weapon_chance="60.0"/>
+			<enchant level="15" base_chance="80.0" magic_weapon_chance="60.0" success_visual_effect="true"/>
+			<enchant level="16-128" base_chance="45.0" magic_weapon_chance="40.0"/>
+		</variation>
+		<variation id="4"><!--ancient_armor_scroll-->
+			<enchant level="1-3" base_chance="100.0"/>
+			<enchant level="4" base_chance="76.67" full_body_armor_chance="100.0"/>
+			<enchant level="5" base_chance="43.34" full_body_armor_chance="76.67"/>
+			<enchant level="6" base_chance="35.0" full_body_armor_chance="43.34" success_visual_effect="true"/>
+			<enchant level="7" base_chance="30.0" full_body_armor_chance="35.0"/>
+			<enchant level="8" base_chance="26.67" full_body_armor_chance="30.0"/>
+			<enchant level="9" base_chance="24.29" full_body_armor_chance="26.67"/>
+			<enchant level="10" base_chance="22.5" full_body_armor_chance="24.29"/>
+			<enchant level="11" base_chance="21.12" full_body_armor_chance="22.5"/>
+			<enchant level="12" base_chance="20.0" full_body_armor_chance="21.12"/>
+			<enchant level="13" base_chance="19.10" full_body_armor_chance="20.0"/>
+			<enchant level="14" base_chance="18.34" full_body_armor_chance="19.10"/>
+			<enchant level="15" base_chance="17.70" full_body_armor_chance="18.34" success_visual_effect="true"/>
+			<enchant level="16" base_chance="17.15" full_body_armor_chance="17.70"/>
+			<enchant level="17" base_chance="16.67" full_body_armor_chance="17.15"/>
+			<enchant level="18" base_chance="16.25" full_body_armor_chance="16.67"/>
+			<enchant level="19" base_chance="15.89" full_body_armor_chance="16.25"/>
+			<enchant level="20" base_chance="15.56" full_body_armor_chance="15.89"/>
+			<enchant level="21-128" base_chance="0" full_body_armor_chance="0"/>
+		</variation>
+		<variation id="5"><!--divine_weapon_scroll-->
+			<enchant level="1-6" base_chance="100.0"/>
+			<enchant level="7-13" base_chance="100.0" success_visual_effect="true"/>
+			<enchant level="14" base_chance="100.0"/>
+			<enchant level="15" base_chance="100.0" success_visual_effect="true"/>
+			<enchant level="16" base_chance="100.0"/>
+		</variation>
+		<variation id="6"><!--divine_armor_scroll-->
+			<enchant level="1-5" base_chance="100.0"/>
+			<enchant level="6-13" base_chance="100.0" success_visual_effect="true"/>
+			<enchant level="14" base_chance="100.0"/>
+			<enchant level="15" base_chance="100.0" success_visual_effect="true"/>
+			<enchant level="16" base_chance="100.0"/>
+		</variation>
+		<variation id="7"><!--master_yogi_scroll-->
+			<enchant level="1-3" base_chance="100.0"/>
+			<enchant level="4" base_chance="66.0" success_visual_effect="true"/>
+		</variation>
+		<variation id="8"><!--hair_accessory_scroll-->
+			<enchant level="1-3" base_chance="100.0"/>
+			<enchant level="4-5" base_chance="76.0"/>
+			<enchant level="6" base_chance="76.0" success_visual_effect="true"/>
+			<enchant level="7-14" base_chance="76.0"/>
+			<enchant level="15" base_chance="76.0" success_visual_effect="true"/>
+			<enchant level="16" base_chance="76.0"/>
+		</variation>
+		<variation id="9"><!--shillen__scroll-->
+			<enchant level="1-3" base_chance="100.0"/>
+			<enchant level="4" base_chance="40.0" success_visual_effect="true"/>
+			<enchant level="5" base_chance="25.0" success_visual_effect="true"/>
+		</variation>
+		<variation id="10"><!--плащ-->
+			<enchant level="1-3" base_chance="100.0"/>
+			<enchant level="4-5" base_chance="76.0"/>
+			<enchant level="6" base_chance="76.0" success_visual_effect="true"/>
+			<enchant level="7-14" base_chance="50.0"/>
+			<enchant level="15" base_chance="45.0" success_visual_effect="true"/>
+			<enchant level="16" base_chance="40.0"/>
+		</variation>
+		<variation id="11"><!--плащ увеличеный шанс 10%-->
+			<enchant level="1-3" base_chance="100.0"/>
+			<enchant level="4-5" base_chance="86.0"/>
+			<enchant level="6" base_chance="86.0" success_visual_effect="true"/>
+			<enchant level="7-14" base_chance="60.0"/>
+			<enchant level="15" base_chance="55.0" success_visual_effect="true"/>
+			<enchant level="16" base_chance="50.0"/>
+		</variation>
+	</chance_variations>
+
+	<!--Стандартные настройки для енчанта, -1 в макс , означает нелимитирова-->
+	<default max_enchant="20" show_fail_effect="false"/>
+
+	<!--Common Enchant Scrolls-->
+	<!--Scroll: Enchant Weapon (D-Grade)-->
+	<enchant_scroll id="955" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="D"/>
+
+	<!--Scroll: Enchant Armor (D-Grade)-->
+	<enchant_scroll id="956" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="D"/>
+
+	<!--Scroll: Enchant Weapon (C-Grade)-->
+	<enchant_scroll id="951" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="C"/>
+
+	<!--Scroll: Enchant Armor (C-Grade)-->
+	<enchant_scroll id="952" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="C"/>
+
+	<!--Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="947" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="B"/>
+
+	<!--Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="948" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="B"/>
+
+	<!--Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="729" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="A"/>
+
+	<!--Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="730" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="A"/>
+
+	<!--Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="959" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="S;S80;S84"/>
+
+	<!--Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="960" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="S;S80;S84"/>
+
+	<!--Scroll: Enchant Weapon (D-Grade)-->
+	<enchant_scroll id="22344" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="D"/>
+
+	<!--Scroll: Enchant Armor (D-Grade)-->
+	<enchant_scroll id="22345" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="D"/>
+
+	<!--Scroll: Enchant Weapon (C-Grade)-->
+	<enchant_scroll id="22342" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="C"/>
+
+	<!--Scroll: Enchant Armor (C-Grade)-->
+	<enchant_scroll id="22343" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="C"/>
+
+	<!--Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="22321" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="B"/>
+
+	<!--Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="22323" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="B"/>
+
+	<!--Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="22320" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="A"/>
+
+	<!--Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="22322" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="A"/>
+
+	<!--Crystal Enchant Scrolls-->
+	<!--Crystal Scroll: Enchant Weapon (D-Grade)-->
+	<enchant_scroll id="957" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="D"/>
+
+	<!--Crystal Scroll: Enchant Armor (D-Grade)-->
+	<enchant_scroll id="958" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="D"/>
+
+	<!--Crystal Scroll: Enchant Weapon (C-Grade)-->
+	<enchant_scroll id="953" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="C"/>
+
+	<!--Crystal Scroll: Enchant Armor (C-Grade)-->
+	<enchant_scroll id="954" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="C"/>
+
+	<!--Crystal Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="949" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="B"/>
+
+	<!--Crystal Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="950" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="B"/>
+
+	<!--Crystal Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="731" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="A"/>
+
+	<!--Crystal Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="732" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="A"/>
+
+	<!--Crystal Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="961" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="S;S80;S84"/>
+
+	<!--Crystal Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="962" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="S;S80;S84"/>
+
+	<!--Blessed Enchant Scrolls-->
+	<!--Blessed Scroll: Enchant Weapon (D-Grade)-->
+	<enchant_scroll id="6575" on_fail="DROP_ENCHANT" type="WEAPON" variation="1" grade="D"/>
+
+	<!--Blessed Scroll: Enchant Armor (D-Grade)-->
+	<enchant_scroll id="6576" on_fail="DROP_ENCHANT" type="ARMOR" variation="2" grade="D"/>
+
+	<!--Blessed Scroll: Enchant Weapon (C-Grade)-->
+	<enchant_scroll id="6573" on_fail="DROP_ENCHANT" type="WEAPON" variation="1" grade="C"/>
+
+	<!--Blessed Scroll: Enchant Armor (C-Grade)-->
+	<enchant_scroll id="6574" on_fail="DROP_ENCHANT" type="ARMOR" variation="2" grade="C"/>
+
+	<!--Blessed Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="6571" on_fail="DROP_ENCHANT" type="WEAPON" variation="1" grade="B"/>
+
+	<!--Blessed Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="6572" on_fail="DROP_ENCHANT" type="ARMOR" variation="2" grade="B"/>
+
+	<!--Blessed Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="6569" on_fail="DROP_ENCHANT" type="WEAPON" variation="1" grade="A"/>
+
+	<!--Blessed Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="6570" on_fail="DROP_ENCHANT" type="ARMOR" variation="2" grade="A"/>
+
+	<!--Blessed Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="6577" on_fail="DROP_ENCHANT" type="WEAPON" variation="1" grade="S;S80;S84"/>
+
+	<!--Blessed Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="6578" on_fail="DROP_ENCHANT" type="ARMOR" variation="2" grade="S;S80;S84"/>
+
+	<!--Blessed Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="22317" on_fail="DROP_ENCHANT" type="WEAPON" variation="1" grade="B"/>
+
+	<!--Blessed Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="22319" on_fail="DROP_ENCHANT" type="ARMOR" variation="2" grade="B"/>
+
+	<!--Blessed Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="22316" on_fail="DROP_ENCHANT" type="WEAPON" variation="1" grade="A"/>
+
+	<!--Blessed Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="22318" on_fail="DROP_ENCHANT" type="ARMOR" variation="2" grade="A"/>
+
+	<!--Blessed Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="22314" on_fail="DROP_ENCHANT" type="WEAPON" variation="1" grade="S;S80;S84"/>
+
+	<!--Blessed Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="22315" on_fail="DROP_ENCHANT" type="ARMOR" variation="2" grade="S;S80;S84"/>
+
+	<!--Item-Mall Enchant Scrolls-->
+	<!--Scroll: Enchant Weapon (D-Grade)-->
+	<enchant_scroll id="22006" on_fail="CRYSTALS" type="WEAPON" variation="3" grade="D"/>
+
+	<!--Scroll: Enchant Armor (D-Grade)-->
+	<enchant_scroll id="22010" on_fail="CRYSTALS" type="ARMOR" variation="4" grade="D"/>
+
+	<!--Scroll: Enchant Weapon (C-Grade)-->
+	<enchant_scroll id="22007" on_fail="CRYSTALS" type="WEAPON" variation="3" grade="C"/>
+
+	<!--Scroll: Enchant Armor (C-Grade)-->
+	<enchant_scroll id="22011" on_fail="CRYSTALS" type="ARMOR" variation="4" grade="C"/>
+
+	<!--Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="22008" on_fail="CRYSTALS" type="WEAPON" variation="3" grade="B"/>
+
+	<!--Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="22012" on_fail="CRYSTALS" type="ARMOR" variation="4" grade="B"/>
+
+	<!--Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="22009" on_fail="CRYSTALS" type="WEAPON" variation="3" grade="A"/>
+
+	<!--Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="22013" on_fail="CRYSTALS" type="ARMOR" variation="4" grade="A"/>
+
+	<!--Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="20517" on_fail="CRYSTALS" type="WEAPON" variation="3" grade="S;S80;S84"/>
+
+	<!--Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="20518" on_fail="CRYSTALS" type="ARMOR" variation="4" grade="S;S80;S84"/>
+
+	<!--Ancient Enchant Scrolls-->
+	<!--Ancient Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="22014" on_fail="NOTHING" type="WEAPON" variation="3" grade="B" max_enchant="16"/>
+
+	<!--Ancient Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="22016" on_fail="NOTHING" type="ARMOR" variation="4" grade="B" max_enchant="16"/>
+
+	<!--Ancient Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="22015" on_fail="NOTHING" type="WEAPON" variation="3" grade="A" max_enchant="16"/>
+
+	<!--Ancient Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="22017" on_fail="NOTHING" type="ARMOR" variation="4" grade="A" max_enchant="16"/>
+
+	<!--Ancient Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="20519" on_fail="NOTHING" type="WEAPON" variation="3" grade="S;S80;S84" max_enchant="16"/>
+
+	<!--Ancient Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="20520" on_fail="NOTHING" type="ARMOR" variation="4" grade="S;S80;S84" max_enchant="16"/>
+
+	<!--Divine Enchant Scrolls-->
+	<!--Divine Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="22018" on_fail="NOTHING" type="WEAPON" variation="5" grade="B"/>
+
+	<!--Divine Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="22020" on_fail="NOTHING" type="ARMOR" variation="6" grade="B"/>
+
+	<!--Divine Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="22019" on_fail="NOTHING" type="WEAPON" variation="5" grade="A"/>
+
+	<!--Divine Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="22021" on_fail="NOTHING" type="ARMOR" variation="6" grade="A"/>
+
+	<!--Divine Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="20521" on_fail="NOTHING" type="WEAPON" variation="5" grade="S;S80;S84"/>
+
+	<!--Divine Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="20522" on_fail="NOTHING" type="ARMOR" variation="6" grade="S;S80;S84"/>
+
+	<!--Enchant Scrolls of Destruction-->
+	<!--Scroll: Enchant Weapon of Destruction (D-Grade)-->
+	<enchant_scroll id="22229" on_fail="NOTHING" type="WEAPON" variation="1" grade="D" max_enchant="15"/>
+
+	<!--Scroll: Enchant Armor of Destruction (D-Grade)-->
+	<enchant_scroll id="22230" on_fail="NOTHING" type="ARMOR" variation="2" grade="D" max_enchant="6"/>
+
+	<!--Scroll: Enchant Weapon of Destruction (C-Grade)-->
+	<enchant_scroll id="22227" on_fail="NOTHING" type="WEAPON" variation="1" grade="C" max_enchant="15"/>
+
+	<!--Scroll: Enchant Armor of Destruction (C-Grade)-->
+	<enchant_scroll id="22228" on_fail="NOTHING" type="ARMOR" variation="2" grade="C" max_enchant="6"/>
+
+	<!--Scroll: Enchant Weapon of Destruction (B-Grade)-->
+	<enchant_scroll id="22225" on_fail="NOTHING" type="WEAPON" variation="1" grade="B" max_enchant="15"/>
+
+	<!--Scroll: Enchant Armor of Destruction (B-Grade)-->
+	<enchant_scroll id="22226" on_fail="NOTHING" type="ARMOR" variation="2" grade="B" max_enchant="6"/>
+
+	<!--Scroll: Enchant Weapon of Destruction (A-Grade)-->
+	<enchant_scroll id="22223" on_fail="NOTHING" type="WEAPON" variation="1" grade="A" max_enchant="15"/>
+
+	<!--Scroll: Enchant Armor of Destruction (A-Grade)-->
+	<enchant_scroll id="22224" on_fail="NOTHING" type="ARMOR" variation="2" grade="A" max_enchant="6"/>
+
+	<!--Scroll: Enchant Weapon of Destruction (S-Grade)-->
+	<enchant_scroll id="22221" on_fail="NOTHING" type="WEAPON" variation="1" grade="S;S80;S84" max_enchant="15"/>
+
+	<!--Scroll: Enchant Armor of Destruction (S-Grade)-->
+	<enchant_scroll id="22222" on_fail="NOTHING" type="ARMOR" variation="2" grade="S;S80;S84" max_enchant="6"/>
+
+	<!--Special Enchant Scrolls-->
+	<!--Master Yogi's Scroll: Enchant Weapon-->
+	<enchant_scroll id="13540" on_fail="CRYSTALS" variation="7" max_enchant="28" show_fail_effect="true">
+		<item_list>
+			<item id="13539"/>  <!--Staff of Master Yogi-->
+		</item_list>
+	</enchant_scroll>
+
+	<!--Olf's T-shirt Enchant Scroll-->
+	<enchant_scroll id="21581" on_fail="CRYSTALS" variation="2" max_enchant="10">
+		<item_list>
+			<item id="21580"/> <!--Olf's T-shirt-->
+			<item id="21706"/> <!--Olf's T-shirt-->
+		</item_list>
+	</enchant_scroll>
+
+	<!--Blessed Olf's T-shirt Enchant Scroll-->
+	<enchant_scroll id="21582" on_fail="DROP_ENCHANT" variation="2" max_enchant="10">
+		<item_list>
+			<item id="21580"/> <!--Olf's T-shirt-->
+			<item id="21706"/> <!--Olf's T-shirt-->
+		</item_list>
+	</enchant_scroll>
+
+	<!--Blessed Olf's T-shirt Enchant Scroll Evemt-->
+	<enchant_scroll id="21707" on_fail="DROP_ENCHANT" variation="2" max_enchant="10">
+		<item_list>
+			<item id="21580"/> <!--Olf's T-shirt-->
+			<item id="21706"/> <!--Olf's T-shirt-->
+		</item_list>
+	</enchant_scroll>
+
+	<!--Event - Herdsman's Love Scroll-->
+	<enchant_scroll id="15381" on_fail="CRYSTALS" variation="2" max_enchant="50">
+		<item_list>
+			<item id="15383"/> <!--Weaver's Multi-colored Clothes 7 day-->
+			<item id="15384"/> <!--Weaver's Multi-colored Clothes 30 day-->
+			<item id="15385"/> <!--Weaver's Multi-colored Clothes 60 day-->
+			<item id="15386"/> <!--Weaver's Multi-colored Clothes 90 day-->
+			<item id="15387"/> <!--Weaver's Multi-colored Clothes Permanent-->
+			<item id="15388"/> <!--Weaver's Multi-colored Clothes (Event) 7 day-->
+			<item id="15389"/> <!--Weaver's Multi-colored Clothes (Event) 30 day-->
+			<item id="15390"/> <!--Weaver's Multi-colored Clothes (Event) 60 day-->
+			<item id="15391"/> <!--Weaver's Multi-colored Clothes (Event) 90 day-->
+			<item id="15392"/> <!--Weaver's Multi-colored Clothes (Event) Permanent-->
+		</item_list>
+	</enchant_scroll>
+
+	<!-- event enchant scrolls -->
+	<!-- Event-Blessed Enchant Scrolls-->
+	<!--Blessed Scroll: Enchant Weapon (D-Grade)-->
+	<enchant_scroll id="17262" on_fail="DROP_ENCHANT" type="WEAPON" variation="1" grade="D"/>
+
+	<!--Blessed Scroll: Enchant Armor (D-Grade)-->
+	<enchant_scroll id="17261" on_fail="DROP_ENCHANT" type="ARMOR" variation="2" grade="D"/>
+
+	<!--Blessed Scroll: Enchant Weapon (C-Grade)-->
+	<enchant_scroll id="17259" on_fail="DROP_ENCHANT" type="WEAPON" variation="1" grade="C"/>
+
+	<!--Blessed Scroll: Enchant Armor (C-Grade)-->
+	<enchant_scroll id="17260" on_fail="DROP_ENCHANT" type="ARMOR" variation="2" grade="C"/>
+
+	<!--Blessed Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="17257" on_fail="DROP_ENCHANT" type="WEAPON" variation="1" grade="B"/>
+
+	<!--Blessed Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="17258" on_fail="DROP_ENCHANT" type="ARMOR" variation="2" grade="B"/>
+
+	<!--Blessed Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="17255" on_fail="DROP_ENCHANT" type="WEAPON" variation="1" grade="A"/>
+
+	<!--Blessed Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="17256" on_fail="DROP_ENCHANT" type="ARMOR" variation="2" grade="A"/>
+
+	<!--Blessed Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="17263" on_fail="DROP_ENCHANT" type="WEAPON" variation="1" grade="S;S80;S84"/>
+
+	<!--Blessed Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="17264" on_fail="DROP_ENCHANT" type="ARMOR" variation="2" grade="S;S80;S84"/>
+
+	<!-- Agathion Auxiliary Stone-->
+	<!--Scroll: Enchant Weapon (D-Grade)-->
+	<enchant_scroll id="14702" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="D"/>
+
+	<!--Scroll: Enchant Armor (D-Grade)-->
+	<enchant_scroll id="14707" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="D"/>
+
+	<!--Scroll: Enchant Weapon (C-Grade)-->
+	<enchant_scroll id="14703" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="C"/>
+
+	<!--Scroll: Enchant Armor (C-Grade)-->
+	<enchant_scroll id="14708" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="C"/>
+
+	<!--Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="14704" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="B"/>
+
+	<!--Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="14709" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="B"/>
+
+	<!--Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="14705" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="A"/>
+
+	<!--Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="14710" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="A"/>
+
+	<!--Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="14706" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="S;S80;S84"/>
+
+	<!--Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="14711" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="S;S80;S84"/>
+
+	<!-- Event common enchant scrolls -->
+	<!-- Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="22307" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="A"/>
+
+	<!-- Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="22309" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="A"/>
+
+	<!-- Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="22306" on_fail="CRYSTALS" type="WEAPON" variation="1" grade="S;S80;S84"/>
+
+	<!-- Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="22308" on_fail="CRYSTALS" type="ARMOR" variation="2" grade="S;S80;S84"/>
+</list>

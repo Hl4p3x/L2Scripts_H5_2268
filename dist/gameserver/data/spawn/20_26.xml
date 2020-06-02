@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+
+<list>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="14952" y="282824" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="15432" y="283464" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="15416" y="283880" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="14968" y="283832" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="14696" y="283496" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="14728" y="282968" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="14392" y="282968" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13928" y="282504" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13928" y="283192" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13928" y="283512" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13928" y="283928" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13720" y="282808" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13448" y="283352" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13464" y="283784" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13000" y="282664" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="12776" y="282680" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="12760" y="283288" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="12744" y="283800" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="12984" y="281688" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="12952" y="281480" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13496" y="281240" z="-9704" h="0" />
+		<npc id="22369" /><!--Labyrinth Seer-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="14344" y="281480" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="13288" y="281032" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13864" y="281016" z="-9704" h="0" />
+		<npc id="22369" /><!--Labyrinth Seer-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13615" y="280525" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="12744" y="280328" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="12840" y="280760" z="-9704" h="0" />
+		<npc id="22369" /><!--Labyrinth Seer-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="14680" y="281016" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="15208" y="281112" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="14968" y="280680" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="15448" y="281496" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="15432" y="281000" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="14712" y="280312" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13288" y="280520" z="-9696" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13608" y="280536" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="12728" y="279688" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13064" y="279976" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13496" y="279688" z="-9704" h="0" />
+		<npc id="22369" /><!--Labyrinth Seer-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="13128" y="279432" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="12728" y="279416" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="12744" y="279176" z="-9704" h="0" />
+		<npc id="22369" /><!--Labyrinth Seer-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13128" y="279192" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="13016" y="278744" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13640" y="278520" z="-9704" h="0" />
+		<npc id="22369" /><!--Labyrinth Seer-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="13816" y="278312" z="-9696" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="12792" y="278504" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="12824" y="278264" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13592" y="278296" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13800" y="278504" z="-9704" h="0" />
+		<npc id="22369" /><!--Labyrinth Seer-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="12808" y="278056" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="14136" y="277592" z="-9704" h="0" />
+		<npc id="22369" /><!--Labyrinth Seer-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="13448" y="277496" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13448" y="277336" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13528" y="277128" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="13336" y="276648" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13144" y="276696" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="13048" y="276920" z="-9704" h="0" />
+		<npc id="22369" /><!--Labyrinth Seer-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="14024" y="276888" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="15080" y="276792" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="15496" y="276792" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="15896" y="276792" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="16296" y="276808" z="-9704" h="0" />
+		<npc id="22369" /><!--Labyrinth Seer-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="16712" y="276808" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="17112" y="276808" z="-9704" h="0" />
+		<npc id="22369" /><!--Labyrinth Seer-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="17464" y="276808" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="17880" y="276808" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="18600" y="276888" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="18232" y="277384" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="19048" y="276888" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="19848" y="277000" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="18504" y="277816" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="19912" y="276648" z="-9704" h="0" />
+		<npc id="22369" /><!--Labyrinth Seer-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="19512" y="276888" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="19480" y="277112" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="19112" y="277320" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="19688" y="277816" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="18712" y="278248" z="-9704" h="0" />
+		<npc id="22369" /><!--Labyrinth Seer-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="19128" y="278488" z="-9696" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="18808" y="278488" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="19848" y="278728" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="19848" y="278968" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="18888" y="279176" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="19848" y="279416" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="19160" y="279672" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="18264" y="279976" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="19864" y="279944" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="19368" y="280312" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="18776" y="280536" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="19896" y="281144" z="-9704" h="0" />
+		<npc id="22368" /><!--Labyrinth Captain-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="19896" y="280824" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="18008" y="281000" z="-9704" h="0" />
+		<npc id="22369" /><!--Labyrinth Seer-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="18648" y="281240" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="19864" y="281528" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="17848" y="281448" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="17384" y="281160" z="-9704" h="0" />
+		<npc id="22367" /><!--Labyrinth Mystic-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="17224" y="280520" z="-9704" h="0" />
+		<npc id="22365" /><!--Labyrinth Watchman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="16296" y="277752" z="-9688" h="0" />
+		<npc id="32301" /><!--Kendal-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="13272" y="282040" z="-7544" h="32768" />
+		<npc id="32302" /><!--Jerian-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="17944" y="283192" z="-9696" h="0" />
+		<npc id="32373" /><!--Dorian-->
+	</spawn>
+	<spawn count="2" respawn="300" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="15720" y="282424" zmin="-9704" zmax="-9604" />
+			<add x="15704" y="280216" zmin="-9704" zmax="-9604" />
+			<add x="16872" y="280232" zmin="-9704" zmax="-9604" />
+			<add x="16840" y="282408" zmin="-9704" zmax="-9604" />
+		</territory>
+		<npc id="22363" /><!--Body Destroyer-->
+	</spawn>
+	<spawn count="1" respawn="1800" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14808" y="277240" zmin="-9704" zmax="-9604" />
+			<add x="14808" y="278968" zmin="-9704" zmax="-9604" />
+			<add x="17816" y="279000" zmin="-9704" zmax="-9604" />
+			<add x="17816" y="277272" zmin="-9704" zmax="-9604" />
+		</territory>
+		<npc id="22362" /><!--Guzen-->
+	</spawn>
+	<spawn count="4" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="19864" y="276456" zmin="-7552" zmax="-7452" />
+			<add x="19640" y="276456" zmin="-7552" zmax="-7452" />
+			<add x="19640" y="280616" zmin="-7552" zmax="-7452" />
+			<add x="19864" y="280616" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22370" /><!--Passageway Captain-->
+	</spawn>
+	<spawn count="4" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="19400" y="280632" zmin="-7552" zmax="-7452" />
+			<add x="19176" y="280616" zmin="-7552" zmax="-7452" />
+			<add x="19176" y="276456" zmin="-7552" zmax="-7452" />
+			<add x="19400" y="276440" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22370" /><!--Passageway Captain-->
+	</spawn>
+	<spawn count="4" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="18920" y="276456" zmin="-7552" zmax="-7452" />
+			<add x="18696" y="276440" zmin="-7552" zmax="-7452" />
+			<add x="18696" y="280632" zmin="-7552" zmax="-7452" />
+			<add x="18920" y="280616" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22370" /><!--Passageway Captain-->
+	</spawn>
+	<spawn count="4" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="18456" y="280632" zmin="-7552" zmax="-7452" />
+			<add x="18232" y="280616" zmin="-7552" zmax="-7452" />
+			<add x="18232" y="276440" zmin="-7552" zmax="-7452" />
+			<add x="18456" y="276440" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22370" /><!--Passageway Captain-->
+	</spawn>
+	<spawn count="3" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="17352" y="276216" zmin="-7552" zmax="-7452" />
+			<add x="15464" y="276216" zmin="-7552" zmax="-7452" />
+			<add x="15208" y="276520" zmin="-7552" zmax="-7452" />
+			<add x="15224" y="278328" zmin="-7552" zmax="-7452" />
+			<add x="17000" y="278344" zmin="-7552" zmax="-7452" />
+			<add x="17320" y="278040" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22370" /><!--Passageway Captain-->
+	</spawn>
+	<spawn count="3" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="17352" y="276216" zmin="-7552" zmax="-7452" />
+			<add x="15464" y="276216" zmin="-7552" zmax="-7452" />
+			<add x="15208" y="276520" zmin="-7552" zmax="-7452" />
+			<add x="15224" y="278328" zmin="-7552" zmax="-7452" />
+			<add x="17000" y="278344" zmin="-7552" zmax="-7452" />
+			<add x="17320" y="278040" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22372" /><!--Passageway Mystic-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14968" y="278104" zmin="-7552" zmax="-7452" />
+			<add x="14712" y="278088" zmin="-7552" zmax="-7452" />
+			<add x="14712" y="276920" zmin="-7552" zmax="-7452" />
+			<add x="14968" y="276920" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22370" /><!--Passageway Captain-->
+	</spawn>
+	<spawn count="2" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14968" y="278104" zmin="-7552" zmax="-7452" />
+			<add x="14712" y="278088" zmin="-7552" zmax="-7452" />
+			<add x="14712" y="276920" zmin="-7552" zmax="-7452" />
+			<add x="14968" y="276920" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22372" /><!--Passageway Mystic-->
+	</spawn>
+	<spawn count="2" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14920" y="276680" zmin="-7552" zmax="-7452" />
+			<add x="14920" y="276472" zmin="-7552" zmax="-7452" />
+			<add x="12712" y="276488" zmin="-7552" zmax="-7452" />
+			<add x="12712" y="276712" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22370" /><!--Passageway Captain-->
+	</spawn>
+	<spawn count="2" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="12632" y="276952" zmin="-7552" zmax="-7452" />
+			<add x="12760" y="277896" zmin="-7552" zmax="-7452" />
+			<add x="14456" y="277960" zmin="-7552" zmax="-7452" />
+			<add x="14360" y="276936" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22370" /><!--Passageway Captain-->
+	</spawn>
+	<spawn count="2" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="12632" y="276952" zmin="-7552" zmax="-7452" />
+			<add x="12760" y="277896" zmin="-7552" zmax="-7452" />
+			<add x="14456" y="277960" zmin="-7552" zmax="-7452" />
+			<add x="14360" y="276936" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22372" /><!--Passageway Mystic-->
+	</spawn>
+	<spawn count="2" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14456" y="278728" zmin="-7552" zmax="-7452" />
+			<add x="12648" y="278840" zmin="-7552" zmax="-7452" />
+			<add x="12648" y="279752" zmin="-7552" zmax="-7452" />
+			<add x="14456" y="279640" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22370" /><!--Passageway Captain-->
+	</spawn>
+	<spawn count="2" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14456" y="278728" zmin="-7552" zmax="-7452" />
+			<add x="12648" y="278840" zmin="-7552" zmax="-7452" />
+			<add x="12648" y="279752" zmin="-7552" zmax="-7452" />
+			<add x="14456" y="279640" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22372" /><!--Passageway Mystic-->
+	</spawn>
+	<spawn count="2" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="12664" y="279912" zmin="-7552" zmax="-7452" />
+			<add x="12664" y="280920" zmin="-7552" zmax="-7452" />
+			<add x="14440" y="280920" zmin="-7552" zmax="-7452" />
+			<add x="14440" y="279912" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22370" /><!--Passageway Captain-->
+	</spawn>
+	<spawn count="2" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="12664" y="279912" zmin="-7552" zmax="-7452" />
+			<add x="12664" y="280920" zmin="-7552" zmax="-7452" />
+			<add x="14440" y="280920" zmin="-7552" zmax="-7452" />
+			<add x="14440" y="279912" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22372" /><!--Passageway Mystic-->
+	</spawn>
+	<spawn count="2" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="17640" y="283880" zmin="-7552" zmax="-7452" />
+			<add x="17656" y="282632" zmin="-7552" zmax="-7452" />
+			<add x="17080" y="282632" zmin="-7552" zmax="-7452" />
+			<add x="17096" y="283864" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22370" /><!--Passageway Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="17640" y="283880" zmin="-7552" zmax="-7452" />
+			<add x="17656" y="282632" zmin="-7552" zmax="-7452" />
+			<add x="17080" y="282632" zmin="-7552" zmax="-7452" />
+			<add x="17096" y="283864" zmin="-7552" zmax="-7452" />
+		</territory>
+		<npc id="22372" /><!--Passageway Mystic-->
+	</spawn>
+</list>

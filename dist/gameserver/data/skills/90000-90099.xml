@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="90001" levels="1" name="Mana potion">
+		<set name="icon" value="" />
+		<set name="displayId" value="2005" />
+		<set name="itemConsumeId" value="728" />
+		<set name="itemConsumeCount" value="1" />
+		<set name="isHandler" value="true" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="MANAHEAL" />
+		<set name="power" value="2000" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="altUse" value="true" />
+	</skill>
+</list>

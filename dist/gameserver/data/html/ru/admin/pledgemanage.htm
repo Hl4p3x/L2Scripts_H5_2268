@@ -1,0 +1,31 @@
+<html><title>Кланы</title><body>
+<table width=260>
+<tr>
+<td width=40><button value="Главная" action="bypass -h admin_admin" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td width=180><center>Управление Кланами</center></td>
+<td width=40><button value="Назад" action="bypass -h admin_admin" width=40 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+</table><br><br>
+<center>
+<table width=270>
+<tr><td><center>Команда: <edit var="command" width=150 height=11></center></td></tr>
+</table>
+<br><br>
+</center>
+<center>
+<table>
+<tr>
+<td>
+<center>
+<button value="Создать Клан(arg:name|target:leader)" action="bypass -h admin_pledge create $command" width=280 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Уровень(arg:level|target:any member)" action="bypass -h admin_pledge setlevel $command" width=280 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Уровень(arg:name|target:any member)" action="bypass -h admin_pledge setleader $command" width=280 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Обнулить Клан Пенальти(target:any member)" action="bypass -h admin_pledge resetcreate" width=280 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Обнулить Пенальти Выхода(target:anyone)" action="bypass -h admin_pledge resetwait" width=280 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Добавить Репутацию(target:any member)" action="bypass -h admin_pledge addrep $command" width=280 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+</center>
+</td>
+</tr>
+</table>
+</center>
+</body></html>

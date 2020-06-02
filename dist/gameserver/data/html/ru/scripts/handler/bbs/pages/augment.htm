@@ -1,0 +1,166 @@
+<!--AUTHOR: Bonux-->
+<html><body><title>Аугментация</title><center>
+<br>
+<table width=750 background="L2UI_CT1.Tab_DF_bg" border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td align=center>
+	<table width=737 border=0 cellpadding=0 cellspacing=0>
+		<tr>
+			<td width=93 align=center><button value="Главная" action="bypass _bbspage:index" width=93 height=23 back="L2UI_CT1.Tab_DF_Tab_Unselected_Over" fore="L2UI_CT1.Tab_DF_Tab_Unselected"></td>
+			<td width=93 align=center><button value="Статистика" action="bypass _cbbsstatistic_pk" width=93 height=23 back="L2UI_CT1.Tab_DF_Tab_Unselected_Over" fore="L2UI_CT1.Tab_DF_Tab_Unselected"></td>
+			<td width=92 align=center background="L2UI_CT1.Tab_DF_Tab_Selected"><font color=DDD3B6>Магазин</font></td>
+			<td width=93 align=center><button value="Баффы" action="bypass _cbbsbuffer 0" width=93 height=23 back="L2UI_CT1.Tab_DF_Tab_Unselected_Over" fore="L2UI_CT1.Tab_DF_Tab_Unselected"></td>
+			<td width=93 align=center><button value="Телепорт" action="bypass _cbbsteleport" width=93 height=23 back="L2UI_CT1.Tab_DF_Tab_Unselected_Over" fore="L2UI_CT1.Tab_DF_Tab_Unselected"></td>
+			<td width=93 align=center><button value="Карьера" action="bypass _bbspage:career" width=93 height=23 back="L2UI_CT1.Tab_DF_Tab_Unselected_Over" fore="L2UI_CT1.Tab_DF_Tab_Unselected"></td>
+			<td width=93 align=center><button value="Сервисы" action="bypass _bbspage:services" width=93 height=23 back="L2UI_CT1.Tab_DF_Tab_Unselected_Over" fore="L2UI_CT1.Tab_DF_Tab_Unselected"></td>
+			<td width=93 align=center><button value="Кабинет" action="bypass _cbbsservices_cabinet" width=93 height=23 back="L2UI_CT1.Tab_DF_Tab_Unselected_Over" fore="L2UI_CT1.Tab_DF_Tab_Unselected"></td>
+		</tr>
+	</table>
+	<table width=750 border=0 cellpadding=0 cellspacing=0>
+		<tr>
+			<td align=center>&nbsp;</td>
+		</tr>
+		<tr>
+			<td align=center>
+				<table width=700 background="L2UI_CT1.Windows_DF_Drawer_Bg" border=0 cellpadding=0 cellspacing=0>
+					<tr>
+						<td height=40 width=15></td>
+						<td width=385>
+							<font color=DDD3B6>&nbsp;&nbsp;&nbsp;<a action="bypass _bbspage:shop">Магазин</a>&nbsp;->&nbsp;Аугментация</font>
+						</td>
+						<td align=right width=300><font color=DDD3B6>Текущий онлайн: <?total_online?></font></td>
+						<td height=40 width=25></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td align=center>
+				<table width=750 height=375 border=0 cellpadding=0 cellspacing=0>
+					<tr>
+						<td valign="top" align="center">
+							<br><br><?content?>
+							<!--TEMPLATE100
+								<?sub_content?>
+								<table width=720 background="L2UI_CH3.refinewnd_back_Pattern">
+									<tr>
+										<td align=center width=710 height=40>
+											<br><?pages_navigation?>
+										</td>
+									</tr>
+									<tr>
+										<td align=center width=710>
+											<?augments_table?>
+										</td>
+									</tr>
+									<tr>
+										<td align=center width=710 height=45>
+											<?pages_navigation?><br>
+										</td>
+									</tr>
+								</table>
+							TEMPLATE-->
+							<!--TEMPLATE110
+								Стоимость установки аугментации: <font color=LEVEL><?fee_item_count?> <?fee_item_name?></font><br1>
+							TEMPLATE-->
+							<!--TEMPLATE111
+								Установка аугментации производиться абсолютно <font color=LEVEL>бесплатно</font>.<br1>
+							TEMPLATE-->
+							<!--TEMPLATE120
+								<table border=0 cellpadding=0 cellspacing=0>
+									<tr><td width=256 height=185 background="L2UI_CT1.OlympiadWnd_DF_GrandTexture"></td></tr>
+								</table>
+								У Вас нет оружия. Для покупки аугментации <font color=LEVEL>необходимо надеть оружие</font>.<br1>
+							TEMPLATE-->
+							<!--TEMPLATE121
+								<table border=0 cellpadding=0 cellspacing=0>
+									<tr><td width=256 height=185 background="L2UI_CT1.OlympiadWnd_DF_GrandTexture"></td></tr>
+								</table>
+								Нет доступных аугментаций для вашего оружия.<br1>
+							TEMPLATE-->
+							<!--TEMPLATE122
+								<table border=0 cellpadding=0 cellspacing=0>
+									<tr><td width=256 height=185 background="L2UI_CT1.OlympiadWnd_DF_GrandTexture"></td></tr>
+								</table>
+								Данная аугментация не доступна для Вашего оружия.<br1><br>
+								<button value="Назад" action="bypass _cbbsaugment" width=100 height=30 back="L2UI_ct1.button_df_down" fore="L2UI_ct1.button_df">
+							TEMPLATE-->
+							<!--TEMPLATE123
+								<table border=0 cellpadding=0 cellspacing=0>
+									<tr><td width=256 height=185 background="L2UI_CT1.OlympiadWnd_DF_GrandTexture"></td></tr>
+								</table>
+								У Вас не хватает предметов для оплаты. Необходимо: <font color="LEVEL"><?fee_item_count?> <?fee_item_name?></font><br>
+								<button value="Назад" action="bypass _cbbsaugment" width=100 height=30 back="L2UI_ct1.button_df_down" fore="L2UI_ct1.button_df">
+							TEMPLATE-->
+							<!--TEMPLATE124
+								<table border=0 cellpadding=0 cellspacing=0>
+									<tr><td width=256 height=185 background="L2UI_CT1.OlympiadWnd_DF_GrandTexture"></td></tr>
+								</table>
+								Поздравляем! Вы успешно аугментировали Ваше оружие.
+							TEMPLATE-->
+							<!--TEMPLATE200
+								<table>
+									<tr>
+										<td width=90 align=center><?prev_button?></td>
+										<td width=80 align=center>Страница: <?current_page?></td>
+										<td width=90 align=center><?next_button?></td>
+									</tr>
+								</table>
+							TEMPLATE-->
+							<!--TEMPLATE210
+								<button value="&$543;" action="bypass _cbbsaugment_<?prev_page?>" width=80 height=25 back="L2UI_CT1.Button_DF_Small_Down" fore="L2UI_CT1.Button_DF_Small">
+							TEMPLATE-->
+							<!--TEMPLATE211
+								<button value="&$544;" action="bypass _cbbsaugment_<?next_page?>" width=80 height=25 back="L2UI_CT1.Button_DF_Small_Down" fore="L2UI_CT1.Button_DF_Small">
+							TEMPLATE-->
+							<!--TEMPLATE300
+								<table width=710 fixheight=3 bgcolor=3D3D3D><tr><td width=705 fixheight=3 align=center></td></tr></table>
+							TEMPLATE-->
+							<!--TEMPLATE310
+								<table width=710 border=0 bgcolor=000000><tr><?columns?></tr></table>
+							TEMPLATE-->
+							<!--TEMPLATE311
+								<table width=710 border=0><tr><?columns?></tr></table>
+							TEMPLATE-->
+							<!--TEMPLATE320
+								<td FIXWIDTH=230 height=40><?column1?></td><td FIXWIDTH=230 height=40><?column2?></td><td FIXWIDTH=230 height=40><?column3?></td>
+							TEMPLATE-->
+							<!--TEMPLATE330
+								<table height=40 border=0 cellpadding=0 cellspacing=0>
+									<tr>
+										<td FIXWIDTH=5>&nbsp;</td>
+										<td FIXWIDTH=35 valign=top>
+											<table background="<?skill_icon?>" width=34 height=34 border=0 cellpadding=0 cellspacing=0>
+												<tr><td align=center><button value="" action="bypass _cbbsaugment_buy_<?variation_id?>" width=34 height=34 back="L2UI_CH3.inventory_outline_over" fore="L2UI_CH3.inventory_outline"></td></tr>
+											</table>
+										<br></td>
+										<td FIXWIDTH=30><button value="$" action="bypass _cbbsaugment_buy_<?variation_id?>" width=25 height=32 back="L2UI_CT1.Button_DF_Small_Down" fore="L2UI_CT1.Button_DF_Small"></td>
+										<td FIXWIDTH=165>
+											<table width=160 border=0>
+												<tr><td width=160><font color=3399FF><?skill_name?></font></td></tr>
+												<tr><td width=160><font color=LEVEL>Уровень <?skill_level?></font></td></tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							TEMPLATE-->
+							<br>
+							<button value="В меню" action="bypass _bbspage:shop" width=100 height=30 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td align=center>
+				<img src="L2UI_CT1.Tab_DF_bg_line" width=700 height=32><br1>
+				<font color="655C4D"><?copyright?></font><br><br>
+			</td>
+		</tr>
+	</table>
+</td>
+</tr>
+</table>
+<br>
+</center>
+</body></html>

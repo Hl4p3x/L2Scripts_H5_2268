@@ -1,0 +1,1559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+<list>
+	<npc id="27400" name="Shilen's Evil Thoughts" title="">
+		<set name="type" value="Npc"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="40"/>
+		<set name="collision_radius" value="13"/>
+		<set name="level" value="51"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="1470.41596"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="6.5"/>
+		<set name="baseMpMax" value="775.8"/>
+		<set name="baseMpReg" value="2.4"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="321.13207"/>
+		<set name="basePDef" value="204.85194"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="219.29157"/>
+		<set name="baseMDef" value="149.90176"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="19"/>	<!--Others-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="5975" level="1" use_type="Skill01_ID"/>	<!--Dark Attack-->
+			<skill id="5976" level="1" use_type="Skill02_ID"/>	<!--Dark Storm-->
+		</skills>
+	</npc>
+	<npc id="27401" name="Shilen's Evil Thoughts" title="">
+		<set name="type" value="Npc"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="40"/>
+		<set name="collision_radius" value="13"/>
+		<set name="level" value="61"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="1985.55926"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1066.8"/>
+		<set name="baseMpReg" value="2.7"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="501.08068"/>
+		<set name="basePDef" value="252.49346"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="342.17315"/>
+		<set name="baseMDef" value="184.76376"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="19"/>	<!--Others-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="5975" level="1" use_type="Skill01_ID"/>	<!--Dark Attack-->
+			<skill id="5976" level="2" use_type="Skill02_ID"/>	<!--Dark Storm-->
+		</skills>
+	</npc>
+	<npc id="27402" name="Shilen's Evil Thoughts" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="27.5"/>
+		<set name="collision_radius" value="14"/>
+		<set name="level" value="79"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3127.82459333517"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1641"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="929.930814318487"/>
+		<set name="basePDef" value="337.07008"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="635.022195830619"/>
+		<set name="baseMDef" value="246.65326"/>
+		<set name="baseWalkSpd" value="30"/>
+		<set name="baseRunSpd" value="180"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="9"/>	<!--Demons-->
+			<skill id="5467" level="1"/>	<!--Dark Attacks-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="5975" level="3" use_type="Skill01_ID"/>	<!--Dark Attack-->
+			<skill id="5976" level="3" use_type="Skill02_ID"/>	<!--Dark Storm-->
+		</skills>
+		<attributes>
+			<attack attribute="unholy" value="200"/>
+		</attributes>
+	</npc>
+	<npc id="27403" name="Trainee of Rest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="28.4"/>
+		<set name="collision_radius" value="12"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="53"/>
+		<set name="baseRunSpd" value="180"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="8"/>	<!--Angels-->
+			<skill id="5466" level="1"/>	<!--Holy Attacks-->
+			<skill id="4408" level="8"/>	<!--HP Increase (1/4x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="6494" level="13" use_type="Skill01_ID"/>	<!--NPC holy attack-->
+			<skill id="6711" level="1" use_type="Skill02_ID"/>	<!--Etis Power Up-->
+		</skills>
+		<attributes>
+			<attack attribute="holy" value="130"/>
+		</attributes>
+	</npc>
+	<npc id="27404" name="Supplicant of Rest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="44"/>
+		<set name="collision_radius" value="18"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="40"/>
+		<set name="baseRunSpd" value="150"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="8"/>	<!--Angels-->
+			<skill id="5466" level="1"/>	<!--Holy Attacks-->
+			<skill id="4408" level="8"/>	<!--HP Increase (1/4x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="6494" level="13" use_type="Skill01_ID"/>	<!--NPC holy attack-->
+			<skill id="6509" level="13" use_type="Skill02_ID"/>	<!--NPC holy magic-->
+		</skills>
+		<attributes>
+			<attack attribute="holy" value="130"/>
+		</attributes>
+	</npc>
+	<npc id="27405" name="Monastic Pilgrim" title="">
+		<set name="type" value="Npc"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="27.8"/>
+		<set name="collision_radius" value="12"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="30"/>
+		<set name="baseRunSpd" value="170"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.52"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<equip>
+			<rhand item_id="148"/>	<!--Sword of Valhalla-->
+		</equip>
+		<skills>
+			<skill id="4416" level="8"/>	<!--Angels-->
+			<skill id="5466" level="1"/>	<!--Holy Attacks-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="3"/>	<!--Light Armor Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="4032" level="9" use_type="PhysicalSpecial"/>	<!--NPC Strike-->
+			<skill id="4065" level="9" use_type="MagicHeal"/>	<!--NPC Heal-->
+		</skills>
+		<attributes>
+			<attack attribute="holy" value="100"/>
+		</attributes>
+	</npc>
+	<npc id="27406" name="Monastic Crusader" title="">
+		<set name="type" value="Npc"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="37.5"/>
+		<set name="collision_radius" value="13"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseRunSpd" value="170"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="POLE"/>
+		<set name="basePHitModify" value="0"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.76"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<equip>
+			<rhand item_id="97"/>	<!--Lance-->
+		</equip>
+		<skills>
+			<skill id="4416" level="8"/>	<!--Angels-->
+			<skill id="5466" level="1"/>	<!--Holy Attacks-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="1"/>	<!--Heavy Armor Type-->
+			<skill id="4415" level="11"/>	<!--Spears-->
+			<skill id="4032" level="9" use_type="PhysicalSpecial"/>	<!--NPC Strike-->
+		</skills>
+		<attributes>
+			<attack attribute="holy" value="100"/>
+		</attributes>
+	</npc>
+	<npc id="27407" name="Solina Lay Brother" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="23.4"/>
+		<set name="collision_radius" value="9"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="61"/>
+		<set name="baseRunSpd" value="180"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.43"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<equip>
+			<rhand item_id="8212"/>	<!--Monster Only (Solina Brother Mace)-->
+		</equip>
+		<skills>
+			<skill id="4416" level="8"/>	<!--Angels-->
+			<skill id="5466" level="1"/>	<!--Holy Attacks-->
+			<skill id="4408" level="8"/>	<!--HP Increase (1/4x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4563" level="9" use_type="W_LongRangeDDMagic"/>	<!--NPC Solar Flare - Magic-->
+			<skill id="4160" level="9" use_type="W_ShortRangeDDMagic"/>	<!--NPC Aura Burn - Magic-->
+			<skill id="4613" level="9" use_type="MagicHeal"/>	<!--NPC Clan Heal-->
+		</skills>
+		<attributes>
+			<attack attribute="holy" value="100"/>
+		</attributes>
+	</npc>
+	<npc id="27408" name="Savior Solina" title="">
+		<set name="type" value="Npc"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="25.4"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="70"/>
+		<set name="baseRunSpd" value="180"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.43"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<equip>
+			<rhand item_id="8213"/>	<!--Monster Only (Solina Father Mace)-->
+		</equip>
+		<skills>
+			<skill id="4416" level="8"/>	<!--Angels-->
+			<skill id="5466" level="1"/>	<!--Holy Attacks-->
+			<skill id="4408" level="8"/>	<!--HP Increase (1/4x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="4563" level="9" use_type="W_LongRangeDDMagic"/>	<!--NPC Solar Flare - Magic-->
+			<skill id="4160" level="9" use_type="W_ShortRangeDDMagic"/>	<!--NPC Aura Burn - Magic-->
+			<skill id="5021" level="9" use_type="DeBuff"/>	<!--Inspiration of Einhasad-->
+		</skills>
+		<attributes>
+			<attack attribute="holy" value="100"/>
+		</attributes>
+	</npc>
+	<npc id="27409" name="Solina Knight Captain" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="31.5"/>
+		<set name="collision_radius" value="14"/>
+		<set name="level" value="81"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3461.77253215841"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1708.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="1012.32268463427"/>
+		<set name="basePDef" value="345.61127"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="691.285164307598"/>
+		<set name="baseMDef" value="252.90333"/>
+		<set name="baseWalkSpd" value="30"/>
+		<set name="baseRunSpd" value="66"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="8"/>	<!--Angels-->
+			<skill id="5466" level="1"/>	<!--Holy Attacks-->
+			<skill id="4408" level="8"/>	<!--HP Increase (1/4x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="6312" level="1" use_type="PhysicalSpecial"/>	<!--Launch Sacred Sword Energy-->
+			<skill id="6313" level="1" use_type="Buff"/>	<!--Solina Bless-->
+		</skills>
+		<attributes>
+			<attack attribute="holy" value="130"/>
+		</attributes>
+	</npc>
+	<npc id="27410" name="Solina Knights" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="28.4"/>
+		<set name="collision_radius" value="12"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="53"/>
+		<set name="baseRunSpd" value="190"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<equip>
+			<rhand item_id="8211"/>	<!--Monster Only (Monk Warrior Sword)-->
+			<lhand item_id="8210"/>	<!--Monster Only (Monk Warrior Shield)-->
+		</equip>
+		<skills>
+			<skill id="4416" level="8"/>	<!--Angels-->
+			<skill id="5466" level="1"/>	<!--Holy Attacks-->
+			<skill id="4408" level="8"/>	<!--HP Increase (1/4x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="1"/>	<!--Heavy Armor Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="6494" level="13" use_type="Skill01_ID"/>	<!--NPC holy attack-->
+			<skill id="6711" level="1" use_type="Skill02_ID"/>	<!--Etis Power Up-->
+			<skill id="6711" level="2" use_type="Skill03_ID"/>	<!--Etis Power Up-->
+			<skill id="6711" level="3" use_type="Skill04_ID"/>	<!--Etis Power Up-->
+		</skills>
+		<attributes>
+			<attack attribute="holy" value="100"/>
+		</attributes>
+	</npc>
+	<npc id="27411" name="Divinity Manager" title="">
+		<set name="type" value="Npc"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="38.5;46.5"/>
+		<set name="collision_radius" value="11;13"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.48"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<equip>
+			<rhand item_id="6718"/>	<!--Monster Only(Einhasad Shaman)-->
+		</equip>
+		<skills>
+			<skill id="4416" level="8"/>	<!--Angels-->
+			<skill id="5466" level="1"/>	<!--Holy Attacks-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="6309" level="1" use_type="Skill01_ID"/>	<!--Pain of the Ascetic-->
+			<skill id="6316" level="1" use_type="Skill02_ID"/>	<!--Accomplish of Authority-->
+		</skills>
+		<attributes>
+			<attack attribute="holy" value="130"/>
+		</attributes>
+	</npc>
+	<npc id="27412" name="Divinity Supervisor" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="47"/>
+		<set name="collision_radius" value="13"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="30"/>
+		<set name="baseRunSpd" value="200"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="POLE"/>
+		<set name="basePHitModify" value="0"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.43"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<equip>
+			<rhand item_id="8221"/>	<!--Monster Only (Grail Apostle Spear)-->
+		</equip>
+		<skills>
+			<skill id="4416" level="8"/>	<!--Angels-->
+			<skill id="5466" level="1"/>	<!--Holy Attacks-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="11"/>	<!--Spears-->
+			<skill id="6317" level="1" use_type="Skill01_ID"/>	<!--Sacred Tacit-->
+		</skills>
+		<attributes>
+			<attack attribute="holy" value="100"/>
+		</attributes>
+	</npc>
+	<npc id="27413" name="Divinity Fighter" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="49"/>
+		<set name="collision_radius" value="24"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseRunSpd" value="150"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="8"/>	<!--Angels-->
+			<skill id="5466" level="1"/>	<!--Holy Attacks-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="6328" level="1" use_type="Skill01_ID"/>	<!--Fighter Judgement-->
+			<skill id="6329" level="1" use_type="Skill02_ID"/>	<!--Fighter Strike-->
+		</skills>
+		<attributes>
+			<attack attribute="holy" value="130"/>
+		</attributes>
+	</npc>
+	<npc id="27414" name="Divinity Magus" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_height" value="44"/>
+		<set name="collision_radius" value="18"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="40"/>
+		<set name="baseRunSpd" value="150"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="8"/>	<!--Angels-->
+			<skill id="5466" level="1"/>	<!--Holy Attacks-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="6321" level="1" use_type="Skill01_ID"/>	<!--Divine Flash-->
+			<skill id="6322" level="1" use_type="Skill02_ID"/>	<!--Divine Impact-->
+			<skill id="6320" level="1" use_type="Skill03_ID"/>	<!--Summon Sacred Magic Force-->
+		</skills>
+		<attributes>
+			<attack attribute="holy" value="130"/>
+		</attributes>
+	</npc>
+	<npc id="27415" name="Guide Solina" title="">
+		<set name="type" value="Npc"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="23.4"/>
+		<set name="collision_radius" value="9"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="61"/>
+		<set name="baseRunSpd" value="220"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.43"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<equip>
+			<rhand item_id="8212"/>	<!--Monster Only (Solina Brother Mace)-->
+		</equip>
+		<skills>
+			<skill id="4416" level="8"/>	<!--Angels-->
+			<skill id="5466" level="1"/>	<!--Holy Attacks-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="6303" level="1" use_type="Skill01_ID"/>	<!--Trial of the Coup-->
+			<skill id="6304" level="1" use_type="Skill02_ID"/>	<!--Shock-->
+		</skills>
+		<attributes>
+			<attack attribute="holy" value="100"/>
+		</attributes>
+	</npc>
+	<npc id="27416" name="Relic Manager Golem" title="">
+		<set name="type" value="Npc"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="41.5"/>
+		<set name="collision_radius" value="18"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="53"/>
+		<set name="baseRunSpd" value="150"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="5467" level="1"/>	<!--Dark Attacks-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="1"/>	<!--Heavy Armor Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="6515" level="13" use_type="Skill01_ID"/>	<!--NPC dark attack-->
+			<skill id="6710" level="1" use_type="Skill02_ID"/>	<!--Etis Haste-->
+		</skills>
+		<attributes>
+			<attack attribute="unholy" value="100"/>
+		</attributes>
+	</npc>
+	<npc id="27417" name="Mutant Archer" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="27"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="80"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="40"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseRandDam" value="10"/>
+		<set name="baseAttackType" value="BOW"/>
+		<set name="basePHitModify" value="0"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.8"/>
+		<set name="baseReuseDelay" value="1500"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;10;0"/>
+		<equip>
+			<rhand item_id="275"/>	<!--Long Bow-->
+		</equip>
+		<skills>
+			<skill id="4416" level="1"/>	<!--Undead-->
+			<skill id="5467" level="1"/>	<!--Dark Attacks-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="3"/>	<!--Light Armor Type-->
+			<skill id="4415" level="9"/>	<!--Bows-->
+			<skill id="6709" level="1" use_type="Skill01_ID"/>	<!--Multi Shot-->
+			<skill id="4088" level="9" use_type="Skill02_ID"/>	<!--Bleed-->
+		</skills>
+		<attributes>
+			<attack attribute="unholy" value="100"/>
+		</attributes>
+	</npc>
+	<npc id="27418" name="Mutant Warrior" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="25"/>
+		<set name="collision_radius" value="10"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="40"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.17"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<equip>
+			<rhand item_id="150"/>	<!--Elemental Sword-->
+		</equip>
+		<skills>
+			<skill id="4416" level="1"/>	<!--Undead-->
+			<skill id="5467" level="1"/>	<!--Dark Attacks-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="6515" level="13" use_type="Skill01_ID"/>	<!--NPC dark attack-->
+			<skill id="6262" level="1" use_type="Skill02_ID"/>	<!--EMP Power-->
+		</skills>
+		<attributes>
+			<attack attribute="unholy" value="130"/>
+		</attributes>
+	</npc>
+	<npc id="27419" name="Divinity Watcher" title="">
+		<set name="type" value="Npc"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="49"/>
+		<set name="collision_radius" value="24"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="8"/>	<!--Angels-->
+			<skill id="5466" level="1"/>	<!--Holy Attacks-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="3"/>	<!--Light Armor Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="6262" level="1" use_type="Skill01_ID"/>	<!--EMP Power-->
+		</skills>
+		<attributes>
+			<attack attribute="holy" value="130"/>
+		</attributes>
+	</npc>
+	<npc id="27420" name="Instructor Solina" title="">
+		<set name="type" value="Npc"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="31.5"/>
+		<set name="collision_radius" value="14"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3290.11306877694"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="970.537548504614"/>
+		<set name="basePDef" value="341.375"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="662.751329129412"/>
+		<set name="baseMDef" value="249.80341"/>
+		<set name="baseWalkSpd" value="30"/>
+		<set name="baseRunSpd" value="66"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="8"/>	<!--Angels-->
+			<skill id="5466" level="1"/>	<!--Holy Attacks-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="9"/>	<!--Slightly Weak P. Atk.-->
+			<skill id="4411" level="8"/>	<!--Weak M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="4047" level="9" use_type="Skill01_ID"/>	<!--Hold-->
+		</skills>
+		<attributes>
+			<attack attribute="holy" value="130"/>
+		</attributes>
+	</npc>
+	<npc id="27421" name="Creature of the Dusk" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="28.5"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="79"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3127.82459333517"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1641"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="80"/>
+		<set name="basePAtk" value="929.930814318487"/>
+		<set name="basePDef" value="337.07008"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="635.022195830619"/>
+		<set name="baseMDef" value="246.65326"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="175"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="10"/>
+		<set name="baseAttackType" value="DAGGER"/>
+		<set name="basePHitModify" value="0"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.52"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<faction names="tomb_clan" range="300"/>
+		<equip>
+			<rhand item_id="946"/>	<!--Skeleton Dagger-->
+			<lhand item_id="945"/>	<!--Skeleton Buckler-->
+		</equip>
+		<skills>
+			<skill id="4416" level="1"/>	<!--Undead-->
+			<skill id="4408" level="9"/>	<!--HP Increase (1/2x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="13"/>	<!--Slightly Strong P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="7"/>	<!--Daggers-->
+			<skill id="4274" level="1"/>	<!--Blunt Weapon Weak Point-->
+			<skill id="4789" level="7"/>	<!--NPC High Level-->
+			<skill id="4603" level="9" use_type="W_LongRangeDDMagic"/>	<!--Decrease P. Atk.-->
+			<skill id="4561" level="9" use_type="W_ShortRangeDDMagic"/>	<!--NPC Fire Burn - Magic-->
+			<skill id="4613" level="9" use_type="MagicHeal"/>	<!--NPC Clan Heal-->
+		</skills>
+		<attributes>
+			<attack attribute="unholy" value="20"/>
+		</attributes>
+	</npc>
+	<npc id="27422" name="Creature of the Dusk" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="23"/>
+		<set name="collision_radius" value="9"/>
+		<set name="level" value="79"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3127.82459333517"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1641"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="929.930814318487"/>
+		<set name="basePDef" value="337.07008"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="635.022195830619"/>
+		<set name="baseMDef" value="246.65326"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<faction names="tomb_clan" range="300"/>
+		<skills>
+			<skill id="4416" level="9"/>	<!--Demons-->
+			<skill id="4408" level="9"/>	<!--HP Increase (1/2x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="12"/>	<!--Slightly Strong P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="4285" level="3"/>	<!--Resist Sleep Attacks-->
+			<skill id="4233" level="1"/>	<!--Vampiric Attack-->
+			<skill id="4789" level="7"/>	<!--NPC High Level-->
+			<skill id="4566" level="9" use_type="W_LongRangeDDMagic"/>	<!--NPC Eruption - Magic-->
+			<skill id="4160" level="9" use_type="W_ShortRangeDDMagic"/>	<!--NPC Aura Burn - Magic-->
+			<skill id="4657" level="9" use_type="DDMagic"/>	<!--Hold-->
+			<skill id="4037" level="2" use_type="DeBuff"/>	<!--Decrease P. Atk.-->
+		</skills>
+		<attributes>
+			<attack attribute="unholy" value="20"/>
+		</attributes>
+	</npc>
+	<npc id="27423" name="Creature of the Dusk" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="25"/>
+		<set name="collision_radius" value="10"/>
+		<set name="level" value="79"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3127.82459333517"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1641"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="929.930814318487"/>
+		<set name="basePDef" value="337.07008"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="635.022195830619"/>
+		<set name="baseMDef" value="246.65326"/>
+		<set name="baseWalkSpd" value="40"/>
+		<set name="baseRunSpd" value="145"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.17"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<faction names="tomb_clan" range="300"/>
+		<equip>
+			<rhand item_id="150"/>	<!--Elemental Sword-->
+			<lhand item_id="103"/>	<!--Tower Shield-->
+		</equip>
+		<skills>
+			<skill id="4416" level="1"/>	<!--Undead-->
+			<skill id="4408" level="9"/>	<!--HP Increase (1/2x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="4274" level="1"/>	<!--Blunt Weapon Weak Point-->
+			<skill id="4789" level="6"/>	<!--NPC High Level-->
+			<skill id="4157" level="9" use_type="W_LongRangeDDMagic"/>	<!--NPC Blaze - Magic-->
+			<skill id="4561" level="9" use_type="W_ShortRangeDDMagic"/>	<!--NPC Fire Burn - Magic-->
+			<skill id="4117" level="9" use_type="DeBuff"/>	<!--Paralysis-->
+		</skills>
+		<attributes>
+			<attack attribute="unholy" value="20"/>
+		</attributes>
+	</npc>
+	<npc id="27424" name="Creature of the Dusk" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="28;33"/>
+		<set name="collision_radius" value="10;12"/>
+		<set name="level" value="79"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3127.82459333517"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1641"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="929.930814318487"/>
+		<set name="basePDef" value="337.07008"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="635.022195830619"/>
+		<set name="baseMDef" value="246.65326"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseRunSpd" value="190"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="5"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.21"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<faction names="tomb_clan" range="300"/>
+		<equip>
+			<rhand item_id="304"/>	<!--Orcish Halberd-->
+		</equip>
+		<skills>
+			<skill id="4416" level="1"/>	<!--Undead-->
+			<skill id="4408" level="9"/>	<!--HP Increase (1/2x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="12"/>	<!--Slightly Strong P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="9"/>	<!--Slightly Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="4274" level="1"/>	<!--Blunt Weapon Weak Point-->
+			<skill id="4438" level="2"/>	<!--Greater Resist Sleep-->
+			<skill id="4789" level="6"/>	<!--NPC High Level-->
+			<skill id="4579" level="9" use_type="PhysicalSpecial"/>	<!--Bleed-->
+			<skill id="4036" level="9" use_type="SelfRangeDeBuff"/>	<!--Poison-->
+		</skills>
+		<attributes>
+			<attack attribute="unholy" value="20"/>
+		</attributes>
+	</npc>
+</list>

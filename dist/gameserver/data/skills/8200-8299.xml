@@ -1,0 +1,2280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<skill id="8200" levels="1" name="Light Draconic Leather Armor Set - PvP">
+    <!--
+                        Description: Dex+1, Str+1, Con-2, Atk. Spd./P. Atk. +4%, Max MP +289, Weight Limit +5759, Decreases damage received during PvP and has a chance to cancel an attacker's target when attacked.
+                -->
+    <set name="icon" value="icon.armor_t89_ul_i00" />
+    <set name="magicLevel" value="75" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5694" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <add order="0x40" stat="STR" value="1" />
+      <add order="0x40" stat="DEX" value="1" />
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="maxMp" value="289" />
+      <mul order="0x30" stat="pAtkSpd" value="1.04" />
+      <mul order="0x30" stat="pAtk" value="1.04" />
+      <add order="0x40" stat="maxNoPenaltyLoad" value="5759" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8201" levels="1" name="Major Arcana Robe Set - PvP">
+    <!--
+                        Description: Wit+1, Int+1, Men-2, M. Atk. +17%, Speed +7, Magic Cancel Rate -50%, Stun resistance +50%, Weight Limit +5759, Decreases damage received during PvP and has a chance to decrease critical rate and critical damage when attacked.
+                -->
+    <set name="icon" value="icon.armor_t90_ul_i00" />
+    <set name="magicLevel" value="75" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5691" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <add order="0x40" stat="WIT" value="1" />
+      <add order="0x40" stat="INT" value="1" />
+      <sub order="0x40" stat="MEN" value="2" />
+      <mul order="0x30" stat="mAtk" value="1.17" />
+      <add order="0x40" stat="runSpd" value="7" />
+      <add order="0x40" stat="maxNoPenaltyLoad" value="5759" />
+      <mul order="0x30" stat="concentration" value="0.7" />
+      <add order="0x40" stat="stunResist" value="50" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8202" levels="1" name="Dynasty Breastplate - PvP">
+    <!--
+                        Con-1, Str+1, P. Def. +4.6%, Max HP +418. Dark resistance +6, Decreases damage received during PvP and has a chance to decrease an attacker's speed modifiers.
+                -->
+    <set name="icon" value="icon.armor_t91_u_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5693" level="1" type="RECEIVE_DAMAGE" chance="2">	
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="CON" value="1" />
+      <add order="0x40" stat="STR" value="1" />
+      <add order="0x40" stat="maxHp" value="418" />
+      <mul order="0x30" stat="pDef" value="1.046" />
+      <add order="0x40" stat="defenceUnholy" value="6" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8203" levels="1" name="Dynasty Breastplate - PvP">
+    <!--
+                        Shield Master
+                        Str-2, Con+2, P. Def. +5.4%, Max HP +492. Dark resistance +8, Heal Effectiveness +3%. Stun resistance +50%, Decreases damage received during PvP and has a chance to decrease an attacker's speed modifiers.
+                -->
+    <set name="icon" value="icon.armor_t91_uk_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5693" level="1" type="RECEIVE_DAMAGE" chance="2">	
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="STR" value="2" />
+      <add order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="maxHp" value="492" />
+      <mul order="0x30" stat="pDef" value="1.054" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <mul order="0x30" stat="hpEff" value="1.03" />
+      <add order="0x40" stat="stunResist" value="50" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8204" levels="1" name="Dynasty Breastplate - PvP">
+    <!--
+                        Weapon Master
+                        Con-2, Str+2, P. Atk. +5.4%, Max HP +492. Darkness Resistance +8, Increase, Critical Rate +2.46%, Critical Damage +234, Decreases damage received during PvP and has a chance to decrease an attacker's speed modifiers.
+                -->
+    <set name="icon" value="icon.armor_t91_uw_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5693" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="STR" value="2" />
+      <add order="0x40" stat="maxHp" value="492" />
+      <mul order="0x30" stat="pAtk" value="1.054" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <add order="0x40" stat="baseCrit" value="24.6" />
+      <add order="0x40" stat="cAtkStatic" value="234" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8205" levels="1" name="Dynasty Breastplate - PvP">
+    <!--
+                        Force Master
+                        Con -2, Str +2, P. Atk. +5.4%, Max HP +492, Darkness Resistance +8, Physical Attack Skill MP Consumption -5%. Decreases damage received during PvP and has a chance to decrease an attacker's speed modifiers.
+                -->
+    <set name="icon" value="icon.armor_t91_uf_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5693" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="STR" value="2" />
+      <add order="0x40" stat="maxHp" value="492" />
+      <mul order="0x30" stat="pAtk" value="1.054" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <mul order="0x30" stat="mpConsumePhysical" value="0.95" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8206" levels="1" name="Dynasty Breastplate - PvP">
+    <!--
+                        Bard
+                        Con -2, Str +2, P. Def. +5.4%, Max HP +492, Darkness Resistance +8, MP Consumption -5% on Song and Dance Skills. Decreases damage received during PvP and has a chance to decrease an attacker's speed modifiers.
+                -->
+    <set name="icon" value="icon.armor_t91_uke_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5693" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="STR" value="2" />
+      <add order="0x40" stat="maxHp" value="492" />
+      <mul order="0x30" stat="pDef" value="1.054" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <mul order="0x30" stat="mpDanceConsume" value="0.95" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8207" levels="1" name="Dynasty Leather Armor - PvP">
+    <!--
+                        Con-1, Dex+1, Accuracy +1.72, Evasion+1.72, Max HP +418. Dark resistance +6. Decreases damage received during PvP and has a chance to cancel an attacker's target when attacked.
+                -->
+    <set name="icon" value="icon.armor_t92_u_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5694" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="CON" value="1" />
+      <add order="0x40" stat="DEX" value="1" />
+      <add order="0x40" stat="accCombat" value="1.72" />
+      <add order="0x40" stat="rEvas" value="1.72" />
+      <add order="0x40" stat="maxHp" value="418" />
+      <add order="0x40" stat="defenceUnholy" value="6" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8208" levels="1" name="Dynasty Leather Armor - PvP">
+    <!--
+                        Type Armor: Dynasty Leather Armor - Dagger Master
+                        Con-2, Dex+2, Evasion +4.3, Max HP +492. Dark resistance +8, Hold resistance +13, Atk. Spd. +2.66%, Decreases damage received during PvP and has a chance to cancel an attacker's target when attacked.
+                -->
+    <set name="icon" value="icon.armor_t92_ud_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5694" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="DEX" value="2" />
+      <add order="0x40" stat="rEvas" value="4.3" />
+      <add order="0x40" stat="maxHp" value="492" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <add order="0x40" stat="rootResist" value="13" />
+      <mul order="0x30" stat="pAtkSpd" value="1.0266" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8209" levels="1" name="Dynasty Leather Armor - PvP">
+    <!--
+                        Type Armor: Dynasty Leather Armor - Bow Master
+                        Con-2, Dex+2, Accuracy +4.3, Max MP +321. Dark resistance +8, Atk. Spd. +2.66, MP Recovery Rate +1.72. Decreases damage received during PvP and has a chance to cancel an attacker's target when attacked.
+                -->
+    <set name="icon" value="icon.armor_t92_ub_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5694" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="DEX" value="2" />
+      <add order="0x40" stat="accCombat" value="4.3" />
+      <add order="0x40" stat="maxMp" value="321" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <mul order="0x30" stat="pAtkSpd" value="1.0266" />
+      <add order="0x40" stat="regMp" value="1.72" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8210" levels="1" name="Dynasty Tunic - PvP">
+    <!--
+                        Int-1, Men+1, Casting Spd. +12%, Max MP +257. Dark resistance +6. Decreases damage received during PvP and has a chance to decrease critical hit and critical damage when attacked.
+                -->
+    <set name="icon" value="icon.armor_t93_u_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5691" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="INT" value="1" />
+      <add order="0x40" stat="MEN" value="1" />
+      <mul order="0x30" stat="mAtkSpd" value="1.12" />
+      <add order="0x40" stat="maxMp" value="257" />
+      <add order="0x40" stat="defenceUnholy" value="6" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8211" levels="1" name="Dynasty Tunic - PvP">
+    <!--
+                        Healer
+                        Int-2, Men+2, Casting Spd. +15%, Max MP +321. Dark resistance +8, Heal Capacity +20, Magic Cancel Rate -15%. Decreases damage received during PvP and has a chance to decrease critical hit and critical damage when attacked.
+                -->
+    <set name="icon" value="icon.armor_t93_uh_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5691" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="INT" value="2" />
+      <add order="0x40" stat="MEN" value="2" />
+      <mul order="0x30" stat="mAtkSpd" value="1.15" />
+      <add order="0x40" stat="maxMp" value="321" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <add order="0x40" stat="healPower" value="20" />
+      <mul order="0x30" stat="concentration" value="0.85" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8212" levels="1" name="Dynasty Tunic - PvP">
+    <!--
+                        Enchanter
+                        Int-2, Men+2, Casting Spd. +15%, Max MP +321. Dark resistance +8, Magic Skill MP Consumption -5%, Magic Cancel Rate -15%. Decreases damage received during PvP and has a chance to decrease critical hit and critical damage when attacked.
+                -->
+    <set name="icon" value="icon.armor_t93_ue_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5691" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="INT" value="2" />
+      <add order="0x40" stat="MEN" value="2" />
+      <mul order="0x30" stat="mAtkSpd" value="1.15" />
+      <add order="0x40" stat="maxMp" value="321" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <mul order="0x30" stat="mpConsum" value="0.95" />
+      <mul order="0x30" stat="concentration" value="0.85" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8213" levels="1" name="Dynasty Tunic - PvP">
+    <!--
+                        Summoner
+                        Int-2, Men+2, Casting Spd. +15%, Max MP +321. Dark resistance +8, P. Atk. +2.6%, P. Def. +2.6%. Decreases damage received during PvP and has a chance to decrease critical hit and critical damage when attacked.
+                -->
+    <set name="icon" value="icon.armor_t93_us_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5691" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="INT" value="2" />
+      <add order="0x40" stat="MEN" value="2" />
+      <mul order="0x30" stat="mAtkSpd" value="1.15" />
+      <add order="0x40" stat="maxMp" value="321" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <mul order="0x30" stat="pAtk" value="1.026" />
+      <mul order="0x30" stat="pDef" value="1.026" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8214" levels="1" name="Dynasty Tunic - PvP">
+    <!--
+                        Wizard
+                        Int+1, Wit+1, Men-2, Casting Speed +15%, Max MP +321. Dark resistance +8, M. Atk. +5.4%. Decreases damage received during PvP and has a chance to decrease critical hit and critical damage when attacked.
+                -->
+    <set name="icon" value="icon.armor_t93_uw_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5691" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <add order="0x40" stat="INT" value="1" />
+      <add order="0x40" stat="WIT" value="1" />
+      <sub order="0x40" stat="MEN" value="2" />
+      <mul order="0x30" stat="mAtkSpd" value="1.15" />
+      <add order="0x40" stat="maxMp" value="321" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <mul order="0x30" stat="mAtk" value="1.054" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8215" levels="1" name="Dynasty Leather Armor - PvP">
+    <!--
+                        Type Armor: Dynasty Leather Armor - Force Master
+                        Str+1, Dex+1, Con-2, P. Atk. +5.4%, Max HP +492. Dark resistance +8, Physical Attack Skill MP Consumption -5%, Decreases damage received during PvP and has a chance to cancel an attacker's target when attacked.
+                -->
+    <set name="icon" value="icon.armor_t92_ud_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5694" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <add order="0x40" stat="STR" value="1" />
+      <add order="0x40" stat="DEX" value="1" />
+      <sub order="0x40" stat="CON" value="2" />
+      <mul order="0x30" stat="pAtk" value="1.054" />
+      <add order="0x40" stat="maxHp" value="492" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <mul order="0x30" stat="mpConsumePhysical" value="0.95" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8216" levels="1" name="Dynasty Leather Armor - PvP">
+    <!--
+                        Type Armor: Dynasty Leather Armor - Weapon Master
+                        Str+1, Dex+1, Con-2, P. Atk. +5.4%, Max HP +492. Dark resistance +8, Critical Damage +234, Critical Rate +2.46, Decreases damage received during PvP and has a chance to cancel an attacker's target when attacked.
+                -->
+    <set name="icon" value="icon.armor_t92_ub_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5694" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="STR" value="1" />
+      <add order="0x40" stat="DEX" value="1" />
+      <mul order="0x30" stat="pAtk" value="1.054" />
+      <add order="0x40" stat="maxHp" value="492" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <add order="0x40" stat="cAtkStatic" value="234" />
+      <add order="0x40" stat="baseCrit" value="24.6" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8217" levels="1" name="Dynasty Leather Armor - PvP">
+    <!--
+                        Type Armor: Dynasty Leather Armor - Enchanter
+                        Int-1, Men+2, Wit-1, Casting Spd. +15%, Max MP +321. Dark resistance +8, Magic Skill MP Consumption -5%, Magic Cancel Rate -15%, Decreases damage received during PvP and has a chance to cancel an attacker's target when attacked.
+                -->
+    <set name="icon" value="icon.armor_t93_ue_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5694" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="INT" value="1" />
+      <sub order="0x40" stat="WIT" value="1" />
+      <add order="0x40" stat="MEN" value="2" />
+      <mul order="0x30" stat="mAtkSpd" value="1.15" />
+      <add order="0x40" stat="maxMp" value="321" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <mul order="0x30" stat="mpConsum" value="0.95" />
+      <mul order="0x30" stat="concentration" value="0.85" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8218" levels="1" name="Dynasty Leather Armor - PvP">
+    <!--
+                        Type Armor: Dynasty Leather Armor - Summoner
+                        Str-2, Con+2, Atk. Spd. +5.4%, Max HP +492. Dark resistance +8, P. Atk. +2.66%, P. Def. +2.66%, Decreases damage received during PvP and has a chance to cancel an attacker's target when attacked.
+                -->
+    <set name="icon" value="icon.armor_t92_u_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5694" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="STR" value="2" />
+      <add order="0x40" stat="CON" value="2" />
+      <mul order="0x30" stat="pAtkSpd" value="1.054" />
+      <add order="0x40" stat="maxHp" value="492" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <mul order="0x30" stat="pAtk" value="1.0266" />
+      <mul order="0x30" stat="pDef" value="1.0266" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8219" levels="1" name="Dynasty Platinum Plate - PvP">
+    <!--
+                        Shield Master
+                        Str-2, Con+2, P. Def. +6.6%, Max HP +492, Heal Effectiveness 4%, Dark resistance +8, Shock Resistance +15. Decreases damage received during PvP and has a chance to decrease an attacker's speed modifiers.
+                -->
+    <set name="icon" value="icon.armor_t91_uk_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5693" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="STR" value="2" />
+      <add order="0x40" stat="CON" value="2" />
+      <mul order="0x30" stat="pDef" value="1.066" />
+      <add order="0x40" stat="maxHp" value="492" />
+      <mul order="0x30" stat="hpEff" value="1.04" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <add order="0x40" stat="stunResist" value="15" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8220" levels="1" name="Dynasty Platinum Plate - PvP">
+    <!--
+                        Weapon Master
+                        Con-2, Str+2, P. Atk. +6.6%, Maximum HP +492 Effect. Darkness Resistance +8 Increase, Critical Damage +282, Rate +2.95% Increase. Decreases damage received during PvP and has a chance to decrease an attacker's speed modifiers.
+                -->
+    <set name="icon" value="icon.armor_t91_uw_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5693" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="STR" value="2" />
+      <mul order="0x30" stat="pAtk" value="1.066" />
+      <add order="0x40" stat="maxHp" value="492" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <add order="0x40" stat="cAtkStatic" value="282" />
+      <add order="0x40" stat="baseCrit" value="29.5" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8221" levels="1" name="Dynasty Platinum Plate - PvP">
+    <!--
+                        Force Master
+                        Con -2, Str +2, P. Def. +6.6%, Max. HP +492, resistance to Darkness attacks +8, P. Atk. Skill MP Consumption -6%. Decreases damage received during PvP and has a chance to decrease an attacker's speed modifiers
+                -->
+    <set name="icon" value="icon.armor_t91_uke_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5693" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="STR" value="2" />
+      <mul order="0x30" stat="pDef" value="1.066" />
+      <add order="0x40" stat="maxHp" value="492" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="mpDanceConsume" value="0.94" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8222" levels="1" name="Dynasty Platinum Plate - PvP">
+    <!--
+                        Bard
+                        Con-2, Str+2, P. Def. +6.6%, Max HP +492. Dark resistance +8, MP Consumption -6% on Song and Dance Skills. Decreases damage received during PvP and has a chance to decrease an attacker's speed modifiers.
+                -->
+    <set name="icon" value="icon.armor_t91_uf_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5693" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="STR" value="2" />
+      <mul order="0x30" stat="pDef" value="1.066" />
+      <add order="0x40" stat="maxHp" value="492" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="mpConsumePhysical" value="0.94" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8223" levels="1"
+  name="Dynasty Jewel Leather Mail - PvP">
+    <!--
+                        Type Armor: Dynasty Leather Armor - Dagger Master
+                        Con-2, Dex+2, Evasion +5.3, Max HP +492. Dark resistance +8, Hold resistance +15, Atk. Spd. +3.24%. Decreases damage received during PvP and has a chance to cancel an attacker's target when attacked.
+                -->
+    <set name="icon" value="icon.armor_t92_ud_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5694" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="DEX" value="2" />
+      <add order="0x40" stat="rEvas" value="5.3" />
+      <add order="0x40" stat="maxHp" value="492" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <add order="0x40" stat="rootResist" value="15" />
+      <mul order="0x30" stat="pAtkSpd" value="1.0324" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8224" levels="1"
+  name="Dynasty Jewel Leather Mail - PvP">
+    <!--
+                        Type Armor: Dynasty Leather Armor - Bow Master
+                        Con-2, Dex+2, Accuracy +5.3, Max MP +321. Dark resistance +8, Atk. Spd. +3.24%, MP Recovery Rate +6.6%, Decreases damage received during PvP and has a chance to cancel an attacker's target when attacked.
+                -->
+    <set name="icon" value="icon.armor_t92_ub_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5694" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="DEX" value="2" />
+      <add order="0x40" stat="accCombat" value="5.3" />
+      <add order="0x40" stat="maxMp" value="492" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <mul order="0x30" stat="pAtkSpd" value="1.0324" />
+      <mul order="0x30" stat="regMp" value="1.066" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8225" levels="1"
+  name="Dynasty Jewel Leather Mail - PvP">
+    <!--
+                        Type Armor: Dynasty Leather Armor - Force Master
+                        Con-2, Str+1, Dex+1, P. Atk. +6.6%, Max HP +492. Dark resistance +8, Physical Skill MP Consumption -6%. Decreases damage received during PvP and has a chance to cancel an attacker's target when attacked.
+                -->
+    <set name="icon" value="icon.armor_t92_ud_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5694" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="DEX" value="1" />
+      <add order="0x40" stat="STR" value="1" />
+      <mul order="0x30" stat="pAtk" value="1.066" />
+      <add order="0x40" stat="maxHp" value="492" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <mul order="0x30" stat="mpConsumePhysical" value="0.94" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8226" levels="1"
+  name="Dynasty Jewel Leather Mail - PvP">
+    <!--
+                        Type Armor: Dynasty Leather Armor - Weapon Master
+                        Con-2, Str+1, Dex+1, Physical Attack Power +6.6%, Maximum HP +492 Effect. Darkness Resistance +8 Increase, Critical Damage +282, Rate +2.95% Increase. Decreases damage received during PvP and has a chance to cancel an attacker's target when attacked.
+                -->
+    <set name="icon" value="icon.armor_t92_ub_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5694" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="STR" value="1" />
+      <add order="0x40" stat="DEX" value="1" />
+      <mul order="0x30" stat="pAtk" value="1.066" />
+      <add order="0x40" stat="maxHp" value="492" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <add order="0x40" stat="cAtkStatic" value="282" />
+      <add order="0x40" stat="baseCrit" value="29.5" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8227" levels="1"
+  name="Dynasty Jewel Leather Mail - PvP">
+    <!--
+                        Type Armor: Dynasty Leather Armor - Enchanter
+                        Int-2, Men+2, Wit-1, Casting Spd. +15%, Max MP +321. Dark resistance +8, Magic Skill MP Consumption -6%, Magic Cancel Rate -15%. Decreases damage received during PvP and has a chance to cancel an attacker's target when attacked.
+                -->
+    <set name="icon" value="icon.armor_t92_ub_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5694" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+			<add order="0x40" stat="CON" value="2" />
+			<sub order="0x40" stat="STR" value="2" />
+			<mul order="0x30" stat="pAtkSpd" value="1.066" />
+			<add order="0x40" stat="maxHp" value="492" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="pAtk" value="1.0266" />
+			<mul order="0x30" stat="pDef" value="1.0266" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8228" levels="1"
+  name="Dynasty Jewel Leather Mail - PvP">
+    <!--
+                        Type Armor: Dynasty Leather Armor - Summoner
+                        Str-2, Con+2, Atk. Spd. +6.6%, Max HP +492. Dark resistance +8, P. Atk. +2.66%, P. Def. +2.66%. Decreases damage received during PvP and has a chance to cancel an attacker's target when attacked.
+                -->
+    <set name="icon" value="icon.armor_t92_ub_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5694" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+			<sub order="0x40" stat="INT" value="1" />
+			<sub order="0x40" stat="WIT" value="1" />
+			<add order="0x40" stat="MEN" value="2" />
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+			<add order="0x40" stat="maxMp" value="321" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="mpConsum" value="0.94" />
+			<mul order="0x30" stat="concentration" value="0.85" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8229" levels="1"
+  name="Dynasty Silver Satin Tunic - PvP">
+    <!--
+                        Healer
+                        Int-2, Men+2, Casting Spd. +15%, Max MP +321. Dark resistance +8, Heal Capacity +22, Magic Cancel Rate -15. Decreases damage received during PvP and has a chance to decrease critical hit and critical damage when attacked.
+                -->
+    <set name="icon" value="icon.armor_t93_uh_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5691" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="INT" value="2" />
+      <add order="0x40" stat="MEN" value="2" />
+      <mul order="0x30" stat="mAtkSpd" value="1.15" />
+      <add order="0x40" stat="maxMp" value="321" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <add order="0x40" stat="healPower" value="22" />
+      <mul order="0x30" stat="concentration" value="0.85" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8230" levels="1"
+  name="Dynasty Silver Satin Tunic - PvP">
+    <!--
+                        Enchanter
+                        Int-2, Men+2, Casting Spd. +15%, Max MP +321. Dark resistance +8, Magic Skill MP Consumption -6%, Magic Cancel Rate -15. Decreases damage received during PvP and has a chance to decrease critical hit and critical damage when attacked.
+                -->
+    <set name="icon" value="icon.armor_t93_ue_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5691" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="INT" value="2" />
+      <add order="0x40" stat="MEN" value="2" />
+      <mul order="0x30" stat="mAtkSpd" value="1.15" />
+      <add order="0x40" stat="maxMp" value="321" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <mul order="0x30" stat="mpConsum" value="0.94" />
+      <mul order="0x30" stat="concentration" value="0.85" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8231" levels="1"
+  name="Dynasty Silver Satin Tunic - PvP">
+    <!--
+                        Summoner
+                        Int-2, Men+2, Casting Spd. +15%, Max MP +321. Dark resistance +8, P. Atk. +3.3%, P. Def. +3.3%. Decreases damage received during PvP and has a chance to decrease critical hit and critical damage when attacked.
+                -->
+    <set name="icon" value="icon.armor_t93_us_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5691" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <sub order="0x40" stat="INT" value="2" />
+      <add order="0x40" stat="MEN" value="2" />
+      <mul order="0x30" stat="mAtkSpd" value="1.15" />
+      <add order="0x40" stat="maxMp" value="321" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <mul order="0x30" stat="pAtk" value="1.033" />
+      <mul order="0x30" stat="pDef" value="1.033" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8232" levels="1"
+  name="Dynasty Silver Satin Tunic - PvP">
+    <!--
+                        Wizard
+                        Int+1, Wit+1, Men-2, Casting Speed +15%, Max MP +321. Dark resistance +8, M. Atk. +6.6%. Decreases damage received during PvP and has a chance to decrease critical hit and critical damage when attacked.
+                -->
+    <set name="icon" value="icon.armor_t93_uw_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <triggers>
+            <trigger id="5691" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<target pvp="true" />
+        <player damage="1;0" />
+      </trigger>
+    </triggers>
+    <for>
+      <add order="0x40" stat="INT" value="1" />
+      <add order="0x40" stat="WIT" value="1" />
+      <sub order="0x40" stat="MEN" value="2" />
+      <mul order="0x30" stat="mAtkSpd" value="1.15" />
+      <add order="0x40" stat="maxMp" value="321" />
+      <add order="0x40" stat="defenceUnholy" value="8" />
+      <mul order="0x30" stat="mAtk" value="1.066" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+      <mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDefenceBonus"
+      value="1.05" />
+      <mul order="0x30" stat="pvpMagicSkillDefenceBonus"
+      value="1.05" />
+    </for>
+  </skill>
+  <skill id="8233" levels="1" name="Zubei's Helmet">
+    <set name="icon" value="icon.armor_helmet_i00" />
+    <set name="magicLevel" value="58" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+			<add order="0x40" stat="rEvas" value="0.88" />
+    </for>
+  </skill>
+  <skill id="8234" levels="1" name="Zubei's Helmet">
+    <set name="icon" value="icon.armor_helmet_i00" />
+    <set name="magicLevel" value="58" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+			<mul order="0x30" stat="mAtk" value="1.0125" />
+    </for>
+  </skill>
+  <skill id="8235" levels="1" name="Nightmare Helm">
+    <set name="icon" value="icon.armor_leather_helmet_i00" />
+    <set name="magicLevel" value="67" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+			<mul order="0x30" stat="mDef" value="1.0062" />
+			<mul order="0x30" stat="sleepResist" value="1.175" />
+			<mul order="0x30" stat="rootResist" value="1.175" />
+    </for>
+  </skill>
+  <skill id="8236" levels="1" name="Nightmare Helm">
+    <set name="icon" value="icon.armor_leather_helmet_i00" />
+    <set name="magicLevel" value="67" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+			<mul order="0x30" stat="regMp" value="1.0062" />
+			<mul order="0x30" stat="mAtk" value="1.0062" />
+			<mul order="0x30" stat="sleepResist" value="1.175" />
+			<mul order="0x30" stat="rootResist" value="1.175" />
+    </for>
+  </skill>
+  <skill id="8237" levels="1" name="Shalin Heal">
+    <set name="magicType" value="MAGIC" />
+    <set name="icon" value="icon.skill1401" />
+    <set name="reuseDelay" value="30000" />
+		<set name="power" value="540" />
+    <set name="magicLevel" value="73" />
+    <set name="hitTime" value="5000" />
+    <set name="hitCancelTime" value="500" />
+    <set name="mpConsume1" value="16" />
+    <set name="mpConsume2" value="61" />
+    <set name="effectPoint" value="301" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="HEAL" />
+    <set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+    <cond msgId="113" addName="1">
+      <player instance_zone="43" />
+    </cond>
+  </skill>
+  <skill id="8238" levels="1" name="Shalin Strike">
+    <set name="icon" value="icon.skill0003" />
+    <set name="reuseDelay" value="20000" />
+		<set name="power" value="1827" />
+    <set name="magicLevel" value="73" />
+    <set name="hitTime" value="2500" />
+    <set name="hitCancelTime" value="500" />
+    <set name="mpConsume2" value="74" />
+    <set name="target" value="TARGET_ONE" />
+    <set name="overHit" value="true" />
+    <set name="skillType" value="PDAM" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="nextAction" value="attack" />
+    <cond msgId="113" addName="1">
+      <player instance_zone="43" />
+    </cond>
+  </skill>
+  <skill id="8239" levels="1" name="Critical Up">
+    <!--
+                        Description: Increases Critical Rate and Atk. Spd. Improves chance of a critical hit from range attacks.
+                -->
+    <set name="icon" value="icon.skill5760" />
+    <set name="reuseDelay" value="20000" />
+    <set name="magicLevel" value="73" />
+    <set name="hitTime" value="2500" />
+    <set name="hitCancelTime" value="500" />
+    <set name="mpConsume2" value="74" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <for>
+			<effect count="1" name="Buff" time="3600" value="0" >
+        <add order="0x40" stat="rCrit" value="30" />
+        <mul order="0x30" stat="pAtkSpd" value="1.33" />
+        <triggers>
+          <trigger id="8241" level="1" type="CRIT" chance="30" />
+        </triggers>
+      </effect>
+    </for>
+  </skill>
+  <skill id="8240" levels="3" name="Obliteration Storm">
+		<!--
+			Last modify:	07.03.2010
+
+			Description: Delivers a powerful range attack, shocking the target. Consumes all accumulated critical hits. Requires a Stage 3 critical hit.
+		-->
+		<table name="#power">9132 12784 16436</table>
+    <!--
+                        Last modify:    07.03.2010
+
+                        Description: Delivers a powerful range attack, shocking the target. Consumes all accumulated critical hits. Requires a Stage 3 critical hit.
+                -->
+    <set name="levelModifier" value="1" />
+    <set name="icon" value="icon.weapon_long_spear_i00" />
+    <set name="reuseDelay" value="20000" />
+		<set name="power" value="#power" />
+    <set name="magicLevel" value="73" />
+    <set name="hitTime" value="2500" />
+    <set name="hitCancelTime" value="500" />
+    <set name="mpConsume2" value="148" />
+    <set name="target" value="TARGET_AURA" />
+		<set name="skillRadius" value="300" />
+    <set name="skillType" value="PDAM" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="negateSkill" value="8241" />
+		<set name="activateRate" value="50" />
+    <set name="trait" value="SHOCK" />
+    <set name="saveVs" value="CON" />
+    <cond msgId="113" addName="1">
+      <target hasBuffId="8241;1" />
+    </cond>
+		<for>
+			<effect count="1" name="Stun" stackOrder="-1" stackType="Stun" time="9" value="0" />
+		</for>
+  </skill>
+  <skill id="8241" levels="1" name="Critical Up">
+    <!--
+                        Description: Temporarily increases critical attack power rate. Effect 3.
+                -->
+    <set name="magicType" value="MAGIC" />
+    <set name="icon" value="icon.skill1077" />
+    <set name="reuseDelay" value="6000" />
+    <set name="magicLevel" value="73" />
+    <set name="castRange" value="400" />
+    <set name="hitTime" value="4000" />
+    <set name="hitCancelTime" value="500" />
+    <set name="mpConsume1" value="10" />
+    <set name="mpConsume2" value="38" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF_CHARGER" />
+    <set name="targetBuff" value="8241" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="rCrit" time="1200" value="0">
+				<add order="0x40" stat="rCrit" value="30" />
+      </effect>
+    </for>
+  </skill>
+  <skill id="8242" levels="1" name="Ice Ball">
+    <!--
+                        Last modify:    25.02.2010
+
+                        Description: Inflicts a powerful long-range water attack on the enemy.
+                -->
+    <set name="icon" value="icon.skill1184" />
+    <set name="reuseDelay" value="20000" />
+		<set name="power" value="1230" />
+    <set name="magicLevel" value="61" />
+    <set name="castRange" value="900" />
+    <set name="hitTime" value="3000" />
+    <set name="hitCancelTime" value="500" />
+    <set name="mpConsume2" value="61" />
+    <set name="target" value="TARGET_ONE" />
+    <set name="element" value="water" />
+    <set name="elementPower" value="20" />
+    <set name="skillType" value="PDAM" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <cond msgId="113" addName="1">
+      <player instance_zone="44" />
+    </cond>
+  </skill>
+  <skill id="8243" levels="1" name="Chill Strike">
+    <!--
+                        Last modify:    25.02.2010
+
+                        Description: Inflicts a powerful short-range water attack on the enemy.
+                -->
+    <set name="icon" value="icon.skill0105" />
+    <set name="reuseDelay" value="120000" />
+		<set name="power" value="1845" />
+    <set name="magicLevel" value="61" />
+    <set name="hitTime" value="850" />
+    <set name="hitCancelTime" value="500" />
+    <set name="mpConsume2" value="61" />
+    <set name="target" value="TARGET_ONE" />
+    <set name="element" value="water" />
+    <set name="elementPower" value="20" />
+    <set name="skillType" value="PDAM" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="nextAction" value="attack" />
+    <cond msgId="113" addName="1">
+      <player instance_zone="44" />
+    </cond>
+  </skill>
+  <skill id="8244" levels="1" name="Transform Gatekeeper">
+    <!--
+                        Last modify:    25.01.2009
+
+                        Description:
+                        Transforms target into a Gatekeeper. Allows energy to be restored when Exp. Points are acquired.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skilltransform3" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="TRANSFORMATION" />
+		<set name="addSkills" value="5656;40;5657;40;5658;40;5659;1;619;1;5491;1" />
+    <set name="npcId" value="13129" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isCommon" value="true" />
+    <set name="useSS" value="false" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <cond msgId="1509">
+      <not>
+        <player olympiad="true" />
+      </not>
+    </cond>
+    <for>
+      <effect count="1" name="Transformation" time="3600"
+      value="319">
+        <set order="0x40" stat="STR" value="22" />
+        <set order="0x40" stat="DEX" value="21" />
+        <set order="0x40" stat="CON" value="27" />
+        <set order="0x40" stat="INT" value="41" />
+        <set order="0x40" stat="WIT" value="20" />
+        <set order="0x40" stat="MEN" value="39" />
+      </effect>
+    </for>
+  </skill>
+  <skill id="8245" levels="1" name="Summon Agathion - Love">
+    <!--
+                        Last modify:    29.12.2008
+                        Description:    Summon an Agathion.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.etc_summon_aga_agit_i00" />
+    <set name="magicLevel" value="85" />
+    <set name="hitTime" value="3000" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="SUMMON" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <set name="useSS" value="false" />
+    <set name="npcId" value="16049" />
+    <set name="summonType" value="agathion" />
+  </skill>
+  <skill id="8246" levels="1" name="Transform Pumpkin Ghost">
+    <!--
+                        Last modify:    25.01.2009
+
+                        Description:
+                        Transform into a Pumpkin Ghost.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skilltransform3" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="TRANSFORMATION" />
+    <set name="addSkills" value="619;1;5491;1" />
+    <set name="npcId" value="13135" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isCommon" value="true" />
+    <set name="useSS" value="false" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <for>
+      <effect count="1" name="Transformation" time="3600"
+      value="108" />
+    </for>
+  </skill>
+  <skill id="8247" levels="1"
+  name="Mount Light Purple Maned Horse">
+    <!--
+                        Description: Mounts a Light Purple Maned Horse.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skilltransform3" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="TRANSFORMATION" />
+    <set name="addSkills" value="619;1;5491;1" />
+    <set name="npcId" value="13130" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isCommon" value="true" />
+    <set name="useSS" value="false" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <cond msgId="1509">
+      <not>
+        <player olympiad="true" />
+      </not>
+    </cond>
+    <for>
+      <effect count="1" name="Transformation" time="3600"
+      value="106">
+        <mul order="0x30" stat="runSpd" value="1.4" />
+        <mul order="0x30" stat="pAtk" value="0.23" />
+        <mul order="0x30" stat="mAtk" value="0.05" />
+        <mul order="0x30" stat="accCombat" value="0.60" />
+      </effect>
+    </for>
+  </skill>
+  <skill id="8248" levels="1"
+  name="Cancel Gatekeeper Transformation">
+    <!--  Automatically generated from The Gracia part II client files.
+                      Description: Cancels transformation.
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 04-11-2008  23:21
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skilltransform2" />
+    <set name="magicLevel" value="99" />
+    <set name="hitTime" value="2500" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_ACTIVE" />
+  </skill>
+  <skill id="8249" levels="1" name="Cancel Critical Hit">
+    <!--  Automatically generated from The Gracia part II client files.
+                      Description: none
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 04-11-2008  23:21
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skill0000" />
+    <set name="magicLevel" value="99" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_ACTIVE" />
+  </skill>
+  <skill id="8250" levels="2" name="Summon Tigress">
+    <!--
+                        Last modify:    25.02.2010
+
+                        Description: Summons Tigress
+                -->
+    <table name="#npcIds">14916 14917</table>
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skill0283" />
+    <set name="reuseDelay" value="20000" />
+    <set name="magicLevel" value="63" />
+    <set name="hitTime" value="15000" />
+    <set name="hitCancelTime" value="500" />
+    <set name="mpConsume1" value="24" />
+    <set name="mpConsume2" value="93" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="SUMMON" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="npcId" value="#npcIds" />
+    <set name="expPenalty" value="0.00" />
+    <cond msgId="113" addName="1">
+      <player instance_zone="44" />
+    </cond>
+  </skill>
+  <skill id="8251" levels="1"
+  name="Collection Agathion Release Seal">
+    <!--
+                        Last modify:    29.07.2009
+
+                        Description: Summon an Agathion.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.etc_summon_aga_agit_i00" />
+    <set name="magicLevel" value="85" />
+    <set name="hitTime" value="3000" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="SUMMON" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <set name="useSS" value="false" />
+    <set name="npcId" value="16061" />
+    <set name="summonType" value="agathion" />
+  </skill>
+  <skill id="8252" levels="1" name="Test - Transform Mount1">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: Mounts a test mount.
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skilltransform3" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_ACTIVE" />
+  </skill>
+  <skill id="8253" levels="1" name="Test - Transform Mount2">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: Mounts a test mount.
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skilltransform3" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_ACTIVE" />
+  </skill>
+  <skill id="8254" levels="1"
+  name="Release Seal on Agathion - Monkey">
+    <!--
+                        Last modify: 21.04.2009
+                        Description: Summon an Agathion.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.etc_summon_aga_agit_i00" />
+    <set name="magicLevel" value="85" />
+    <set name="hitTime" value="3000" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="SUMMON" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <set name="useSS" value="false" />
+    <set name="npcId" value="16054" />
+    <set name="summonType" value="agathion" />
+  </skill>
+  <skill id="8255" levels="1"
+  name="Release Seal on Agathion - Griffin">
+    <!--
+                        Last modify: 21.04.2009
+                        Description: Summon an Agathion.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.etc_summon_aga_agit_i00" />
+    <set name="magicLevel" value="85" />
+    <set name="hitTime" value="3000" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="SUMMON" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <set name="useSS" value="false" />
+    <set name="npcId" value="16055" />
+    <set name="summonType" value="agathion" />
+  </skill>
+  <skill id="8256" levels="1"
+  name="Release Seal on Agathion - Joy">
+    <!--
+                        Last modify: 21.04.2009
+                        Description: Summon an Agathion.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.etc_summon_aga_agit_i00" />
+    <set name="magicLevel" value="85" />
+    <set name="hitTime" value="3000" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="SUMMON" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <set name="useSS" value="false" />
+    <set name="npcId" value="16056" />
+    <set name="summonType" value="agathion" />
+  </skill>
+  <skill id="8257" levels="1"
+  name="Release Seal on Agathion - Anger">
+    <!--
+                        Last modify: 21.04.2009
+                        Description: Summon an Agathion.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.etc_summon_aga_agit_i00" />
+    <set name="magicLevel" value="85" />
+    <set name="hitTime" value="3000" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="SUMMON" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <set name="useSS" value="false" />
+    <set name="npcId" value="16058" />
+    <set name="summonType" value="agathion" />
+  </skill>
+  <skill id="8258" levels="1"
+  name="Release Seal on Agathion - Sorrow">
+    <!--
+                        Last modify: 21.04.2009
+                        Description: Summon an Agathion.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.etc_summon_aga_agit_i00" />
+    <set name="magicLevel" value="85" />
+    <set name="hitTime" value="3000" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="SUMMON" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <set name="useSS" value="false" />
+    <set name="npcId" value="16057" />
+    <set name="summonType" value="agathion" />
+  </skill>
+  <skill id="8259" levels="1"
+  name="Release Seal on Agathion - Girl Teddy Boy">
+    <!--
+                        Last modify: 21.04.2009
+                        Description: Summon an Agathion.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.etc_summon_aga_agit_i00" />
+    <set name="magicLevel" value="85" />
+    <set name="hitTime" value="3000" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="SUMMON" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <set name="useSS" value="false" />
+    <set name="npcId" value="16059" />
+    <set name="summonType" value="agathion" />
+  </skill>
+  <skill id="8260" levels="1"
+  name="Release Seal on Agathion - Girl Teddy Girl">
+    <!--
+                        Last modify: 21.04.2009
+                        Description: Summon an Agathion.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.etc_summon_aga_agit_i00" />
+    <set name="magicLevel" value="85" />
+    <set name="hitTime" value="3000" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="SUMMON" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <set name="useSS" value="false" />
+    <set name="npcId" value="16060" />
+    <set name="summonType" value="agathion" />
+  </skill>
+  <skill id="8261" levels="1" name="Steam Beatle Mount">
+    <!--
+                      Last modify: 16.07.2009
+                      Description: Allows user to mount a Steam Beatle.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skilltransform3" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="TRANSFORMATION" />
+    <set name="addSkills" value="619;1;5491;1" />
+    <set name="npcId" value="13147" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isCommon" value="true" />
+    <set name="useSS" value="false" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <cond msgId="1509">
+      <not>
+        <player olympiad="true" />
+      </not>
+    </cond>
+    <for>
+      <effect count="1" name="Transformation" time="3600"
+      value="110">
+        <mul order="0x30" stat="runSpd" value="1.4" />
+        <mul order="0x30" stat="pAtk" value="0.23" />
+        <mul order="0x30" stat="mAtk" value="0.05" />
+        <mul order="0x30" stat="accCombat" value="0.60" />
+      </effect>
+    </for>
+  </skill>
+  <skill id="8262" levels="1" name="Tawny Maned Lion Mount">
+    <!--
+                        Last modify: 21.04.2009
+                        Description: Mounts a tawny maned lion.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skilltransform3" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="TRANSFORMATION" />
+    <set name="addSkills" value="619;1;5491;1" />
+    <set name="npcId" value="13146" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isCommon" value="true" />
+    <set name="useSS" value="false" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <cond msgId="1509">
+      <not>
+        <player olympiad="true" />
+      </not>
+    </cond>
+    <for>
+      <effect count="1" name="Transformation" time="3600"
+      value="109">
+        <mul order="0x30" stat="runSpd" value="1.4" />
+        <mul order="0x30" stat="pAtk" value="0.23" />
+        <mul order="0x30" stat="mAtk" value="0.05" />
+        <mul order="0x30" stat="accCombat" value="0.60" />
+      </effect>
+    </for>
+  </skill>
+  <skill id="8263" levels="1" name="Transform Snow Kung">
+    <!--
+                      Last modify: 21.04.2009
+                      Description: Transforms user into a Snow Kung.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skilltransform3" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="TRANSFORMATION" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <set name="addSkills" value="619;1;5491;1" />
+    <set name="npcId" value="13160" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isCommon" value="true" />
+    <for>
+      <effect count="1" name="Transformation" time="1800"
+      value="114" />
+    </for>
+  </skill>
+  <skill id="8264" levels="1" name="Transform Scarecrow Jack">
+    <!--
+                      Last modify: 27.10.2009
+                      Description: Transforms user into Scarecrow Jack.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skilltransform3" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="TRANSFORMATION" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <set name="addSkills" value="940;1;942;1;619;1" />
+    <set name="npcId" value="13161" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isCommon" value="true" />
+    <for>
+      <effect count="1" name="Transformation" time="1800"
+      value="115" />
+    </for>
+  </skill>
+  <skill id="8265" levels="1" name="Transform Tin Golem">
+    <!--
+                      Last modify: 21.04.2009
+                      Need Correct: reuseDelay
+                      Description: Transforms user into a Tin Golem.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skilltransform3" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="TRANSFORMATION" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <set name="addSkills" value="619;1;5491;1" />
+    <set name="npcId" value="13162" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isCommon" value="true" />
+    <for>
+      <effect count="1" name="Transformation" time="1800"
+      value="116" />
+    </for>
+  </skill>
+  <skill id="8266" levels="1" name="Gludio Talisman">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: none
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="icon" value="icon.skill08266" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="8267" levels="1" name="Dion Talisman">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: none
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="icon" value="icon.skill08267" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="8268" levels="1" name="Giran Talisman">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: none
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="icon" value="icon.skill08268" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="8269" levels="1" name="Oren Talisman">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: none
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="icon" value="icon.skill08269" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="8270" levels="1" name="Aden Talisman">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: none
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="icon" value="icon.skill08270" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="8271" levels="1" name="Innadril Talisman">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: none
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="icon" value="icon.skill08271" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="8272" levels="1" name="Goddard Talisman">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: none
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="icon" value="icon.skill08272" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="8273" levels="1" name="Rune Talisman">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: none
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="icon" value="icon.skill08273" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="8274" levels="1" name="Schuttgart Talisman">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: none
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="icon" value="icon.skill08274" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="8275" levels="1"
+  name="Release Seal on Agathion - pvp">
+    <!--
+                        Last modify:    29.07.2009
+
+                        Description: Summon an Agathion.
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.etc_summon_aga_agit_i00" />
+    <set name="magicLevel" value="75" />
+    <set name="hitTime" value="3000" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="SUMMON" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <set name="useSS" value="false" />
+    <set name="npcId" value="16062" />
+    <set name="summonType" value="agathion" />
+  </skill>
+  <skill id="8276" levels="1" name="Shield Branding">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: "Stuns certain monsters within the Tumor of Death and the Seed of Infinity, causing them to become immobile or lose their target."
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="levelModifier" value="1" />
+    <set name="affectLimit" value="5;15" />
+    <set name="icon" value="icon.skill0092" />
+    <set name="reuseDelay" value="5000" />
+    <set name="magicLevel" value="85" />
+    <set name="hitTime" value="1000" />
+    <set name="hitCancelTime" value="500" />
+    <set name="mpConsume2" value="83" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="trait" value="SHOCK" />
+    <set name="saveVs" value="CON" />
+  </skill>
+  <skill id="8277" levels="1" name="Transform Native">
+    <!--
+                Done by:        pchayka
+                Custom
+                -->
+    <set name="magicType" value="MAGIC" />
+    <set name="icon" value="icon.skilltransform3" />
+    <set name="magicLevel" value="56" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="TRANSFORMATION" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <set name="addSkills"
+    value="734;1;903;1;737;1;796;1;584;1;619;1;5491;1" />
+    <set name="npcId" value="13103" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isCommon" value="true" />
+    <for>
+			<effect count="1" name="Transformation" time="1800" value="309" >
+        <mul order="0x30" stat="pAtkSpd" value="1.3" />
+        <mul order="0x30" stat="mAtkSpd" value="1.3" />
+      </effect>
+    </for>
+  </skill>
+  <skill id="8278" levels="1" name="Transform Guard of Down">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: Transforms user into a Guard.
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="magicType" value="MAGIC" />
+    <set name="icon" value="icon.skilltransform3" />
+    <set name="magicLevel" value="56" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_ACTIVE" />
+  </skill>
+  <skill id="8279" levels="1" name="Blessing of Fire">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: Blessing of fire. Fire attribute is bestowed on physical attacks.
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skill0000" />
+    <set name="reuseDelay" value="10000" />
+    <set name="magicLevel" value="25" />
+    <set name="hitTime" value="1000" />
+    <set name="hitCancelTime" value="500" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_ACTIVE" />
+  </skill>
+  <skill id="8280" levels="1" name="Blessing of Earth">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: Blessing of earth. Earth attribute is bestowed on physical attacks.
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skill0000" />
+    <set name="reuseDelay" value="10000" />
+    <set name="magicLevel" value="25" />
+    <set name="hitTime" value="1000" />
+    <set name="hitCancelTime" value="500" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_ACTIVE" />
+  </skill>
+  <skill id="8281" levels="1" name="Inventory Slot Add">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: Increases inventory size when wearing a belt.
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="icon" value="icon.skill8281" />
+    <set name="magicLevel" value="81" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="8282" levels="1" name="Cloak Slot Add">
+    <!--  Automatically generated from The Gracia Final client files.
+                      Description: Activates the cloak slot.
+                      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+                      created 16-4-2009  22:35
+                -->
+    <set name="icon" value="icon.skill8282" />
+    <set name="magicLevel" value="81" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="8283" levels="1" name="Vesper Heavy Armor Set">
+    <!--
+                      Last modify: 21.04.2009
+                      Description: Increases Str+2, Dex-2, P. Atk./P. Def. 5.57%, Max HP 531, and resistance to sleep/hold attacks by 70% when equipped.
+                -->
+    <set name="icon" value="icon.armor_t94_u_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+      <add order="0x40" stat="STR" value="2" />
+      <sub order="0x40" stat="DEX" value="2" />
+      <mul order="0x30" stat="pAtk" value="1.0557" />
+      <mul order="0x30" stat="pDef" value="1.0557" />
+      <add order="0x40" stat="maxHp" value="531" />
+      <add order="0x40" stat="sleepResist" value="70" />
+      <add order="0x40" stat="rootResist" value="70" />
+    </for>
+  </skill>
+  <skill id="8284" levels="1" name="Vesper Noble Heavy Armor Set">
+    <!--
+                      Last modify: 21.04.2009
+                      Description: Increases Str+2, Dex-2, P. Atk./P. Def. 5.57%, Max HP 541, and resistance to sleep/hold attacks by 70% when equipped. It opens Cloak Slot.
+                -->
+    <set name="icon" value="icon.armor_t94_u_i01" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+      <add order="0x40" stat="accCombat" value="4" />
+      <add order="0x40" stat="runSpd" value="5" />
+      <mul order="0x30" stat="magicResist" value="1.01" />
+      <add order="0x40" stat="STR" value="2" />
+      <sub order="0x40" stat="DEX" value="2" />
+      <mul order="0x30" stat="pAtk" value="1.0557" />
+      <mul order="0x30" stat="pDef" value="1.0557" />
+      <add order="0x40" stat="maxHp" value="541" />
+      <add order="0x40" stat="sleepResist" value="70" />
+      <add order="0x40" stat="rootResist" value="70" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+    </for>
+  </skill>
+  <skill id="8285" levels="1" name="Vesper Light Armor Set">
+    <!--
+                      Last modify: 21.04.2009
+                      Description: Increases Str+1, Con-2, Dex+1, P. Atk./Atk. Spd./MP Recovery Rate by 5.57%, and Maximum MP by 347.4.
+                -->
+    <set name="icon" value="icon.armor_t95_u_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+      <add order="0x40" stat="STR" value="1" />
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="DEX" value="1" />
+      <mul order="0x30" stat="pAtk" value="1.0557" />
+      <mul order="0x30" stat="pAtkSpd" value="1.0557" />
+      <mul order="0x30" stat="regMp" value="1.0557" />
+      <add order="0x40" stat="maxMp" value="347" />
+    </for>
+  </skill>
+  <skill id="8286" levels="1" name="Vesper Noble Light Armor Set">
+    <!--
+                      Last modify: 21.04.2009
+                      Description: Increases Str+1, Con-2, Dex+1, P. Atk./Atk. Spd./MP Recovery Rate by 5.57%, and Maximum MP by 354.1. It opens Cloak Slot.
+                -->
+    <set name="icon" value="icon.armor_t95_u_i01" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+      <add order="0x40" stat="rEvas" value="7" />
+      <add order="0x40" stat="cAtkStatic" value="127" />
+      <add order="0x40" stat="paralyzeResist" value="50" />
+      <add order="0x40" stat="STR" value="1" />
+      <sub order="0x40" stat="CON" value="2" />
+      <add order="0x40" stat="DEX" value="1" />
+      <mul order="0x30" stat="pAtk" value="1.0557" />
+      <mul order="0x30" stat="pAtkSpd" value="1.0557" />
+      <mul order="0x30" stat="regMp" value="1.0557" />
+      <add order="0x40" stat="maxMp" value="354" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+    </for>
+  </skill>
+  <skill id="8287" levels="1" name="Vesper Robe Set">
+    <!--
+                      Last modify: 21.04.2009
+                      Description: Increases Int+1, Men-2, Wit+1, M. Atk. 8.47%, Casting Speed 15%, MP Recovery Rate 5.57%, and resistance to Stun Attacks by 50%, and decreases the damage to be cancelled by magic by 30 when equipped.
+                -->
+    <set name="icon" value="icon.armor_t96_u_i00" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+      <add order="0x40" stat="INT" value="1" />
+      <sub order="0x40" stat="MEN" value="2" />
+      <add order="0x40" stat="WIT" value="1" />
+      <mul order="0x30" stat="mAtk" value="1.0847" />
+      <mul order="0x30" stat="mAtkSpd" value="1.15" />
+      <mul order="0x30" stat="regMp" value="1.0557" />
+      <add order="0x40" stat="stunResist" value="50" />
+      <mul order="0x30" stat="concentration" value="0.7" />
+    </for>
+  </skill>
+  <skill id="8288" levels="1" name="Vesper Noble Robe Set">
+    <!--
+                      Last modify: 21.04.2009
+                      Description: Increases Int+1, Men-2, Wit+1, M. Atk. 8.47%, Casting Speed 15%, MP Recovery Rate 5.57%, and resistance to Stun Attacks by 50%, and decreases the damage to be cancelled by magic by 30 when equipped. It opens Cloak Slot.
+                -->
+    <set name="icon" value="icon.armor_t96_u_i01" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+      <add order="0x40" stat="runSpd" value="7" />
+      <mul order="0x30" stat="mpConsum" value="0.97" />
+      <add order="0x40" stat="INT" value="1" />
+      <sub order="0x40" stat="MEN" value="2" />
+      <add order="0x40" stat="WIT" value="1" />
+      <mul order="0x30" stat="mAtk" value="1.0847" />
+      <mul order="0x30" stat="mAtkSpd" value="1.15" />
+      <mul order="0x30" stat="regMp" value="1.0557" />
+      <add order="0x40" stat="stunResist" value="50" />
+      <mul order="0x30" stat="concentration" value="0.7" />
+      <add order="0x10" stat="openCloakSlot" value="1" />
+    </for>
+  </skill>
+  <skill id="8289" levels="3" name="Special Ability Focus">
+    <!--
+                        Last modify:    04.01.2010
+
+                        Description: Increases critical attack rate and damage inflicted during PvP.
+                -->
+    <table name="#baseCrit">128.7 137 137</table>
+    <table name="#magicLevel">84 85 86</table>
+    <set name="icon" value="icon.skill1077" />
+    <set name="magicLevel" value="#magicLevel" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+      <add order="0x40" stat="baseCrit" value="#baseCrit" />
+      <mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+    </for>
+  </skill>
+  <skill id="8290" levels="12" name="Add Belt Inventory Slot">
+    <!--
+                      Last modify: 21.04.2009
+                      Description: Increases inventory size when wearing a belt.
+                -->
+    <table name="#Slot">3 6 9 12 15 18 21 24 27 30 33 36</table>
+    <set name="icon" value="icon.skill0332" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+      <add order="0x40" stat="inventoryLimit" value="#Slot" />
+    </for>
+  </skill>
+  <skill id="8291" levels="12" name="Add Belt Weight Gauge">
+    <!--
+                      Last modify: 21.04.2009
+                      Description: Increases the weight gauge when wearing a belt.
+                -->
+    <table name="#Weight">1000 2000 3000 4000 5000 6000 7000 8000
+    9000 10000 11000 12000</table>
+    <set name="icon" value="icon.skill0150" />
+    <set name="magicLevel" value="1" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+      <add order="0x40" stat="maxLoad" value="#Weight" />
+    </for>
+  </skill>
+  <skill id="8292" levels="1" name="Olympiad Warrior's Ring">
+    <!--
+                        Last modify:    03.11.2009
+                        Description:    Increases resistance to hold attacks by 30, hold attack bonus by 30, critical attack power by 15% and accuracy by 2.
+                -->
+    <set name="icon" value="icon.accessory_tateossian_ring_i00" />
+    <set name="magicLevel" value="75" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+      <add order="0x40" stat="rootResist" value="30" />
+      <add order="0x40" stat="rootPower" value="30" />
+      <mul order="0x30" stat="cAtk" value="1.15" />
+      <add order="0x40" stat="accCombat" value="2" />
+    </for>
+  </skill>
+  <skill id="8293" levels="1" name="Olympiad Warrior's Earring">
+    <!--
+                      Last modify: 22.04.2009
+                      Description: Increases resistance to shock/mind attacks by 20 and shock/mind attack bonus by 20. Allows user to recover as HP 4% of the damage inflicted on an enemy, excluding damage caused by skills and long-range attack.
+                -->
+    <set name="icon" value="icon.accessory_tateossian_earring_i00" />
+    <set name="magicLevel" value="75" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+      <add order="0x40" stat="stunResist" value="20" />
+      <add order="0x40" stat="mentalResist" value="20" />
+      <add order="0x40" stat="stunPower" value="20" />
+      <add order="0x40" stat="mentalPower" value="20" />
+      <add order="0x40" stat="absorbDam" value="4" />
+    </for>
+  </skill>
+  <skill id="8294" levels="1" name="Olympiad Warrior's Necklace">
+    <!--
+                      Last modify: 30.12.2009.
+                      Description: Shadow item that can be worn for 30 days. Effects are: MP +42, 15% increase to Sleep/Hold/Shock resistance, 15% increase to Sleep/Hold/Shock attack rate, decreases magic reuse delay and reflects damage.
+                          Increases resistance to paralysis/shock/sleep attacks by 15%, increases paralysis/shock/sleep attack bonus by 15%, decreases the skill's reuse time by 5%, and reflects 4% of the damage received back to the enemy. Excludes damage caused by skills and long-range attack.
+                -->
+    <set name="icon"
+    value="icon.accessory_tateossian_necklace_i00" />
+    <set name="magicLevel" value="75" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+      <add order="0x40" stat="rootResist" value="15" />
+      <add order="0x40" stat="stunResist" value="15" />
+      <add order="0x40" stat="sleepResist" value="15" />
+      <add order="0x40" stat="rootPower" value="15" />
+      <add order="0x40" stat="stunPower" value="15" />
+      <add order="0x40" stat="sleepPower" value="15" />
+      <add order="0x40" stat="paralyzeResist" value="15" />
+      <add order="0x40" stat="paralyzePower" value="15" />
+      <mul order="0x30" stat="mReuse" value="0.95" />
+      <mul order="0x30" stat="pReuse" value="0.95" />
+      <add order="0x40" stat="reflectDam" value="4" />
+    </for>
+  </skill>
+  <skill id="8295" levels="1" name="Special Ability Focus">
+    <!--
+                        Last modify:    04.01.2010
+
+                        Description: Increases critical attack rate and damage inflicted during PvP.
+                -->
+    <set name="icon" value="icon.skill1077" />
+    <set name="magicLevel" value="81" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+			<add order="0x40" stat="baseCrit" value="109.2" />
+      <mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+    </for>
+  </skill>
+  <skill id="8296" levels="1" name="Special Ability Focus">
+    <!--
+                        Last modify:    04.01.2010
+
+                        Description: Increases critical attack rate and damage inflicted during PvP.
+                -->
+    <set name="icon" value="icon.skill1077" />
+    <set name="magicLevel" value="83" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+			<add order="0x40" stat="baseCrit" value="109.2" />
+      <mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+    </for>
+  </skill>
+  <skill id="8297" levels="1" name="Special Ability Haste">
+    <!--
+                        Last modify:    04.01.2010
+
+                        Description: Increases Atk. Spd. and damage inflicted during PvP.
+                -->
+    <set name="icon" value="icon.skill1077" />
+    <set name="magicLevel" value="85" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+			<mul order="0x30" stat="pAtkSpd" value="1.04" />
+      <mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+    </for>
+  </skill>
+  <skill id="8298" levels="1" name="Special Ability Focus">
+    <!--
+                        Last modify:    04.01.2010
+
+                        Description: Increases critical attack rate and damage inflicted during PvP.
+                -->
+    <set name="icon" value="icon.skill1077" />
+    <set name="magicLevel" value="85" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+			<add order="0x40" stat="baseCrit" value="109.2" />
+      <mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+      <mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+    </for>
+  </skill>
+  <skill id="8299" levels="1" name="Arcana Sickle">
+    <!--
+                        Last modify:    26.08.2009
+
+                        Description:
+                        Increases resistance to damage magic by 2% and decreases magic canceling damage by 13.
+                -->
+    <set name="icon" value="icon.arcana_sigil_i01" />
+    <set name="magicLevel" value="75" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_PASSIVE" />
+    <for>
+			<mul order="0x30" stat="regMp" value="1.05" />
+    </for>
+  </skill>
+</list>

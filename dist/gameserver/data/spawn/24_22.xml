@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="146366" y="151506" z="-2872" h="53090" />
+		<npc id="18368" /><!--Prison Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="146880" y="151504" z="-2872" h="49152" />
+		<npc id="18368" /><!--Prison Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="146592" y="151888" z="-2872" h="49152" />
+		<npc id="18367" /><!--Prison Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="155840" y="159936" z="-3352" h="0" />
+		<npc id="18368" /><!--Prison Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="155840" y="160448" z="-3352" h="0" />
+		<npc id="18368" /><!--Prison Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="155312" y="160160" z="-3352" h="0" />
+		<npc id="18367" /><!--Prison Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="139905" y="150381" z="-3104" h="44995" />
+		<npc id="32282" /><!--Yiyen-->
+	</spawn>
+	<spawn count="1" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="140312" y="158953" zmin="-2861" zmax="-2761" />
+			<add x="140780" y="158343" zmin="-2873" zmax="-2773" />
+			<add x="141094" y="156291" zmin="-2897" zmax="-2797" />
+			<add x="141905" y="155461" zmin="-2836" zmax="-2736" />
+			<add x="140607" y="155466" zmin="-2922" zmax="-2822" />
+			<add x="140577" y="156446" zmin="-2922" zmax="-2822" />
+			<add x="139985" y="157861" zmin="-2886" zmax="-2786" />
+		</territory>
+		<npc id="22265" /><!--Chrysocolla-->
+	</spawn>
+	<spawn count="2" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="140312" y="158953" zmin="-2861" zmax="-2761" />
+			<add x="140780" y="158343" zmin="-2873" zmax="-2773" />
+			<add x="141094" y="156291" zmin="-2897" zmax="-2797" />
+			<add x="141905" y="155461" zmin="-2836" zmax="-2736" />
+			<add x="140607" y="155466" zmin="-2922" zmax="-2822" />
+			<add x="140577" y="156446" zmin="-2922" zmax="-2822" />
+			<add x="139985" y="157861" zmin="-2886" zmax="-2786" />
+		</territory>
+		<npc id="22263" /><!--Sonneratia-->
+	</spawn>
+	<spawn count="1" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="140312" y="158953" zmin="-2861" zmax="-2761" />
+			<add x="140780" y="158343" zmin="-2873" zmax="-2773" />
+			<add x="141094" y="156291" zmin="-2897" zmax="-2797" />
+			<add x="141905" y="155461" zmin="-2836" zmax="-2736" />
+			<add x="140607" y="155466" zmin="-2922" zmax="-2822" />
+			<add x="140577" y="156446" zmin="-2922" zmax="-2822" />
+			<add x="139985" y="157861" zmin="-2886" zmax="-2786" />
+		</territory>
+		<npc id="22266" /><!--Pythia-->
+	</spawn>
+	<spawn count="6" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="148198" y="160432" zmin="-3029" zmax="-2929" />
+			<add x="149659" y="159287" zmin="-3245" zmax="-3145" />
+			<add x="151027" y="157717" zmin="-3401" zmax="-3301" />
+			<add x="152061" y="157512" zmin="-3433" zmax="-3333" />
+			<add x="152630" y="158289" zmin="-3469" zmax="-3369" />
+			<add x="150953" y="158580" zmin="-3390" zmax="-3290" />
+			<add x="148686" y="160818" zmin="-3116" zmax="-3016" />
+		</territory>
+		<npc id="22263" /><!--Sonneratia-->
+	</spawn>
+	<spawn count="4" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="148198" y="160432" zmin="-3029" zmax="-2929" />
+			<add x="149659" y="159287" zmin="-3245" zmax="-3145" />
+			<add x="151027" y="157717" zmin="-3401" zmax="-3301" />
+			<add x="152061" y="157512" zmin="-3433" zmax="-3333" />
+			<add x="152630" y="158289" zmin="-3469" zmax="-3369" />
+			<add x="150953" y="158580" zmin="-3390" zmax="-3290" />
+			<add x="148686" y="160818" zmin="-3116" zmax="-3016" />
+		</territory>
+		<npc id="22264" /><!--Castalia-->
+	</spawn>
+	<spawn count="1" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="148198" y="160432" zmin="-3029" zmax="-2929" />
+			<add x="149659" y="159287" zmin="-3245" zmax="-3145" />
+			<add x="151027" y="157717" zmin="-3401" zmax="-3301" />
+			<add x="152061" y="157512" zmin="-3433" zmax="-3333" />
+			<add x="152630" y="158289" zmin="-3469" zmax="-3369" />
+			<add x="150953" y="158580" zmin="-3390" zmax="-3290" />
+			<add x="148686" y="160818" zmin="-3116" zmax="-3016" />
+		</territory>
+		<npc id="22265" /><!--Chrysocolla-->
+	</spawn>
+	<spawn count="5" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="156417" y="155834" zmin="-3749" zmax="-3649" />
+			<add x="158169" y="155997" zmin="-3785" zmax="-3685" />
+			<add x="160930" y="155199" zmin="-3818" zmax="-3718" />
+			<add x="161258" y="154098" zmin="-3812" zmax="-3712" />
+			<add x="158708" y="154908" zmin="-3785" zmax="-3685" />
+			<add x="157459" y="155060" zmin="-3788" zmax="-3688" />
+			<add x="155958" y="154651" zmin="-3719" zmax="-3619" />
+		</territory>
+		<npc id="22266" /><!--Pythia-->
+	</spawn>
+	<spawn count="6" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="156417" y="155834" zmin="-3749" zmax="-3649" />
+			<add x="158169" y="155997" zmin="-3785" zmax="-3685" />
+			<add x="160930" y="155199" zmin="-3818" zmax="-3718" />
+			<add x="161258" y="154098" zmin="-3812" zmax="-3712" />
+			<add x="158708" y="154908" zmin="-3785" zmax="-3685" />
+			<add x="157459" y="155060" zmin="-3788" zmax="-3688" />
+			<add x="155958" y="154651" zmin="-3719" zmax="-3619" />
+		</territory>
+		<npc id="22264" /><!--Castalia-->
+	</spawn>
+	<spawn count="3" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="156417" y="155834" zmin="-3749" zmax="-3649" />
+			<add x="158169" y="155997" zmin="-3785" zmax="-3685" />
+			<add x="160930" y="155199" zmin="-3818" zmax="-3718" />
+			<add x="161258" y="154098" zmin="-3812" zmax="-3712" />
+			<add x="158708" y="154908" zmin="-3785" zmax="-3685" />
+			<add x="157459" y="155060" zmin="-3788" zmax="-3688" />
+			<add x="155958" y="154651" zmin="-3719" zmax="-3619" />
+		</territory>
+		<npc id="22267" /><!--Dark Water Dragon-->
+	</spawn>
+	<spawn count="7" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="154732" y="156105" zmin="-3712" zmax="-3612" />
+			<add x="156086" y="158165" zmin="-3537" zmax="-3437" />
+			<add x="157286" y="158276" zmin="-3394" zmax="-3294" />
+			<add x="158245" y="156791" zmin="-3365" zmax="-3265" />
+		</territory>
+		<npc id="22266" /><!--Pythia-->
+	</spawn>
+	<spawn count="5" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="154732" y="156105" zmin="-3712" zmax="-3612" />
+			<add x="156086" y="158165" zmin="-3537" zmax="-3437" />
+			<add x="157286" y="158276" zmin="-3394" zmax="-3294" />
+			<add x="158245" y="156791" zmin="-3365" zmax="-3265" />
+		</territory>
+		<npc id="22264" /><!--Castalia-->
+	</spawn>
+	<spawn count="3" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="154732" y="156105" zmin="-3712" zmax="-3612" />
+			<add x="156086" y="158165" zmin="-3537" zmax="-3437" />
+			<add x="157286" y="158276" zmin="-3394" zmax="-3294" />
+			<add x="158245" y="156791" zmin="-3365" zmax="-3265" />
+		</territory>
+		<npc id="22267" /><!--Dark Water Dragon-->
+	</spawn>
+	<spawn count="3" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="153783" y="155236" zmin="-3700" zmax="-3600" />
+			<add x="154694" y="155218" zmin="-3715" zmax="-3615" />
+			<add x="154977" y="154678" zmin="-3712" zmax="-3612" />
+			<add x="154788" y="153727" zmin="-3679" zmax="-3579" />
+			<add x="155046" y="152852" zmin="-3668" zmax="-3568" />
+			<add x="155819" y="154677" zmin="-3720" zmax="-3620" />
+			<add x="156137" y="156031" zmin="-3720" zmax="-3620" />
+		</territory>
+		<npc id="22266" /><!--Pythia-->
+	</spawn>
+	<spawn count="4" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="153783" y="155236" zmin="-3700" zmax="-3600" />
+			<add x="154694" y="155218" zmin="-3715" zmax="-3615" />
+			<add x="154977" y="154678" zmin="-3712" zmax="-3612" />
+			<add x="154788" y="153727" zmin="-3679" zmax="-3579" />
+			<add x="155046" y="152852" zmin="-3668" zmax="-3568" />
+			<add x="155819" y="154677" zmin="-3720" zmax="-3620" />
+			<add x="156137" y="156031" zmin="-3720" zmax="-3620" />
+		</territory>
+		<npc id="22264" /><!--Castalia-->
+	</spawn>
+	<spawn count="4" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="153783" y="155236" zmin="-3700" zmax="-3600" />
+			<add x="154694" y="155218" zmin="-3715" zmax="-3615" />
+			<add x="154977" y="154678" zmin="-3712" zmax="-3612" />
+			<add x="154788" y="153727" zmin="-3679" zmax="-3579" />
+			<add x="155046" y="152852" zmin="-3668" zmax="-3568" />
+			<add x="155819" y="154677" zmin="-3720" zmax="-3620" />
+			<add x="156137" y="156031" zmin="-3720" zmax="-3620" />
+		</territory>
+		<npc id="22267" /><!--Dark Water Dragon-->
+	</spawn>
+	<spawn count="5" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="153783" y="155236" zmin="-3700" zmax="-3600" />
+			<add x="154694" y="155218" zmin="-3715" zmax="-3615" />
+			<add x="154977" y="154678" zmin="-3712" zmax="-3612" />
+			<add x="154788" y="153727" zmin="-3679" zmax="-3579" />
+			<add x="155046" y="152852" zmin="-3668" zmax="-3568" />
+			<add x="155819" y="154677" zmin="-3720" zmax="-3620" />
+			<add x="156137" y="156031" zmin="-3720" zmax="-3620" />
+		</territory>
+		<npc id="22263" /><!--Sonneratia-->
+	</spawn>
+	<spawn count="4" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="153783" y="155236" zmin="-3700" zmax="-3600" />
+			<add x="154694" y="155218" zmin="-3715" zmax="-3615" />
+			<add x="154977" y="154678" zmin="-3712" zmax="-3612" />
+			<add x="154788" y="153727" zmin="-3679" zmax="-3579" />
+			<add x="155046" y="152852" zmin="-3668" zmax="-3568" />
+			<add x="155819" y="154677" zmin="-3720" zmax="-3620" />
+			<add x="156137" y="156031" zmin="-3720" zmax="-3620" />
+		</territory>
+		<npc id="22265" /><!--Chrysocolla-->
+	</spawn>
+	<spawn count="10" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="152428" y="156482" zmin="-3684" zmax="-3584" />
+			<add x="152164" y="157452" zmin="-3455" zmax="-3355" />
+			<add x="152742" y="158246" zmin="-3472" zmax="-3372" />
+			<add x="153391" y="157826" zmin="-3497" zmax="-3397" />
+			<add x="153258" y="156337" zmin="-3701" zmax="-3601" />
+			<add x="153623" y="155256" zmin="-3695" zmax="-3595" />
+			<add x="153302" y="154712" zmin="-3664" zmax="-3564" />
+			<add x="153465" y="154166" zmin="-3690" zmax="-3590" />
+			<add x="154201" y="153020" zmin="-3692" zmax="-3592" />
+			<add x="153136" y="153662" zmin="-3671" zmax="-3571" />
+			<add x="150739" y="154334" zmin="-3680" zmax="-3580" />
+			<add x="150473" y="155016" zmin="-3706" zmax="-3606" />
+		</territory>
+		<npc id="22263" /><!--Sonneratia-->
+	</spawn>
+	<spawn count="5" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="152428" y="156482" zmin="-3684" zmax="-3584" />
+			<add x="152164" y="157452" zmin="-3455" zmax="-3355" />
+			<add x="152742" y="158246" zmin="-3472" zmax="-3372" />
+			<add x="153391" y="157826" zmin="-3497" zmax="-3397" />
+			<add x="153258" y="156337" zmin="-3701" zmax="-3601" />
+			<add x="153623" y="155256" zmin="-3695" zmax="-3595" />
+			<add x="153302" y="154712" zmin="-3664" zmax="-3564" />
+			<add x="153465" y="154166" zmin="-3690" zmax="-3590" />
+			<add x="154201" y="153020" zmin="-3692" zmax="-3592" />
+			<add x="153136" y="153662" zmin="-3671" zmax="-3571" />
+			<add x="150739" y="154334" zmin="-3680" zmax="-3580" />
+			<add x="150473" y="155016" zmin="-3706" zmax="-3606" />
+		</territory>
+		<npc id="22267" /><!--Dark Water Dragon-->
+	</spawn>
+	<spawn count="8" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="152428" y="156482" zmin="-3684" zmax="-3584" />
+			<add x="152164" y="157452" zmin="-3455" zmax="-3355" />
+			<add x="152742" y="158246" zmin="-3472" zmax="-3372" />
+			<add x="153391" y="157826" zmin="-3497" zmax="-3397" />
+			<add x="153258" y="156337" zmin="-3701" zmax="-3601" />
+			<add x="153623" y="155256" zmin="-3695" zmax="-3595" />
+			<add x="153302" y="154712" zmin="-3664" zmax="-3564" />
+			<add x="153465" y="154166" zmin="-3690" zmax="-3590" />
+			<add x="154201" y="153020" zmin="-3692" zmax="-3592" />
+			<add x="153136" y="153662" zmin="-3671" zmax="-3571" />
+			<add x="150739" y="154334" zmin="-3680" zmax="-3580" />
+			<add x="150473" y="155016" zmin="-3706" zmax="-3606" />
+		</territory>
+		<npc id="22265" /><!--Chrysocolla-->
+	</spawn>
+	<spawn count="3" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="156092" y="152647" zmin="-3640" zmax="-3540" />
+			<add x="157622" y="151616" zmin="-3393" zmax="-3293" />
+			<add x="160958" y="151587" zmin="-3440" zmax="-3340" />
+			<add x="161255" y="152710" zmin="-3495" zmax="-3395" />
+			<add x="157335" y="153432" zmin="-3534" zmax="-3434" />
+		</territory>
+		<npc id="22263" /><!--Sonneratia-->
+	</spawn>
+	<spawn count="3" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="156092" y="152647" zmin="-3640" zmax="-3540" />
+			<add x="157622" y="151616" zmin="-3393" zmax="-3293" />
+			<add x="160958" y="151587" zmin="-3440" zmax="-3340" />
+			<add x="161255" y="152710" zmin="-3495" zmax="-3395" />
+			<add x="157335" y="153432" zmin="-3534" zmax="-3434" />
+		</territory>
+		<npc id="22267" /><!--Dark Water Dragon-->
+	</spawn>
+	<spawn count="5" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="156092" y="152647" zmin="-3640" zmax="-3540" />
+			<add x="157622" y="151616" zmin="-3393" zmax="-3293" />
+			<add x="160958" y="151587" zmin="-3440" zmax="-3340" />
+			<add x="161255" y="152710" zmin="-3495" zmax="-3395" />
+			<add x="157335" y="153432" zmin="-3534" zmax="-3434" />
+		</territory>
+		<npc id="22265" /><!--Chrysocolla-->
+	</spawn>
+	<spawn count="3" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="156092" y="152647" zmin="-3640" zmax="-3540" />
+			<add x="157622" y="151616" zmin="-3393" zmax="-3293" />
+			<add x="160958" y="151587" zmin="-3440" zmax="-3340" />
+			<add x="161255" y="152710" zmin="-3495" zmax="-3395" />
+			<add x="157335" y="153432" zmin="-3534" zmax="-3434" />
+		</territory>
+		<npc id="22266" /><!--Pythia-->
+	</spawn>
+	<spawn count="4" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="156092" y="152647" zmin="-3640" zmax="-3540" />
+			<add x="157622" y="151616" zmin="-3393" zmax="-3293" />
+			<add x="160958" y="151587" zmin="-3440" zmax="-3340" />
+			<add x="161255" y="152710" zmin="-3495" zmax="-3395" />
+			<add x="157335" y="153432" zmin="-3534" zmax="-3434" />
+		</territory>
+		<npc id="22264" /><!--Castalia-->
+	</spawn>
+	<spawn count="4" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="155605" y="152322" zmin="-3698" zmax="-3598" />
+			<add x="156936" y="151231" zmin="-3656" zmax="-3556" />
+			<add x="156917" y="147814" zmin="-3656" zmax="-3556" />
+			<add x="155199" y="148252" zmin="-3798" zmax="-3698" />
+			<add x="155452" y="150146" zmin="-3796" zmax="-3696" />
+			<add x="154827" y="151484" zmin="-3744" zmax="-3644" />
+		</territory>
+		<npc id="22263" /><!--Sonneratia-->
+	</spawn>
+	<spawn count="5" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="155605" y="152322" zmin="-3698" zmax="-3598" />
+			<add x="156936" y="151231" zmin="-3656" zmax="-3556" />
+			<add x="156917" y="147814" zmin="-3656" zmax="-3556" />
+			<add x="155199" y="148252" zmin="-3798" zmax="-3698" />
+			<add x="155452" y="150146" zmin="-3796" zmax="-3696" />
+			<add x="154827" y="151484" zmin="-3744" zmax="-3644" />
+		</territory>
+		<npc id="22267" /><!--Dark Water Dragon-->
+	</spawn>
+	<spawn count="6" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="155605" y="152322" zmin="-3698" zmax="-3598" />
+			<add x="156936" y="151231" zmin="-3656" zmax="-3556" />
+			<add x="156917" y="147814" zmin="-3656" zmax="-3556" />
+			<add x="155199" y="148252" zmin="-3798" zmax="-3698" />
+			<add x="155452" y="150146" zmin="-3796" zmax="-3696" />
+			<add x="154827" y="151484" zmin="-3744" zmax="-3644" />
+		</territory>
+		<npc id="22265" /><!--Chrysocolla-->
+	</spawn>
+	<spawn count="4" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="155605" y="152322" zmin="-3698" zmax="-3598" />
+			<add x="156936" y="151231" zmin="-3656" zmax="-3556" />
+			<add x="156917" y="147814" zmin="-3656" zmax="-3556" />
+			<add x="155199" y="148252" zmin="-3798" zmax="-3698" />
+			<add x="155452" y="150146" zmin="-3796" zmax="-3696" />
+			<add x="154827" y="151484" zmin="-3744" zmax="-3644" />
+		</territory>
+		<npc id="22266" /><!--Pythia-->
+	</spawn>
+	<spawn count="5" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="155605" y="152322" zmin="-3698" zmax="-3598" />
+			<add x="156936" y="151231" zmin="-3656" zmax="-3556" />
+			<add x="156917" y="147814" zmin="-3656" zmax="-3556" />
+			<add x="155199" y="148252" zmin="-3798" zmax="-3698" />
+			<add x="155452" y="150146" zmin="-3796" zmax="-3696" />
+			<add x="154827" y="151484" zmin="-3744" zmax="-3644" />
+		</territory>
+		<npc id="22264" /><!--Castalia-->
+	</spawn>
+	<spawn count="10" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="154506" y="152364" zmin="-3682" zmax="-3582" />
+			<add x="153878" y="151635" zmin="-3566" zmax="-3466" />
+			<add x="151918" y="151454" zmin="-3531" zmax="-3431" />
+			<add x="151495" y="147976" zmin="-3200" zmax="-3100" />
+			<add x="152705" y="146124" zmin="-3199" zmax="-3099" />
+			<add x="153968" y="146635" zmin="-3215" zmax="-3115" />
+			<add x="154426" y="150396" zmin="-3376" zmax="-3276" />
+		</territory>
+		<npc id="22263" /><!--Sonneratia-->
+	</spawn>
+	<spawn count="9" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="154506" y="152364" zmin="-3682" zmax="-3582" />
+			<add x="153878" y="151635" zmin="-3566" zmax="-3466" />
+			<add x="151918" y="151454" zmin="-3531" zmax="-3431" />
+			<add x="151495" y="147976" zmin="-3200" zmax="-3100" />
+			<add x="152705" y="146124" zmin="-3199" zmax="-3099" />
+			<add x="153968" y="146635" zmin="-3215" zmax="-3115" />
+			<add x="154426" y="150396" zmin="-3376" zmax="-3276" />
+		</territory>
+		<npc id="22267" /><!--Dark Water Dragon-->
+	</spawn>
+	<spawn count="12" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="154506" y="152364" zmin="-3682" zmax="-3582" />
+			<add x="153878" y="151635" zmin="-3566" zmax="-3466" />
+			<add x="151918" y="151454" zmin="-3531" zmax="-3431" />
+			<add x="151495" y="147976" zmin="-3200" zmax="-3100" />
+			<add x="152705" y="146124" zmin="-3199" zmax="-3099" />
+			<add x="153968" y="146635" zmin="-3215" zmax="-3115" />
+			<add x="154426" y="150396" zmin="-3376" zmax="-3276" />
+		</territory>
+		<npc id="22265" /><!--Chrysocolla-->
+	</spawn>
+	<spawn count="10" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="154506" y="152364" zmin="-3682" zmax="-3582" />
+			<add x="153878" y="151635" zmin="-3566" zmax="-3466" />
+			<add x="151918" y="151454" zmin="-3531" zmax="-3431" />
+			<add x="151495" y="147976" zmin="-3200" zmax="-3100" />
+			<add x="152705" y="146124" zmin="-3199" zmax="-3099" />
+			<add x="153968" y="146635" zmin="-3215" zmax="-3115" />
+			<add x="154426" y="150396" zmin="-3376" zmax="-3276" />
+		</territory>
+		<npc id="22266" /><!--Pythia-->
+	</spawn>
+	<spawn count="10" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="154506" y="152364" zmin="-3682" zmax="-3582" />
+			<add x="153878" y="151635" zmin="-3566" zmax="-3466" />
+			<add x="151918" y="151454" zmin="-3531" zmax="-3431" />
+			<add x="151495" y="147976" zmin="-3200" zmax="-3100" />
+			<add x="152705" y="146124" zmin="-3199" zmax="-3099" />
+			<add x="153968" y="146635" zmin="-3215" zmax="-3115" />
+			<add x="154426" y="150396" zmin="-3376" zmax="-3276" />
+		</territory>
+		<npc id="22264" /><!--Castalia-->
+	</spawn>
+	<!--Crystal Caverns Instance-->
+	<spawn group="cry_cav_npc_main" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="143168" y="148928" z="-11975" h="0"/>
+		<npc id="32280"/>
+	</spawn>
+
+	<territory name="cry_cav_corgar_monsters_1">
+		<add x="142703" y="151889" zmin="-11866" zmax="-11566"/>
+		<add x="142568" y="152323" zmin="-11866" zmax="-11566"/>
+		<add x="141946" y="152957" zmin="-11866" zmax="-11566"/>
+		<add x="141745" y="153660" zmin="-11866" zmax="-11566"/>
+		<add x="140758" y="153657" zmin="-11866" zmax="-11566"/>
+		<add x="140584" y="153011" zmin="-11866" zmax="-11566"/>
+		<add x="139975" y="152375" zmin="-11866" zmax="-11566"/>
+		<add x="139813" y="151976" zmin="-11866" zmax="-11566"/>
+		<add x="139800" y="151452" zmin="-11866" zmax="-11566"/>
+		<add x="139962" y="150976" zmin="-11866" zmax="-11566"/>
+		<add x="140538" y="150400" zmin="-11866" zmax="-11566"/>
+		<add x="140721" y="150004" zmin="-11866" zmax="-11566"/>
+		<add x="140755" y="149688" zmin="-11866" zmax="-11566"/>
+		<add x="141751" y="149682" zmin="-11866" zmax="-11566"/>
+		<add x="141783" y="150027" zmin="-11866" zmax="-11566"/>
+		<add x="141964" y="150405" zmin="-11866" zmax="-11566"/>
+		<add x="142501" y="150939" zmin="-11866" zmax="-11566"/>
+		<add x="142501" y="150939" zmin="-11866" zmax="-11566"/>
+		<add x="142699" y="151439" zmin="-11866" zmax="-11566"/>
+	</territory>
+	<spawn group="cry_cav_corgar_monsters_1" count="11" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_corgar_monsters_1"/>
+		<npc id="22312"/>
+	</spawn>
+	<spawn group="cry_cav_corgar_monsters_1" count="4" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_corgar_monsters_1"/>
+		<npc id="22313"/>
+	</spawn>
+	<spawn group="cry_cav_corgar_monsters_1" count="4" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_corgar_monsters_1"/>
+		<npc id="22314"/>
+	</spawn>
+	<spawn group="cry_cav_corgar_monsters_1" count="4" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_corgar_monsters_1"/>
+		<npc id="22315"/>
+	</spawn>
+	<spawn group="cry_cav_corgar_monsters_1" count="4" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_corgar_monsters_1"/>
+		<npc id="22316"/>
+	</spawn>
+	<spawn group="cry_cav_corgar_monsters_1" count="4" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_corgar_monsters_1"/>
+		<npc id="22317"/>
+	</spawn>
+	<spawn group="cry_cav_corgar_monsters_1" count="5" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_corgar_monsters_1"/>
+		<npc id="22311"/>
+	</spawn>
+	<territory name="cry_cav_corgar_monsters_2">
+		<add x="140723" y="153905" zmin="-11866" zmax="-11566"/>
+		<add x="141770" y="153907" zmin="-11866" zmax="-11566"/>
+		<add x="141772" y="154953" zmin="-11866" zmax="-11566"/>
+		<add x="140722" y="154953" zmin="-11866" zmax="-11566"/>
+	</territory>
+	<spawn group="cry_cav_corgar_monsters_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_corgar_monsters_2"/>
+		<npc id="22315"/>
+	</spawn>
+	<spawn group="cry_cav_corgar_monsters_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_corgar_monsters_2"/>
+		<npc id="22316"/>
+	</spawn>
+	<spawn group="cry_cav_corgar_monsters_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_corgar_monsters_2"/>
+		<npc id="22314"/>
+	</spawn>
+	<territory name="cry_cav_corgar_monsters_3">
+		<add x="142014" y="153908" zmin="-11866" zmax="-11566"/>
+		<add x="143060" y="153904" zmin="-11866" zmax="-11566"/>
+		<add x="143061" y="154952" zmin="-11866" zmax="-11566"/>
+		<add x="142016" y="154951" zmin="-11866" zmax="-11566"/>
+	</territory>
+	<spawn group="cry_cav_corgar_monsters_3" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_corgar_monsters_3"/>
+		<npc id="22315"/>
+	</spawn>
+	<spawn group="cry_cav_corgar_monsters_3" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_corgar_monsters_3"/>
+		<npc id="22316"/>
+	</spawn>
+	<spawn group="cry_cav_corgar_monsters_3" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_corgar_monsters_3"/>
+		<npc id="22314"/>
+	</spawn>
+
+	<spawn group="cry_cav_corgar_golem" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="141887" y="151648" z="-11840" h="0"/>
+		<npc id="32328"/>
+	</spawn>
+	<spawn group="cry_cav_corgar_golem" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="140610" y="151681" z="-11840" h="32768"/>
+		<npc id="32328"/>
+	</spawn>
+
+	<spawn group="cry_cav_corgar_tear" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144304" y="154416" z="-11824" h="32768"/>
+		<npc id="25534"/>
+	</spawn>
+
+	<!-- Chromatic hall -->
+
+	<territory name="cry_cav_chrom_hall_mon_1">
+		<add x="144600" y="149487" zmin="-12184" zmax="-11954"/>
+		<add x="144466" y="149903" zmin="-12184" zmax="-11954"/>
+		<add x="144118" y="149904" zmin="-12184" zmax="-11954"/>
+		<add x="143962" y="149487" zmin="-12184" zmax="-11954"/>
+		<add x="144128" y="149102" zmin="-12184" zmax="-11954"/>
+		<add x="144451" y="149105" zmin="-12184" zmax="-11954"/>
+	</territory>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_1"/>
+		<npc id="22279"/>
+	</spawn>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_1"/>
+		<npc id="22282"/>
+	</spawn>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_1"/>
+		<npc id="22284"/>
+	</spawn>
+
+	<territory name="cry_cav_chrom_hall_mon_2">
+		<add x="145836" y="149645" zmin="-12184" zmax="-11954"/>
+		<add x="145429" y="149832" zmin="-12184" zmax="-11954"/>
+		<add x="144988" y="149610" zmin="-12184" zmax="-11954"/>
+		<add x="144991" y="149335" zmin="-12184" zmax="-11954"/>
+		<add x="145430" y="149121" zmin="-12184" zmax="-11954"/>
+		<add x="145842" y="149326" zmin="-12184" zmax="-11954"/>
+	</territory>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_2"/>
+		<npc id="22285"/>
+	</spawn>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_2"/>
+		<npc id="22282"/>
+	</spawn>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_2"/>
+		<npc id="22284"/>
+	</spawn>
+
+	<territory name="cry_cav_chrom_hall_mon_3">
+		<add x="147008" y="149655" zmin="-12184" zmax="-11954"/>
+		<add x="146601" y="149842" zmin="-12184" zmax="-11954"/>
+		<add x="146160" y="149620" zmin="-12184" zmax="-11954"/>
+		<add x="146163" y="149346" zmin="-12184" zmax="-11954"/>
+		<add x="146602" y="149131" zmin="-12184" zmax="-11954"/>
+		<add x="147014" y="149337" zmin="-12184" zmax="-11954"/>
+	</territory>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_3"/>
+		<npc id="22285"/>
+	</spawn>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_3"/>
+		<npc id="22282"/>
+	</spawn>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_3"/>
+		<npc id="22284"/>
+	</spawn>
+
+	<territory name="cry_cav_chrom_hall_mon_4">
+		<add x="147008" y="149655" zmin="-12184" zmax="-11954"/>
+		<add x="146601" y="149842" zmin="-12184" zmax="-11954"/>
+		<add x="146160" y="149620" zmin="-12184" zmax="-11954"/>
+		<add x="146163" y="149346" zmin="-12184" zmax="-11954"/>
+		<add x="146602" y="149131" zmin="-12184" zmax="-11954"/>
+		<add x="147014" y="149337" zmin="-12184" zmax="-11954"/>
+	</territory>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_4"/>
+		<npc id="22275"/>
+	</spawn>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_4"/>
+		<npc id="22284"/>
+	</spawn>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_4"/>
+		<npc id="22285"/>
+	</spawn>
+
+	<territory name="cry_cav_chrom_hall_mon_5">
+		<add x="144629" y="150292" zmin="-12184" zmax="-11954"/>
+		<add x="144466" y="150702" zmin="-12184" zmax="-11954"/>
+		<add x="144113" y="150702" zmin="-12184" zmax="-11954"/>
+		<add x="143965" y="150292" zmin="-12184" zmax="-11954"/>
+		<add x="144118" y="149907" zmin="-12184" zmax="-11954"/>
+		<add x="144463" y="149907" zmin="-12184" zmax="-11954"/>
+	</territory>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_5"/>
+		<npc id="22279"/>
+	</spawn>
+
+	<territory name="cry_cav_chrom_hall_mon_6">
+		<add x="144612" y="151106" zmin="-12184" zmax="-11954"/>
+		<add x="144432" y="151513" zmin="-12184" zmax="-11954"/>
+		<add x="144159" y="151516" zmin="-12184" zmax="-11954"/>
+		<add x="143961" y="151087" zmin="-12184" zmax="-11954"/>
+		<add x="144113" y="150706" zmin="-12184" zmax="-11954"/>
+		<add x="144468" y="150706" zmin="-12184" zmax="-11954"/>
+	</territory>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_6"/>
+		<npc id="22279"/>
+	</spawn>
+
+	<territory name="cry_cav_chrom_hall_mon_7">
+		<add x="145843" y="151273" zmin="-12184" zmax="-11954"/>
+		<add x="145436" y="151460" zmin="-12184" zmax="-11954"/>
+		<add x="144995" y="151238" zmin="-12184" zmax="-11954"/>
+		<add x="144998" y="150963" zmin="-12184" zmax="-11954"/>
+		<add x="145437" y="150749" zmin="-12184" zmax="-11954"/>
+		<add x="145849" y="150954" zmin="-12184" zmax="-11954"/>
+	</territory>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_7"/>
+		<npc id="22279"/>
+	</spawn>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_7"/>
+		<npc id="22282"/>
+	</spawn>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_7"/>
+		<npc id="22285"/>
+	</spawn>
+
+	<territory name="cry_cav_chrom_hall_mon_8">
+		<add x="147009" y="151268" zmin="-12184" zmax="-11954"/>
+		<add x="146602" y="151455" zmin="-12184" zmax="-11954"/>
+		<add x="146161" y="151233" zmin="-12184" zmax="-11954"/>
+		<add x="146163" y="150959" zmin="-12184" zmax="-11954"/>
+		<add x="146603" y="150744" zmin="-12184" zmax="-11954"/>
+		<add x="147015" y="150950" zmin="-12184" zmax="-11954"/>
+	</territory>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_8"/>
+		<npc id="22279"/>
+	</spawn>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_8"/>
+		<npc id="22282"/>
+	</spawn>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_8"/>
+		<npc id="22284"/>
+	</spawn>
+
+	<territory name="cry_cav_chrom_hall_mon_9">
+		<add x="148185" y="151266" zmin="-12184" zmax="-11954"/>
+		<add x="147778" y="151452" zmin="-12184" zmax="-11954"/>
+		<add x="147337" y="151231" zmin="-12184" zmax="-11954"/>
+		<add x="147340" y="150956" zmin="-12184" zmax="-11954"/>
+		<add x="147779" y="150741" zmin="-12184" zmax="-11954"/>
+		<add x="148191" y="150947" zmin="-12184" zmax="-11954"/>
+	</territory>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_9"/>
+		<npc id="22277"/>
+	</spawn>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_9"/>
+		<npc id="22282"/>
+	</spawn>
+	<spawn group="cry_cav_chrom_hall_mon_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_chrom_hall_mon_9"/>
+		<npc id="22284"/>
+	</spawn>
+
+	<!-- Cooridor 1 -->
+	<territory name="cry_cav_steam_room_1">
+		<add x="144721" y="152211" zmin="-12205" zmax="-11905"/>
+		<add x="147192" y="152206" zmin="-12205" zmax="-11905"/>
+		<add x="147185" y="152999" zmin="-12205" zmax="-11905"/>
+		<add x="144713" y="153001" zmin="-12205" zmax="-11905"/>
+	</territory>
+	<spawn group="cry_cav_steam_room_1" count="4" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room_1"/>
+		<npc id="22305"/>
+	</spawn>
+	<spawn group="cry_cav_steam_room_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room_1"/>
+		<npc id="22418"/>
+	</spawn>
+	<spawn group="cry_cav_steam_room_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room_1"/>
+		<npc id="22419"/>
+	</spawn>
+
+	<territory name="cry_cav_steam_room_2">
+		<add x="147399" y="152213" zmin="-12205" zmax="-11905"/>
+		<add x="149891" y="152211" zmin="-12205" zmax="-11905"/>
+		<add x="149888" y="153005" zmin="-12205" zmax="-11905"/>
+		<add x="147397" y="153005" zmin="-12205" zmax="-11905"/>
+	</territory>
+	<spawn group="cry_cav_steam_room_1" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room_2"/>
+		<npc id="22306"/>
+	</spawn>
+	<spawn group="cry_cav_steam_room_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room_2"/>
+		<npc id="22419"/>
+	</spawn>
+	<spawn group="cry_cav_steam_room_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room_2"/>
+		<npc id="22420"/>
+	</spawn>
+
+	<territory name="cry_cav_steam_room_3">
+		<add x="150086" y="152210" zmin="-12205" zmax="-11905"/>
+		<add x="152578" y="152211" zmin="-12205" zmax="-11905"/>
+		<add x="152575" y="153005" zmin="-12205" zmax="-11905"/>
+		<add x="150087" y="153005" zmin="-12205" zmax="-11905"/>
+	</territory>
+	<spawn group="cry_cav_steam_room_1" count="4" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room_3"/>
+		<npc id="22307"/>
+	</spawn>
+
+	<territory name="cry_cav_steam_room_4">
+		<add x="149737" y="149588" zmin="-12205" zmax="-11905"/>
+		<add x="152223" y="149586" zmin="-12205" zmax="-11905"/>
+		<add x="152223" y="150382" zmin="-12205" zmax="-11905"/>
+		<add x="149741" y="150382" zmin="-12205" zmax="-11905"/>
+	</territory>
+	<spawn group="cry_cav_steam_room_1" count="4" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room_4"/>
+		<npc id="22416"/>
+	</spawn>
+	<spawn group="cry_cav_steam_room_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room_4"/>
+		<npc id="22418"/>
+	</spawn>
+	<spawn group="cry_cav_steam_room_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room_4"/>
+		<npc id="22419"/>
+	</spawn>
+	<spawn group="cry_cav_steam_room_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room_4"/>
+		<npc id="22420"/>
+	</spawn>
+	<!--
+	<spawn group="cry_cav_steam_room_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="145536" y="152832" z="-12155" h="0"/>
+		<npc id="18739"/>
+	</spawn>
+		<spawn group="cry_cav_steam_room_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="146384" y="152384" z="-12155" h="0"/>
+		<npc id="18740"/>
+	</spawn>
+	-->
+
+	<!-- Room2 -->
+	<territory name="cry_cav_steam_room2_1">
+		<add x="144721" y="152211" zmin="-12205" zmax="-11905"/>
+		<add x="147192" y="152206" zmin="-12205" zmax="-11905"/>
+		<add x="147185" y="152999" zmin="-12205" zmax="-11905"/>
+		<add x="144713" y="153001" zmin="-12205" zmax="-11905"/>
+	</territory>
+	<spawn group="cry_cav_steam_room2_1" count="4" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room2_1"/>
+		<npc id="22305"/>
+	</spawn>
+	<spawn group="cry_cav_steam_room2_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room2_1"/>
+		<npc id="22418"/>
+	</spawn>
+	<spawn group="cry_cav_steam_room2_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room2_1"/>
+		<npc id="22419"/>
+	</spawn>
+
+	<territory name="cry_cav_steam_room2_2">
+		<add x="147399" y="152213" zmin="-12205" zmax="-11905"/>
+		<add x="149891" y="152211" zmin="-12205" zmax="-11905"/>
+		<add x="149888" y="153005" zmin="-12205" zmax="-11905"/>
+		<add x="147397" y="153005" zmin="-12205" zmax="-11905"/>
+	</territory>
+	<spawn group="cry_cav_steam_room2_1" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room2_2"/>
+		<npc id="22306"/>
+	</spawn>
+	<spawn group="cry_cav_steam_room2_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room2_2"/>
+		<npc id="22419"/>
+	</spawn>
+	<spawn group="cry_cav_steam_room2_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room2_2"/>
+		<npc id="22420"/>
+	</spawn>
+
+	<territory name="cry_cav_steam_room2_3">
+		<add x="150086" y="152210" zmin="-12205" zmax="-11905"/>
+		<add x="152578" y="152211" zmin="-12205" zmax="-11905"/>
+		<add x="152575" y="153005" zmin="-12205" zmax="-11905"/>
+		<add x="150087" y="153005" zmin="-12205" zmax="-11905"/>
+	</territory>
+	<spawn group="cry_cav_steam_room2_1" count="4" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room2_3"/>
+		<npc id="22307"/>
+	</spawn>
+
+	<territory name="cry_cav_steam_room2_4">
+		<add x="149737" y="149588" zmin="-12205" zmax="-11905"/>
+		<add x="152223" y="149586" zmin="-12205" zmax="-11905"/>
+		<add x="152223" y="150382" zmin="-12205" zmax="-11905"/>
+		<add x="149741" y="150382" zmin="-12205" zmax="-11905"/>
+	</territory>
+	<spawn group="cry_cav_steam_room2_1" count="4" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room2_4"/>
+		<npc id="22416"/>
+	</spawn>
+	<spawn group="cry_cav_steam_room2_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room2_4"/>
+		<npc id="22418"/>
+	</spawn>
+	<spawn group="cry_cav_steam_room2_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room2_4"/>
+		<npc id="22419"/>
+	</spawn>
+	<spawn group="cry_cav_steam_room2_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="cry_cav_steam_room2_4"/>
+		<npc id="22420"/>
+	</spawn>
+	<!-- kechi -->
+	<spawn group="cry_cav_steam_kechi" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="154076" y="149532" z="-12096" h="32768"/>
+		<npc id="25532"/>
+	</spawn>
+
+	<!-- Emerald Square -->
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144880" y="147632" z="-12128" h="32768"/>
+		<npc id="22286"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144384" y="147584" z="-12128" h="0"/>
+		<npc id="22286"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144448" y="147568" z="-12128" h="20480"/>
+		<npc id="22287"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="145136" y="147232" z="-12103" h="28672"/>
+		<npc id="22287"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="145072" y="147248" z="-12103" h="32768"/>
+		<npc id="22287"/>
+	</spawn>
+
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144864" y="146816" z="-12032" h="12288"/>
+		<npc id="22287"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144928" y="146800" z="-12032" h="12288"/>
+		<npc id="22287"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144592" y="147184" z="-12032" h="12288"/>
+		<npc id="22288"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144624" y="147136" z="-12032" h="12288"/>
+		<npc id="22288"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144304" y="146864" z="-12032" h="12288"/>
+		<npc id="22288"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144112" y="146976" z="-12032" h="12288"/>
+		<npc id="22289"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="143904" y="147104" z="-12032" h="12288"/>
+		<npc id="22289"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="143824" y="146640" z="-12032" h="12288"/>
+		<npc id="22289"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="143904" y="146576" z="-12032" h="12288"/>
+		<npc id="22288"/>
+	</spawn>
+
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="142640" y="145408" z="-12032" h="12288"/>
+		<npc id="22289"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="143328" y="144976" z="-12032" h="12288"/>
+		<npc id="22292"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="143248" y="146096" z="-12032" h="12288"/>
+		<npc id="22292"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="143648" y="145808" z="-12032" h="12288"/>
+		<npc id="22293"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="142832" y="146384" z="-12032" h="12288"/>
+		<npc id="22294"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="141824" y="144960" z="-12032" h="12288"/>
+		<npc id="22294"/>
+	</spawn>
+
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="142656" y="144448" z="-11968" h="12288"/>
+		<npc id="22292"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="143360" y="144208" z="-11968" h="12288"/>
+		<npc id="22293"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="141600" y="144320" z="-11920" h="12288"/>
+		<npc id="22280"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="141680" y="144256" z="-11920" h="12288"/>
+		<npc id="22292"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="143488" y="142656" z="-11872" h="12288"/>
+		<npc id="22280"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="143600" y="142672" z="-11872" h="12288"/>
+		<npc id="22293"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="143968" y="142544" z="-11872" h="12288"/>
+		<npc id="22294"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="143728" y="142848" z="-11872" h="12288"/>
+		<npc id="22292"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="143728" y="142928" z="-11872" h="12288"/>
+		<npc id="22280"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144336" y="143984" z="-12000" h="12288"/>
+		<npc id="22293"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144320" y="143936" z="-12000" h="12288"/>
+		<npc id="22294"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144320" y="143680" z="-11984" h="12288"/>
+		<npc id="22292"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144304" y="143408" z="-11961" h="12288"/>
+		<npc id="22280"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144304" y="143360" z="-11952" h="12288"/>
+		<npc id="22294"/>
+	</spawn>
+
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="149280" y="146656" z="-12352" h="12288"/>
+		<npc id="22294"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="149216" y="146720" z="-12352" h="12288"/>
+		<npc id="22280"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="147680" y="146704" z="-12272" h="12288"/>
+		<npc id="22294"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="147728" y="146544" z="-12272" h="12288"/>
+		<npc id="22280"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="147872" y="146720" z="-12288" h="12288"/>
+		<npc id="22281"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="147872" y="146720" z="-12288" h="12288"/>
+		<npc id="22294"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="149152" y="143536" z="-12288" h="12288"/>
+		<npc id="22283"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="147680" y="144032" z="-12220" h="12288"/>
+		<npc id="22294"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="147648" y="143456" z="-12220" h="12288"/>
+		<npc id="22283"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="147872" y="143760" z="-12220" h="12288"/>
+		<npc id="22280"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="149248" y="143728" z="-12220" h="12288"/>
+		<npc id="22281"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_monsters" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="142224" y="139952" z="-11856" h="8192"/>
+		<npc id="32359"/>
+	</spawn>
+
+	<spawn group="cry_cav_emerald_main_trap" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="143656" y="142680" z="-11880" h="16383"/>
+		<npc id="18378"/>
+	</spawn>
+
+	<spawn group="cry_cav_emerald_main_reef_golems" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="142090" y="144214" z="-11955" h="32768"/>
+		<npc id="22295"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_reef_golems" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="143831" y="142671" z="-11955" h="8192"/>
+		<npc id="22296"/>
+	</spawn>
+
+	<spawn group="cry_cav_emerald_main_callers" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="142090" y="144214" z="-11955" h="32768"/>
+		<npc id="22299"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_callers" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="147208" y="146776" z="-12256" h="0"/>
+		<npc id="22301"/>
+	</spawn>
+
+	<spawn group="cry_cav_emerald_main_guardian" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="142680" y="140488" z="-11880" h="8192"/>
+		<npc id="22298"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_guardian" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="146264" y="141496" z="-11880" h="8192"/>
+		<npc id="22303"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_guardian" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="145112" y="143704" z="-12808" h="8192"/>
+		<npc id="22302"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_guardian" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="150568" y="142232" z="-12112" h="8192"/>
+		<npc id="22304"/>
+	</spawn>
+
+	<spawn group="cry_cav_emerald_main_doorcontrollers" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="144360" y="142488" z="-11888" h="0"/>
+		<npc id="18932"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_doorcontrollers" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="149544" y="143496" z="-12112" h="0"/>
+		<npc id="18932"/>
+	</spawn>
+	<spawn group="cry_cav_emerald_main_doorcontrollers" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="147352" y="143704" z="-12216" h="0"/>
+		<npc id="18932"/>
+	</spawn>
+
+	<!-- Darnel -->
+	<spawn group="cry_cav_emerald_main_darnel" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="152760" y="145944" z="-12610" h="0"/>
+		<npc id="25531"/>
+	</spawn>	
+</list>

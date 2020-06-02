@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+  <!--   Расходные магазин Адена   -->
+  <!-- Arrows -->
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="17" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="1341" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="1342" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="1343" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="1344" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="20"/>
+    <production id="1345" count="1"/>
+  </item>
+
+  <!-- Bolts -->
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="9632" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="9633" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="9634" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="9635" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="9636" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="20"/>
+    <production id="9637" count="1"/>
+  </item>
+
+  <!-- Crystals -->
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="1458" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="1459" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="1460" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="1461" count="1"/>
+  </item>
+  
+ 
+ 
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="21746" count="1"/> <!--Maestro's Key-->
+</item>
+
+  <!-- Gemstones -->
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="2130" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="2131" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="2132" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="2133" count="1"/>
+  </item>
+  
+
+  <!-- Soul Ore -->
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="1785" count="1"/>
+  </item>
+
+  <!-- Spirit Ore -->
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="3031" count="1"/>
+  </item>
+
+  <!-- Scroll: Recovery (Grade D) -->
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="8595" count="1"/>
+  </item>
+
+  <!-- Scroll: Recovery (Grade C) -->
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="8596" count="1"/>
+  </item>
+
+  <!-- Scroll: Recovery (Grade B) -->
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="8597" count="1"/>
+  </item>
+
+  <!-- Scroll: Recovery (Grade A) -->
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="8598" count="1"/>
+  </item>
+
+  <!-- Scroll: Recovery (Grade S) -->
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="8599" count="1"/>
+  </item>
+
+  <!-- Scroll of Resurrection -->
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="737" count="1"/>
+  </item>
+
+  
+
+  <!-- Scroll of Escape -->
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="736" count="1"/>
+  </item>
+
+  <!-- Greater Healing Potion -->
+
+  <item>
+    <ingredient id="57" count="5000"/>
+    <production id="1539" count="1"/>
+  </item>
+
+  <!-- Quick Healing Potion 
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="1540" count="1"/>
+  </item>
+
+  Mana Drug 
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="726" count="1"/>
+  </item>
+
+  Mana Potion
+	-->
+  <item>
+    <ingredient id="57" count="15000"/>
+    <production id="728" count="1"/>
+  </item>  
+
+  <!-- Mystery Potion -->
+
+  <item>
+    <ingredient id="57" count="-1"/>
+    <production id="5234" count="1"/>
+  </item>
+	<item>
+		<production id="8875" count="1"/>
+		<ingredient id="57" count="-1"/>
+	</item>
+	<item>
+		<production id="8876" count="1"/>
+		<ingredient id="57" count="-1"/>
+	</item>
+	<item>
+		<production id="8873" count="1"/>
+		<ingredient id="57" count="-1"/>
+	</item>
+	<item>
+		<production id="8874" count="1"/>
+		<ingredient id="57" count="-1"/>
+	</item>
+	<item>
+		<production id="10112" count="1"/>
+		<ingredient id="57" count="10000"/>
+	</item>
+	<item>
+		<production id="5589" count="1"/>
+		<ingredient id="57" count="1500"/>
+	</item>
+	<item>
+		<production id="5126" count="1"/>
+		<ingredient id="4357" count="100"/>
+	</item>
+	<item>
+		<production id="17185" count="1"/>
+		<ingredient id="57" count="-1"/>
+	</item>
+	<!--  -->
+	
+</list>

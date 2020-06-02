@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "template_data.dtd">
+
+<list>
+	<template_data race="HUMAN" sex="FEMALE" type="MYSTIC">
+		<creation_data>
+			<start_equipments>
+				<!--<equipment item_id="20635" count="1"/>-->				<!--No Grade Beginner's Adventurer Support Pack-->
+				<!--<equipment item_id="20636" count="1"/>-->				<!--D-Grade Fighter Support Pack-->
+				<!--<equipment item_id="20637" count="1"/>-->				<!--D-Grade Mage Support Pack-->
+				<!--<equipment item_id="20638" count="1"/>-->				<!--Beginner's Adventurer Reinforcement Pack-->
+				<equipment item_id="6" count="1" equiped="true"/>		<!--Apprentice's Wand-->
+				<equipment item_id="425" count="1" equiped="true"/>		<!--Apprentice's Tunic-->
+				<equipment item_id="461" count="1" equiped="true"/>		<!--Apprentice's Stockings-->
+				<equipment item_id="5588" count="1"/>					<!--Tutorial Guide-->
+				<equipment item_id="10650" count="5"/>					<!--Adventurer's Scroll of Escape-->
+				<equipment item_id="12753" count="10"/>					<!--Kamael Village Teleportation Scroll-->
+			</start_equipments>
+			<start_points>
+				<point x="-90875" y="248162" z="-3570"/>
+				<point x="-90954" y="248118" z="-3570"/>
+				<point x="-90918" y="248070" z="-3570"/>
+				<point x="-90890" y="248027" z="-3570"/>
+			</start_points>
+		</creation_data>
+		<stats_data>
+			<min_attributes int="10" str="10" con="10" men="10" dex="10" wit="10"/>
+			<max_attributes int="70" str="70" con="70" men="70" dex="70" wit="70"/>
+			<base_attributes int="41" str="22" con="27" men="39" dex="21" wit="20"/>
+			<armor_defence chest="15" legs="8" helmet="12" boots="7" gloves="8" underwear="3" cloak="1"/>
+			<jewel_defence r_earring="9" l_earring="9" r_ring="5" l_ring="5" necklace="13"/>
+			<base_stats>
+				<!--collision box-->
+				<stat_set name="collision_radius" value="6.5"/>
+				<stat_set name="collision_height" value="22.5"/>
+				<!--other stats box-->
+				<stat_set name="basePAtk" value="3"/>
+				<stat_set name="baseMAtk" value="6"/>
+				<stat_set name="baseAttackType" value="FIST"/>
+				<stat_set name="basePCritRate" value="40"/>
+				<stat_set name="basePAtkSpd" value="300"/>
+				<stat_set name="baseMAtkSpd" value="166.5"/>
+				<stat_set name="baseAtkRange" value="40"/>
+				<stat_set name="baseRandDam" value="10"/>
+				<stat_set name="baseSafeFallHeight" value="220"/>
+				<stat_set name="baseBreathBonus" value="100"/>
+				<!--<stat_set name="jump" value="15"/>-->
+				<!--walk speed box-->
+				<stat_set name="baseWalkSpd" value="78"/>
+				<stat_set name="baseRunSpd" value="120"/>
+				<stat_set name="baseWaterWalkSpd" value="50"/>
+				<stat_set name="baseWaterRunSpd" value="50"/>
+				<stat_set name="baseFlyWalkSpd" value="0"/>
+				<stat_set name="baseFlyRunSpd" value="0"/>
+				<stat_set name="baseRideWalkSpd" value="0"/>
+				<stat_set name="baseRideRunSpd" value="0"/>
+				<!--damage range box-->
+				<!--<stat_set name="damage_range_1" value="0"/>-->
+				<!--<stat_set name="damage_range_2" value="0"/>-->
+				<!--<stat_set name="damage_range_3" value="26"/>-->
+				<!--<stat_set name="damage_range_4" value="120"/>-->
+				<regen_lvl_data>
+					<lvl_data lvl="1" hp="2.0" mp="0.9" cp="2.0"/>
+					<lvl_data lvl="2" hp="2.05" mp="0.9" cp="2.0"/>
+					<lvl_data lvl="3" hp="2.1" mp="0.9" cp="2.0"/>
+					<lvl_data lvl="4" hp="2.15" mp="0.9" cp="2.0"/>
+					<lvl_data lvl="5" hp="2.2" mp="0.9" cp="2.0"/>
+					<lvl_data lvl="6" hp="2.25" mp="0.9" cp="2.0"/>
+					<lvl_data lvl="7" hp="2.3" mp="0.9" cp="2.0"/>
+					<lvl_data lvl="8" hp="2.35" mp="0.9" cp="2.0"/>
+					<lvl_data lvl="9" hp="2.4" mp="0.9" cp="2.0"/>
+					<lvl_data lvl="10" hp="2.45" mp="0.9" cp="2.0"/>
+					<lvl_data lvl="11" hp="2.5" mp="1.2" cp="2.5"/>
+					<lvl_data lvl="12" hp="2.6" mp="1.2" cp="2.5"/>
+					<lvl_data lvl="13" hp="2.7" mp="1.2" cp="2.5"/>
+					<lvl_data lvl="14" hp="2.8" mp="1.2" cp="2.5"/>
+					<lvl_data lvl="15" hp="2.9" mp="1.2" cp="2.5"/>
+					<lvl_data lvl="16" hp="3.0" mp="1.2" cp="2.5"/>
+					<lvl_data lvl="17" hp="3.1" mp="1.2" cp="2.5"/>
+					<lvl_data lvl="18" hp="3.2" mp="1.2" cp="2.5"/>
+					<lvl_data lvl="19" hp="3.3" mp="1.2" cp="2.5"/>
+					<lvl_data lvl="20" hp="3.4" mp="1.2" cp="2.5"/>
+					<lvl_data lvl="21" hp="3.5" mp="1.5" cp="3.5"/>
+					<lvl_data lvl="22" hp="3.6" mp="1.5" cp="3.5"/>
+					<lvl_data lvl="23" hp="3.7" mp="1.5" cp="3.5"/>
+					<lvl_data lvl="24" hp="3.8" mp="1.5" cp="3.5"/>
+					<lvl_data lvl="25" hp="3.9" mp="1.5" cp="3.5"/>
+					<lvl_data lvl="26" hp="4.0" mp="1.5" cp="3.5"/>
+					<lvl_data lvl="27" hp="4.1" mp="1.5" cp="3.5"/>
+					<lvl_data lvl="28" hp="4.2" mp="1.5" cp="3.5"/>
+					<lvl_data lvl="29" hp="4.3" mp="1.5" cp="3.5"/>
+					<lvl_data lvl="30" hp="4.4" mp="1.5" cp="3.5"/>
+					<lvl_data lvl="31" hp="4.5" mp="1.8" cp="4.5"/>
+					<lvl_data lvl="32" hp="4.6" mp="1.8" cp="4.5"/>
+					<lvl_data lvl="33" hp="4.7" mp="1.8" cp="4.5"/>
+					<lvl_data lvl="34" hp="4.8" mp="1.8" cp="4.5"/>
+					<lvl_data lvl="35" hp="4.9" mp="1.8" cp="4.5"/>
+					<lvl_data lvl="36" hp="5.0" mp="1.8" cp="4.5"/>
+					<lvl_data lvl="37" hp="5.1" mp="1.8" cp="4.5"/>
+					<lvl_data lvl="38" hp="5.2" mp="1.8" cp="4.5"/>
+					<lvl_data lvl="39" hp="5.3" mp="1.8" cp="4.5"/>
+					<lvl_data lvl="40" hp="5.4" mp="1.8" cp="4.5"/>
+					<lvl_data lvl="41" hp="5.5" mp="2.1" cp="5.5"/>
+					<lvl_data lvl="42" hp="5.6" mp="2.1" cp="5.5"/>
+					<lvl_data lvl="43" hp="5.7" mp="2.1" cp="5.5"/>
+					<lvl_data lvl="44" hp="5.8" mp="2.1" cp="5.5"/>
+					<lvl_data lvl="45" hp="5.9" mp="2.1" cp="5.5"/>
+					<lvl_data lvl="46" hp="6.0" mp="2.1" cp="5.5"/>
+					<lvl_data lvl="47" hp="6.1" mp="2.1" cp="5.5"/>
+					<lvl_data lvl="48" hp="6.2" mp="2.1" cp="5.5"/>
+					<lvl_data lvl="49" hp="6.3" mp="2.1" cp="5.5"/>
+					<lvl_data lvl="50" hp="6.4" mp="2.1" cp="5.5"/>
+					<lvl_data lvl="51" hp="6.5" mp="2.4" cp="6.5"/>
+					<lvl_data lvl="52" hp="6.6" mp="2.4" cp="6.5"/>
+					<lvl_data lvl="53" hp="6.7" mp="2.4" cp="6.5"/>
+					<lvl_data lvl="54" hp="6.8" mp="2.4" cp="6.5"/>
+					<lvl_data lvl="55" hp="6.9" mp="2.4" cp="6.5"/>
+					<lvl_data lvl="56" hp="7.0" mp="2.4" cp="6.5"/>
+					<lvl_data lvl="57" hp="7.1" mp="2.4" cp="6.5"/>
+					<lvl_data lvl="58" hp="7.2" mp="2.4" cp="6.5"/>
+					<lvl_data lvl="59" hp="7.3" mp="2.4" cp="6.5"/>
+					<lvl_data lvl="60" hp="7.4" mp="2.4" cp="6.5"/>
+					<lvl_data lvl="61" hp="7.5" mp="2.7" cp="7.5"/>
+					<lvl_data lvl="62" hp="7.6" mp="2.7" cp="7.5"/>
+					<lvl_data lvl="63" hp="7.7" mp="2.7" cp="7.5"/>
+					<lvl_data lvl="64" hp="7.8" mp="2.7" cp="7.5"/>
+					<lvl_data lvl="65" hp="7.9" mp="2.7" cp="7.5"/>
+					<lvl_data lvl="66" hp="8.0" mp="2.7" cp="7.5"/>
+					<lvl_data lvl="67" hp="8.1" mp="2.7" cp="7.5"/>
+					<lvl_data lvl="68" hp="8.2" mp="2.7" cp="7.5"/>
+					<lvl_data lvl="69" hp="8.3" mp="2.7" cp="7.5"/>
+					<lvl_data lvl="70" hp="8.4" mp="2.7" cp="7.5"/>
+					<lvl_data lvl="71" hp="8.5" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="72" hp="8.6" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="73" hp="8.7" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="74" hp="8.8" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="75" hp="8.9" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="76" hp="9.0" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="77" hp="9.1" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="78" hp="9.2" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="79" hp="9.3" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="80" hp="9.4" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="81" hp="9.5" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="82" hp="9.6" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="83" hp="9.7" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="84" hp="9.8" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="85" hp="9.9" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="86" hp="10.0" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="87" hp="10.1" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="88" hp="10.2" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="89" hp="10.3" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="90" hp="10.4" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="91" hp="10.5" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="92" hp="10.6" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="93" hp="10.7" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="94" hp="10.8" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="95" hp="10.9" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="96" hp="11.0" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="97" hp="11.1" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="98" hp="11.2" mp="3.0" cp="8.5"/>
+					<lvl_data lvl="99" hp="11.3" mp="3.0" cp="8.5"/>
+				</regen_lvl_data>
+			</base_stats>
+		</stats_data>
+	</template_data>
+</list>

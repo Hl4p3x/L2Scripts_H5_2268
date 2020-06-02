@@ -1,0 +1,1 @@
+ALTER TABLE `premium_account_table` ADD COLUMN `premium_add_features` int(10) NOT NULL DEFAULT '0' AFTER `enchant_add`;

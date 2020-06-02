@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<event id="6" name="RuneGludinBoat" impl="BoatWay">
+		<parameter name="class" value="Vehicle" />
+		<parameter name="ticketId" value="7905" />
+		<parameter name="broadcast_point" value="34381 -37680 -3610;-95686 150514 -3610" />
+		<parameter name="spawn_point" value="-95686 150514 -3610 16723" />
+		<parameter name="return_point" value="-95254 150551 -3624" />
+		<on_time>
+			<on time="0">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_arrival_departure" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_HAS_ARRIVED_AT_GLUDIN_HARBOR"/>
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="DEPARTURE_FOR_RUNE_HARBOR_WILL_TAKE_PLACE_AFTER_ANCHORING_FOR_TEN_MINUTES"/>
+			</on>
+			<on time="300">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_5min" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="DEPARTURE_FOR_RUNE_HARBOR_WILL_TAKE_PLACE_IN_FIVE_MINUTES"/>
+			</on>
+			<on time="540">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_1min" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="DEPARTURE_FOR_RUNE_HARBOR_WILL_TAKE_PLACE_IN_ONE_MINUTE"/>
+			</on>
+			<on time="580">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_1min" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="MAKE_HASTE__WE_WILL_BE_DEPARTING_FOR_GLUDIN_HARBOR_SHORTLY_"/>
+			</on>
+			<on time="600">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="WE_ARE_NOW_DEPARTING_FOR_RUNE_HARBOR"/>
+				<start name="event"/>
+			</on>
+			<on time="866">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_GLUDIN_HARBOR_WILL_BE_ARRIVING_AT_RUNE_HARBOR_IN_APPROXIMATELY_15_MINUTES"/>
+			</on>
+			<on time="1166">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_GLUDIN_HARBOR_WILL_BE_ARRIVING_AT_RUNE_HARBOR_IN_APPROXIMATELY_10_MINUTES"/>
+			</on>
+			<on time="1466">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_GLUDIN_HARBOR_WILL_BE_ARRIVING_AT_RUNE_HARBOR_IN_APPROXIMATELY_5_MINUTES"/>
+			</on>
+			<on time="1706">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_GLUDIN_HARBOR_WILL_BE_ARRIVING_AT_RUNE_HARBOR_IN_APPROXIMATELY_1_MINUTE"/>
+			</on>
+			<on time="1780">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_GLUDIN_HARBOR_TO_RUNE_HARBOR_HAS_BEEN_DELAYED"/>
+			</on>
+			<on time="1960">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_GLUDIN_HARBOR_TO_RUNE_HARBOR_HAS_BEEN_DELAYED"/>
+			</on>
+			<on time="2140">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_GLUDIN_HARBOR_TO_RUNE_HARBOR_HAS_BEEN_DELAYED"/>
+			</on>
+			<on time="2320">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_GLUDIN_HARBOR_TO_RUNE_HARBOR_HAS_BEEN_DELAYED"/>
+			</on>
+		</on_time>
+		<objects name="boat_points">
+			<boat_point speed1="150" speed2="800" x="-95686" y="155514" z="-3610"/>
+			<boat_point speed1="180" speed2="800" x="-98112" y="159040" z="-3610"/>
+			<boat_point speed1="200" speed2="1800" x="-104192" y="160608" z="-3610"/>
+			<boat_point speed1="250" speed2="1800" x="-109952" y="159616" z="-3610"/>
+			<boat_point speed1="290" speed2="1800" x="-112768" y="154784" z="-3610"/>
+			<boat_point speed1="290" speed2="1800" x="-114688" y="139040" z="-3610"/>
+			<boat_point speed1="290" speed2="1800" x="-115232" y="134368" z="-3610"/>
+			<boat_point speed1="290" speed2="1800" x="-113888" y="121696" z="-3610"/>
+			<boat_point speed1="290" speed2="1800" x="-107808" y="104928" z="-3610"/>
+			<boat_point speed1="290" speed2="800" x="-97152" y="75520" z="-3610"/>
+			<boat_point speed1="290" speed2="1800" x="-85536" y="67264" z="-3610"/>
+			<boat_point speed1="290" speed2="1800" x="-64640" y="55840" z="-3610"/>
+			<boat_point speed1="290" speed2="1800" x="-60096" y="44672" z="-3610"/>
+			<boat_point speed1="290" speed2="1800" x="-52672" y="37440" z="-3610"/>
+			<boat_point speed1="290" speed2="1800" x="-46144" y="33184" z="-3610"/>
+			<boat_point speed1="290" speed2="1800" x="-36096" y="24928" z="-3610"/>
+			<boat_point speed1="290" speed2="1800" x="-33792" y="8448" z="-3610"/>
+			<boat_point speed1="290" speed2="1000" x="-23776" y="3424" z="-3610"/>
+			<boat_point speed1="290" speed2="1000" x="-12000" y="-1760" z="-3610"/>
+			<boat_point speed1="290" speed2="1800" x="672" y="480" z="-3610"/>
+			<boat_point speed1="290" speed2="1000" x="15488" y="200" z="-3610"/>
+			<boat_point speed1="290" speed2="1000" x="24736" y="164" z="-3610"/>
+			<boat_point speed1="290" speed2="1000" x="32192" y="-1156" z="-3610"/>
+			<boat_point speed1="270" speed2="1000" x="39200" y="-8032" z="-3610"/>
+			<boat_point speed1="270" speed2="1000" x="44320" y="-25152" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="40576" y="-31616" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="34381" y="-37680" z="-3610"/>
+	</objects>
+	</event>
+	<event id="7" name="RuneGludinBoat" impl="BoatWay">
+		<parameter name="ticketId" value="7904" />
+		<parameter name="broadcast_point" value="34381 -37680 -3610;-95686 150514 -3610" />
+		<parameter name="return_point" value="34513 -38009 -3610" />
+		<on_time>
+			<on time="0">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_arrival_departure" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_WILL_LEAVE_FOR_GLUDIN_HARBOR_AFTER_ANCHORING_FOR_TEN_MINUTES"/>
+			</on>
+			<on time="300">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_5min" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="DEPARTURE_FOR_GLUDIN_HARBOR_WILL_TAKE_PLACE_IN_FIVE_MINUTES"/>
+			</on>
+			<on time="540">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_1min" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="DEPARTURE_FOR_GLUDIN_HARBOR_WILL_TAKE_PLACE_IN_ONE_MINUTE"/>
+			</on>
+			<on time="580">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_1min" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="MAKE_HASTE__WE_WILL_BE_DEPARTING_FOR_GLUDIN_HARBOR_SHORTLY"/>
+			</on>
+			<on time="600">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="WE_ARE_NOW_DEPARTING_FOR_GLUDIN_HARBOR"/>
+				<start name="event"/>
+			</on>
+			<on time="680">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_RUNE_HARBOR_WILL_BE_ARRIVING_AT_GLUDIN_HARBOR_IN_APPROXIMATELY_15_MINUTES"/>
+			</on>
+			<on time="980">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_RUNE_HARBOR_WILL_BE_ARRIVING_AT_GLUDIN_HARBOR_IN_APPROXIMATELY_10_MINUTES"/>
+			</on>
+			<on time="1280">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_RUNE_HARBOR_WILL_BE_ARRIVING_AT_GLUDIN_HARBOR_IN_APPROXIMATELY_5_MINUTES"/>
+			</on>
+			<on time="1520">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_RUNE_HARBOR_WILL_BE_ARRIVING_AT_GLUDIN_HARBOR_IN_APPROXIMATELY_1_MINUTE"/>
+			</on>
+			<on time="1590">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_RUNE_HARBOR_TO_GLUDIN_HARBOR_HAS_BEEN_DELAYED"/>
+			</on>
+			<on time="1760">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_RUNE_HARBOR_TO_GLUDIN_HARBOR_HAS_BEEN_DELAYED"/>
+			</on>
+			<on time="1940">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_RUNE_HARBOR_TO_GLUDIN_HARBOR_HAS_BEEN_DELAYED"/>
+			</on>
+			<on time="2120">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_FERRY_FROM_RUNE_HARBOR_TO_GLUDIN_HARBOR_HAS_BEEN_DELAYED"/>
+			</on>
+		</on_time>
+		<objects name="boat_points">
+			<boat_point speed1="150" speed2="800" x="32750" y="-39300" z="-3610"/>
+			<boat_point speed1="180" speed2="1000" x="27440" y="-39328" z="-3610"/>
+			<boat_point speed1="200" speed2="1000" x="21456" y="-34272" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="6608" y="-29520" z="-3610"/>
+			<boat_point speed1="270" speed2="800" x="4160" y="-27828" z="-3610"/>
+			<boat_point speed1="270" speed2="1000" x="2432" y="-25472" z="-3610"/>
+			<boat_point speed1="220" speed2="1000" x="-8000" y="-16272" z="-3610"/>
+			<boat_point speed1="290" speed2="800" x="-18976" y="-9760" z="-3610"/>
+			<boat_point speed1="290" speed2="800" x="-23776" y="3408" z="-3610"/>
+			<boat_point speed1="290" speed2="800" x="-33792" y="8432" z="-3610"/>
+			<boat_point speed1="290" speed2="800" x="-36096" y="24912" z="-3610"/>
+			<boat_point speed1="290" speed2="800" x="-46144" y="33184" z="-3610"/>
+			<boat_point speed1="290" speed2="800" x="-52688" y="37440" z="-3610"/>
+			<boat_point speed1="290" speed2="800" x="-60096" y="44672" z="-3610"/>
+			<boat_point speed1="290" speed2="800" x="-64640" y="55840" z="-3610"/>
+			<boat_point speed1="290" speed2="800" x="-85552" y="67248" z="-3610"/>
+			<boat_point speed1="290" speed2="800" x="-97168" y="85264" z="-3610"/>
+			<boat_point speed1="290" speed2="800" x="-107824" y="104912" z="-3610"/>
+			<boat_point speed1="290" speed2="800" x="-102151" y="135704" z="-3610"/>
+			<boat_point speed1="290" speed2="800" x="-96686" y="140595" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="-95686" y="147718" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="-95686" y="148218" z="-3610"/>
+			<boat_point speed1="180" speed2="800" x="-95686" y="150514" z="-3610"/>
+	</objects>
+	</event>
+</list>

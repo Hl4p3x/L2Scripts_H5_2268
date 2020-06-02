@@ -1,0 +1,35 @@
+<!ELEMENT list (distribution|lure|fish)*>
+<!ELEMENT distribution (for_lure)*>
+<!ATTLIST distribution
+	id CDATA #REQUIRED>
+<!ELEMENT for_lure (chance)*>
+<!ATTLIST for_lure
+	type CDATA #REQUIRED>
+<!ELEMENT lure (chance)*>
+<!ATTLIST lure
+	item_id CDATA #REQUIRED
+	length_bonus CDATA #REQUIRED
+	rate_bonus CDATA #REQUIRED
+	revision_number CDATA #REQUIRED
+	type CDATA #REQUIRED>
+<!ELEMENT chance (#PCDATA)>
+<!ATTLIST chance
+	type CDATA #REQUIRED
+	value CDATA #REQUIRED>
+<!ELEMENT fish (#PCDATA)>
+<!ATTLIST fish
+	bite_rate CDATA #REQUIRED
+	cheating_prob CDATA #REQUIRED
+	combat_duration CDATA #REQUIRED
+	grade CDATA #REQUIRED
+	group CDATA #REQUIRED
+	guts CDATA #REQUIRED
+	guts_check_probability CDATA #REQUIRED
+	guts_check_time CDATA #REQUIRED
+	hp CDATA #REQUIRED
+	hp_regen CDATA #REQUIRED
+	item_id CDATA #REQUIRED
+	length_rate CDATA #REQUIRED
+	level CDATA #REQUIRED
+	max_length CDATA #REQUIRED
+	start_combat_time CDATA #REQUIRED>

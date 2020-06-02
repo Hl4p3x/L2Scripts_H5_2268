@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+<list>
+	<npc id="21800" name="Vassal Ghost" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_height" value="21"/>
+		<set name="collision_radius" value="13"/>
+		<set name="level" value="77"/>
+		<set name="rewardExp" value="15880"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="1718"/>
+		<set name="baseHpMax" value="2762.08447"/>
+		<set name="baseHpRate" value="2"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1574"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="835.75573"/>
+		<set name="basePDef" value="328.27073"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="570.71283"/>
+		<set name="baseMDef" value="218.566351305224"/>
+		<set name="baseWalkSpd" value="15"/>
+		<set name="baseRunSpd" value="15"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="4.75"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.43"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="unsowing" value="false"/>
+		</ai_params>
+		<skills>
+			<skill id="4416" level="1"/>	<!--Undead-->
+			<skill id="4408" level="10"/>	<!--HP Increase (2x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="4274" level="1"/>	<!--Blunt Weapon Weak Point-->
+			<skill id="4789" level="5"/>	<!--NPC High Level-->
+			<skill id="4567" level="8" use_type="DDMagicSlow"/>	<!--NPC Eruption - Slow-->
+		</skills>
+		<attributes>
+			<attack attribute="unholy" value="20"/>
+		</attributes>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="70">
+				<reward item_id="57" min="1853" max="3785" chance="100"/>	<!--Adena-->
+			</group>
+			<group chance="0.7608">
+				<reward item_id="11946" min="1" max="1" chance="1.8833"/>	<!--Common Item - Dasparion's Staff-->
+				<reward item_id="5543" min="1" max="1" chance="23.2872"/>	<!--Dasparion's Staff Head-->
+				<reward item_id="11949" min="1" max="1" chance="1.8833"/>	<!--Common Item - Meteor Shower-->
+				<reward item_id="5532" min="1" max="1" chance="23.0697"/>	<!--Meteor Shower Head-->
+				<reward item_id="11953" min="1" max="1" chance="1.8833"/>	<!--Common Item - Spiritual Eye-->
+				<reward item_id="8341" min="1" max="1" chance="23.0402"/>	<!--Spiritual Eye Piece-->
+				<reward item_id="11958" min="1" max="1" chance="1.8833"/>	<!--Common Item - Destroyer Hammer-->
+				<reward item_id="8346" min="1" max="1" chance="23.0697"/>	<!--Hammer Piece of Destroyer-->
+			</group>
+			<group chance="97.7784">
+				<reward item_id="1867" min="1" max="3" chance="18.8588"/>	<!--Animal Skin-->
+				<reward item_id="1872" min="1" max="1" chance="37.7176"/>	<!--Animal Bone-->
+				<reward item_id="1882" min="1" max="1" chance="6.2863"/>	<!--Leather-->
+				<reward item_id="1894" min="1" max="1" chance="0.9926"/>	<!--Crafted Leather-->
+				<reward item_id="4042" min="1" max="1" chance="0.4715"/>	<!--Enria-->
+				<reward item_id="5272" min="1" max="1" chance="0.0126"/>	<!--Recipe: Greater Soulshot (S) Compressed Package(100%)-->
+				<reward item_id="8732" min="1" max="1" chance="0.2357"/>	<!--Life Stone -  Level 76-->
+				<reward item_id="8742" min="1" max="1" chance="0.0589"/>	<!--Mid-Grade Life Stone -  Level 76-->
+				<reward item_id="8752" min="1" max="1" chance="0.0059"/>	<!--High-Grade Life Stone -  Level 76-->
+				<reward item_id="1344" min="10" max="30" chance="35.3601"/>	<!--Mithril Arrow-->
+			</group>
+		</rewardlist>
+		<rewardlist type="SWEEP">
+			<reward item_id="5167" min="1" max="1" chance="0.501"/>	<!--Recipe: Blessed Spiritshot (S) Compressed Package (100%)-->
+			<reward item_id="5529" min="1" max="1" chance="3.0933"/>	<!--Dragon Slayer Edge-->
+			<reward item_id="4042" min="1" max="1" chance="18.7923"/>	<!--Enria-->
+		</rewardlist>
+	</npc>
+	<npc id="21801" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="21"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="364.30351"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="3.5"/>
+		<set name="baseMpMax" value="205.2"/>
+		<set name="baseMpReg" value="1.5"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="47.91924"/>
+		<set name="basePDef" value="89.73059"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="32.72263"/>
+		<set name="baseMDef" value="59.7436374813816"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21802" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="24"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="435.34437"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="3.5"/>
+		<set name="baseMpMax" value="245.52"/>
+		<set name="baseMpReg" value="1.5"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="60.19687"/>
+		<set name="basePDef" value="98.70919"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="41.10666"/>
+		<set name="baseMDef" value="65.7216907961494"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21803" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="27"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="515.17856"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="3.5"/>
+		<set name="baseMpMax" value="286.92"/>
+		<set name="baseMpReg" value="1.5"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="74.99121"/>
+		<set name="basePDef" value="108.28767"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="51.20928"/>
+		<set name="baseMDef" value="72.0991544841329"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21804" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="30"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="604.08419"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="3.5"/>
+		<set name="baseMpMax" value="329.4"/>
+		<set name="baseMpReg" value="1.5"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="92.64226"/>
+		<set name="basePDef" value="118.46427"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="63.26266"/>
+		<set name="baseMDef" value="78.8748547991048"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21805" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="33"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="702.20463"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="4.5"/>
+		<set name="baseMpMax" value="372.96"/>
+		<set name="baseMpReg" value="1.8"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="113.49065"/>
+		<set name="basePDef" value="129.23095"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="77.49941"/>
+		<set name="baseMDef" value="86.043423444366"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21806" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="36"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="809.52639"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="4.5"/>
+		<set name="baseMpMax" value="417.6"/>
+		<set name="baseMpReg" value="1.8"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="137.86467"/>
+		<set name="basePDef" value="140.57278"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="94.1437"/>
+		<set name="baseMDef" value="93.5949427192352"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21807" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="39"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="925.85879"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="4.5"/>
+		<set name="baseMpMax" value="463.32"/>
+		<set name="baseMpReg" value="1.8"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="166.06476"/>
+		<set name="basePDef" value="152.46752"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="113.4007"/>
+		<set name="baseMDef" value="101.514599764346"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21808" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="42"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="1050.81652"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="5.5"/>
+		<set name="baseMpMax" value="531"/>
+		<set name="baseMpReg" value="2.1"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="198.34591"/>
+		<set name="basePDef" value="164.88513"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="135.44454"/>
+		<set name="baseMDef" value="109.782377202178"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21809" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="45"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="1183.80594"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="5.5"/>
+		<set name="baseMpMax" value="610.8"/>
+		<set name="baseMpReg" value="2.1"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="234.89829"/>
+		<set name="basePDef" value="177.78746"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="160.40508"/>
+		<set name="baseMDef" value="118.372898457316"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21810" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="48"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="1324.01623"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="5.5"/>
+		<set name="baseMpMax" value="692.4"/>
+		<set name="baseMpReg" value="2.1"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="275.82705"/>
+		<set name="basePDef" value="191.12803"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="188.35412"/>
+		<set name="baseMDef" value="127.255200286259"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21811" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="51"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="1470.41596"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="6.5"/>
+		<set name="baseMpMax" value="775.8"/>
+		<set name="baseMpReg" value="2.4"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="321.13207"/>
+		<set name="basePDef" value="204.85194"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="219.29157"/>
+		<set name="baseMDef" value="136.392732777413"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21812" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="54"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="1621.75618"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="6.5"/>
+		<set name="baseMpMax" value="861"/>
+		<set name="baseMpReg" value="2.4"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="370.68904"/>
+		<set name="basePDef" value="218.89589"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="253.13256"/>
+		<set name="baseMDef" value="145.743350252286"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21813" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="57"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="1776.58018"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="6.5"/>
+		<set name="baseMpMax" value="948"/>
+		<set name="baseMpReg" value="2.4"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="424.23295"/>
+		<set name="basePDef" value="233.18839"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="289.69611"/>
+		<set name="baseMDef" value="155.259456846417"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21814" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="60"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="1933.24044"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="6.5"/>
+		<set name="baseMpMax" value="1036.8"/>
+		<set name="baseMpReg" value="2.4"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="481.34551"/>
+		<set name="basePDef" value="247.65008"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="328.69659"/>
+		<set name="baseMDef" value="164.888215781956"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21815" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="63"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="2089.92274"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1127.4"/>
+		<set name="baseMpReg" value="2.7"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="541.44774"/>
+		<set name="basePDef" value="262.19426"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="369.73862"/>
+		<set name="baseMDef" value="174.571895122369"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21816" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="66"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="2244.67715"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1219.8"/>
+		<set name="baseMpReg" value="2.7"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="603.79903"/>
+		<set name="basePDef" value="276.72752"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="412.31647"/>
+		<set name="baseMDef" value="184.248304515217"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21817" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="69"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="2395.45533"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1314"/>
+		<set name="baseMpReg" value="2.7"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="667.50361"/>
+		<set name="basePDef" value="291.15063"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="455.81844"/>
+		<set name="baseMDef" value="193.851368417065"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+		</skills>
+	</npc>
+	<npc id="21818" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="72"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="2540.15331"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1410"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="731.52506"/>
+		<set name="basePDef" value="305.35947"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="499.53679"/>
+		<set name="baseMDef" value="203.311781207645"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4789" level="2"/>	<!--NPC High Level-->
+		</skills>
+	</npc>
+	<npc id="21819" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="75"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="2676.65854"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1507.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="794.70901"/>
+		<set name="basePDef" value="319.24623"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="542.68324"/>
+		<set name="baseMDef" value="212.557735094503"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4789" level="4"/>	<!--NPC High Level-->
+		</skills>
+	</npc>
+	<npc id="21820" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="78"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="2802.89989"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1607.4"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="855.81387"/>
+		<set name="basePDef" value="332.70061"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="584.40994"/>
+		<set name="baseMDef" value="221.515820894982"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4789" level="5"/>	<!--NPC High Level-->
+		</skills>
+	</npc>
+	<npc id="21821" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="81"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3004.4059082"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.755"/>
+		<set name="baseMpMax" value="1760.064"/>
+		<set name="baseMpReg" value="3.09"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="940.9565"/>
+		<set name="basePDef" value="355.9783"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="661.831856"/>
+		<set name="baseMDef" value="237.312"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="12"/>
+		<set name="basePAvoidModify" value="4"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4789" level="7"/>	<!--NPC High Level-->
+		</skills>
+	</npc>
+	<npc id="21822" name="Treasure Chest" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="84"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="3137.4936216"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.84"/>
+		<set name="baseMpMax" value="1884.48"/>
+		<set name="baseMpReg" value="3.12"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="1005.2800576"/>
+		<set name="basePDef" value="372.1819192"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="713.935000064"/>
+		<set name="baseMDef" value="247.802921663855"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="165"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="17"/>
+		<set name="basePAvoidModify" value="4"/>
+		<set name="baseHitTimeFactor" value="0.56"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4416" level="2"/>	<!--Magic Creatures-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4789" level="8"/>	<!--NPC High Level-->
+		</skills>
+	</npc>
+	<npc id="21823" name="Executor of Sacrificial Offerings" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="30;36"/>
+		<set name="collision_radius" value="7;8"/>
+		<set name="level" value="78"/>
+		<set name="rewardExp" value="86702"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="9732"/>
+		<set name="baseHpMax" value="2937.9838056"/>
+		<set name="baseHpRate" value="6"/>
+		<set name="baseHpReg" value="8.67"/>
+		<set name="baseMpMax" value="1708.296"/>
+		<set name="baseMpReg" value="3.06"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="912.6537108"/>
+		<set name="basePDef" value="348.2025"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="635.688655236"/>
+		<set name="baseMDef" value="231.837152158566"/>
+		<set name="baseWalkSpd" value="39"/>
+		<set name="baseRunSpd" value="190"/>
+		<set name="baseShldDef" value="170.6875"/>
+		<set name="baseShldRate" value="20"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="6.75"/>
+		<set name="basePAvoidModify" value="2"/>
+		<set name="baseHitTimeFactor" value="0.48"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<faction names="tomb_clan" range="300"/>
+		<equip>
+			<rhand item_id="134"/>	<!--Sword of Nightmare-->
+			<lhand item_id="6721"/>	<!--Monster Only(Shield of Imperial Warlord Zombie)-->
+		</equip>
+		<ai_params>
+			<set name="unsowing" value="false"/>
+		</ai_params>
+		<skills>
+			<skill id="4416" level="1"/>	<!--Undead-->
+			<skill id="4408" level="14"/>	<!--HP Increase (6x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="4285" level="5"/>	<!--Resist Sleep Attacks-->
+			<skill id="4287" level="5"/>	<!--Resist Hold Attacks-->
+			<skill id="4789" level="6"/>	<!--NPC High Level-->
+			<skill id="4077" level="9" use_type="W_ShortRangeDDMagic"/>	<!--NPC Aura Burn-->
+			<skill id="4078" level="9" use_type="W_LongRangeDDMagic"/>	<!--NPC Flamestrike-->
+			<skill id="4613" level="9" use_type="MagicHeal"/>	<!--NPC Clan Heal-->
+		</skills>
+		<attributes>
+			<attack attribute="unholy" value="20"/>
+		</attributes>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="70">
+				<reward item_id="57" min="10189" max="20801" chance="100"/>	<!--Adena-->
+			</group>
+			<group chance="3.3462">
+				<reward item_id="11975" min="1" max="1" chance="6.0817"/>	<!--Common Item - Soul Bow-->
+				<reward item_id="5534" min="1" max="1" chance="93.9183"/>	<!--Soul Bow Stave-->
+			</group>
+			<group chance="34.6599">
+				<reward item_id="1894" min="1" max="1" chance="28.9706"/>	<!--Crafted Leather-->
+				<reward item_id="4039" min="1" max="1" chance="27.522"/>	<!--Mold Glue-->
+				<reward item_id="4041" min="1" max="1" chance="7.1797"/>	<!--Mold Hardener-->
+				<reward item_id="4044" min="1" max="1" chance="27.522"/>	<!--Thons-->
+				<reward item_id="959" min="1" max="1" chance="0.033"/>	<!--Scroll: Enchant Weapon (S-Grade)-->
+				<reward item_id="8732" min="1" max="1" chance="6.8805"/>	<!--Life Stone -  Level 76-->
+				<reward item_id="8742" min="1" max="1" chance="1.7201"/>	<!--Mid-Grade Life Stone -  Level 76-->
+				<reward item_id="8752" min="1" max="1" chance="0.1721"/>	<!--High-Grade Life Stone -  Level 76-->
+			</group>
+		</rewardlist>
+		<rewardlist type="SWEEP">
+			<reward item_id="1894" min="1" max="1" chance="98.9977"/>	<!--Crafted Leather-->
+			<reward item_id="4039" min="1" max="1" chance="98.3844"/>	<!--Mold Glue-->
+			<reward item_id="5480" min="1" max="1" chance="27.8226"/>	<!--Sealed Leather Armor of Nightmare Fabric-->
+		</rewardlist>
+	</npc>
+	<npc id="21824" name="Alpen Kookaburra" title="">
+		<set name="type" value="FeedableBeast"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="33;40"/>
+		<set name="collision_radius" value="10;13"/>
+		<set name="level" value="65"/>
+		<set name="rewardExp" value="30996"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="3456"/>
+		<set name="baseHpMax" value="2193.43142"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1188.8"/>
+		<set name="baseMpReg" value="2.7"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="582.81759"/>
+		<set name="basePDef" value="271.89033"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="397.98887"/>
+		<set name="baseMDef" value="181.027644954078"/>
+		<set name="baseWalkSpd" value="23"/>
+		<set name="baseRunSpd" value="210"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="4.75"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.54"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<faction names="pet_clan" range="300"/>
+		<ai_params>
+			<set name="LongRangeGuardRate" value="5"/>
+		</ai_params>
+		<skills>
+			<skill id="4416" level="3"/>	<!--Beasts-->
+			<skill id="4408" level="12"/>	<!--HP Increase (4x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="14"/>	<!--Strong P. Atk.-->
+			<skill id="4411" level="14"/>	<!--Strong M. Atk.-->
+			<skill id="4412" level="8"/>	<!--Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="4438" level="2"/>	<!--Greater Resist Sleep-->
+			<skill id="4600" level="6" use_type="PhysicalSpecial"/>	<!--Reducing P. Def Stun-->
+			<skill id="4589" level="6" use_type="DDMagic"/>	<!--Decrease Speed-->
+			<skill id="4318" level="1" use_type="SelfBuff"/>	<!--Ultimate Buff-->
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="2.0505">
+				<reward item_id="171" min="1" max="1" chance="0.0913"/>	<!--Deadman's Glory-->
+				<reward item_id="4116" min="1" max="1" chance="20.127"/>	<!--Deadman's Glory Stone-->
+				<reward item_id="175" min="1" max="1" chance="0.0913"/>	<!--Art of Battle Axe-->
+				<reward item_id="4117" min="1" max="1" chance="20.127"/>	<!--Art of Battle Axe Blade-->
+				<reward item_id="210" min="1" max="1" chance="0.0913"/>	<!--Staff of Evil Spirits-->
+				<reward item_id="4118" min="1" max="1" chance="19.0692"/>	<!--Evil Spirit Head-->
+				<reward item_id="7893" min="1" max="1" chance="0.0913"/>	<!--Kaim Vanul's Bones-->
+				<reward item_id="8340" min="1" max="1" chance="20.127"/>	<!--Bones Head of Kaim Vanul-->
+				<reward item_id="7901" min="1" max="1" chance="0.0913"/>	<!--Star Buster-->
+				<reward item_id="8348" min="1" max="1" chance="20.0933"/>	<!--Star Buster Head-->
+			</group>
+			<group chance="13.3965">
+				<reward item_id="1894" min="1" max="1" chance="27.4922"/>	<!--Crafted Leather-->
+				<reward item_id="4039" min="1" max="1" chance="26.1176"/>	<!--Mold Glue-->
+				<reward item_id="4041" min="1" max="1" chance="6.8133"/>	<!--Mold Hardener-->
+				<reward item_id="4044" min="1" max="1" chance="26.1176"/>	<!--Thons-->
+				<reward item_id="729" min="1" max="1" chance="0.0871"/>	<!--Scroll: Enchant Weapon (A-Grade)-->
+				<reward item_id="8729" min="1" max="1" chance="10.447"/>	<!--Life Stone -  Level 64-->
+				<reward item_id="8739" min="1" max="1" chance="2.6118"/>	<!--Mid-Grade Life Stone -  Level 64-->
+				<reward item_id="8749" min="1" max="1" chance="0.2612"/>	<!--High-Grade Life Stone -  Level 64-->
+				<reward item_id="8759" min="1" max="1" chance="0.0522"/>	<!--Top-Grade Life Stone -  Level 64-->
+			</group>
+		</rewardlist>
+		<rewardlist type="SWEEP">
+			<reward item_id="1894" min="1" max="1" chance="98.7046"/>	<!--Crafted Leather-->
+			<reward item_id="4052" min="1" max="1" chance="98.8652"/>	<!--Earring of Black Ore Piece-->
+			<reward item_id="1807" min="1" max="1" chance="4.2642"/>	<!--Recipe: Soulshot (A-Grade)-->
+		</rewardlist>
+	</npc>
+	<npc id="21825" name="Alpen Kookaburra" title="">
+		<set name="type" value="FeedableBeast"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="33;40"/>
+		<set name="collision_radius" value="10;13"/>
+		<set name="level" value="65"/>
+		<set name="rewardExp" value="29567"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="3296"/>
+		<set name="baseHpMax" value="2193.43142"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1188.8"/>
+		<set name="baseMpReg" value="2.7"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="582.81759"/>
+		<set name="basePDef" value="271.89033"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="397.98887"/>
+		<set name="baseMDef" value="181.027644954078"/>
+		<set name="baseWalkSpd" value="23"/>
+		<set name="baseRunSpd" value="210"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="4.75"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.54"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<faction names="pet_clan" range="300"/>
+		<skills>
+			<skill id="4416" level="3"/>	<!--Beasts-->
+			<skill id="4408" level="12"/>	<!--HP Increase (4x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="14"/>	<!--Strong P. Atk.-->
+			<skill id="4411" level="14"/>	<!--Strong M. Atk.-->
+			<skill id="4412" level="8"/>	<!--Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="4438" level="2"/>	<!--Greater Resist Sleep-->
+			<skill id="4566" level="6" use_type="W_LongRangeDDMagic"/>	<!--NPC Eruption - Magic-->
+			<skill id="4160" level="6" use_type="W_ShortRangeDDMagic"/>	<!--NPC Aura Burn - Magic-->
+			<skill id="4571" level="6" use_type="SelfRangeDDMagic"/>	<!--NPC Blazing Circle-->
+			<skill id="4318" level="1" use_type="SelfBuff"/>	<!--Ultimate Buff-->
+			<skill id="4657" level="6" use_type="HoldMagic"/>	<!--Hold-->
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="6.8028">
+				<reward item_id="358" min="1" max="1" chance="0.1784"/>	<!--Blue Wolf Breastplate-->
+				<reward item_id="4078" min="1" max="1" chance="32.2503"/>	<!--Blue Wolf Breastplate Part-->
+				<reward item_id="2380" min="1" max="1" chance="0.2854"/>	<!--Blue Wolf Gaiters-->
+				<reward item_id="4080" min="1" max="1" chance="45.4152"/>	<!--Blue Wolf Gaiters Material-->
+				<reward item_id="2381" min="1" max="1" chance="0.1098"/>	<!--Doom Plate Armor-->
+				<reward item_id="4081" min="1" max="1" chance="21.7609"/>	<!--Doom Plate Armor Temper-->
+			</group>
+			<group chance="89.355">
+				<reward item_id="1869" min="2" max="6" chance="22.9199"/>	<!--Iron Ore-->
+				<reward item_id="1864" min="5" max="15" chance="18.3359"/>	<!--Stem-->
+				<reward item_id="1880" min="1" max="1" chance="9.1679"/>	<!--Steel-->
+				<reward item_id="5550" min="1" max="1" chance="1.2224"/>	<!--Durable Metal Plate-->
+				<reward item_id="4043" min="1" max="1" chance="3.056"/>	<!--Asofe-->
+				<reward item_id="730" min="1" max="1" chance="0.0764"/>	<!--Scroll: Enchant Armor (A-Grade)-->
+				<reward item_id="8729" min="1" max="1" chance="1.2224"/>	<!--Life Stone -  Level 64-->
+				<reward item_id="8739" min="1" max="1" chance="0.3056"/>	<!--Mid-Grade Life Stone -  Level 64-->
+				<reward item_id="8749" min="1" max="1" chance="0.0306"/>	<!--High-Grade Life Stone -  Level 64-->
+				<reward item_id="8759" min="1" max="1" chance="0.0061"/>	<!--Top-Grade Life Stone -  Level 64-->
+				<reward item_id="1343" min="30" max="90" chance="43.6568"/>	<!--Silver Arrow-->
+			</group>
+		</rewardlist>
+		<rewardlist type="SWEEP">
+			<reward item_id="4053" min="1" max="1" chance="98.8208"/>	<!--Ring of Black Ore Gemstone-->
+			<reward item_id="3035" min="1" max="1" chance="4.0677"/>	<!--Recipe: Spiritshot A-->
+			<reward item_id="4054" min="1" max="1" chance="60.0882"/>	<!--Necklace of Black Ore Beads-->
+		</rewardlist>
+	</npc>
+	<npc id="21826" name="Alpen Buffalo" title="">
+		<set name="type" value="FeedableBeast"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="31;38"/>
+		<set name="collision_radius" value="22;27"/>
+		<set name="level" value="67"/>
+		<set name="rewardExp" value="32933"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="3764"/>
+		<set name="baseHpMax" value="2295.48154"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1251"/>
+		<set name="baseMpReg" value="2.7"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="624.93199"/>
+		<set name="basePDef" value="281.55251"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="426.74754"/>
+		<set name="baseMDef" value="187.460838840844"/>
+		<set name="baseWalkSpd" value="20"/>
+		<set name="baseRunSpd" value="170"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.46"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<faction names="pet_clan" range="300"/>
+		<ai_params>
+			<set name="LongRangeGuardRate" value="5"/>
+		</ai_params>
+		<skills>
+			<skill id="4416" level="3"/>	<!--Beasts-->
+			<skill id="4408" level="12"/>	<!--HP Increase (4x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="14"/>	<!--Strong P. Atk.-->
+			<skill id="4411" level="14"/>	<!--Strong M. Atk.-->
+			<skill id="4412" level="8"/>	<!--Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="6"/>	<!--Blunt Weapons-->
+			<skill id="4438" level="2"/>	<!--Greater Resist Sleep-->
+			<skill id="4600" level="6" use_type="PhysicalSpecial"/>	<!--Reducing P. Def Stun-->
+			<skill id="4589" level="6" use_type="DDMagic"/>	<!--Decrease Speed-->
+			<skill id="4318" level="1" use_type="SelfBuff"/>	<!--Ultimate Buff-->
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="7.6149">
+				<reward item_id="358" min="1" max="1" chance="0.1784"/>	<!--Blue Wolf Breastplate-->
+				<reward item_id="4078" min="1" max="1" chance="32.2503"/>	<!--Blue Wolf Breastplate Part-->
+				<reward item_id="2380" min="1" max="1" chance="0.2854"/>	<!--Blue Wolf Gaiters-->
+				<reward item_id="4080" min="1" max="1" chance="45.4152"/>	<!--Blue Wolf Gaiters Material-->
+				<reward item_id="2381" min="1" max="1" chance="0.1098"/>	<!--Doom Plate Armor-->
+				<reward item_id="4081" min="1" max="1" chance="21.7609"/>	<!--Doom Plate Armor Temper-->
+			</group>
+			<group chance="97.7784">
+				<reward item_id="1870" min="1" max="3" chance="50.5775"/>	<!--Coal-->
+				<reward item_id="1865" min="1" max="3" chance="33.7184"/>	<!--Varnish-->
+				<reward item_id="1874" min="1" max="1" chance="6.7437"/>	<!--Oriharukon Ore-->
+				<reward item_id="4043" min="1" max="1" chance="3.3718"/>	<!--Asofe-->
+				<reward item_id="4039" min="1" max="1" chance="3.3718"/>	<!--Mold Glue-->
+				<reward item_id="6339" min="1" max="1" chance="0.7781"/>	<!--Recipe: Sealed Majestic Ring(70%)-->
+				<reward item_id="8730" min="1" max="1" chance="1.1239"/>	<!--Life Stone -  Level 67-->
+				<reward item_id="8740" min="1" max="1" chance="0.281"/>	<!--Mid-Grade Life Stone -  Level 67-->
+				<reward item_id="8750" min="1" max="1" chance="0.0281"/>	<!--High-Grade Life Stone -  Level 67-->
+				<reward item_id="8760" min="1" max="1" chance="0.0057"/>	<!--Top-Grade Life Stone -  Level 67-->
+			</group>
+		</rewardlist>
+		<rewardlist type="SWEEP">
+			<reward item_id="1874" min="2" max="2" chance="98.3940"/>	<!--Oriharukon Ore-->
+			<reward item_id="4043" min="1" max="1" chance="98.6555"/>	<!--Asofe-->
+			<reward item_id="4077" min="1" max="1" chance="98.2751"/>	<!--Doom Shield Fragment-->
+		</rewardlist>
+	</npc>
+	<npc id="21827" name="Alpen Buffalo" title="">
+		<set name="type" value="FeedableBeast"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="31;38"/>
+		<set name="collision_radius" value="22;27"/>
+		<set name="level" value="67"/>
+		<set name="rewardExp" value="31415"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="3590"/>
+		<set name="baseHpMax" value="2295.48154"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1251"/>
+		<set name="baseMpReg" value="2.7"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="624.93199"/>
+		<set name="basePDef" value="281.55251"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="426.74754"/>
+		<set name="baseMDef" value="187.460838840844"/>
+		<set name="baseWalkSpd" value="20"/>
+		<set name="baseRunSpd" value="170"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.46"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<faction names="pet_clan" range="300"/>
+		<skills>
+			<skill id="4416" level="3"/>	<!--Beasts-->
+			<skill id="4408" level="12"/>	<!--HP Increase (4x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="14"/>	<!--Strong P. Atk.-->
+			<skill id="4411" level="14"/>	<!--Strong M. Atk.-->
+			<skill id="4412" level="8"/>	<!--Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="6"/>	<!--Blunt Weapons-->
+			<skill id="4438" level="2"/>	<!--Greater Resist Sleep-->
+			<skill id="4566" level="6" use_type="W_LongRangeDDMagic"/>	<!--NPC Eruption - Magic-->
+			<skill id="4160" level="6" use_type="W_ShortRangeDDMagic"/>	<!--NPC Aura Burn - Magic-->
+			<skill id="4571" level="6" use_type="SelfRangeDDMagic"/>	<!--NPC Blazing Circle-->
+			<skill id="4318" level="1" use_type="SelfBuff"/>	<!--Ultimate Buff-->
+			<skill id="4657" level="6" use_type="HoldMagic"/>	<!--Hold-->
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="2.1147">
+				<reward item_id="79" min="1" max="1" chance="0.1503"/>	<!--Sword of Damascus-->
+				<reward item_id="4114" min="1" max="1" chance="33.2016"/>	<!--Sword of Damascus Blade-->
+				<reward item_id="7883" min="1" max="1" chance="0.1503"/>	<!--Guardian Sword-->
+				<reward item_id="8330" min="1" max="1" chance="33.1458"/>	<!--Guardian Sword Blade-->
+				<reward item_id="7889" min="1" max="1" chance="0.1503"/>	<!--Wizard's Tear-->
+				<reward item_id="8336" min="1" max="1" chance="33.2017"/>	<!--Blade of the Wizard's Tear-->
+			</group>
+			<group chance="97.7784">
+				<reward item_id="1871" min="1" max="3" chance="26.416"/>	<!--Charcoal-->
+				<reward item_id="1866" min="1" max="1" chance="52.8321"/>	<!--Suede-->
+				<reward item_id="1877" min="1" max="1" chance="3.1699"/>	<!--Adamantite Nugget-->
+				<reward item_id="4041" min="1" max="1" chance="0.6891"/>	<!--Mold Hardener-->
+				<reward item_id="4040" min="1" max="1" chance="1.585"/>	<!--Mold Lubricant-->
+				<reward item_id="5456" min="1" max="1" chance="0.0294"/>	<!--Recipe: Tallum Glaive(60%)-->
+				<reward item_id="8730" min="1" max="1" chance="0.8805"/>	<!--Life Stone -  Level 67-->
+				<reward item_id="8740" min="1" max="1" chance="0.2201"/>	<!--Mid-Grade Life Stone -  Level 67-->
+				<reward item_id="8750" min="1" max="1" chance="0.022"/>	<!--High-Grade Life Stone -  Level 67-->
+				<reward item_id="8760" min="1" max="1" chance="0.0044"/>	<!--Top-Grade Life Stone -  Level 67-->
+				<reward item_id="1343" min="80" max="240" chance="14.1515"/>	<!--Silver Arrow-->
+			</group>
+		</rewardlist>
+		<rewardlist type="SWEEP">
+			<reward item_id="3956" min="1" max="1" chance="4.3431"/>	<!--Recipe: Blessed Spiritshot A-->
+			<reward item_id="4078" min="1" max="1" chance="47.5815"/>	<!--Blue Wolf Breastplate Part-->
+			<reward item_id="5156" min="1" max="1" chance="4.3431"/>	<!--Recipe: Soulshot (A) Compressed Package (100%)-->
+		</rewardlist>
+	</npc>
+	<npc id="21828" name="Alpen Cougar" title="">
+		<set name="type" value="FeedableBeast"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="28;34"/>
+		<set name="collision_radius" value="34"/>
+		<set name="level" value="69"/>
+		<set name="rewardExp" value="34929"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="4101"/>
+		<set name="baseHpMax" value="2395.45533"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1314"/>
+		<set name="baseMpReg" value="2.7"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="667.50361"/>
+		<set name="basePDef" value="291.15063"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="455.81844"/>
+		<set name="baseMDef" value="193.851368417065"/>
+		<set name="baseWalkSpd" value="60"/>
+		<set name="baseRunSpd" value="200"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="4.75"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.45"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<faction names="pet_clan" range="300"/>
+		<ai_params>
+			<set name="LongRangeGuardRate" value="5"/>
+		</ai_params>
+		<skills>
+			<skill id="4416" level="3"/>	<!--Beasts-->
+			<skill id="4408" level="12"/>	<!--HP Increase (4x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="14"/>	<!--Strong P. Atk.-->
+			<skill id="4411" level="14"/>	<!--Strong M. Atk.-->
+			<skill id="4412" level="8"/>	<!--Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="4438" level="2"/>	<!--Greater Resist Sleep-->
+			<skill id="4600" level="6" use_type="PhysicalSpecial"/>	<!--Reducing P. Def Stun-->
+			<skill id="4589" level="6" use_type="DDMagic"/>	<!--Decrease Speed-->
+			<skill id="4318" level="1" use_type="SelfBuff"/>	<!--Ultimate Buff-->
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="1.8258">
+				<reward item_id="212" min="1" max="1" chance="0.1045"/>	<!--Dasparion's Staff-->
+				<reward item_id="5543" min="1" max="1" chance="25.0791"/>	<!--Dasparion's Staff Head-->
+				<reward item_id="2504" min="1" max="1" chance="0.1045"/>	<!--Meteor Shower-->
+				<reward item_id="5532" min="1" max="1" chance="24.8449"/>	<!--Meteor Shower Head-->
+				<reward item_id="7894" min="1" max="1" chance="0.1045"/>	<!--Spiritual Eye-->
+				<reward item_id="8341" min="1" max="1" chance="24.8131"/>	<!--Spiritual Eye Piece-->
+				<reward item_id="7899" min="1" max="1" chance="0.1045"/>	<!--Destroyer Hammer-->
+				<reward item_id="8346" min="1" max="1" chance="24.8449"/>	<!--Hammer Piece of Destroyer-->
+			</group>
+			<group chance="97.7784">
+				<reward item_id="1865" min="1" max="3" chance="45.4026"/>	<!--Varnish-->
+				<reward item_id="1870" min="1" max="3" chance="30.2684"/>	<!--Coal-->
+				<reward item_id="1879" min="1" max="1" chance="15.1342"/>	<!--Cokes-->
+				<reward item_id="1875" min="1" max="1" chance="6.0537"/>	<!--Stone of Purity-->
+				<reward item_id="4040" min="1" max="1" chance="1.8161"/>	<!--Mold Lubricant-->
+				<reward item_id="5450" min="1" max="1" chance="0.0336"/>	<!--Recipe: Dragon Grinder(60%)-->
+				<reward item_id="8730" min="1" max="1" chance="1.0089"/>	<!--Life Stone -  Level 67-->
+				<reward item_id="8740" min="1" max="1" chance="0.2522"/>	<!--Mid-Grade Life Stone -  Level 67-->
+				<reward item_id="8750" min="1" max="1" chance="0.0252"/>	<!--High-Grade Life Stone -  Level 67-->
+				<reward item_id="8760" min="1" max="1" chance="0.0051"/>	<!--Top-Grade Life Stone -  Level 67-->
+			</group>
+		</rewardlist>
+		<rewardlist type="SWEEP">
+			<reward item_id="5478" min="1" max="1" chance="30.6279"/>	<!--Sealed Dark Crystal Leather Armor Pattern-->
+			<reward item_id="729" min="1" max="1" chance="0.4047"/>	<!--Scroll: Enchant Weapon (A-Grade)-->
+			<reward item_id="1875" min="2" max="2" chance="98.8651"/>	<!--Stone of Purity-->
+		</rewardlist>
+	</npc>
+	<npc id="21829" name="Alpen Cougar" title="">
+		<set name="type" value="FeedableBeast"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="28;34"/>
+		<set name="collision_radius" value="34"/>
+		<set name="level" value="69"/>
+		<set name="rewardExp" value="33318"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="3912"/>
+		<set name="baseHpMax" value="2395.45533"/>
+		<set name="baseHpRate" value="4"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1314"/>
+		<set name="baseMpReg" value="2.7"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="667.50361"/>
+		<set name="basePDef" value="291.15063"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="455.81844"/>
+		<set name="baseMDef" value="193.851368417065"/>
+		<set name="baseWalkSpd" value="60"/>
+		<set name="baseRunSpd" value="200"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="30"/>
+		<set name="baseAttackType" value="SWORD"/>
+		<set name="basePHitModify" value="4.75"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.45"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="300"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<faction names="pet_clan" range="300"/>
+		<skills>
+			<skill id="4416" level="3"/>	<!--Beasts-->
+			<skill id="4408" level="12"/>	<!--HP Increase (4x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="14"/>	<!--Strong P. Atk.-->
+			<skill id="4411" level="14"/>	<!--Strong M. Atk.-->
+			<skill id="4412" level="8"/>	<!--Weak P. Def.-->
+			<skill id="4413" level="8"/>	<!--Weak M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="4438" level="2"/>	<!--Greater Resist Sleep-->
+			<skill id="4566" level="6" use_type="W_LongRangeDDMagic"/>	<!--NPC Eruption - Magic-->
+			<skill id="4160" level="6" use_type="W_ShortRangeDDMagic"/>	<!--NPC Aura Burn - Magic-->
+			<skill id="4571" level="6" use_type="SelfRangeDDMagic"/>	<!--NPC Blazing Circle-->
+			<skill id="4318" level="1" use_type="SelfBuff"/>	<!--Ultimate Buff-->
+			<skill id="4657" level="6" use_type="HoldMagic"/>	<!--Hold-->
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="4.7487">
+				<reward item_id="5304" min="1" max="1" chance="0.2697"/>	<!--Sealed Tallum Tunic-->
+				<reward item_id="5485" min="1" max="1" chance="30.2857"/>	<!--Sealed Tallum Tunic Texture-->
+				<reward item_id="5305" min="1" max="1" chance="0.4313"/>	<!--Sealed Tallum Stockings-->
+				<reward item_id="5489" min="1" max="1" chance="47.5362"/>	<!--Sealed Tallum Stockings Fabric-->
+				<reward item_id="5308" min="1" max="1" chance="0.1659"/>	<!--Sealed Dark Crystal Robe-->
+				<reward item_id="5486" min="1" max="1" chance="21.3112"/>	<!--Sealed Dark Crystal Robe Fabric-->
+			</group>
+			<group chance="97.7784">
+				<reward item_id="1869" min="2" max="6" chance="22.9896"/>	<!--Iron Ore-->
+				<reward item_id="1864" min="5" max="15" chance="18.3917"/>	<!--Stem-->
+				<reward item_id="1880" min="1" max="1" chance="9.1958"/>	<!--Steel-->
+				<reward item_id="5550" min="1" max="1" chance="1.2261"/>	<!--Durable Metal Plate-->
+				<reward item_id="4043" min="1" max="1" chance="3.0653"/>	<!--Asofe-->
+				<reward item_id="5448" min="1" max="1" chance="0.0341"/>	<!--Recipe: Soul Separator(60%)-->
+				<reward item_id="8730" min="1" max="1" chance="1.0218"/>	<!--Life Stone -  Level 67-->
+				<reward item_id="8740" min="1" max="1" chance="0.2554"/>	<!--Mid-Grade Life Stone -  Level 67-->
+				<reward item_id="8750" min="1" max="1" chance="0.0255"/>	<!--High-Grade Life Stone -  Level 67-->
+				<reward item_id="8760" min="1" max="1" chance="0.0051"/>	<!--Top-Grade Life Stone -  Level 67-->
+				<reward item_id="1343" min="30" max="90" chance="43.7896"/>	<!--Silver Arrow-->
+			</group>
+		</rewardlist>
+		<rewardlist type="SWEEP">
+			<reward item_id="4053" min="1" max="1" chance="98.1817"/>	<!--Ring of Black Ore Gemstone-->
+			<reward item_id="3035" min="1" max="1" chance="4.6326"/>	<!--Recipe: Spiritshot A-->
+			<reward item_id="4054" min="1" max="1" chance="68.433"/>	<!--Necklace of Black Ore Beads-->
+		</rewardlist>
+	</npc>
+</list>

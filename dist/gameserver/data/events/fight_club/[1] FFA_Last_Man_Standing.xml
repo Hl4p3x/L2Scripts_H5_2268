@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<event id="1" name="Last Hero" impl="fightclub.LastManStanding">
+		<parameter name="icon" value="L2UI_CT1.clan_DF_TerritoryWarIcon_Dion"/>
+		<parameter name="desc" value="Free For All Event. Your goal is to survive as long as you can. Last player that stays alive on the battlefield is winning. Players are transformed to prevent helping friends."/>
+		<parameter name="roundRunTime" value="-1"/>
+		<parameter name="isAutoTimed" value="false"/>
+		<parameter name="autoTimes" value="05:30,14:30,17:30,20:30,23:30"/>
+		<parameter name="rounds" value="1"/>
+		<parameter name="teamed" value="false"/>
+		<parameter name="buffer" value="false"/>
+		<parameter name="fighterBuffs" value="1204,2;1086,2;1068,3;1045,6;1048,6;1040,3;1062,2;1036,2"/>
+		<parameter name="mageBuffs" value="1204,2;1085,3;1059,3;1045,6;1048,6;1040,3;1062,2;1036,2"/>
+		<parameter name="rootBetweenRounds" value="true"/>
+		<parameter name="excludedClasses" value="HEALERS"/>
+		<parameter name="roundEvent" value="false"/>
+		<parameter name="respawnTime" value="-1"/>
+		<parameter name="ressAllowed" value="false"/>
+		<parameter name="showPersonality" value="false"/>
+		<parameter name="badgesKillPlayer" value="1"/>
+		<parameter name="badgesKillPet" value="0"/>
+		<parameter name="badgeID" value="57"/> <!--Item to give to winners -->
+		<parameter name="badgesWin" value="1000"/> <!--Items count to give to winners -->
+		<parameter name="topKillerReward" value="500"/> <!--Items count to add if cha is top killer -->		
+	</event>
+</list>

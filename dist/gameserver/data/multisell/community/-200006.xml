@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+
+	<!-- Imperial Crusader Breastplate - armor_t88_u_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="6373" count="1"/>
+	</item>
+
+	<!-- Imperial Crusader Gaiters - armor_t88_l_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="6374" count="1"/>
+	</item>
+
+	<!-- Imperial Crusader Helmet - armor_helmet_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="6378" count="1"/>
+	</item>
+
+	<!-- Imperial Crusader Gauntlets - armor_t88_g_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="6375" count="1"/>
+	</item>
+
+	<!-- Imperial Crusader Boots - armor_t88_b_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="6376" count="1"/>
+	</item>
+
+	<!-- Imperial Crusader Shield - shield_imperial_crusader_shield_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="6377" count="1"/>
+	</item>
+
+	<!-- Draconic Leather Armor - armor_t89_ul_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="6379" count="1"/>
+	</item>
+
+	<!-- Draconic Leather Helmet - armor_leather_helmet_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="6382" count="1"/>
+	</item>
+
+	<!-- Draconic Leather Gloves - armor_t89_g_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="6380" count="1"/>
+	</item>
+
+	<!-- Draconic Leather Boots - armor_t89_b_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="6381" count="1"/>
+	</item>
+
+	<!-- Major Arcana Robe - armor_t90_ul_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="6383" count="1"/>
+	</item>
+
+	<!-- Major Arcana Circlet - armor_circlet_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="6386" count="1"/>
+	</item>
+
+	<!-- Major Arcana Gloves - armor_t90_g_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="6384" count="1"/>
+	</item>
+
+	<!-- Major Arcana Boots - armor_t90_b_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="6385" count="1"/>
+	</item>
+
+	<!--Dynasty Heavy-->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9416" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9421" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9422" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9423" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9424" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9441" count="1"/>
+	</item>
+	<!--Dynasty Light-->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9425" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9428" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9429" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9430" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9431" count="1"/>
+	</item>
+	<!--Dynasty Robe-->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9432" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9437" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9438" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9439" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9440" count="1"/>
+	</item>
+</list>

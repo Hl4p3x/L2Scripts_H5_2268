@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Exchange of mucrockian leather without discount -->
+
+<list>
+  <!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+  <!-- ignoreprice не работает с keepencahnted -->
+  <config showall="true" notax="true" keepenchanted="false" />
+
+	<!-- Recipe - Sealed Dynasty Earrings (70%) -->
+  <item>
+    <ingredient id="14873" count="230"/>
+    <production id="9985" count="1"/>
+  </item>
+
+   <item>
+    <ingredient id="14874" count="115"/>
+    <production id="9985" count="1"/>
+  </item>
+  
+	<!-- Recipe - Sealed Dynasty Necklace (70%) -->
+  <item>
+    <ingredient id="14873" count="308"/>
+    <production id="9986" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="14874" count="154"/>
+    <production id="9986" count="1"/>
+  </item>
+  
+	<!-- Recipe - Sealed Dynasty Ring (70%) -->
+  <item>
+    <ingredient id="14873" count="154"/>
+    <production id="9987" count="1"/>
+  </item>
+
+  <item>
+    <ingredient id="14874" count="77"/>
+    <production id="9987" count="1"/>
+  </item>  
+  
+	<!-- Recipe: Sealed Dynasty Sigil (60%) -->
+  <item>
+    <ingredient id="14873" count="248"/>
+    <production id="10115" count="1"/>
+  </item>
+ 
+  <item>
+    <ingredient id="14874" count="108"/>
+    <production id="10115" count="1"/>
+  </item> 
+<!-- 123 -->
+  <item>
+    <ingredient id="14873" count="216"/>
+    <production id="15777" count="1"/>
+  </item>
+ 
+  <item>
+    <ingredient id="14874" count="108"/>
+    <production id="15777" count="1"/>
+  </item> 
+
+  <item>
+    <ingredient id="14873" count="216"/>
+    <production id="15780" count="1"/>
+  </item>
+ 
+  <item>
+    <ingredient id="14874" count="108"/>
+    <production id="15780" count="1"/>
+  </item> 
+
+  <item>
+    <ingredient id="14873" count="216"/>
+    <production id="15783" count="1"/>
+  </item>
+ 
+  <item>
+    <ingredient id="14874" count="108"/>
+    <production id="15783" count="1"/>
+  </item> 
+
+  <item>
+    <ingredient id="14873" count="216"/>
+    <production id="15786" count="1"/>
+  </item>
+ 
+  <item>
+    <ingredient id="14874" count="108"/>
+    <production id="15786" count="1"/>
+  </item> 
+
+  <item>
+    <ingredient id="14873" count="216"/>
+    <production id="15789" count="1"/>
+  </item>
+ 
+  <item>
+    <ingredient id="14874" count="108"/>
+    <production id="15789" count="1"/>
+  </item> 
+
+  <item>
+    <ingredient id="14873" count="216"/>
+    <production id="15790" count="1"/>
+  </item>
+ 
+  <item>
+    <ingredient id="14874" count="108"/>
+    <production id="15790" count="1"/>
+  </item> 
+
+  <item>
+    <ingredient id="14873" count="216"/>
+    <production id="15813" count="1"/>
+  </item>
+ 
+  <item>
+    <ingredient id="14874" count="108"/>
+    <production id="15813" count="1"/>
+  </item> 
+
+  <item>
+    <ingredient id="14873" count="216"/>
+    <production id="15814" count="1"/>
+  </item>
+ 
+  <item>
+    <ingredient id="14874" count="108"/>
+    <production id="15814" count="1"/>
+  </item> 
+
+  <item>
+    <ingredient id="14873" count="216"/>
+    <production id="15812" count="1"/>
+  </item>
+ 
+  <item>
+    <ingredient id="14874" count="108"/>
+    <production id="15812" count="1"/>
+  </item> 
+</list>

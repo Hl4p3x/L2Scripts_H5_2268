@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<item>
+		<production id="21162" count="1"/>	<!-- -->
+		<ingredient id="4037" count="1"/>	<!-- СOL -->
+	</item>
+	<item>
+		<production id="21163" count="1"/>	<!-- -->
+		<ingredient id="4037" count="1"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="21159" count="1"/>	<!-- -->
+		<ingredient id="4037" count="1"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="21160" count="1"/>	<!-- -->
+		<ingredient id="4037" count="1"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="6408" count="1"/>	<!-- -->
+		<ingredient id="4037" count="1"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="21580" count="1"/>	<!-- -->
+		<ingredient id="4037" count="1"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="21582" count="1"/>	<!-- -->
+		<ingredient id="4037" count="3"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="5799" count="1"/>	<!-- -->
+		<ingredient id="4037" count="1"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="5800" count="1"/>	<!-- -->
+		<ingredient id="4037" count="1"/>	<!--СOL -->
+	</item>	
+	<item>
+		<production id="10296" count="1"/>	<!--Transform Sealbook: Anakim -->
+		<ingredient id="4037" count="200"/>	<!--СOL -->
+	</item>
+</list>

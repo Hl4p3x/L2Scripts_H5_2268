@@ -1,0 +1,220 @@
+<list>
+	<teleport_list name_en="Start Villages" name_ru="Стартовые Деревни">
+		<point x="12428" y="16551" z="-4588" name_en="Dark Elf Village" name_ru="Деревня Темный Эльфов"/>
+		<point x="116551" y="-182493" z="-1525" name_en="Dwarf Village" name_ru="Деревня Гномов"/>
+		<point x="45873" y="49288" z="-3064" name_en="Elf Village" name_ru="Деревня Эльфов"/>
+		<point x="-116934" y="46616" z="368" name_en="Kamael Village" name_ru="Деревня Камаэлев"/>
+		<point x="-44133" y="-113911" z="-244" name_en="Orc Village" name_ru="Деревня Орков"/>
+		<point x="-82687" y="243157" z="-3734" name_en="Talking Island" name_ru="Говорящий остров"/>
+	</teleport_list>
+	<teleport_list name_en="Towns" name_ru="Города">
+		<point x="82698" y="148638" z="-3473" castle_id="3" name_en="Giran" name_ru="Гиран" />
+		<point x="147450" y="27064" z="-2208" castle_id="5" name_en="Aden" name_ru="Аден" />
+		<point x="147725" y="-56517" z="-2780" castle_id="7" name_en="Goddard" name_ru="Годдард" />
+		<point x="44070" y="-50243" z="-796" castle_id="8" name_en="Rune" name_ru="Руна" />
+		<point x="82321" y="55139" z="-1529" castle_id="4" name_en="Oren" name_ru="Орен" />
+		<point x="87358" y="-141982" z="-1341" castle_id="9" name_en="Schuttgart" name_ru="Штутгарт" />
+		<point x="111115" y="219017" z="-3547" castle_id="6" name_en="Heine" name_ru="Хейн" />
+		<point x="18748" y="145437" z="-3132" castle_id="2" name_en="Dion" name_ru="Дион" />
+		<point x="-14225" y="123540" z="-3121" castle_id="1" name_en="Gludio" name_ru="Глудио" />
+		<point x="-83063" y="150791" z="-3133" name_en="Gludin" name_ru="Глудин" />
+		<point x="17144" y="170156" z="-3502" name_en="Floran" name_ru="Флоран" />
+		<point x="116589" y="76268" z="-2734" name_en="Hunter Village" name_ru="Деревня охотников" />
+	</teleport_list>
+	<teleport_list name_en="Town Area's" name_ru="Окрестности Городов">
+		<teleport_list name_en="Aden Area" name_ru="Окрестности Адена">
+			<point x="165584" y="85997" z="-2338" name_en="Anghel Waterfall" name_ru="Ангельский Водопад"/>
+			<point x="146828" y="-12859" z="-4455" name_en="The Blazing Swamp" name_ru="Раскаленные Топи"/>
+			<point x="109699" y="-7908" z="-2902" name_en="Border Outpost(East Side)" name_ru="Пограничная Застава(Восток)"/>
+			<point x="114172" y="-18034" z="-1875" name_en="Border Outpost(West Side)" name_ru="Пограничная Застава(Запад)"/>
+			<point x="172136" y="20325" z="-3326" name_en="Cemetary" name_ru="Кладбище"/>
+			<point x="150086" y="46733" z="-3412" name_en="Coliseum" name_ru="Колизей"/>
+			<point x="185395" y="20359" z="-3270" name_en="The Forbidden Gateway" name_ru="Запретные Врата"/>
+			<point x="150477" y="85907" z="-2753" name_en="The Forest Of Mirrors" name_ru="Лес Зеркал"/>
+			<point x="174491" y="50942" z="-4360" name_en="The Giants Cave" name_ru="Пещера Гигантов"/>
+			<teleport_list name_en="Tower of Insolence" name_ru="Башня Дерзости">
+				<point x="121685" y="15749" z="-3852" name_en="1st Floor" name_ru="1 Этаж"/>
+				<point x="114665" y="12697" z="-3609" name_en="2nd Floor" name_ru="2 Этаж"/>
+				<point x="111249" y="16031" z="-2127" name_en="3rd Floor" name_ru="3 Этаж"/>
+				<point x="114605" y="19371" z="-645" name_en="4th Floor" name_ru="4 Этаж"/>
+				<point x="117996" y="16103" z="843" name_en="5th Floor" name_ru="5 Этаж"/>
+				<point x="114632" y="19640" z="1944" name_en="6th Floor" name_ru="6 Этаж"/>
+				<point x="114552" y="12354" z="2957" name_en="7th Floor" name_ru="7 Этаж"/>
+				<point x="110963" y="16147" z="3967" name_en="8th Floor" name_ru="8 Этаж"/>
+				<point x="117356" y="18462" z="4977" name_en="9th Floor" name_ru="9 Этаж"/>
+				<point x="118250" y="15858" z="5897" name_en="10th Floor" name_ru="10 Этаж"/>
+				<point x="115824" y="17242" z="6760" name_en="11th Floor" name_ru="11 Этаж"/>
+				<point x="113288" y="14692" z="7997" name_en="12th Floor" name_ru="12 Этаж"/>
+				<point x="115322" y="16756" z="9007" name_en="13th Floor" name_ru="13 Этаж"/>
+				<point x="112787" y="14158" z="10077" name_en="Angelic Vortex" name_ru="Ангельский Вихрь"/>
+			</teleport_list>
+		</teleport_list>
+		<teleport_list name_en="Hunter's Area" name_ru="Окрестность Охотничий дер.">
+			<point x="105751" y="113370" z="-3199" name_en="Hardin's Academy" name_ru="Академия Хардина"/>
+			<point x="104413" y="33734" z="-3795" name_en="Enchanted Valley (North)" name_ru="Волшебная Долина (Север)"/>
+			<point x="124899" y="61995" z="-3915" name_en="Enchanted Valley (South)" name_ru="Волшебная Долина (Юг)"/>
+		</teleport_list>
+		<teleport_list name_en="Dion Area" name_ru="Окрестности Диона">
+			<point x="51055" y="141959" z="-2869" name_en="Execution Grounds" name_ru="Земля Казненных"/>
+			<point x="17192" y="114178" z="-3439" name_en="Cruma Tower Entrance" name_ru="Башня Крума Вход"/>
+			<point x="17724" y="114004" z="-11672" name_en="Cruma Tower 1st Floor" name_ru="Башня Крума 1 Этаж"/>
+			<point x="17730" y="108301" z="-9057" name_en="Cruma Tower 2nd Floor" name_ru="Башня Крума 2 Этаж"/>
+			<point x="17719" y="115430" z="-6582" name_en="Cruma Tower 3rd Floor" name_ru="Башня Крума 3 Этаж"/>
+		</teleport_list>
+		<teleport_list name_en="Gludio Area" name_ru="Окрестности Глудио">
+			<point x="-56235" y="106668" z="-3773" name_en="Ruins of Agony" name_ru="Руины Страданий"/>
+			<point x="-20043" y="137688" z="-3896" name_en="Ruins of Despair" name_ru="Руины Отчаяния"/>
+			<point x="-26111" y="173692" z="-4152" name_en="Ant's Nest" name_ru="Муравейник"/>
+			<point x="-16730" y="209417" z="-3664" name_en="South of Wastelands" name_ru="Юг Пустоши"/>
+			<point x="-23403" y="186599" z="-4317" name_en="Wastelands" name_ru="Пустошь"/>
+			<point x="-149365" y="255309" z="-86" name_en="Gludio AirShip Field" name_ru="Стоянка Воздушного Корабля Глудио"/>
+		</teleport_list>
+		<teleport_list name_en="Gludin Area" name_ru="Окрестности Глудина">
+			<point x="-56742" y="140569" z="-2625" name_en="Abandoned Camp" name_ru="Заброшеный Лагерь"/>
+			<point x="-66931" y="120296" z="-3651" name_en="Fellmere Lake" name_ru="Охотничьи Угодья Фельмер"/>
+			<point x="-53838" y="179285" z="-4640" name_en="Forgotten Temple" name_ru="Забытый Храм"/>
+			<point x="-94841" y="147430" z="-2675" name_en="Gludin Cliffside Estate" name_ru="Усадьба Глудина"/>
+			<point x="-89199" y="149962" z="-3586" name_en="Gludin Harbor" name_ru="Гавань Глудио"/>
+			<point x="-90562" y="108182" z="-3546" name_en="Orc Barracks" name_ru="Лагерь Орков"/>
+		</teleport_list>
+		<teleport_list name_en="Oren Area" name_ru="Окрестности Орена">
+			<point x="62425" y="30856" z="-3779" name_en="Sea Of Spores" name_ru="Море Спор"/>
+			<point x="54216" y="23826" z="-5380" name_en="Sea of Spores (Orfens' Lair)" name_ru="Море Спор (Логово Орфен)"/>
+			<point x="85332" y="16186" z="-3673" name_en="Ivory Tower" name_ru="Башня Слоновой Кости"/>
+			<point x="70833" y="6426" z="-3639" name_en="Northern Waterfall" name_ru="Северный Водопад"/>
+			<point x="87252" y="85514" z="-3056" name_en="Plains of Lizardmen" name_ru="Долина Ящеров"/>
+			<point x="87448" y="61460" z="-3664" name_en="Sel Mahum Training Grounds" name_ru="Школа Полномочий"/>
+		</teleport_list>
+		<teleport_list name_en="Giran Area" name_ru="Окрестности Гирана">
+			<point x="70000" y="126636" z="-3804" name_en="Death Pass" name_ru="Долина Смерти"/>
+			<point x="47114" y="187152" z="-3485" name_en="Giran Harbor" name_ru="Гавань Гирана"/>
+			<point x="42006" y="208234" z="-3756" name_en="Devil's Isle" name_ru="Остров Дьявола"/>
+			<point x="41298" y="200350" z="-4583" name_en="Pirate's Tunnel" name_ru="Тунель Пиратов"/>
+			<point x="122881" y="110792" z="-3727" name_en="Dragon Valley" name_ru="Долина Драконов"/>
+			<point x="131355" y="114451" z="-3718" name_en="Antharas' Lair Entrance" name_ru="Логово Антараса Вход"/>
+			<point x="173826" y="115333" z="-7708" name_en="Antharas' Nest" name_ru="Гнездо Антараса"/>
+			<point x="154623" y="121134" z="-3809" name_en="Antharas' Heart" name_ru="Сердце Антараса"/>
+		</teleport_list>
+		<teleport_list name_en="Rune Area" name_ru="Окрестности Руна">
+			<point x="38015" y="-38305" z="-3609" name_en="Rune Harbor" name_ru="Гавань Руны"/>
+			<point x="93078" y="-58289" z="-2854" name_en="Swamp of Screams" name_ru="Болото Криков"/>
+			<point x="89513" y="-44800" z="-2136" name_en="Stakato Nes" name_ru="Гнездо Стакато"/>
+			<point x="52063" y="-54448" z="-3166" name_en="Forest of the Dead" name_ru="Лес Неупокоенных"/>
+			<point x="59425" y="-47753" z="-2562" name_en="Cursed Village" name_ru="Проклятая Деревня"/>
+			<point x="52270" y="-81456" z="-2767" name_en="Beast Farm" name_ru="Ферма Диких Зверей"/>
+			<point x="67992" y="-72012" z="-3748" name_en="Vally of Saints" name_ru="Vally of Saints"/>
+			<point x="80471" y="-84022" z="-3646" name_en="Vally of Saints Grave Area" name_ru="Долина Святых Могила"/>
+			<point x="91840" y="-86269" z="-2703" name_en="Vally of Saints Tomb" name_ru="Долина Святых Гробница"/>
+			<point x="40723" y="-92245" z="-3747" name_en="Windtail Waterfall" name_ru="Водопад Хвост Ветра"/>
+		</teleport_list>
+		<teleport_list name_en="Goddard Area" name_ru="Окрестности Годдарда">
+			<point x="107944" y="-87728" z="-2917" name_en="Monastery of Silence" name_ru="Монастырь Безмолвия"/>
+			<point x="149616" y="-112428" z="-2065" name_en="Hot Springs" name_ru="Горячие Источники"/>
+			<point x="152180" y="-126093" z="-2282" name_en="Hot Springs Arena" name_ru="Арена Горячих Источников"/>
+			<point x="108275" y="-53785" z="-2524" name_en="Varka Silenos Outpost" name_ru="Лагерь Фавнов Варка"/>
+			<point x="169018" y="-116303" z="-2432" name_en="Forge of the Gods" name_ru="Кузница Богов"/>
+			<point x="188191" y="-74959" z="-2738" name_en="Imperial Tomb" name_ru="Гробница Императоров"/>
+			<point x="178293" y="-83983" z="-7209" name_en="Four Sepulchers" name_ru="Четыре Гробницы"/>
+			<point x="149774" y="-81243" z="-5624" name_en="Ketra Orc OutPost" name_ru="Застава Орков Кетра"/>
+			<point x="176886" y="-50812" z="-3394" name_en="Wall of Agros" name_ru="Стена Агроса"/>
+			<point x="168505" y="-86606" z="-2992" name_en="Temple of Pilgrims" name_ru="Храм Паломников"/>
+			<point x="208884" y="-113705" z="-256" name_en="The Lair Of Valakas" name_ru="Логово Валакаса"/>
+		</teleport_list>
+		<teleport_list name_en="Heine Area" name_ru="Окрестности Хейна">
+			<point x="101712" y="174198" z="-2457" name_en="Alligator Island" name_ru="Остров Алигаторов"/>
+			<point x="87691" y="162835" z="-3520" name_en="Field Of Silence" name_ru="Поля Безмолвия"/>
+			<point x="82192" y="226128" z="-3656" name_en="Field Of Whispers" name_ru="Шепчущие Поля"/>
+			<point x="149361" y="172327" z="-945" name_en="Parnassus" name_ru="Парнас"/>
+			<point x="159111" y="183721" z="-3720" name_en="Isle of Prayer" name_ru="Кристальный Остров"/>
+			<point x="152857" y="149040" z="-3280" name_en="Chromatic Highlands" name_ru="Цветное Нагорье"/>
+			<point x="85170" y="241576" z="-6848" name_en="Garden of Eva Entrance" name_ru="Сад Богини Евы"/>
+			<point x="82158" y="252376" z="-10592" name_en="Garden of Eva 5th Floor" name_ru="Сад Богини Евы 5 Этаж"/>
+		</teleport_list>
+		<teleport_list name_en="Schuttgart Area" name_ru="Окрестности Штутгартa">
+			<point x="47692" y="-115745" z="-3744" name_en="Crypts of Disgrace" name_ru="Склепы Позора"/>
+			<point x="76860" y="-125169" z="-3414" name_en="Den of Evil" name_ru="Логово Зла"/>
+			<point x="108090" y="-120925" z="-3628" name_en="Frost Lake" name_ru="Замерзшее Озеро"/>
+			<point x="109060" y="-128655" z="-3084" name_en="The Ice Queen's Castle" name_ru="Замок Ледяной Королевы"/>
+			<point x="113487" y="-109888" z="-865" name_en="Ice Merchant Cabin" name_ru="Хижина Торговца Льдом"/>
+			<point x="23006" y="-126115" z="-870" name_en="Valley of The Lords" name_ru="Долина Лордов"/>
+			<point x="88275" y="-125690" z="-3815" name_en="Pavel Ruins" name_ru="Заброшенная Мастерская"/>
+			<point x="113900" y="-154175" z="-1488" name_en="Plunderous Plains" name_ru="Бандитская Твердыня"/>
+			<point x="48336" y="-107734" z="-1577" name_en="Graverobber Hideout" name_ru="Укрытие Грабителей Могил"/>
+			<point x="69762" y="-111260" z="-1807" name_en="Caron's Dungeon" name_ru="Проход Карона"/>
+			<point x="40825" y="-90317" z="-3095" name_en="Windtail Waterfall" name_ru="Водопад Хвост Ветра"/>
+			<point x="87475" y="-109835" z="-3330" name_en="Archaic Laboratory" name_ru="Древняя Лаборатория"/>
+			<point x="117715" y="-141750" z="-2700" name_en="Sky Wagon Relic" name_ru="Руины Воздушной Дороги"/>
+			<point x="124585" y="-160240" z="-1180" name_en="Brigand Stronghold" name_ru="Бандитская Твердыня"/>
+		</teleport_list>
+	</teleport_list>
+	<teleport_list name_en="Catacombs/Necrop." name_ru="Катакомбы/Некроп.">
+		<point x="83357" y="209207" z="-5437" name_en="Saint's" name_ru="Некрополь Святых"/>
+		<point x="-19176" y="13504" z="-4899" name_en="Dark Omens" name_ru="Катакомбы Темного Пророчества"/>
+		<point x="172600" y="-17599" z="-4899" name_en="Disciple's" name_ru="Некрополь Апостолов"/>
+		<point x="12521" y="-248481" z="-9585" name_en="Forbidden Path" name_ru="Катакомбы Запретного Пути"/>
+		<point x="118576" y="132800" z="-4832" name_en="Martyrdom" name_ru="Некрополь Мучеников"/>
+		<point x="140690" y="79679" z="-5429" name_en="Witch" name_ru="Катакомбы Ведьм"/>
+		<point x="-51942" y="79096" z="-4739" name_en="Devotion" name_ru="Молитвенный Некрополь"/>
+		<point x="-20195" y="-250764" z="-8163" name_en="Apostate" name_ru="Катакомбы Отступников"/>
+		<point x="-21423" y="77375" z="-5171" name_en="Patriot's" name_ru="Некрополь Повстанцев"/>
+		<point x="46542" y="170305" z="-4979" name_en="Branded" name_ru="Катакомбы Отлученных"/>
+		<point x="111552" y="174014" z="-5440" name_en="Worshippers" name_ru="Некрополь Послушников"/>
+		<point x="-53174" y="-250275" z="-7911" name_en="Heretics" name_ru="Катакомбы Еретиков"/>
+		<point x="45249" y="123548" z="-5411" name_en="Pilgrim's" name_ru="Некрополь Пилигримов"/>
+		<point x="-41569" y="210082" z="-5085" name_en="Sacrifice" name_ru="Жертвенный Некрополь"/>
+		<point x="-79582" y="111360" z="-4899" name_en="Oracle of Dawn" name_ru="Оракул Рассвета"/>
+		<point x="-80545" y="86525" z="-5155" name_en="Oracle of Dusk" name_ru="Оракул Заката"/>
+	</teleport_list>
+	<teleport_list name_en="Residences" name_ru="Резиденции">
+		<teleport_list name_en="Castles" name_ru="Замки">
+			<point x="112122" y="144855" z="-2751" castle_id="3" name_en="Giran Castle" name_ru="Замок Гиран" />
+			<point x="147457" y="10843" z="-736" castle_id="5" name_en="Aden Castle" name_ru="Замок Аден" />
+			<point x="147482" y="-45026" z="-2084" castle_id="7" name_en="Goddard Castle" name_ru="Замок Годдард" />
+			<point x="19118" y="-49136" z="-1266" castle_id="8" name_en="Rune Castle" name_ru="Замок Руна" />
+			<point x="78116" y="36961" z="-2458" castle_id="4" name_en="Oren Castle" name_ru="Замок Орен" />
+			<point x="77540" y="-149114" z="-352" castle_id="9" name_en="Schuttgart Castle" name_ru="Замок Штутгарт" />
+			<point x="116265" y="244631" z="-1057" castle_id="6" name_en="Heine Castle" name_ru="Замок Хейн" />
+			<point x="22306" y="156027" z="-2953" castle_id="2" name_en="Dion Castle" name_ru="Замок Дион" />
+			<point x="-18361" y="113887" z="-2767" castle_id="1" name_en="Gludio Castle" name_ru="Замок Глудио" />
+		</teleport_list>
+		<teleport_list name_en="Fortresses" name_ru="Крепости">
+			<point x="72889" y="188048" z="-2580" name_en="Aaru Fort" name_ru="Крепость Аару"/>
+			<point x="77910" y="89232" z="-2883" name_en="Antharas' Fort" name_ru="Крепость Антараса"/>
+			<point x="111798" y="-141743" z="-2927" name_en="Archaic Fort" name_ru="Заснеженная Крепость"/>
+			<point x="189897" y="36705" z="-3407" name_en="Bayou Fort" name_ru="Крепость Гигантов"/>
+			<point x="157008" y="-68935" z="-2861" name_en="Borderland Fort" name_ru="Крепость Пограничья"/>
+			<point x="-54316" y="89187" z="-2819" name_en="Cloud Mountain Fort" name_ru="Крепость Туманных Гор"/>
+			<point x="98822" y="-56465" z="-649" name_en="Demon Fort" name_ru="Крепость Демона"/>
+			<point x="10527" y="96849" z="-3424" name_en="Dragonspine Fort" name_ru="Крепость Черепахи"/>
+			<point x="7690" y="150721" z="-2887" name_en="Floran Fort" name_ru="Крепость Флоран"/>
+			<point x="15447" y="186169" z="-2921" name_en="Hive Fort" name_ru="Крепость Улья"/>
+			<point x="124188" y="93295" z="-2142" name_en="Hunter's Fort" name_ru="Крепость Охотников"/>
+			<point x="71419" y="6187" z="-3036" name_en="Ivory Fort" name_ru="Крепость Слоновой Кости"/>
+			<point x="71894" y="-92615" z="-1420" name_en="Monastic Fort" name_ru="Крепость Монахов"/>
+			<point x="156707" y="53966" z="-3251" name_en="Narsell Fort" name_ru="Крепость Нарсилл"/>
+			<point x="-55004" y="157132" z="-2050" name_en="Shanty Fort" name_ru="Укрепленный Лагерь"/>
+			<point x="-25348" y="219856" z="-3249" name_en="Southern Fort" name_ru="Южная Крепость"/>
+			<point x="68731" y="-63848" z="-2783" name_en="Swamp Fort" name_ru="Крепость Болота"/>
+			<point x="58948" y="137927" z="-1752" name_en="Tanor Fort" name_ru="Крепость Танор"/>
+			<point x="126064" y="120508" z="-2583" name_en="Valley Fort" name_ru="Драконья Крепость"/>
+			<point x="112350" y="-17183" z="-992" name_en="Western Fort" name_ru="Западная Крепость"/>
+			<point x="116400" y="203804" z="-3331" name_en="White Sands Fort" name_ru="Крепость Белых Песков"/>
+		</teleport_list>
+		<teleport_list name_en="Clan Halls" name_ru="Холлы Клана">
+			<point x="45556" y="109807" z="-1995" name_en="Fortress of Resistance" name_ru="Форт Противостояние"/>
+			<point x="86575" y="-19745" z="-1936" name_en="Bandit Stronghold" name_ru="Крепость Бандитов"/>
+			<point x="178342" y="-14003" z="-2260" name_en="Devastated Castle" name_ru="Разрушенный Замок"/>
+			<point x="55052" y="-93237" z="-1374" name_en="Wild Beast Reserve" name_ru="Резерв Диких Животных"/>
+			<point x="140997" y="-123379" z="-1911" name_en="Rainbow Springs Chateau" name_ru="Радужный Уголок Читао"/>
+			<point x="57960" y="-30188" z="496" name_en="Fortress of the Dead" name_ru="Форт Мертвых"/>
+		</teleport_list>
+	</teleport_list>
+	<teleport_list name_en="Arenas" name_ru="Арены">
+		<point x="73890" y="142656" z="-3778" name_en="Giran Arena" name_ru="Арена Гирана"/>
+		<point x="-86979" y="142402" z="-3643" name_en="Gludin Arena" name_ru="Арена Глудина"/>
+		<point x="147451" y="46728" z="-3410" name_en="Coliseum Arena" name_ru="Колизей"/>
+		<point x="-81896" y="-49589" z="-10352" name_en="Underground Coliseum" name_ru="Подземный Колизей"/>
+		<point x="12312" y="182752" z="-3558" name_en="Monster Race Track" name_ru="Гонки Монстров"/>
+		<point x="-59193" y="-56893" z="-2039" name_en="Fantasy Island" name_ru="Остров Грез"/>
+	</teleport_list>
+</list>

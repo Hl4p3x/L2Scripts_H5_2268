@@ -1,0 +1,449 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+
+	<!-- Great Sword Health - weapon_great_sword_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4723" count="1"/>
+	</item>
+
+	<!-- Great Sword Critical Damage - weapon_great_sword_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4724" count="1"/>
+	</item>
+
+	<!-- Great Sword Focus - weapon_great_sword_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4725" count="1"/>
+	</item>
+
+	<!-- Heavy War Axe Anger - weapon_heavy_war_axe_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4747" count="1"/>
+	</item>
+
+	<!-- Heavy War Axe Health - weapon_heavy_war_axe_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4748" count="1"/>
+	</item>
+
+	<!-- Heavy War Axe Rsk. Focus - weapon_heavy_war_axe_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4749" count="1"/>
+	</item>
+
+	<!-- Sprite's Staff Magic Regeneration - weapon_sprites_staff_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4897" count="1"/>
+	</item>
+
+	<!-- Sprite's Staff Mental Shield - weapon_sprites_staff_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4898" count="1"/>
+	</item>
+
+	<!-- Sprite's Staff Magic Hold - weapon_sprites_staff_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4899" count="1"/>
+	</item>
+
+	<!-- Keshanberk - weapon_kshanberk_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4714" count="1"/>
+	</item>
+
+	<!-- Keshanberk - weapon_kshanberk_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4715" count="1"/>
+	</item>
+
+	<!-- Keshanberk - weapon_kshanberk_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4716" count="1"/>
+	</item>
+
+	<!-- Sword of Valhalla - weapon_sword_of_valhalla_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="7722" count="1"/>
+	</item>
+
+	<!-- Sword of Valhalla - weapon_sword_of_valhalla_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="7723" count="1"/>
+	</item>
+
+	<!-- Sword of Valhalla - weapon_sword_of_valhalla_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="7724" count="1"/>
+	</item>
+
+	<!-- Kris - weapon_kris_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4777" count="1"/>
+	</item>
+
+	<!-- Kris - weapon_kris_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4778" count="1"/>
+	</item>
+
+	<!-- Kris - weapon_kris_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4779" count="1"/>
+	</item>
+
+	<!-- Hell Knife - weapon_hell_knife_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4786" count="1"/>
+	</item>
+
+	<!-- Hell Knife - weapon_hell_knife_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4787" count="1"/>
+	</item>
+
+	<!-- Hell Knife - weapon_hell_knife_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4788" count="1"/>
+	</item>
+
+	<!-- Arthro Nail - weapon_arthro_nail_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4801" count="1"/>
+	</item>
+
+	<!-- Arthro Nail - weapon_arthro_nail_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4802" count="1"/>
+	</item>
+
+	<!-- Arthro Nail - weapon_arthro_nail_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4803" count="1"/>
+	</item>
+
+	<!-- Dark Elven Long Bow - weapon_dark_elven_long_bow_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4825" count="1"/>
+	</item>
+
+	<!-- Dark Elven Long Bow - weapon_dark_elven_long_bow_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4826" count="1"/>
+	</item>
+
+	<!-- Dark Elven Long Bow - weapon_dark_elven_long_bow_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4827" count="1"/>
+	</item>
+
+	<!-- Great Axe - weapon_great_axe_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4855" count="1"/>
+	</item>
+
+	<!-- Great Axe - weapon_great_axe_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4856" count="1"/>
+	</item>
+
+	<!-- Great Axe - weapon_great_axe_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4857" count="1"/>
+	</item>
+
+	<!-- Spell Breaker - weapon_spell_breaker_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8141" count="1"/>
+	</item>
+
+	<!-- Spell Breaker - weapon_spell_breaker_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8142" count="1"/>
+	</item>
+
+	<!-- Spell Breaker - weapon_spell_breaker_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8143" count="1"/>
+	</item>
+
+	<!-- Ice Storm Hammer - weapon_ice_storm_hammer_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8129" count="1"/>
+	</item>
+
+	<!-- Ice Storm Hammer - weapon_ice_storm_hammer_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8130" count="1"/>
+	</item>
+
+	<!-- Ice Storm Hammer - weapon_ice_storm_hammer_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8131" count="1"/>
+	</item>
+
+	<!-- Sword of Damascus - weapon_sword_of_damascus_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4717" count="1"/>
+	</item>
+
+	<!-- Sword of Damascus - weapon_sword_of_damascus_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4718" count="1"/>
+	</item>
+
+	<!-- Sword of Damascus - weapon_sword_of_damascus_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4719" count="1"/>
+	</item>
+
+	<!-- Lance - weapon_lancia_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4858" count="1"/>
+	</item>
+
+	<!-- Lance - weapon_lancia_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4859" count="1"/>
+	</item>
+
+	<!-- Lance - weapon_lancia_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4860" count="1"/>
+	</item>
+
+	<!-- Deadman's Glory - weapon_deadmans_glory_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4750" count="1"/>
+	</item>
+
+	<!-- Deadman's Glory - weapon_deadmans_glory_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4751" count="1"/>
+	</item>
+
+	<!-- Deadman's Glory - weapon_deadmans_glory_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4752" count="1"/>
+	</item>
+
+	<!-- Art of Battle Axe - weapon_art_of_battle_axe_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4753" count="1"/>
+	</item>
+
+	<!-- Art of Battle Axe - weapon_art_of_battle_axe_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4754" count="1"/>
+	</item>
+
+	<!-- Art of Battle Axe - weapon_art_of_battle_axe_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4755" count="1"/>
+	</item>
+
+	<!-- Staff of Evil Spirits - weapon_staff_of_evil_sprit_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4900" count="1"/>
+	</item>
+
+	<!-- Staff of Evil Spirits - weapon_staff_of_evil_sprit_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4901" count="1"/>
+	</item>
+
+	<!-- Staff of Evil Spirits - weapon_staff_of_evil_sprit_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4902" count="1"/>
+	</item>
+
+	<!-- Demon Dagger - weapon_demons_sword_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4780" count="1"/>
+	</item>
+
+	<!-- Demon Dagger - weapon_demons_sword_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4781" count="1"/>
+	</item>
+
+	<!-- Demon Dagger - weapon_demons_sword_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4782" count="1"/>
+	</item>
+
+	<!-- Bellion Cestus - weapon_bellion_cestus_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4804" count="1"/>
+	</item>
+
+	<!-- Bellion Cestus - weapon_bellion_cestus_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4805" count="1"/>
+	</item>
+
+	<!-- Bellion Cestus - weapon_bellion_cestus_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4806" count="1"/>
+	</item>
+
+	<!-- Bow of Peril - weapon_hazard_bow_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4828" count="1"/>
+	</item>
+
+	<!-- Bow of Peril - weapon_hazard_bow_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4829" count="1"/>
+	</item>
+
+	<!-- Bow of Peril - weapon_hazard_bow_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4830" count="1"/>
+	</item>
+
+	<!-- Guardian Sword - weapon_guardians_sword_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8105" count="1"/>
+	</item>
+
+	<!-- Guardian Sword - weapon_guardians_sword_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8106" count="1"/>
+	</item>
+
+	<!-- Guardian Sword - weapon_guardians_sword_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8107" count="1"/>
+	</item>
+
+	<!-- Wizard's Tear - weapon_tears_of_wizard_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8117" count="1"/>
+	</item>
+
+	<!-- Wizard's Tear - weapon_tears_of_wizard_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8118" count="1"/>
+	</item>
+
+	<!-- Wizard's Tear - weapon_tears_of_wizard_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8119" count="1"/>
+	</item>
+
+	<!-- Kaim Vanul's Bones - weapon_bone_of_kaim_vanul_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8144" count="1"/>
+	</item>
+
+	<!-- Kaim Vanul's Bones - weapon_bone_of_kaim_vanul_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8145" count="1"/>
+	</item>
+
+	<!-- Kaim Vanul's Bones - weapon_bone_of_kaim_vanul_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8146" count="1"/>
+	</item>
+
+	<!-- Star Buster - weapon_star_buster_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8132" count="1"/>
+	</item>
+
+	<!-- Star Buster - weapon_star_buster_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8133" count="1"/>
+	</item>
+
+	<!-- Star Buster - weapon_star_buster_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="8134" count="1"/>
+	</item>
+
+	<!-- Sword of Delusion*Sword of Delusion - weapon_dual_sword_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2617" count="1"/>
+	</item>
+
+	<!-- Samurai Long Sword*Samurai Long Sword - weapon_dual_sword_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2626" count="1"/>
+	</item>
+
+</list>

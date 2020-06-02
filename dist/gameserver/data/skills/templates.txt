@@ -1,0 +1,1408 @@
+		Connection con = null;
+		Statement statement = null;
+		ResultSet rset = null;
+
+		try
+		{
+			con = DatabaseFactory.getInstance().getConnection();
+			statement = con.createStatement();
+			File out = new File("templates.xml");
+			FileWriter o = new FileWriter(out);
+			rset = statement.executeQuery("SELECT DISTINCT `id`, `name`, TRIM(SUBSTRING(`enchant`,4)) AS `enchant` FROM `skills` WHERE `power`!=0 AND TRIM(SUBSTRING(`enchant`,4)) IN ('','Power')");
+			while(rset.next())
+			{
+				ResultSet rset2 = con.createStatement().executeQuery("SELECT * FROM `skills` WHERE `id`=" + rset.getString("id") + " AND TRIM(SUBSTRING(`enchant`,4))='" + rset.getString("enchant") + "'");
+				String enchant = rset.getString("enchant").length() > 0 ? " enchant=\"" + rset.getString("enchant") + "\"" : "";
+				String ret = "<skill id=\"" + rset.getString("id") + "\"" + " name=\"" + rset.getString("name") + "\"" + enchant + ">\n\t<table name=\"#power\">";
+				while(rset2.next())
+				{
+					ret += rset2.getString("power");
+					if(!rset2.isLast())
+						ret += " ";
+				}
+				ret += "</table>\n</skill>\n";
+				o.write(ret);
+			}
+			o.close();
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		finally
+		{}
+
+<skill id="1" name="Triple Slash">
+	<table name="#power">517 549 583 619 656 694 735 777 820 865 912 960 1010 1062 1115 1169 1225 1283 1342 1402 1464 1527 1591 1656 1722 1789 1010 1926 1995 2065 2135 2206 2277 2347 2417 2488 2557</table>
+</skill>
+<skill id="1" name="Triple Slash" enchant="Power">
+	<table name="#power">2581 2604 2627 2650 2673 2696 2719 2743 2766 2789 2812 2835 2858 2881 2904 2927 2950 2973 2996 3019 3042 3065 3088 3111 3134 3157 3180 3204 3227 3250</table>
+</skill>
+<skill id="3" name="Power Strike">
+	<table name="#power">30 32 35 46 61 55 71 78 84</table>
+</skill>
+<skill id="5" name="Double Sonic Slash">
+	<table name="#power">0 0 0 0 0 0 0 0 139 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</table>
+</skill>
+<skill id="6" name="Sonic Blaster">
+	<table name="#power">369 392 417 442 469 496 525 555 586 618 651 686 722 758 796 835 875 916 959 1002 1046 1091 1136 1183 1230 1278 1327 1376 1425 1475 1525 1576 1626 1677 1727 1777 1827</table>
+</skill>
+<skill id="6" name="Sonic Blaster" enchant="Power">
+	<table name="#power">1843 1860 1876 1893 1909 1925 1942 1958 1975 1991 2008 2024 2041 2057 2074 2090 2107 2123 2139 2156 2172 2189 2205 2222 2238 2255 2271 2288 2304 2321</table>
+</skill>
+<skill id="7" name="Sonic Storm">
+	<table name="#power">155 163 172 181 190 199 209 219 229 240 251 262 273 284 296 308 320 332 344 357 369 382 394 407 420 432 445 457</table>
+</skill>
+<skill id="7" name="Sonic Storm" enchant="Power">
+	<table name="#power">461 465 469 474 478 482 486 490 494 498 502 506 511 515 519 523 527 531 535 539 543 548 552 556 560 564 568 572 576 581</table>
+</skill>
+<skill id="9" name="Sonic Buster">
+	<table name="#power">111 111 124 132 139 147 155 163 172 181 190 199 209 219 229 240 251 262 273 284 296 308 320 332 344 357 369 382 394 407 420 432 445 457</table>
+</skill>
+<skill id="9" name="Sonic Buster" enchant="Power">
+	<table name="#power">461 465 469 474 478 482 486 490 494 498 502 506 511 515 519 523 527 531 535 539 543 548 552 556 560 564 568 572 576 581</table>
+</skill>
+<skill id="15" name="Charm">
+	<table name="#power">132 137 143 153 159 164 176 182 188 200 206 213 225 232 239 252 259 266 272 279 286 293 300 307 313 320 327 334 340 347 353 360 366 373 379 385 391 396 402 407 413 418 423 428 432 437 441 445 449 452 455 458</table>
+</skill>
+<skill id="16" name="Mortal Blow">
+	<table name="#power">73 80 88 115 126 137 178 193 210 268 291 314 367 396 427 494 531 571 656 703 752 859 916 977</table>
+</skill>
+<skill id="17" name="Force Burst">
+	<table name="#power">129 137 145 153 162 171 181 190 200 211 222 233 244 256 268 280 293 305 318 332 345 359 373 387 402 416 431 445 460 475 489 504 519 533</table>
+</skill>
+<skill id="17" name="Force Burst" enchant="Power">
+	<table name="#power">539 543 548 553 558 563 567 572 577 582 587 591 596 601 606 611 615 620 625 630 635 639 644 649 654 659 664 668 673 678</table>
+</skill>
+<skill id="18" name="Aura of Hate">
+	<table name="#power">3594 3690 3787 3885 3982 4080 4178 4276 4374 4471 4568 4665 4761 4856 4950 5043 5135 5226 5316 5403 5490 5574 5657 5737 5815 5891 5965 6036 6104 6170 6232 6292 6349 6402 6452 6499 6542</table>
+</skill>
+<skill id="18" name="Aura of Hate" enchant="Power">
+	<table name="#power">6591 6601 6611 6621 6631 6642 6652 6662 6672 6682 6692 6703 6713 6723 6733 6591 6753 6764 6774 6784 6794 6804 6814 6825 6835 6845 6855 6865 6875 6886</table>
+</skill>
+<skill id="19" name="Double Shot">
+	<table name="#power">984 1046 1110 1178 1249 1322 1399 1479 1562 1647 1736 1828 1923 2021 2123 2227 2333 2443 2555 2670 2788 2908 3030 3154 3280 3408 3537 3668 3800 3933 4067 4201 4336 4470 4604 4738 4870</table>
+</skill>
+<skill id="19" name="Double Shot" enchant="Power">
+	<table name="#power">4915 4959 5003 5047 5090 5134 5178 5222 5266 5310 5354 5398 5442 5486 5529 5573 5617 5661 5705 5749 5793 5837 5881 5925 5968 6012 6056 6100 6144 6188</table>
+</skill>
+<skill id="24" name="Burst Shot">
+	<table name="#power">350 370 391 412 434 457 481 506 531 557 584 611 639 668 697 727 758 789 820 852 885 917 950 984 1017 1051 1084 1118 1151 1185 1218</table>
+</skill>
+<skill id="24" name="Burst Shot" enchant="Power">
+	<table name="#power">1230 1241 1252 1262 1273 1284 1295 1306 1317 1328 1339 1350 1361 1372 1383 1394 1405 1416 1427 1438 1449 1460 1471 1482 1493 1504 1515 1526 1537 1548</table>
+</skill>
+<skill id="28" name="Aggression">
+	<table name="#power">2401 2487 2575 2755 2847 2942 3134 3233 3332 3536 3638 3743 3953 4058 4165 4273 4380 4487 4595 4703 4811 4918 5024 5131 5237 5341 5444 5547 5648 5748 5847 5943 6038 6131 6222 6310 6396 6480 6561 6639 6714 6786 6855 6921 6983 7042 7097 7148 0</table>
+</skill>
+<skill id="28" name="Aggression" enchant="Power">
+	<table name="#power">7250 7261 7272 7283 7295 7306 7317 7328 7339 7350 7362 7373 7384 7395 7406 7418 7429 7440 7451 7462 7473 7485 7496 7507 7518 7529 7541 7552 7563 7574</table>
+</skill>
+<skill id="29" name="Iron Punch">
+	<table name="#power">34 38 41 54 59 64 83 91 98 125 136 147 171 185 199 231 248 267 307 328 351 401 428 456</table>
+</skill>
+<skill id="30" name="Backstab">
+	<table name="#power">1107 1176 1249 1325 1405 1488 1574 1664 1757 1853 1953 2057 2164 2274 2388 2505 2625 2748 2875 3004 3136 3271 3408 3548 3690 3834 3980 4127 4275 4425 4575 4726 4878 5029 5180 5330 5479</table>
+</skill>
+<skill id="30" name="Backstab" enchant="Power">
+	<table name="#power">5493 5506 5520 5534 5547 5561 5575 5588 5602 5616 5629 5643 5657 5670 5684 5698 5711 5725 5738 5752 5766 5779 5793 5807 5820 5834 5848 5861 5875 5889</table>
+</skill>
+<skill id="35" name="Force Storm">
+	<table name="#power">181 190 200 211 222 233 244 256 268 280 293 305 318 332 345 359 373 387 402 416 431 445 460 475 489 504 519 533</table>
+</skill>
+<skill id="35" name="Force Storm" enchant="Power">
+	<table name="#power">539 543 548 553 558 563 567 572 577 582 587 591 596 601 606 611 615 620 625 630 635 639 644 649 654 659 664 668 673 678</table>
+</skill>
+<skill id="36" name="Whirlwind">
+	<table name="#power">554 588 625 663 703 744 787 832 879 927 977 1029 1082 1137 1194 1253 1313 1374 1438 1502 1568 1636 1704 1774 1845 1917 1990 2064 2138 2213 2288 2363 2439 2515 2590 2665 2740</table>
+</skill>
+<skill id="36" name="Whirlwind" enchant="Power">
+	<table name="#power">2763 2788 2813 2837 2862 2887 2911 2936 2961 2985 3010 3035 3059 3084 3109 3133 3158 3183 3207 3232 3257 3281 3306 3331 3355 3380 3405 3429 3454 3479</table>
+</skill>
+<skill id="45" name="Divine Heal">
+	<table name="#power">143 150 157 172 179 187 203 211 219</table>
+</skill>
+<skill id="48" name="Thunder Storm">
+	<table name="#power">421 447 475 504 534 566 598 632 668 705 743 782 823 864 908 952 998 1045 1093 1142 1192 1243 1296 1349 1403 1457 1513 1569 1625 1682 1739 1796 1854 1911 1969 2026 2082</table>
+</skill>
+<skill id="49" name="Holy Strike">
+	<table name="#power">47 49 51 53 55 57 59 61 63 66 67 68 70 71 72 74 75 77 78 79 80 82 83 84 85 87</table>
+</skill>
+<skill id="49" name="Holy Strike" enchant="Power">
+	<table name="#power">87 88 88 89 89 90 90 91 91 92 92 93 93 94 94 95 95 96 96 97 97 98 98 99 99 100 100 101 102 102</table>
+</skill>
+<skill id="54" name="Force Blaster">
+	<table name="#power">143 154 166 193 207 222 256 274 293 334 357 380 431 458 486 516 547 579 612 647 683 721 760 800 842 885 929 974 1021 1069 1118 1169 1220 1272 1326 1380 1435 1491 1548 1605 1663 1721 1780 1838 1897 1956 2015 2073 2131</table>
+</skill>
+<skill id="54" name="Force Blaster" enchant="Power">
+	<table name="#power">2151 2170 2189 2209 2228 2247 2266 2285 2305 2324 2343 2362 2381 2401 2420 2439 2458 2477 2497 2516 2535 2554 2573 2593 2612 2631 2650 2670 2689 2708</table>
+</skill>
+<skill id="56" name="Power Shot">
+	<table name="#power">65 71 78 102 112 122 158 172 187 239 258 279 326 352 379 440 472 507 584 625 669 763 814 868</table>
+</skill>
+<skill id="58" name="Elemental Heal">
+	<table name="#power">71 75 80 95 100 106 118 124 130 143 150 157 172 179 187 203 211 219 236 245 254 262 271 281 290 299 308 318 328 337 346 356 365 375 384 393 403 412 421 430 439 448 457 466 474 482 490 498 506 513 520 527 534 540 546</table>
+</skill>
+<skill id="58" name="Elemental Heal" enchant="Power">
+	<table name="#power">550 553 556 560 563 566 570 573 576 579 583 586 589 593 596 599 603 606 609 613 616 619 622 626 629 632 636 639 642 646</table>
+</skill>
+<skill id="69" name="Sacrifice">
+	<table name="#power">741 762 782 802 823 843 863 883 902 922 941 960 979 997 1015 1033 1050 1067 1083 1099 1115 1129 1144 1157 1170</table>
+</skill>
+<skill id="69" name="Sacrifice" enchant="Power">
+	<table name="#power">1177 1183 1190 1196 1203 1209 1216 1222 1228 1235 1241 1248 1254 1261 1267 1274 1280 1287 1293 1300 1306 1313 1319 1326 1332 1339 1345 1351 1358 1364</table>
+</skill>
+<skill id="70" name="Drain Health">
+	<table name="#power">20 22 24 26 28 29 31 33 34 35 38 39 40 43 44 46 49 50 52 53 55 57 58 60 61 63 65 66 68 70 72 73 75 77 78 80 82 84 85 87 89 90 92 94 96 97 99 100 102 104 105 107 108</table>
+</skill>
+<skill id="70" name="Drain Health" enchant="Power">
+	<table name="#power">109 109 110 111 111 112 113 113 114 115 115 116 116 117 118 118 119 120 120 121 122 122 123 124 124 125 125 126 127 127</table>
+</skill>
+<skill id="81" name="Punch of Doom">
+	<table name="#power">4580 6332 9132</table>
+</skill>
+<skill id="81" name="Punch of Doom" enchant="Power">
+	<table name="#power">9214 9296 9378 9461 9543 9625 9708 9790 9872 9955 10037 10119 10201 10284 10366 10448 10531 10613 10695 10778 10860 10942 11024 11107 11189 11271 11354 11436 11518 11601</table>
+</skill>
+<skill id="100" name="Stun Attack">
+	<table name="#power">36 39 42 49 53 57 66 71 77 88 94 101 115 123 131</table>
+</skill>
+<skill id="100" name="Stun Attack" enchant="Power">
+	<table name="#power">794 799 803 808 813 817 822 827 831 836 840 845 850 854 859 864 868 873 878 882 887 891 896 901 905 910 915 919 924 928</table>
+</skill>
+<skill id="101" name="Stunning Shot">
+	<table name="#power">344 367 391 443 471 500 530 562 595 630 666 703 742 782 823 866 910 955 1002 1050 1100 1150 1202 1255 1309 1364 1420 1476 1534 1592 1651 1710 1770 1830 1891 1951 2012 2072 2132 2192</table>
+</skill>
+<skill id="120" name="Stunning Fist">
+	<table name="#power">42 46 49 57 62 67 77 83 89 103 110 117 134 143 152</table>
+</skill>
+<skill id="190" name="Fatal Strike">
+	<table name="#power">738 784 833 884 937 992 1049 1109 1171 1236 1302 1371 1443 1516 1592 1670 1750 1832 1917 2003 2091 2181 2272 2366 2460 2556 2653 2751 2850 2950 3050 3151 3252 3353 3453 3553 3653</table>
+</skill>
+<skill id="190" name="Fatal Strike" enchant="Power">
+	<table name="#power">3692 3731 3770 3810 3849 3888 3927 3966 4005 4044 4083 4122 4161 4201 4240 4279 4318 4357 4396 4435 4474 4513 4553 4592 4631 4670 4709 4748 4787 4826</table>
+</skill>
+<skill id="193" name="Critical Power">
+	<table name="#power">32 56 93 177 295 384 406</table>
+</skill>
+<skill id="193" name="Critical Power" enchant="Power">
+	<table name="#power">430 433 436 439 442 445 448 451 454 457 460 463 466 469 472 474 477 480 483 486 489 492 495 498 501 504 507 510 513 516</table>
+</skill>
+<skill id="223" name="Sting">
+	<table name="#power">82 88 95 110 118 127 146 157 168 191 204 217 246 262 278 295 313 331 350 370 391 412 434 457 481 506 531 557 584 611 639 668 697 727 758 789 820 852 885 917 950 984 1017 1051 1084 1118 1151 1185 1218</table>
+</skill>
+<skill id="245" name="Wild Sweep">
+	<table name="#power">108 117 126 147 159 171 198 213 229 263 281 301 344 367 391</table>
+</skill>
+<skill id="255" name="Power Smash">
+	<table name="#power">90 97 105 123 132 143 165 177 191 219 235 251 287 306 326</table>
+</skill>
+<skill id="260" name="Hammer Crush">
+	<table name="#power">487 518 550 583 618 655 693 732 773 816 860 905 952 1001 1051 1102 1155 1210 1265 1322 1380 1440 1500 1561 1624 1687 1751 1816 1881 1947 2013 2080 2146 2213 2279 2345 2411</table>
+</skill>
+<skill id="261" name="Triple Sonic Slash">
+	<table name="#power">1948 2042 2138 2236 2337 2439 2544 2651 2760 2870 2982 3095 3210 3325 3442 3559 3676 3794 3911 4029 4146 4262</table>
+</skill>
+<skill id="261" name="Triple Sonic Slash" enchant="Power">
+	<table name="#power">4299 4338 4376 4415 4453 4491 4530 4568 4607 4645 4683 4722 4760 4799 4837 4875 4914 4952 4991 5029 5067 5106 5144 5183 5221 5259 5298 5336 5375 5413</table>
+</skill>
+<skill id="262" name="Holy Blessing">
+	<table name="#power">236 245 254 262 271 281 290 299 308 318 327 337 346 356 365 375 384 393 403 412 421 430 439 448 457 466 474 482 490 498 506 513 520 527 534 540 546</table>
+</skill>
+<skill id="262" name="Holy Blessing" enchant="Power">
+	<table name="#power">550 553 556 560 563 566 570 573 576 579 583 586 589 593 596 599 603 606 609 613 616 619 622 626 629 632 636 639 642 646</table>
+</skill>
+<skill id="263" name="Deadly Blow">
+	<table name="#power">1107 1176 1249 1325 1405 1488 1574 1664 1757 1853 1953 2057 2164 2274 2388 2505 2625 2748 2875 3004 3136 3271 3408 3548 3690 3834 3980 4127 4275 4425 4575 4726 4878 5029 5180 5330 5479</table>
+</skill>
+<skill id="263" name="Deadly Blow" enchant="Power">
+	<table name="#power">5536 5593 5650 5708 5765 5822 5879 5936 5993 6050 6107 6164 6222 6279 6336 6393 6450 6507 6564 6621 6678 6736 6793 6850 6907 6964 7021 7078 7135 7192</table>
+</skill>
+<skill id="279" name="Lightning Strike">
+	<table name="#power">82 89 96 102 108</table>
+</skill>
+<skill id="279" name="Lightning Strike" enchant="Power">
+	<table name="#power">109 109 110 111 111 112 113 113 114 115 115 116 116 117 118 118 119 120 120 121 122 122 123 124 124 125 125 126 127 127</table>
+</skill>
+<skill id="280" name="Burning Fist">
+	<table name="#power">517 549 583 619 656 694 735 777 820 865 912 960 1010 1062 1115 1169 1225 1283 1342 1402 1464 1527 1591 1656 1722 1789 1857 1926 1995 2065 2135 2206 2277 2347 2417 2488 2557</table>
+</skill>
+<skill id="280" name="Burning Fist" enchant="Power">
+	<table name="#power">2581 2604 2627 2650 2673 2696 2719 2743 2766 2789 2812 2835 2858 2881 2904 2927 2950 2973 2996 3019 3042 3065 3088 3111 3134 3157 3180 3204 3227 3250</table>
+</skill>
+<skill id="281" name="Soul Breaker">
+	<table name="#power">487 518 550 583 618 655 693 732 773 816 860 905 952 1001 1051 1102 1155 1210 1265 1322 1380 1440 1500 1561 1624 1687 1751 1816 1881 1947 2013 2080 2146 2213 2279 2345 2411</table>
+</skill>
+<skill id="284" name="Hurricane Assault">
+	<table name="#power">501 535 570 607 646 729 773 820 868 918 971 1025 1081 1140 1200 1262 1327 1393 1461 1531 1603 1677 1753 1830 1908 1988 2070 2153 2237 2322 2408 2494 2581 2669 2757 2846 2934 3022 3109 3196</table>
+</skill>
+<skill id="284" name="Hurricane Assault" enchant="Power">
+	<table name="#power">3225 3254 3283 3312 3340 3369 3398 3427 3456 3484 3513 3542 3571 3600 3628 3657 3686 3715 3744 3772 3801 3830 3859 3888 3916 3945 3974 4003 4032 4061</table>
+</skill>
+<skill id="289" name="Life Leech">
+	<table name="#power">26 29 31 33 36 39 41 43 45 46 48 50 51 53 54</table>
+</skill>
+<skill id="289" name="Life Leech" enchant="Power">
+	<table name="#power">55 55 55 56 56 56 57 57 57 58 58 58 58 59 59 59 60 60 60 61 61 61 62 62 62 63 63 63 64 64</table>
+</skill>
+<skill id="314" name="Fatal Counter">
+	<table name="#power">2908 3030 3154 3280 3408 3537 3668 3800 3933 4067 4201 4336 4470 4604 4738 4870</table>
+</skill>
+<skill id="314" name="Fatal Counter" enchant="Power">
+	<table name="#power">4915 4959 5003 5047 5090 5134 5178 5222 5266 5310 5354 5398 5442 5486 5529 5573 5617 5661 5705 5749 5793 5837 5881 5925 5968 6012 6056 6100 6144 6188</table>
+</skill>
+<skill id="315" name="Crush of Doom">
+	<table name="#power">4558 4750 4944 5142 5342 5545 5751 5958 6166 6376 6586 6797 7008 7218 7427 7635</table>
+</skill>
+<skill id="315" name="Crush of Doom" enchant="Power">
+	<table name="#power">7710 7779 7848 7917 7986 8055 8123 8192 8261 8330 8399 8468 8537 8605 8674 8743 8812 8881 8950 9019 9088 9156 9225 9294 9363 9432 9501 9570 9639 9707</table>
+</skill>
+<skill id="321" name="Blinding Blow">
+	<table name="#power">2751 2850 2850 3050 3151 3252 3353 3453 3553 3653</table>
+</skill>
+<skill id="321" name="Blinding Blow" enchant="Power">
+	<table name="#power">3875 3902 3928 3955 3981 4007 4034 4060 4086 4113 4139 4166 4192 4218 4245 4271 4298 4324 4350 4377 4403 4429 4456 4482 4509 4535 4561 4588 4614 4640</table>
+</skill>
+<skill id="325" name="Strider Siege Assault">
+	<table name="#power">15005</table>
+</skill>
+<skill id="343" name="Lethal Shot">
+	<table name="#power">5132</table>
+</skill>
+<skill id="343" name="Lethal Shot" enchant="Power">
+	<table name="#power">5779 5809 5838 5867 5897 5926 5956 5985 6015 6044 6073 6103 6132 6162 6191</table>
+</skill>
+<skill id="344" name="Lethal Blow">
+	<table name="#power">5773</table>
+</skill>
+<skill id="344" name="Lethal Blow" enchant="Power">
+	<table name="#power">6502 6535 6568 6601 6634 6667 6700 6733 6766 6799 6833 6866 6899 6932 6965 5773 5773 5773 5773 5773 5773 5773 5773 5773 5773 5773 5773 5773 5773 5773</table>
+</skill>
+<skill id="347" name="Earthquake">
+	<table name="#power">4848</table>
+</skill>
+<skill id="347" name="Earthquake" enchant="Power">
+	<table name="#power">5201 5228 5254 5281 5307 5334 5360 5387 5413 5440 5466 5493 5519 5546 5572</table>
+</skill>
+<skill id="354" name="Hamstring Shot">
+	<table name="#power">1973</table>
+</skill>
+<skill id="354" name="Hamstring Shot" enchant="Power">
+	<table name="#power">2168 2179 2190 2201 2212 2223 2234 2245 2256 2267 2278 2289 2300 2311 2322</table>
+</skill>
+<skill id="361" name="Shock Blast">
+	<table name="#power">2486</table>
+</skill>
+<skill id="361" name="Shock Blast" enchant="Power">
+	<table name="#power">2731 2745 2759 2773 2787 2800 2814 2828 2842 2856 2870 2884 2898 2912 2926</table>
+</skill>
+<skill id="362" name="Armor Crush">
+	<table name="#power">3077</table>
+</skill>
+<skill id="362" name="Armor Crush" enchant="Power">
+	<table name="#power">3381 3398 3415 3433 3450 3467 3484 3502 3519 3536 3553 3570 3588 3605 3622</table>
+</skill>
+<skill id="368" name="Vengeance">
+	<table name="#power">7987</table>
+</skill>
+<skill id="368" name="Vengeance" enchant="Power">
+	<table name="#power">8454 8770 9087 9403 9720 10036 10353 10669 10985 11302 11618 11935 12251 12568 12884</table>
+</skill>
+<skill id="369" name="Evade Shot">
+	<table name="#power">2020</table>
+</skill>
+<skill id="369" name="Evade Shot" enchant="Power">
+	<table name="#power">2168 2179 2190 2201 2212 2223 2234 2245 2256 2267 2278 2289 2300 2311 2322 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020</table>
+</skill>
+<skill id="400" name="Tribunal">
+	<table name="#power">770 879 955 1034 1115 1197 1281 1366 1451 1535</table>
+</skill>
+<skill id="400" name="Tribunal" enchant="Power">
+	<table name="#power">1548 1562 1576 1590 1604 1617 1631 1645 1659 1673 1686 1700 1714 1728 1742 1755 1769 1783 1797 1811 1824 1838 1852 1866 1880 1893 1907 1921 1935 1949</table>
+</skill>
+<skill id="401" name="Judgment">
+	<table name="#power">880 1004 1091 1181 1274 1368 1464 1561 1658 1754</table>
+</skill>
+<skill id="401" name="Judgment" enchant="Power">
+	<table name="#power">1769 1785 1801 1817 1833 1848 1864 1880 1896 1912 1927 1943 1959 1975 1991 2006 2022 2038 2054 2070 2085 2101 2117 2133 2149 2164 2180 2196 2212 2228</table>
+</skill>
+<skill id="407" name="Psycho Symphony">
+	<table name="#power">229 262 284 308 332 357 382 407 432 457</table>
+</skill>
+<skill id="408" name="Demonic Blade Dance">
+	<table name="#power">275 314 341 369 398 428 458 488 518 548</table>
+</skill>
+<skill id="409" name="Critical Blow">
+	<table name="#power">1832 2091 2272 2460 2653 2850 3050 3252 3453 3653</table>
+</skill>
+<skill id="409" name="Critical Blow" enchant="Power">
+	<table name="#power">3685 3718 3751 3784 3817 3850 3883 3916 3949 3982 4014 4047 4080 4113 4146 4179 4212 4245 4278 4311 4343 4376 4409 4442 4475 4508 4541 4574 4607 4640</table>
+</skill>
+<skill id="417" name="Pain of Sagittarius">
+	<table name="#power">36 39 41 43 46</table>
+</skill>
+<skill id="417" name="Pain of Sagittarius" enchant="Power">
+	<table name="#power">47 47 47 47 47 47 47 48 48 48 48 48 48 48 48 49 49 49 49 49 49 49 49 49 50 50 50 50 50 50</table>
+</skill>
+<skill id="468" name="Fallen Attack">
+	<table name="#power">30 32 35 46 51 55 71 78 84</table>
+</skill>
+<skill id="476" name="Dark Strike">
+	<table name="#power">108 117 126 147 159 171 198 213 229 263 281 301 344 367 391</table>
+</skill>
+<skill id="477" name="Dark Smash">
+	<table name="#power">738 784 833 884 937 992 1049 1109 1171 1236 1302 1371 1443 1516 1592 1670 1750 1832 1917 2003 2091 2181 2272 2366 2460 2556 2653 2751 2850 2950 3050 3151 3252 3353 3453 3553 3653</table>
+</skill>
+<skill id="477" name="Dark Smash" enchant="Power">
+	<table name="#power">3875 3902 3928 3955 3981 4007 4034 4060 4086 4113 4139 4166 4192 4218 4245 4271 4298 4324 4350 4377 4403 4429 4456 4482 4509 4535 4561 4588 4614 4640</table>
+</skill>
+<skill id="478" name="Double Thrust">
+	<table name="#power">108 117 126 147 159 171 198 213 229 263 281 301 344 367 391</table>
+</skill>
+<skill id="487" name="Penetrating Shot">
+	<table name="#power">179 194 210 245 264 285 330 354 381 438 469 502 573 611 651</table>
+</skill>
+<skill id="492" name="Spread Wing">
+	<table name="#power">866 910 955 1002 1050 1100 1150 1202 1255 1309 1364 1420 1476 1534 1592 1651 1710 1770 1830 1891 1951 2012 2072 2132 2192</table>
+</skill>
+<skill id="492" name="Spread Wing" enchant="Power">
+	<table name="#power">2325 2341 2357 2373 2389 2405 2420 2436 2452 2468 2484 2500 2515 2531 2547 2563 2579 2595 2610 2626 2642 2658 2674 2690 2705 2721 2737 2753 2769 2784</table>
+</skill>
+<skill id="493" name="Storm Assault">
+	<table name="#power">742 782 823 866 910 955 1002 1050 1100 1150 1202 1255 1309 1364 1420 1476 1534 1592 1651 1710 1770 1830 1891 1951 2012 2072 2132 2192</table>
+</skill>
+<skill id="493" name="Storm Assault" enchant="Power">
+	<table name="#power">2212 2231 2251 2271 2291 2310 2330 2350 2370 2389 2409 2429 2449 2468 2488 2508 2528 2547 2567 2587 2607 2626 2646 2666 2686 2705 2725 2745 2765 2784</table>
+</skill>
+<skill id="496" name="Slashing Blade">
+	<table name="#power">787 832 879 927 977 1029 1082 1137 1194 1253 1313 1374 1438 1502 1568 1636 1704 1774 1845 1917 1990 2064 2138 2213 2288 2363 2439 2515 2590 2665 2740</table>
+</skill>
+<skill id="496" name="Slashing Blade" enchant="Power">
+	<table name="#power">2907 2926 2946 2966 2986 3006 3025 3045 3065 3085 3105 3124 3144 3164 3184 3203 3223 3243 3263 3283 3302 3322 3342 3362 3382 3401 3421 3441 3461 3480</table>
+</skill>
+<skill id="497" name="Crushing Pain">
+	<table name="#power">4558 4750 4944 5142 5342 5545 5751 5958 6166 6376 6586 6797 7008 7218 7427 7635</table>
+</skill>
+<skill id="497" name="Crushing Pain" enchant="Power">
+	<table name="#power">8100 8155 8210 8266 8321 8376 8431 8486 8541 8596 8652 8707 8762 8817 8872 8927 8982 9038 9093 9148 9203 9258 9313 9368 9424 9479 9534 9589 9644 9699</table>
+</skill>
+<skill id="498" name="Contagion">
+	<table name="#power">5342 5545 5751 5958 6166 6376 6586 6797 7008 7218 7427 7635</table>
+</skill>
+<skill id="498" name="Contagion" enchant="Power">
+	<table name="#power">8100 8155 8210 8266 8321 8376 8431 8486 8541 8596 8652 8707 8762 8817 8872 8927 8982 9038 9093 9148 9203 9258 9313 9368 9424 9479 9534 9589 9644 9699</table>
+</skill>
+<skill id="503" name="Scorn">
+	<table name="#power">1630 2089 2384</table>
+</skill>
+<skill id="504" name="Triple Thrust">
+	<table name="#power">620 659 700 742 787 833 882 932 984 1038 1094 1152 1212 1274 1337 1403 1470 1539 1610 1682 1757 1832 1909 1987 2067 2147 2229 2311 2394 2478 2562 2647 2732 2816 2901 2985 3069</table>
+</skill>
+<skill id="504" name="Triple Thrust" enchant="Power">
+	<table name="#power">3255 3278 3300 3322 3344 3366 3388 3411 3433 3455 3477 3499 3521 3544 3566 3588 3610 3632 3654 3676 3699 3721 3743 3765 3787 3809 3832 3854 3876 3898</table>
+</skill>
+<skill id="505" name="Shining Edge">
+	<table name="#power">1853 1953 2057 2164 2274 2388 2505 2625 2748 2875 3004 3136 3271 3408 3548 3690 3834 3980 4127 4275 4425 4575 4726 4878 5029 5180 5330 5479</table>
+</skill>
+<skill id="505" name="Shining Edge" enchant="Power">
+	<table name="#power">5813 5852 5892 5932 5971 6011 6050 6090 6129 6169 6209 6248 6288 6327 6367 6406 6446 6486 6525 6565 6604 6644 6683 6723 6763 6802 6842 6881 6921 6960</table>
+</skill>
+<skill id="506" name="Checkmate">
+	<table name="#power">2388 3408 4275 5180</table>
+</skill>
+<skill id="506" name="Checkmate" enchant="Power">
+	<table name="#power">5813 5852 5892 5932 5971 6011 6050 6090 6129 6169 6209 6248 6288 6327 6367 6406 6446 6486 6525 6565 6604 6644 6683 6723 6763 6802 6842 6881 6921 6960</table>
+</skill>
+<skill id="507" name="Twin Shot">
+	<table name="#power">984 1046 1110 1178 1249 1322 1399 1479 1562 1647 1736 1828 1923 2021 2123 2227 2333 2443 2555 2670 2788 2908 3030 3154 3280 3408 3537 3668 3800 3933 4067 4201 4336 4470 4604 4738 4870</table>
+</skill>
+<skill id="507" name="Twin Shot" enchant="Power">
+	<table name="#power">5167 5202 5237 5273 5308 5343 5378 5413 5448 5484 5519 5554 5589 5624 5660 5695 5730 5765 5800 5835 5871 5906 5941 5976 6011 6046 6082 6117 6152 6187</table>
+</skill>
+<skill id="508" name="Rising Shot">
+	<table name="#power">350 370 391 412 434 457 481 506 531 557 584 611 639 668 697 727 758 789 820 852 885 917 950 984 1017 1051 1084 1118 1151 1185 1218</table>
+</skill>
+<skill id="508" name="Rising Shot" enchant="Power">
+	<table name="#power">1292 1301 1310 1319 1327 1336 1345 1354 1362 1371 1380 1389 1398 1406 1415 1424 1433 1442 1450 1459 1468 1477 1486 1494 1503 1512 1521 1530 1538 1547</table>
+</skill>
+<skill id="509" name="Bleeding Shot">
+	<table name="#power">530 562 595 630 666 703 742 782 823 866 910 955 1002 1050 1100 1150 1202 1255 1309 1364 1420 1476 1534 1592 1651 1710 1770 1830 1891 1951 2012 2072 2132 2192</table>
+</skill>
+<skill id="509" name="Bleeding Shot" enchant="Power">
+	<table name="#power">2325 2341 2357 2373 2389 2405 2420 2436 2452 2468 2484 2500 2515 2531 2547 2563 2579 2595 2610 2626 2642 2658 2674 2690 2705 2721 2737 2753 2769 2784</table>
+</skill>
+<skill id="526" name="Enuma Elish">
+	<table name="#power">6060</table>
+</skill>
+<skill id="526" name="Enuma Elish" enchant="Power">
+	<table name="#power">6502 6535 6568 6601 6634 6667 6700 6733 6766 6799 6833 6866 6899 6932 6965</table>
+</skill>
+<skill id="539" name="Nail Attack">
+	<table name="#power">2583</table>
+</skill>
+<skill id="540" name="Wing Assault">
+	<table name="#power">2067</table>
+</skill>
+<skill id="559" name="Spear">
+	<table name="#power">900 1013 1129 1248</table>
+</skill>
+<skill id="560" name="Power Slash">
+	<table name="#power">1250 1406 1568 1733</table>
+</skill>
+<skill id="563" name="Horn of Doom">
+	<table name="#power">1250 1406 1568 1733</table>
+</skill>
+<skill id="565" name="Horn Assault">
+	<table name="#power">938 1055 1176 1300</table>
+</skill>
+<skill id="567" name="Light of Heal">
+	<table name="#power">690 731 770 806</table>
+</skill>
+<skill id="568" name="Attack Buster">
+	<table name="#power">1250 1406 1568 1733</table>
+</skill>
+<skill id="569" name="Attack Storm">
+	<table name="#power">625 703 784 867</table>
+</skill>
+<skill id="572" name="Double Slasher">
+	<table name="#power">938 1055 1176 1300</table>
+</skill>
+<skill id="573" name="Earthquake">
+	<table name="#power">625 703 784 867</table>
+</skill>
+<skill id="575" name="Steel Cutter">
+	<table name="#power">1250 1406 1568 1733</table>
+</skill>
+<skill id="576" name="Paw Strike">
+	<table name="#power">1250 1406 1568 1733</table>
+</skill>
+<skill id="577" name="Fire Breath">
+	<table name="#power">875 984 1098 1213</table>
+</skill>
+<skill id="578" name="Blaze Quake">
+	<table name="#power">625 703 784 867</table>
+</skill>
+<skill id="582" name="Scope Bleed">
+	<table name="#power">875 984 1098 1213</table>
+</skill>
+<skill id="584" name="Power Claw">
+	<table name="#power">1008</table>
+</skill>
+<skill id="586" name="Rolling Attack">
+	<table name="#power">840 984</table>
+</skill>
+<skill id="587" name="Earth Storm">
+	<table name="#power">1200 1406</table>
+</skill>
+<skill id="627" name="Soul Shock">
+	<table name="#power">344 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</table>
+</skill>
+<skill id="675" name="Divine Warrior Cross Slash">
+	<table name="#power">2904</table>
+</skill>
+<skill id="676" name="Divine Warrior Sonic Blaster">
+	<table name="#power">2323</table>
+</skill>
+<skill id="677" name="Divine Warrior Transfixion of Earth">
+	<table name="#power">2323</table>
+</skill>
+<skill id="680" name="Divine Knight Hate">
+	<table name="#power">6752</table>
+</skill>
+<skill id="681" name="Divine Knight Hate Aura">
+	<table name="#power">6752</table>
+</skill>
+<skill id="682" name="Divine Knight Stun Attack">
+	<table name="#power">1162</table>
+</skill>
+<skill id="683" name="Divine Knight Thunder Storm">
+	<table name="#power">775</table>
+</skill>
+<skill id="686" name="Divine Rogue Stun Shot">
+	<table name="#power">2323</table>
+</skill>
+<skill id="687" name="Divine Rogue Double Shot">
+	<table name="#power">6195</table>
+</skill>
+<skill id="688" name="Divine Rogue Bleed Attack">
+	<table name="#power">1549</table>
+</skill>
+<skill id="689" name="Divine Rogue Deadly Blow">
+	<table name="#power">6969</table>
+</skill>
+<skill id="692" name="Divine Wizard Holy Flare">
+	<table name="#power">102</table>
+</skill>
+<skill id="693" name="Divine Wizard Holy Strike">
+	<table name="#power">128</table>
+</skill>
+<skill id="694" name="Divine Wizard Holy Curtain">
+	<table name="#power">64</table>
+</skill>
+<skill id="717" name="Zaken Concentrated Attack">
+	<table name="#power">2751 3252 3752 4224</table>
+</skill>
+<skill id="718" name="Zaken Dancing Sword">
+	<table name="#power">1651 1951 2251 2534</table>
+</skill>
+<skill id="720" name="Anakim Holy Light Burst">
+	<table name="#power">3189 3590</table>
+</skill>
+<skill id="721" name="Anakim Energy Attack">
+	<table name="#power">186 197</table>
+</skill>
+<skill id="722" name="Anakim Holy Beam">
+	<table name="#power">186 197</table>
+</skill>
+<skill id="723" name="Anakim Sunshine">
+	<table name="#power">1340</table>
+</skill>
+<skill id="725" name="Venom Power Smash">
+	<table name="#power">2626 2957</table>
+</skill>
+<skill id="726" name="Venom Sonic Storm">
+	<table name="#power">2626 2957</table>
+</skill>
+<skill id="728" name="Gordon Beast Attack">
+	<table name="#power">2957</table>
+</skill>
+<skill id="729" name="Gordon Sword Stab">
+	<table name="#power">2957</table>
+</skill>
+<skill id="731" name="Ranku Dark Explosion">
+	<table name="#power">162</table>
+</skill>
+<skill id="732" name="Ranku Stun Attack">
+	<table name="#power">1</table>
+</skill>
+<skill id="733" name="Kechi Double Cutter">
+	<table name="#power">2957</table>
+</skill>
+<skill id="734" name="Kechi Air Blade">
+	<table name="#power">1812</table>
+</skill>
+<skill id="735" name="Devil Spinning Weapon">
+	<table name="#power">162</table>
+</skill>
+<skill id="738" name="Heretic Heal">
+	<table name="#power">892 926 956</table>
+</skill>
+<skill id="742" name="Vale Master Bursting Flame">
+	<table name="#power">112 117 122</table>
+</skill>
+<skill id="743" name="Vale Master Dark Explosion">
+	<table name="#power">56 59 61</table>
+</skill>
+<skill id="744" name="Vale Master Dark Flare">
+	<table name="#power">112 117 122</table>
+</skill>
+<skill id="746" name="Saber Tooth Tiger Bite">
+	<table name="#power">1789 1955 2117</table>
+</skill>
+<skill id="747" name="Saber Tooth Tiger Fear">
+	<table name="#power">895 978 1059</table>
+</skill>
+<skill id="749" name="Oel Mahum Stun Attack">
+	<table name="#power">895 978 1059</table>
+</skill>
+<skill id="751" name="Oel Mahum Arm Flourish">
+	<table name="#power">1073 1173 1271</table>
+</skill>
+<skill id="752" name="Doll Blader Sting">
+	<table name="#power">1193 1303 1412</table>
+</skill>
+<skill id="753" name="Doll Blader Throwing Knife">
+	<table name="#power">4769 5211 5645</table>
+</skill>
+<skill id="762" name="Insane Crusher">
+	<table name="#power">6468</table>
+</skill>
+<skill id="771" name="Flame Hawk">
+	<table name="#power">5750</table>
+</skill>
+<skill id="772" name="Arrow Rain">
+	<table name="#power">4312</table>
+</skill>
+<skill id="773" name="Ghost Piercing">
+	<table name="#power">6037</table>
+</skill>
+<skill id="776" name="Force of Destruction">
+	<table name="#power">2516</table>
+</skill>
+<skill id="777" name="Demolition Impact">
+	<table name="#power">5750</table>
+</skill>
+<skill id="790" name="Wild Shot">
+	<table name="#power">5750</table>
+</skill>
+<skill id="795" name="Divine Knight Brandish">
+	<table name="#power">2322</table>
+</skill>
+<skill id="796" name="Divine Knight Explosion Attack">
+	<table name="#power">1900</table>
+</skill>
+<skill id="797" name="Divine Rogue Piercing Attack">
+	<table name="#power">2111</table>
+</skill>
+<skill id="798" name="Divine Warrior Assault Attack">
+	<table name="#power">1689</table>
+</skill>
+<skill id="808" name="Golem Punch">
+	<table name="#power">11205</table>
+</skill>
+<skill id="809" name="Golem Tornado Swing">
+	<table name="#power">6199</table>
+</skill>
+<skill id="814" name="Full Swing">
+	<table name="#power">744 787 832 879 927 977 1029 1082 1137 1194 1253 1313 1374 1438 1502 1568 1636 1704 1774 1845 1917 1990 2064 2138 2213 2288 2363 2439 2515 2590 2665 2740 2814 2887 2959 3030 3100 3168 3234 3299 3362 3422 3480</table>
+</skill>
+<skill id="815" name="Blade Hurricane">
+	<table name="#power">744 787 832 879 927 977 1029 1082 1137 1194 1253 1313 1374 1438 1502 1568 1636 1704 1774 1845 1917 1990 2064 2138 2213 2288 2363 2439 2515 2590 2665 2740 2814 2887 2959 3030 3100 3168 3234 3299 3362 3422 3480</table>
+</skill>
+<skill id="816" name="Cleave">
+	<table name="#power">744 787 832 879 927 977 1029 1082 1137 1194 1253 1313 1374 1438 1502 1568 1636 1704 1774 1845 1917 1990 2064 2138 2213 2288 2363 2439 2515 2590 2665 2740 2814 2887 2959 3030 3100 3168 3234 3299 3362 3422 3480</table>
+</skill>
+<skill id="817" name="Double Strike">
+	<table name="#power">744 787 832 879 927 977 1029 1082 1137 1194 1253 1313 1374 1438 1502 1568 1636 1704 1774 1845 1917 1990 2064 2138 2213 2288 2363 2439 2515 2590 2665 2740 2814 2887 2959 3030 3100 3168 3234 3299 3362 3422 3480</table>
+</skill>
+<skill id="843" name="Shooting Star">
+	<table name="#power">3422</table>
+</skill>
+<skill id="872" name="Archer Captain Power Shot">
+	<table name="#power">1</table>
+</skill>
+<skill id="874" name="Magic Leader Flame Strike">
+	<table name="#power">1</table>
+</skill>
+<skill id="881" name="Fortress Captain Twister">
+	<table name="#power">1</table>
+</skill>
+<skill id="882" name="Fortress Captain Blaze">
+	<table name="#power">1</table>
+</skill>
+<skill id="886" name="Air Shock Bomb">
+	<table name="#power">2251 2310 2367 2424 2480 2534 2588 2639 2690 2738 2784</table>
+</skill>
+<skill id="887" name="Sky Clutch">
+	<table name="#power">110 111 112 114 115 116 117 119 120 121 122</table>
+</skill>
+<skill id="888" name="Energy Storm">
+	<table name="#power">3752 3849 3945 4040 4133 4224 4312 4399 4482 4563 4640</table>
+</skill>
+<skill id="889" name="Energy Storm">
+	<table name="#power">3752 3849 3945 4040 4133 4224 4312 4399 4482 4563 4640</table>
+</skill>
+<skill id="890" name="Prodigious Flare">
+	<table name="#power">5627 5773 5918 6060 6199 6335 6468 6598 6723 6844 6960</table>
+</skill>
+<skill id="891" name="Energy Shot">
+	<table name="#power">88 89 90 91 92 93 94 95 96 97 98</table>
+</skill>
+<skill id="892" name="Energy Shot">
+	<table name="#power">131 133 135 136 138 139 141 142 144 145 146</table>
+</skill>
+<skill id="893" name="Concentrated Energy Shot">
+	<table name="#power">197 199 202 204 206 209 211 213 215 217 219</table>
+</skill>
+<skill id="896" name="Rolling Step">
+	<table name="#power">9503 9702 9896 10084 10266 10440</table>
+</skill>
+<skill id="897" name="Double Blast">
+	<table name="#power">9503 9702 9896 10084 10266 10440</table>
+</skill>
+<skill id="898" name="Tornado Slash">
+	<table name="#power">5068 5175 5278 5379 5475 5568</table>
+</skill>
+<skill id="899" name="Cat Roar">
+	<table name="#power">3168 3234 3299 3362 3422 3480</table>
+</skill>
+<skill id="900" name="Energy Blast">
+	<table name="#power">15838 16170 16494 16807 17110 17400</table>
+</skill>
+<skill id="901" name="Dark Strike">
+	<table name="#power">9503 9702 9896 10084 10266 10440</table>
+</skill>
+<skill id="902" name="Bursting Flame">
+	<table name="#power">9503 9702 9896 10084 10266 10440</table>
+</skill>
+<skill id="903" name="Stratum Explosion">
+	<table name="#power">5068 5175 5278 5379 5475 5568</table>
+</skill>
+<skill id="904" name="Corpse Burst">
+	<table name="#power">348 351 355 358 361 364</table>
+</skill>
+<skill id="905" name="Dark Detonation">
+	<table name="#power">12670 12936 13195 13446 13688 13920</table>
+</skill>
+<skill id="906" name="Lance Step">
+	<table name="#power">9503 9702 9896 10084 10266 10440</table>
+</skill>
+<skill id="907" name="Aqua Blast">
+	<table name="#power">9503 9702 9896 10084 10266 10440</table>
+</skill>
+<skill id="908" name="Spin Slash">
+	<table name="#power">5068 5175 5278 5379 5475 5568</table>
+</skill>
+<skill id="909" name="Ice Focus">
+	<table name="#power">348 351 355 358 361 364</table>
+</skill>
+<skill id="910" name="Water Jet">
+	<table name="#power">12670 12936 13195 13446 13688 13920</table>
+</skill>
+<skill id="911" name="Energy Burst">
+	<table name="#power">469 482 494 505 517 528 539 550 561 571 580</table>
+</skill>
+<skill id="920" name="Power Crush">
+	<table name="#power">664 706 750 795 843 893 945 998 1054 1112 1172 1234 1298 1365 1433 1503 1575 1649 1725 1803 1882 1963 2045 2129 2214 2301 2388 2476 2565 2655 2745 2836 2927 3018 3108 3198 3288</table>
+</skill>
+<skill id="921" name="Cursed Pierce">
+	<table name="#power">3849</table>
+</skill>
+<skill id="924" name="Seven Arrow">
+	<table name="#power">4000</table>
+</skill>
+<skill id="928" name="Duel Blow">
+	<table name="#power">7546</table>
+</skill>
+<skill id="947" name="Lucky Strike">
+	<table name="#power">4312</table>
+</skill>
+<skill id="950" name="Nail Attack">
+	<table name="#power">2583 2640 2695 2749 2802 2852 2900</table>
+</skill>
+<skill id="951" name="Wing Assault">
+	<table name="#power">2067 2112 2156 2200 2241 2282 2320</table>
+</skill>
+<skill id="1011" name="Heal">
+	<table name="#power">50 58 67 83 95 107 121 135 151 95 185 195 224 234 245 278 289 301</table>
+</skill>
+<skill id="1013" name="Recharge">
+	<table name="#power">49 52 57 60 66 70 73 77 81 86 90 94 98 102 104 106 108 110 113 115 116 118 120 122 124 126 128 129 131 133 134 136</table>
+</skill>
+<skill id="1013" name="Recharge" enchant="Power">
+	<table name="#power">137 137 138 139 139 140 141 141 142 143 143 144 145 146 146 147 148 148 149 150 150 151 152 152 153 154 154 155 156 156</table>
+</skill>
+<skill id="1015" name="Battle Heal">
+	<table name="#power">83 95 107 121 135 151 176 185 195 224 234 245 278 289 301</table>
+</skill>
+<skill id="1020" name="Vitalize">
+	<table name="#power">440 454 467 494 508 521 549 562 575 589 602 615 628 640 653 665 677 689 700 711 722 733 743 753 763 772 780</table>
+</skill>
+<skill id="1020" name="Vitalize" enchant="Power">
+	<table name="#power">785 789 794 798 803 807 812 816 821 825 829 834 838 843 847 852 856 861 865 870 874 879 883 887 892 896 901 905 910 914</table>
+</skill>
+<skill id="1027" name="Group Heal">
+	<table name="#power">66 76 86 97 108 121 141 148 156 179 188 196 222 231 241</table>
+</skill>
+<skill id="1028" name="Might of Heaven">
+	<table name="#power">39 42 44 47 49 52 55 57 60 63 66 68 71 74 77 79 82 84 87</table>
+</skill>
+<skill id="1028" name="Might of Heaven" enchant="Power">
+	<table name="#power">87 88 88 89 89 90 90 91 91 92 92 93 93 94 94 95 95 96 96 97 97 98 98 99 99 100 100 101 102 102</table>
+</skill>
+<skill id="1031" name="Disrupt Undead">
+	<table name="#power">19 21 24 25 28 30 33 36</table>
+</skill>
+<skill id="1090" name="Life Drain">
+	<table name="#power">15 21 26 32 38 44</table>
+</skill>
+<skill id="1102" name="Aura Sink">
+	<table name="#power">16 22 29 36 46 51</table>
+</skill>
+<skill id="1126" name="Servitor Recharge">
+	<table name="#power">41 44 49 52 57 60 66 70 73 77 81 86 90 94 98 102 104 106 108 110 113 115 116 118 120 122 124 126 128 129 131 133 134 136</table>
+</skill>
+<skill id="1126" name="Servitor Recharge" enchant="Power">
+	<table name="#power">137 137 138 139 139 140 141 141 142 143 143 144 145 146 146 147 148 148 149 150 150 151 152 152 153 154 154 155 156 156</table>
+</skill>
+<skill id="1127" name="Servitor Heal">
+	<table name="#power">145 162 181 212 222 234 269 281 294 333 347 361 404 419 434 465 481 496 528 544 561 593 609 626 658 674 690 706 722 737 753 768 783 798 812 826 840 854 867 879 892 904 915 926 936</table>
+</skill>
+<skill id="1127" name="Servitor Heal" enchant="Power">
+	<table name="#power">942 947 952 957 962 968 973 978 983 989 994 999 1004 1010 1015 1020 1025 1031 1036 1041 1046 1051 1057 1062 1067 1072 1078 1083 1088 1093</table>
+</skill>
+<skill id="1147" name="Vampiric Touch">
+	<table name="#power">18 21 23 26 29 32</table>
+</skill>
+<skill id="1148" name="Death Spike">
+	<table name="#power">58 65 72 78 82 85 89 92 96 99 102 105 108</table>
+</skill>
+<skill id="1148" name="Death Spike" enchant="Power">
+	<table name="#power">108 109 109 110 110 110 111 111 111 112 112 112 113 113 113 114 114 114 115 115 116 116 116 117 117 117 118 118 118 119</table>
+</skill>
+<skill id="1155" name="Corpse Burst">
+	<table name="#power">61 65 68 72 75 78 82 85 89 92 96 99 102 105 108</table>
+</skill>
+<skill id="1155" name="Corpse Burst" enchant="Power">
+	<table name="#power">109 109 110 111 111 112 113 113 114 115 115 116 116 117 118 118 119 120 120 121 122 122 123 124 124 125 125 126 127 127</table>
+</skill>
+<skill id="1159" name="Curse Death Link">
+	<table name="#power">68 72 75 78 80 82 84 85 87 89 90 92 94 96 97 99 100 102 104 105 107 108</table>
+</skill>
+<skill id="1159" name="Curse Death Link" enchant="Power">
+	<table name="#power">109 109 110 111 111 112 113 113 114 115 115 116 116 117 118 118 119 120 120 121 122 122 123 124 124 125 125 126 127 127</table>
+</skill>
+<skill id="1171" name="Blazing Circle">
+	<table name="#power">29 30 32 34 36 38 40 42 44 46 48 50 52 55 57 58 60 62 64</table>
+</skill>
+<skill id="1171" name="Blazing Circle" enchant="Power">
+	<table name="#power">65 66 66 67 67 67 68 68 69 69 69 70 70 70 71 71 72 72 72 73 73 74 74 74 75 75 75 76 76 77</table>
+</skill>
+<skill id="1172" name="Aura Burn">
+	<table name="#power">19 21 24 25 28 30 33 36</table>
+</skill>
+<skill id="1174" name="Frost Wall">
+	<table name="#power">48 50 53 55 56 57 59 60 61 62 63 65 66 67 68 69 70 72 73 74 75 76</table>
+</skill>
+<skill id="1174" name="Frost Wall" enchant="Power">
+	<table name="#power">76 77 77 78 78 79 79 79 80 80 81 81 82 82 83 83 83 84 84 85 85 86 86 87 87 88 88 88 89 89</table>
+</skill>
+<skill id="1175" name="Aqua Swirl">
+	<table name="#power">23 26 29 32 35 38 42 44</table>
+</skill>
+<skill id="1176" name="Tempest">
+	<table name="#power">31 33 34 36 38 39 41 43 45 46 48 50 51 53 54</table>
+</skill>
+<skill id="1176" name="Tempest" enchant="Power">
+	<table name="#power">55 55 55 56 56 56 57 57 57 58 58 58 58 59 59 59 60 60 60 61 61 61 62 62 62 63 63 63 64 64</table>
+</skill>
+<skill id="1177" name="Wind Strike">
+	<table name="#power">12 13 15 18 21</table>
+</skill>
+<skill id="1178" name="Twister">
+	<table name="#power">23 26 29 32 35 38 42 44</table>
+</skill>
+<skill id="1181" name="Flame Strike">
+	<table name="#power">13 14 14</table>
+</skill>
+<skill id="1184" name="Ice Bolt">
+	<table name="#power">8 9 11 13 14 16</table>
+</skill>
+<skill id="1210" name="Seal of Gloom">
+	<table name="#power">29 36 46 53</table>
+</skill>
+<skill id="1217" name="Greater Heal">
+	<table name="#power">204 212 219 235 243 251 267 275 283 299 307 316 332 340 348 356 364 372 380 388 395 402 410 417 424 431 437 444 450 456 462 467 472</table>
+</skill>
+<skill id="1217" name="Greater Heal" enchant="Power">
+	<table name="#power">477 482 487 493 498 503 509 514 519 525 530 535 540 546 551 556 562 567 572 578 583 588 509 599 604 609 615 620 625 631</table>
+</skill>
+<skill id="1218" name="Greater Battle Heal">
+	<table name="#power">371 384 398 426 441 455 484 499 514 544 559 573 603 618 633 647 662 676 690 704 718 731 745 758 770 782 795 806 817 828 839 849 858</table>
+</skill>
+<skill id="1218" name="Greater Battle Heal" enchant="Power">
+	<table name="#power">863 868 873 878 883 887 892 897 902 907 912 917 921 926 931 936 941 946 950 955 960 965 970 975 980 984 989 994 999 1004</table>
+</skill>
+<skill id="1219" name="Greater Group Heal">
+	<table name="#power">163 169 175 188 194 201 213 220 226 239 246 253 266 272 279 285 291 298 304 310 316 322 328 334 339 345 350 355 360 365 369 374 378</table>
+</skill>
+<skill id="1219" name="Greater Group Heal" enchant="Power">
+	<table name="#power">382 386 391 395 400 404 408 413 417 422 426 430 435 439 444 448 452 457 461 466 470 474 479 483 488 492 496 501 505 510</table>
+</skill>
+<skill id="1220" name="Blaze">
+	<table name="#power">23 26 29 32 35 38 42 44</table>
+</skill>
+<skill id="1230" name="Prominence">
+	<table name="#power">49 52 55 58 61 65 68 72 75 78 80 82 84 85 87 89 90 92 94 96 97 99 100 102 104 105 107 108</table>
+</skill>
+<skill id="1231" name="Aura Flare">
+	<table name="#power">39 42 44 47 49 52 55 57 60 63 64 66 67 68 70 71 72 74 75 77 78 79 80 82 83 84 85 87</table>
+</skill>
+<skill id="1234" name="Vampiric Claw">
+	<table name="#power">49 52 55 58 61 65 68 72 75 78 80 82 84 85 87 89 90 92 94 96 97 99 100 102 104 105 107 108</table>
+</skill>
+<skill id="1234" name="Vampiric Claw" enchant="Power">
+	<table name="#power">109 109 110 111 111 112 113 113 114 115 115 116 116 117 118 118 119 120 120 121 122 122 123 124 124 125 125 126 127 127</table>
+</skill>
+<skill id="1235" name="Hydro Blast">
+	<table name="#power">49 52 55 58 61 65 68 72 75 78 80 82 84 85 87 89 90 92 94 96 97 99 100 102 104 105 107 108</table>
+</skill>
+<skill id="1235" name="Hydro Blast" enchant="Power">
+	<table name="#power">109 109 110 111 111 112 113 113 114 115 115 116 116 117 118 118 119 120 120 121 122 122 123 124 124 125 125 126 127 127</table>
+</skill>
+<skill id="1236" name="Frost Bolt">
+	<table name="#power">30 31 33 35 37 39 41 43 45 47 49 51 53 56 58 59 61 63 65</table>
+</skill>
+<skill id="1236" name="Frost Bolt" enchant="Power">
+	<table name="#power">65 66 66 67 67 67 68 68 69 69 69 70 70 70 71 71 72 72 72 73 73 74 74 74 75 75 75 76 76 77</table>
+</skill>
+<skill id="1237" name="Ice Dagger">
+	<table name="#power">28 29 31 33 34 36 38 39 41 43 45 46 48 50 51 53 54</table>
+</skill>
+<skill id="1237" name="Ice Dagger" enchant="Power">
+	<table name="#power">55 55 55 56 56 56 57 57 57 58 58 58 58 59 59 59 60 60 60 61 61 61 62 62 62 63 63 63 64 64</table>
+</skill>
+<skill id="1239" name="Hurricane">
+	<table name="#power">49 52 55 58 61 65 68 72 75 78 80 82 84 85 87 89 90 92 94 96 97 99 100 102 104 105 107 108</table>
+</skill>
+<skill id="1239" name="Hurricane" enchant="Power">
+	<table name="#power">109 109 110 111 111 112 113 113 114 115 115 116 116 117 118 118 119 120 120 121 122 122 123 124 124 125 125 126 127 127</table>
+</skill>
+<skill id="1245" name="Steal Essence">
+	<table name="#power">52 58 65 72 78 82 85 89 92 96 99 102 105 108</table>
+</skill>
+<skill id="1245" name="Steal Essence" enchant="Power">
+	<table name="#power">109 109 110 111 111 112 113 113 114 115 115 116 116 117 118 118 119 120 120 121 122 122 123 124 124 125 125 126 127 127</table>
+</skill>
+<skill id="1256" name="The Heart of Pa'agrio">
+	<table name="#power">91 103 115 127 133 138 144 149 154 159 164 168 172</table>
+</skill>
+<skill id="1256" name="The Heart of Pa'agrio" enchant="Power">
+	<table name="#power">172 172 172 172 172 172 172 172 172 172 172 172 172 172 172 172 172 172 172 172 172 172 172 172 172 172 172 172 172 172</table>
+</skill>
+<skill id="1264" name="Solar Spark">
+	<table name="#power">39 47 55</table>
+</skill>
+<skill id="1265" name="Solar Flare">
+	<table name="#power">65 73 81 89 98 102 107 111 115 119 123 127 131 135</table>
+</skill>
+<skill id="1265" name="Solar Flare" enchant="Power">
+	<table name="#power">136 137 137 138 139 140 141 141 142 143 144 145 145 146 147 148 149 149 150 151 152 153 153 154 155 156 157 158 158 159</table>
+</skill>
+<skill id="1266" name="Shadow Spark">
+	<table name="#power">39 47 55</table>
+</skill>
+<skill id="1267" name="Shadow Flare">
+	<table name="#power">65 73 81 89 98 102 107 111 115 119 123 127 131 135</table>
+</skill>
+<skill id="1267" name="Shadow Flare" enchant="Power">
+	<table name="#power">136 137 137 138 139 140 141 141 142 143 144 145 145 146 147 148 149 149 150 151 152 153 153 154 155 156 157 158 158 159</table>
+</skill>
+<skill id="1274" name="Energy Bolt">
+	<table name="#power">13 16 19 22</table>
+</skill>
+<skill id="1275" name="Aura Bolt">
+	<table name="#power">26 29 33 36 39 41 43 45 46 48 50 51 53 54</table>
+</skill>
+<skill id="1275" name="Aura Bolt" enchant="Power">
+	<table name="#power">55 55 55 56 56 56 57 57 57 58 58 58 58 59 59 59 60 60 60 61 61 61 62 62 62 63 63 63 64 64</table>
+</skill>
+<skill id="1288" name="Aura Symphony">
+	<table name="#power">150</table>
+</skill>
+<skill id="1288" name="Aura Symphony" enchant="Power">
+	<table name="#power">151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151</table>
+</skill>
+<skill id="1289" name="Inferno">
+	<table name="#power">150</table>
+</skill>
+<skill id="1289" name="Inferno" enchant="Power">
+	<table name="#power">151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180</table>
+</skill>
+<skill id="1290" name="Blizzard">
+	<table name="#power">150</table>
+</skill>
+<skill id="1290" name="Blizzard" enchant="Power">
+	<table name="#power">151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180</table>
+</skill>
+<skill id="1291" name="Demon Wind">
+	<table name="#power">150</table>
+</skill>
+<skill id="1291" name="Demon Wind" enchant="Power">
+	<table name="#power">151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180</table>
+</skill>
+<skill id="1292" name="Elemental Assault">
+	<table name="#power">200</table>
+</skill>
+<skill id="1292" name="Elemental Assault" enchant="Power">
+	<table name="#power">201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230</table>
+</skill>
+<skill id="1293" name="Elemental Symphony">
+	<table name="#power">200</table>
+</skill>
+<skill id="1293" name="Elemental Symphony" enchant="Power">
+	<table name="#power">201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230</table>
+</skill>
+<skill id="1294" name="Elemental Storm">
+	<table name="#power">200</table>
+</skill>
+<skill id="1294" name="Elemental Storm" enchant="Power">
+	<table name="#power">201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230</table>
+</skill>
+<skill id="1295" name="Aqua Splash">
+	<table name="#power">41 43 45 46 48 50 51 53 54</table>
+</skill>
+<skill id="1295" name="Aqua Splash" enchant="Power">
+	<table name="#power">55 55 55 56 56 56 57 57 57 58 58 58 58 59 59 59 60 60 60 61 61 61 62 62 62 63 63 63 64 64</table>
+</skill>
+<skill id="1296" name="Rain of Fire">
+	<table name="#power">41 43 45 46 48 50 51 53 54</table>
+</skill>
+<skill id="1296" name="Rain of Fire" enchant="Power">
+	<table name="#power">55 55 55 56 56 56 57 57 57 58 58 58 58 59 59 59 60 60 60 61 61 61 62 62 62 63 63 63 64 64</table>
+</skill>
+<skill id="1305" name="The Honor of Pa'agrio">
+	<table name="#power">616 636 654 671 687</table>
+</skill>
+<skill id="1305" name="The Honor of Pa'agrio" enchant="Power">
+	<table name="#power">690 694 697 700 704 707 711 714 717 721 724 727 731 734 738 741 744 748 751 755 758 761 765 768 772 775 778 782 785 789</table>
+</skill>
+<skill id="1306" name="Ritual of Life">
+	<table name="#power">745 770 795 817 839 858</table>
+</skill>
+<skill id="1306" name="Ritual of Life" enchant="Power">
+	<table name="#power">863 867 871 875 880 884 888 892 897 901 905 909 913 918 922 926 930 935 939 943 947 952 956 960 964 969 973 977 981 986</table>
+</skill>
+<skill id="1339" name="Fire Vortex">
+	<table name="#power">140</table>
+</skill>
+<skill id="1339" name="Fire Vortex" enchant="Power">
+	<table name="#power">147 147 148 148 148 149 149 149 150 150 151 151 151 152 152</table>
+</skill>
+<skill id="1340" name="Ice Vortex">
+	<table name="#power">140</table>
+</skill>
+<skill id="1340" name="Ice Vortex" enchant="Power">
+	<table name="#power">147 147 148 148 148 149 149 149 150 150 151 151 151 152 152</table>
+</skill>
+<skill id="1341" name="Wind Vortex">
+	<table name="#power">140</table>
+</skill>
+<skill id="1341" name="Wind Vortex" enchant="Power">
+	<table name="#power">147 147 148 148 148 149 149 149 150 150 151 151 151 152 152</table>
+</skill>
+<skill id="1342" name="Light Vortex">
+	<table name="#power">139</table>
+</skill>
+<skill id="1342" name="Light Vortex" enchant="Power">
+	<table name="#power">147 147 148 148 148 149 149 149 150 150 151 151 151 152 152</table>
+</skill>
+<skill id="1343" name="Dark Vortex">
+	<table name="#power">111</table>
+</skill>
+<skill id="1343" name="Dark Vortex" enchant="Power">
+	<table name="#power">118 118 118 119 119 119 119 120 120 120 121 121 121 121 122</table>
+</skill>
+<skill id="1398" name="Mana Burn">
+	<table name="#power">117 123 128 133 138 143 148 153 157 162</table>
+</skill>
+<skill id="1398" name="Mana Burn" enchant="Power">
+	<table name="#power">162 163 164 164 165 166 166 167 168 168 169 170 170 171 172 172 173 174 174 175 176 176 177 178 178 179 180 180 181 182</table>
+</skill>
+<skill id="1399" name="Mana Storm">
+	<table name="#power">62 67 72 77 81</table>
+</skill>
+<skill id="1399" name="Mana Storm" enchant="Power">
+	<table name="#power">81 81 82 82 82 83 83 83 84 84 84 85 85 85 86 86 86 87 87 87 88 88 88 89 89 89 90 90 90 91</table>
+</skill>
+<skill id="1401" name="Major Heal">
+	<table name="#power">690 722 753 783 812 840 867 892 915 936 946</table>
+</skill>
+<skill id="1401" name="Major Heal" enchant="Power">
+	<table name="#power">948 951 954 957 960 964 967 970 973 976 979 983 986 989 992 995 998 1002 1005 1008 1011 1014 1017 1021 1024 1027 1030 1033 1036 1040</table>
+</skill>
+<skill id="1402" name="Major Group Heal">
+	<table name="#power">902 979 1050 1115 1170</table>
+</skill>
+<skill id="1402" name="Major Group Heal" enchant="Power">
+	<table name="#power">1174 1178 1183 1187 1191 1196 1200 1204 1209 1213 1218 1222 1226 1231 1235 1239 1244 1248 1252 1257 1261 1266 1270 1274 1279 1283 1287 1292 1296 1301</table>
+</skill>
+<skill id="1417" name="Aura Flash">
+	<table name="#power">49 53 58 61 65</table>
+</skill>
+<skill id="1417" name="Aura Flash" enchant="Power">
+	<table name="#power">65 66 67 67 68 69 69 70 71 71 72 73 73 74 75 75 76 77 77 78 79 79 80 81 81 82 83 83 84 85</table>
+</skill>
+<skill id="1431" name="Fallen Arrow">
+	<table name="#power">13 14 16 18 20 22</table>
+</skill>
+<skill id="1433" name="Abyssal Blaze">
+	<table name="#power">24 26 28 31 33 35 38 40 43 46</table>
+</skill>
+<skill id="1434" name="Dark Explosion">
+	<table name="#power">16 18 20 23</table>
+</skill>
+<skill id="1436" name="Soul of Pain">
+	<table name="#power">50 52 55 57 60 61 65 66 70 72 75 77 80 82 84 85 87 89 90 92 94 96 97 99 100 102 104 105 107 108</table>
+</skill>
+<skill id="1436" name="Soul of Pain" enchant="Power">
+	<table name="#power">111 112 112 112 113 113 113 114 114 115 115 115 116 116 116 117 117 117 118 118 119 119 119 120 120 120 121 121 121 122</table>
+</skill>
+<skill id="1437" name="Dark Flame">
+	<table name="#power">42 43 45 47 49 50 53 54 56 57 59 60 61 62 63 65 66 67 68 69 70 72 73 74 75 76</table>
+</skill>
+<skill id="1437" name="Dark Flame" enchant="Power">
+	<table name="#power">78 78 79 79 79 79 80 80 80 80 81 81 81 81 82 82 82 82 83 83 83 83 84 84 84 84 85 85 85 85</table>
+</skill>
+<skill id="1438" name="Annihilation Circle">
+	<table name="#power">82 85 89 92 96 99 102 105 108</table>
+</skill>
+<skill id="1438" name="Annihilation Circle" enchant="Power">
+	<table name="#power">111 112 112 112 113 113 113 114 114 115 115 115 116 116 116 117 117 117 118 118 119 119 119 120 120 120 121 121 121 122</table>
+</skill>
+<skill id="1439" name="Curse of Divinity">
+	<table name="#power">96 99 102 105 108</table>
+</skill>
+<skill id="1448" name="Blink">
+	<table name="#power">1</table>
+</skill>
+<skill id="1450" name="Chain Lightning">
+	<table name="#power">200</table>
+</skill>
+<skill id="1450" name="Chain Lightning" enchant="Power">
+	<table name="#power">202 202 202 202 202 202 202 202 202 202 202 202 202 202 202</table>
+</skill>
+<skill id="1451" name="Fire Vortex Buster">
+	<table name="#power">195</table>
+</skill>
+<skill id="1451" name="Fire Vortex Buster" enchant="Power">
+	<table name="#power">198 198 199 199 200 201 201 202 202 203 203 204 204 205 206</table>
+</skill>
+<skill id="1453" name="Ice Vortex Crusher">
+	<table name="#power">195</table>
+</skill>
+<skill id="1453" name="Ice Vortex Crusher" enchant="Power">
+	<table name="#power">198 198 199 199 200 201 201 202 202 203 203 204 204 205 206</table>
+</skill>
+<skill id="1454" name="Diamond Dust">
+	<table name="#power">70</table>
+</skill>
+<skill id="1454" name="Diamond Dust" enchant="Power">
+	<table name="#power">71 71 71 71 72 72 72 72 72 72 73 73 73 73 73</table>
+</skill>
+<skill id="1456" name="Wind Vortex Slug">
+	<table name="#power">195</table>
+</skill>
+<skill id="1456" name="Wind Vortex Slug" enchant="Power">
+	<table name="#power">198 198 199 199 200 201 201 202 202 203 203 204 204 205 206</table>
+</skill>
+<skill id="1459" name="Divine Power">
+	<table name="#power">1000</table>
+</skill>
+<skill id="1459" name="Divine Power" enchant="Power">
+	<table name="#power">1033 1066 1100 1133 1166 1200 1233 1266 1300 1333 1366 1400 1433 1466 1500</table>
+</skill>
+<skill id="1462" name="Seal of Blockade">
+	<table name="#power">80</table>
+</skill>
+<skill id="1467" name="Meteor">
+	<table name="#power">117</table>
+</skill>
+<skill id="1468" name="Star Fall">
+	<table name="#power">117</table>
+</skill>
+<skill id="1469" name="Leopold">
+	<table name="#power">224</table>
+</skill>
+<skill id="1469" name="Leopold" enchant="Power">
+	<table name="#power">235 235 236 237 237 238 238 239 239 240 241 241 242 242 243</table>
+</skill>
+<skill id="1471" name="Death Beam">
+	<table name="#power">138</table>
+</skill>
+<skill id="1516" name="Soul Strike">
+	<table name="#power">166</table>
+</skill>
+<skill id="1516" name="Soul Strike" enchant="Power">
+	<table name="#power">167 168 169 170 171 173 174 175 176 177 178 180 181 182 183</table>
+</skill>
+<skill id="1523" name="Divine Punishment">
+	<table name="#power">51 52 54 55 57 58 60 61 63 64 66 68 69 71 72 74 75 77 78 80 81 83 85 86 88 89 90 92 93 95 96 97 99 100 101 102 103 105 106 107 108 109</table>
+</skill>
+<skill id="1530" name="Death Spike">
+	<table name="#power">33 39 43 47 49 51 53 56 58 59 61 63 65</table>
+</skill>
+<skill id="1544" name="Death Beam">
+	<table name="#power">138 139 141 142 144 145 146</table>
+</skill>
+<skill id="3080" name="Item Skill: Aggression">
+	<table name="#power">438 467 495 523 549 574 597 617 635 659</table>
+</skill>
+<skill id="3081" name="Item Skill: Charm">
+	<table name="#power">219 234 248 262 275 287 299 309 318 330</table>
+</skill>
+<skill id="3082" name="Item Skill: Mana Burn">
+	<table name="#power">49 53 57 61 66 70 74 78 82 88</table>
+</skill>
+<skill id="3095" name="Item Skill: Mana Burn">
+	<table name="#power">49 53 57 61 66 70 74 78 82 88</table>
+</skill>
+<skill id="3108" name="Item Skill: Aggression Up">
+	<table name="#power">438 467 495 523 549 574 597 617 635 659</table>
+</skill>
+<skill id="3109" name="Item Skill: Aggression Down">
+	<table name="#power">219 234 248 262 275 287 299 309 318 330</table>
+</skill>
+<skill id="3110" name="Item Skill: Mana Burn">
+	<table name="#power">49 53 57 61 66 70 74 78 82 88</table>
+</skill>
+<skill id="3123" name="Item Skill: Heal">
+	<table name="#power">308 337 365 393 421 448 474 498 520 552</table>
+</skill>
+<skill id="3127" name="Item Skill: Recharge">
+	<table name="#power">41 44 47 50 53 57 59 62 65 69</table>
+</skill>
+<skill id="3130" name="Item Skill: Ritual">
+	<table name="#power">264 289 313 337 361 384 406 427 446 473</table>
+</skill>
+<skill id="3149" name="Item Skill: Aggression">
+	<table name="#power">438 467 495 523 549 574 597 617 635 659</table>
+</skill>
+<skill id="3150" name="Item Skill: Charm">
+	<table name="#power">219 234 248 262 275 287 299 309 318 330</table>
+</skill>
+<skill id="3153" name="Item Skill: Vampiric Touch">
+	<table name="#power">49 53 57 61 66 70 74 78 82 88</table>
+</skill>
+<skill id="3154" name="Item Skill: Mana Burn">
+	<table name="#power">68 73 79 84 90 96 101 107 112 120</table>
+</skill>
+<skill id="3165" name="Item Skill: Prominence">
+	<table name="#power">61 66 72 77 82 87 92 97 102 110</table>
+</skill>
+<skill id="3167" name="Item Skill: Hydro Blast">
+	<table name="#power">61 66 72 77 82 87 92 97 102 110</table>
+</skill>
+<skill id="3168" name="Item Skill: Hurricane">
+	<table name="#power">61 66 72 77 82 87 92 97 102 110</table>
+</skill>
+<skill id="3169" name="Item Skill: Stone">
+	<table name="#power">61 66 72 77 82 87 92 97 102 110</table>
+</skill>
+<skill id="3170" name="Item Skill: Solar Flare">
+	<table name="#power">61 66 72 77 82 87 92 97 102 110</table>
+</skill>
+<skill id="3171" name="Item Skill: Shadow Flare">
+	<table name="#power">61 66 72 77 82 87 92 97 102 110</table>
+</skill>
+<skill id="3172" name="Item Skill: Aura Flare">
+	<table name="#power">61 66 72 77 82 87 92 97 102 110</table>
+</skill>
+<skill id="3173" name="Item Skill: Prominence">
+	<table name="#power">31 33 36 39 41 44 46 49 51 55</table>
+</skill>
+<skill id="3174" name="Item Skill: Hydro Blast">
+	<table name="#power">31 33 36 39 41 44 46 49 51 55</table>
+</skill>
+<skill id="3175" name="Item Skill: Hurricane">
+	<table name="#power">31 33 36 39 41 44 46 49 51 55</table>
+</skill>
+<skill id="3176" name="Item Skill: Stone">
+	<table name="#power">31 33 36 39 41 44 46 49 51 55</table>
+</skill>
+<skill id="3177" name="Item Skill: Solar Flare">
+	<table name="#power">31 33 36 39 41 44 46 49 51 55</table>
+</skill>
+<skill id="3178" name="Item Skill: Shadow Flare">
+	<table name="#power">31 33 36 39 41 44 46 49 51 55</table>
+</skill>
+<skill id="3179" name="Item Skill: Aura Flare">
+	<table name="#power">31 33 36 39 41 44 46 49 51 55</table>
+</skill>
+<skill id="3180" name="Item Skill: Prominence">
+	<table name="#power">31 33 36 39 41 44 46 49 51 55</table>
+</skill>
+<skill id="3181" name="Item Skill: Hydro Blast">
+	<table name="#power">31 33 36 39 41 44 46 49 51 55</table>
+</skill>
+<skill id="3182" name="Item Skill: Hurricane">
+	<table name="#power">31 33 36 39 41 44 46 49 51 55</table>
+</skill>
+<skill id="3183" name="Item Skill: Stone">
+	<table name="#power">31 33 36 39 41 44 46 49 51 55</table>
+</skill>
+<skill id="3184" name="Item Skill: Solar Flare">
+	<table name="#power">31 33 36 39 41 44 46 49 51 55</table>
+</skill>
+<skill id="3185" name="Item Skill: Shadow Flare">
+	<table name="#power">31 33 36 39 41 44 46 49 51 55</table>
+</skill>
+<skill id="3186" name="Item Skill: Aura Flare">
+	<table name="#power">31 33 36 39 41 44 46 49 51 55</table>
+</skill>
+<skill id="4707" name="Shade Sacrifice">
+	<table name="#power">589 700 789 804 810 816 826 835 844 852 860 867 874</table>
+</skill>
+<skill id="4708" name="Cursed Strike">
+	<table name="#power">1046 1230 1425 1626 1727 1827 1925 2020 2067 2112</table>
+</skill>
+<skill id="4709" name="Cursed Blow">
+	<table name="#power">1249 2164 3408 4878 5627 6335 7698 8079 8265 8447</table>
+</skill>
+<skill id="4710" name="Wild Stun">
+	<table name="#power">16 35 73 138 238 375 537 619 697 766 821 864</table>
+</skill>
+<skill id="4712" name="Bright Burst">
+	<table name="#power">6 9 13 17 23 28 34 36 39 41 42 43</table>
+</skill>
+<skill id="4713" name="Bright Heal">
+	<table name="#power">33 61 98 145 198 251 298 316 331 347 358 366</table>
+</skill>
+<skill id="4717" name="Heal Trick">
+	<table name="#power">9 16 25 37 50 63 75 79 83 87 90 92</table>
+</skill>
+<skill id="4718" name="Greater Heal Trick">
+	<table name="#power">37 64 99 139 171 205 236 266 300 332 355 368</table>
+</skill>
+<skill id="5149" name="Recharge">
+	<table name="#power">33 35 38 40 43 45 48 50 52 55</table>
+</skill>
+<skill id="5152" name="Ritual">
+	<table name="#power">264 289 313 337 361 384 406 427 446 473</table>
+</skill>
+<skill id="5165" name="Charm">
+	<table name="#power">219 234 248 262 275 287 299 309 318 330</table>
+</skill>
+<skill id="5195" name="Pet Greater Heal">
+	<table name="#power">50 92 148 219 299 380 450 477 500 525 542 550</table>
+</skill>
+<skill id="5444" name="Maul">
+	<table name="#power">1 1</table>
+</skill>
+<skill id="5581" name="Divine Beast Stun Attack">
+	<table name="#power">704</table>
+</skill>
+<skill id="5582" name="Divine Beast Fire Breath">
+	<table name="#power">875</table>
+</skill>
+<skill id="5590" name="Pet Battle Heal">
+	<table name="#power">91 166 269 398 544 690 817 867 909 954 985 1005</table>
+</skill>
+<skill id="5656" name="Gatekeeper Aura Flare">
+	<table name="#power">60 64 68 73 77 82 87 93 98 104 110 116 122 129 136 142 150 157 165 173 181 189 197 206 215 224 233 243 253 263 273 283 294 305 316 327 338 350 361 373 385 397 410 422 435 447 460 473 486 499 512 525 539 552 565 579 592 605 619 632 645 658 672 685 697 710 723 735 748 760 772 784 795 806 817 830 845 862 884 906 929 952 976 1001 1024</table>
+</skill>
+<skill id="5657" name="Gatekeeper Prominence">
+	<table name="#power">75 80 85 91 97 103 109 116 123 130 137 145 153 161 169 178 187 196 206 216 226 236 247 257 269 280 292 304 316 328 341 354 367 381 394 408 423 437 451 466 481 496 512 527 543 559 575 591 607 624 640 657 673 690 707 723 740 757 773 790 806 823 839 856 872 888 903 919 935 950 965 979 994 1008 1022 1037 1056 1077 1104 1132 1161 1190 1220 1251 1279</table>
+</skill>
+<skill id="5658" name="Gatekeeper Flame Strike">
+	<table name="#power">38 40 43 46 49 52 55 58 62 65 69 73 77 81 85 89 94 98 103 108 113 118 124 129 135 140 146 152 158 164 171 177 184 191 197 204 212 219 226 233 241 248 256 264 272 280 288 296 304 312 320 329 337 345 354 362 370 379 387 395 403 412 420 428 436 444 452 460 468 475 483 490 497 504 511 519 528 539 552 566 581 595 610 626 640</table>
+</skill>
+<skill id="5745" name="Death Blow">
+	<table name="#power">183 419 875 1665 2885 4544 6503 7503 8447 9280 9948 10466</table>
+</skill>
+<skill id="5746" name="Double Attack">
+	<table name="#power">137 314 656 1249 2164 3408 4878 5627 6335 6960 7461 7850</table>
+</skill>
+<skill id="5747" name="Spin Attack">
+	<table name="#power">55 126 263 500 866 1364 1951 2251 2534 2784 2985 3140</table>
+</skill>
+<skill id="5748" name="Meteor Shower">
+	<table name="#power">23 53 110 209 361 568 813 938 1056 1160 1244 1309</table>
+</skill>
+<skill id="5749" name="Thunder Bolt">
+	<table name="#power">18 26 38 52 68 85 102 110 116 122 126 129</table>
+</skill>
+<skill id="5750" name="Flash">
+	<table name="#power">11 16 23 31 41 51 61 66 70 73 76 78</table>
+</skill>
+<skill id="5751" name="Lightning Wave">
+	<table name="#power">9 13 19 26 34 43 51 55 58 61 63 65</table>
+</skill>
+<skill id="5752" name="Flare">
+	<table name="#power">35 52 75 103 136 170 204 219 232 243 252 258</table>
+</skill>
+<skill id="5836" name="Greater Heal">
+	<table name="#power">1</table>
+</skill>
+<skill id="5969" name="Punch of Doom">
+	<table name="#power">10331 12288</table>
+</skill>
+<skill id="5990" name="Lesser Heal">
+	<table name="#power">817 839 867</table>
+</skill>
+<skill id="6043" name="Phoenix Flame Feather">
+	<table name="#power">70</table>
+</skill>
+<skill id="6044" name="Phoenix Flame Beak">
+	<table name="#power">2156</table>
+</skill>

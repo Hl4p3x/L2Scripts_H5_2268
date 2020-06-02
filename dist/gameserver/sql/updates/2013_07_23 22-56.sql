@@ -1,0 +1,1 @@
+ALTER TABLE `mail` ADD COLUMN `returned` tinyint(4) NOT NULL DEFAULT '0' AFTER `unread`;

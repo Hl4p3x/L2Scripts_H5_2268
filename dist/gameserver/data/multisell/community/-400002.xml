@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<item>
+		<production id="1835" count="500"/>	<!--Soulshot: No Grade-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="1463" count="500"/>	<!--Soulshot (D-Grade)-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="1464" count="500"/>	<!--Soulshot (C-Grade)-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="1465" count="500"/>	<!--Soulshot (B-Grade)-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="1466" count="500"/>	<!--Soulshot (A-Grade)-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="1467" count="500"/>	<!--Soulshot (S-Grade)-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="3947" count="100"/>	<!--Blessed Spiritshot: No Grade-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="3948" count="100"/>	<!--Blessed Spiritshot (D-Grade)-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="3949" count="100"/>	<!--Blessed Spiritshot (C-Grade)-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="3950" count="100"/>	<!--Blessed Spiritshot (B-Grade)-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="3951" count="100"/>	<!--Blessed Spiritshot (A-Grade)-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="3952" count="100"/>	<!--Blessed Spiritshot (S-Grade)-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="3951" count="100"/>	<!--Blessed Spiritshot -->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="3952" count="100"/>	<!--Blessed Spiritshot -->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="6645" count="100"/>	<!-- Beast Soulshot -->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="6647" count="100"/>	<!-- Blessed Beast Spiritsho -->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+</list>

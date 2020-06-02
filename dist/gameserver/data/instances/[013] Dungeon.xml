@@ -1,0 +1,12 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+    <!-- Castles Dungeon -->
+	<instance id="13" name="Dungeon" maxChannels="9" collapseIfEmpty="10" timelimit="60" dispelBuffs="false">
+		<collapse on-party-dismiss="true" timer="60" />
+		<level min="70" max="85" />
+		<party min="2" max="9" />
+		<teleport loc="12154 -49190 -2657" />
+		<quest id="512" />
+		<reuse delay="240" setUponEntry="true" sharedReuseGroup="0" />
+	</instance>
+</list>

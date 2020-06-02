@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "class_data.dtd">
+
+<list>
+	<class_data class_id="124">
+		<lvl_up_data>
+			<lvl_add lvl="1" hp="97.0" mp="40.0" cp="48.5"/>
+			<lvl_add lvl="2" hp="113.38" mp="47.28" cp="56.69"/>
+			<lvl_add lvl="3" hp="129.94" mp="54.64" cp="64.97"/>
+			<lvl_add lvl="4" hp="146.68" mp="62.08" cp="73.34"/>
+			<lvl_add lvl="5" hp="163.6" mp="69.6" cp="81.8"/>
+			<lvl_add lvl="6" hp="180.7" mp="77.2" cp="90.35"/>
+			<lvl_add lvl="7" hp="197.98" mp="84.88" cp="98.99"/>
+			<lvl_add lvl="8" hp="215.44" mp="92.64" cp="107.72"/>
+			<lvl_add lvl="9" hp="233.08" mp="100.48" cp="116.54"/>
+			<lvl_add lvl="10" hp="250.9" mp="108.4" cp="125.45"/>
+			<lvl_add lvl="11" hp="268.9" mp="116.4" cp="134.45"/>
+			<lvl_add lvl="12" hp="287.08" mp="124.48" cp="143.54"/>
+			<lvl_add lvl="13" hp="305.44" mp="132.64" cp="152.72"/>
+			<lvl_add lvl="14" hp="323.98" mp="140.88" cp="161.99"/>
+			<lvl_add lvl="15" hp="342.7" mp="149.2" cp="171.35"/>
+			<lvl_add lvl="16" hp="361.6" mp="157.6" cp="180.8"/>
+			<lvl_add lvl="17" hp="380.68" mp="166.08" cp="190.34"/>
+			<lvl_add lvl="18" hp="399.94" mp="174.64" cp="199.97"/>
+			<lvl_add lvl="19" hp="419.38" mp="183.28" cp="209.69"/>
+			<lvl_add lvl="20" hp="439.0" mp="192.0" cp="219.5"/>
+			<lvl_add lvl="21" hp="458.8" mp="200.8" cp="229.4"/>
+			<lvl_add lvl="22" hp="478.78" mp="209.68" cp="239.39"/>
+			<lvl_add lvl="23" hp="498.94" mp="218.64" cp="249.47"/>
+			<lvl_add lvl="24" hp="519.28" mp="227.68" cp="259.64"/>
+			<lvl_add lvl="25" hp="539.8" mp="236.8" cp="269.9"/>
+			<lvl_add lvl="26" hp="560.5" mp="246.0" cp="280.25"/>
+			<lvl_add lvl="27" hp="581.38" mp="255.28" cp="290.69"/>
+			<lvl_add lvl="28" hp="602.44" mp="264.64" cp="301.22"/>
+			<lvl_add lvl="29" hp="623.68" mp="274.08" cp="311.84"/>
+			<lvl_add lvl="30" hp="645.1" mp="283.6" cp="322.55"/>
+			<lvl_add lvl="31" hp="666.7" mp="293.2" cp="333.35"/>
+			<lvl_add lvl="32" hp="688.48" mp="302.88" cp="344.24"/>
+			<lvl_add lvl="33" hp="710.44" mp="312.64" cp="355.22"/>
+			<lvl_add lvl="34" hp="732.58" mp="322.48" cp="366.29"/>
+			<lvl_add lvl="35" hp="754.9" mp="332.4" cp="377.45"/>
+			<lvl_add lvl="36" hp="777.4" mp="342.4" cp="388.7"/>
+			<lvl_add lvl="37" hp="800.08" mp="352.48" cp="400.04"/>
+			<lvl_add lvl="38" hp="822.94" mp="362.64" cp="411.47"/>
+			<lvl_add lvl="39" hp="845.98" mp="372.88" cp="422.99"/>
+			<lvl_add lvl="40" hp="869.2" mp="383.2" cp="434.6"/>
+			<lvl_add lvl="41" hp="892.6" mp="393.6" cp="446.3"/>
+			<lvl_add lvl="42" hp="916.18" mp="404.08" cp="458.09"/>
+			<lvl_add lvl="43" hp="939.94" mp="414.64" cp="469.97"/>
+			<lvl_add lvl="44" hp="963.88" mp="425.28" cp="481.94"/>
+			<lvl_add lvl="45" hp="988.0" mp="436.0" cp="494.0"/>
+			<lvl_add lvl="46" hp="1012.3" mp="446.8" cp="506.15"/>
+			<lvl_add lvl="47" hp="1036.78" mp="457.68" cp="518.39"/>
+			<lvl_add lvl="48" hp="1061.44" mp="468.64" cp="530.72"/>
+			<lvl_add lvl="49" hp="1086.28" mp="479.68" cp="543.14"/>
+			<lvl_add lvl="50" hp="1111.3" mp="490.8" cp="555.65"/>
+			<lvl_add lvl="51" hp="1136.5" mp="502.0" cp="568.25"/>
+			<lvl_add lvl="52" hp="1161.88" mp="513.28" cp="580.94"/>
+			<lvl_add lvl="53" hp="1187.44" mp="524.64" cp="593.72"/>
+			<lvl_add lvl="54" hp="1213.18" mp="536.08" cp="606.59"/>
+			<lvl_add lvl="55" hp="1239.1" mp="547.6" cp="619.55"/>
+			<lvl_add lvl="56" hp="1265.2" mp="559.2" cp="632.6"/>
+			<lvl_add lvl="57" hp="1291.48" mp="570.88" cp="645.74"/>
+			<lvl_add lvl="58" hp="1317.94" mp="582.64" cp="658.97"/>
+			<lvl_add lvl="59" hp="1344.58" mp="594.48" cp="672.29"/>
+			<lvl_add lvl="60" hp="1371.4" mp="606.4" cp="685.7"/>
+			<lvl_add lvl="61" hp="1398.4" mp="618.4" cp="699.2"/>
+			<lvl_add lvl="62" hp="1425.58" mp="630.48" cp="712.79"/>
+			<lvl_add lvl="63" hp="1452.94" mp="642.64" cp="726.47"/>
+			<lvl_add lvl="64" hp="1480.48" mp="654.88" cp="740.24"/>
+			<lvl_add lvl="65" hp="1508.2" mp="667.2" cp="754.1"/>
+			<lvl_add lvl="66" hp="1536.1" mp="679.6" cp="768.05"/>
+			<lvl_add lvl="67" hp="1564.18" mp="692.08" cp="782.09"/>
+			<lvl_add lvl="68" hp="1592.44" mp="704.64" cp="796.22"/>
+			<lvl_add lvl="69" hp="1620.88" mp="717.28" cp="810.44"/>
+			<lvl_add lvl="70" hp="1649.5" mp="730.0" cp="824.75"/>
+			<lvl_add lvl="71" hp="1678.3" mp="742.8" cp="839.15"/>
+			<lvl_add lvl="72" hp="1707.28" mp="755.68" cp="853.64"/>
+			<lvl_add lvl="73" hp="1736.44" mp="768.64" cp="868.22"/>
+			<lvl_add lvl="74" hp="1765.78" mp="781.68" cp="882.89"/>
+			<lvl_add lvl="75" hp="1795.3" mp="794.8" cp="897.65"/>
+			<lvl_add lvl="76" hp="1825.0" mp="808.0" cp="912.5"/>
+			<lvl_add lvl="77" hp="1854.88" mp="821.28" cp="927.44"/>
+			<lvl_add lvl="78" hp="1884.94" mp="834.64" cp="942.47"/>
+			<lvl_add lvl="79" hp="1915.18" mp="848.08" cp="957.59"/>
+			<lvl_add lvl="80" hp="1945.6" mp="861.6" cp="972.8"/>
+			<lvl_add lvl="81" hp="1976.2" mp="875.2" cp="988.1"/>
+			<lvl_add lvl="82" hp="2006.98" mp="888.88" cp="1003.49"/>
+			<lvl_add lvl="83" hp="2037.94" mp="902.64" cp="1018.97"/>
+			<lvl_add lvl="84" hp="2069.08" mp="916.48" cp="1034.54"/>
+			<lvl_add lvl="85" hp="2100.4" mp="930.4" cp="1050.2"/>
+		</lvl_up_data>
+	</class_data>
+</list>

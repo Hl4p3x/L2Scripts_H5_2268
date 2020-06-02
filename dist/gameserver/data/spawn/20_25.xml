@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="9048" y="253048" z="-1928" h="49909" />
+		<npc id="32347" /><!--Shadai-->
+	</spawn>
+	<spawn count="1" respawn="129600" respawn_random="7200" period_of_day="none">
+		<point x="21928" y="243924" z="11088" h="0" />
+		<npc id="25603" /><!--Darion-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="16409" y="244438" z="11620" h="-1048" />
+		<npc id="18491" /><!--Lock-->
+	</spawn>
+	<spawn count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<point x="16608" y="244420" z="11620" h="31264" />
+		<npc id="18492" /><!--Controller-->
+	</spawn>
+	
+	<spawn count="1" respawn="30" respawn_random="0" period_of_day="none">
+		<point x="108104" y="-87576" z="-2910" h="0" />
+		<npc id="32764" /><!--quest-->
+	</spawn>	
+	<spawn count="1" respawn="30" respawn_random="0" period_of_day="none">
+		<point x="123192" y="-75048" z="-2917" h="0" />
+		<npc id="32764" /><!--quest-->
+	</spawn>
+</list>

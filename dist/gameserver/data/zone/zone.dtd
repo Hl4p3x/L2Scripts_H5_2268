@@ -1,0 +1,69 @@
+<!ELEMENT list (zone)*>
+<!ELEMENT zone (polygon|circle|rectangle|banned_polygon|set|restart_point|PKrestart_point|for|triggers)*>
+<!ATTLIST zone
+	name CDATA #IMPLIED
+	type CDATA #REQUIRED>
+<!ELEMENT polygon (coords)*>
+<!ELEMENT circle (coords)*>
+<!ELEMENT rectangle (coords)*>
+<!ELEMENT restart_point (coords)*>
+<!ELEMENT PKrestart_point (coords)*>
+<!ELEMENT banned_polygon (coords)*>
+<!ELEMENT coords (#PCDATA)>
+<!ATTLIST coords
+	loc CDATA #REQUIRED>
+<!ATTLIST circle
+	loc CDATA #IMPLIED>
+
+<!ELEMENT set (player|target|using|zone|or|not|and)*>
+<!ATTLIST set
+	name CDATA #IMPLIED
+	order CDATA #IMPLIED
+	stat CDATA #IMPLIED
+	val CDATA #IMPLIED
+	value CDATA #IMPLIED>
+
+<!ELEMENT for (add|set|mul)*>
+
+<!ELEMENT add (player|target|using|zone|or|not|and)*>
+<!ATTLIST add
+	order CDATA #REQUIRED
+	stat CDATA #REQUIRED
+	value CDATA #REQUIRED>
+
+<!ELEMENT or (player|target|using|zone)*>
+<!ELEMENT not (player|target|using|zone)*>
+<!ELEMENT and (player|target|using|zone)*>
+
+<!ELEMENT player (#PCDATA)>
+<!ATTLIST player
+	residence CDATA #IMPLIED
+	olympiad CDATA #IMPLIED
+	race CDATA #IMPLIED
+	instance_zone CDATA #IMPLIED
+	sex CDATA #IMPLIED
+	event CDATA #IMPLIED
+	classId CDATA #IMPLIED>
+
+<!ELEMENT target (#PCDATA)>
+<!ATTLIST target
+	mob_corpse CDATA #IMPLIED
+	pvp CDATA #IMPLIED>
+
+<!ELEMENT using (#PCDATA)>
+<!ATTLIST using
+	slotitem CDATA #REQUIRED>
+
+<!ELEMENT mul (player|target|using|zone)*>
+<!ATTLIST mul
+	order CDATA #REQUIRED
+	stat CDATA #REQUIRED
+	value CDATA #REQUIRED>
+
+<!ELEMENT triggers (trigger)*>
+<!ELEMENT trigger (#PCDATA)>
+<!ATTLIST trigger
+	id CDATA #REQUIRED
+	level CDATA #REQUIRED
+	type CDATA #REQUIRED
+	chance CDATA #REQUIRED>

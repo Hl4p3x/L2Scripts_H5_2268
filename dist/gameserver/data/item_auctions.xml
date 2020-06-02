@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<instance id="32320" schedule="0 17 * * mon">
+		<!--ENCHANTED NO-GRADE WEAPONS-->
+		<item auctionItemId="1" itemId="9901" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Falchion-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="2" itemId="9902" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Great Spear-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="3" itemId="9903" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Iron Hammer-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="4" itemId="9904" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Sword Breaker-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="5" itemId="9905" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Viper Fang-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="6" itemId="9906" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Composite Bow-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="7" itemId="9907" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Flanged Mace-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="8" itemId="9908" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Mage Staff-->
+			<extra enchant_level="15"/>
+		</item>
+		<!--LIFE STONES-->
+		<item auctionItemId="9" itemId="10485" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--High-Grade Life Stone - Level 82-->
+		<item auctionItemId="10" itemId="10486" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Top-Grade Life Stone - Level 82-->
+		<item auctionItemId="11" itemId="9575" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--High-Grade Life Stone - Level 80-->
+		<item auctionItemId="12" itemId="9576" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Top-Grade Life Stone - Level 80-->
+		<!--SOUL STONES-->
+		<item auctionItemId="13" itemId="10480" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Red Soul Crystal - Stage 15-->
+		<item auctionItemId="14" itemId="10481" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Blue Soul Crystal - Stage 15-->
+		<item auctionItemId="15" itemId="10482" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Green Soul Crystal - Stage 15-->
+		<item auctionItemId="16" itemId="13071" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Red Soul Crystal - Stage 16-->
+		<item auctionItemId="17" itemId="13072" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Blue Soul Crystal - Stage 16-->
+		<item auctionItemId="18" itemId="13073" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Green Soul Crystal - Stage 16-->
+		<!--FORGOTTEN SCROLLS-->
+		<item auctionItemId="19" itemId="10552" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Fighter's Will-->
+		<item auctionItemId="20" itemId="10553" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Archer's Will-->
+		<item auctionItemId="21" itemId="14219" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Magician's Will-->
+		<item auctionItemId="22" itemId="10549" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Protection of Rune-->
+		<item auctionItemId="23" itemId="10550" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Protection of Elemental-->
+		<item auctionItemId="24" itemId="10551" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Protection of Alignment-->
+		<!--ACCESSORIES-->
+		<item auctionItemId="25" itemId="13497" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Chick Hat-->
+		<item auctionItemId="26" itemId="13498" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Wizard Hat-->
+		<item auctionItemId="27" itemId="13500" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Black Feather Mask-->
+		<item auctionItemId="28" itemId="13501" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Romantic Chapeau-->
+		<item auctionItemId="29" itemId="13499" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Jester Hat-->
+		<item auctionItemId="30" itemId="13493" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Carnival Circlet-->
+		<!--MID S84 WEAPONS-->
+		<item auctionItemId="31" itemId="15561" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Devilish Maul-->
+		<item auctionItemId="32" itemId="15569" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Gemtail Rapier-->
+		<item auctionItemId="33" itemId="15571" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Dominion Crossbow-->
+		<item auctionItemId="34" itemId="15568" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Skull Carnium Bow-->
+		<item auctionItemId="35" itemId="15559" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Skull Edge-->
+		<item auctionItemId="36" itemId="15562" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Feather Eye Blade-->
+		<item auctionItemId="37" itemId="15570" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Finale Blade-->
+		<item auctionItemId="38" itemId="15563" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Octo Claw-->
+		<item auctionItemId="39" itemId="15567" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Veniplant Sword-->
+		<item auctionItemId="40" itemId="15565" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Rising Star-->
+		<item auctionItemId="41" itemId="15566" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Black Visage-->
+		<item auctionItemId="42" itemId="15558" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Periel Sword-->
+		<item auctionItemId="43" itemId="15564" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Doubletop Spear-->
+		<item auctionItemId="44" itemId="15560" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Vigwik Axe-->
+		<!--TOP S84 WEAPONS-->
+		<item auctionItemId="45" itemId="15557" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Thorne Crossbow-->
+		<item auctionItemId="46" itemId="15546" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Eversor Mace-->
+		<item auctionItemId="47" itemId="15545" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Mamba Edge-->
+		<item auctionItemId="48" itemId="15556" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Pyseal Blade-->
+		<item auctionItemId="49" itemId="15554" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Recurve Thorne Bow-->
+		<item auctionItemId="50" itemId="15553" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Archangel Sword-->
+		<item auctionItemId="51" itemId="15544" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Eternal Core Sword-->
+		<item auctionItemId="52" itemId="15547" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Contristo Hammer-->
+		<item auctionItemId="53" itemId="15549" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Jade Claw-->
+		<item auctionItemId="54" itemId="15550" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Demitelum-->
+		<item auctionItemId="55" itemId="15548" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Lava Saw-->
+		<item auctionItemId="56" itemId="15555" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Heavenstare Rapier-->
+		<item auctionItemId="57" itemId="15551" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sacredium-->
+		<item auctionItemId="58" itemId="15552" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Cyclic Cane-->
+		<!--ELEGIA ARMORS-->
+		<item auctionItemId="59" itemId="15728" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Circlet-->
+		<item auctionItemId="60" itemId="15729" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Breastplate-->
+		<item auctionItemId="61" itemId="15730" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Leather Breastplate-->
+		<item auctionItemId="62" itemId="15731" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Tunic-->
+		<item auctionItemId="63" itemId="15740" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Shoes-->
+		<item auctionItemId="64" itemId="15733" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Leather Legging-->
+		<item auctionItemId="65" itemId="15736" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Leather Gloves-->
+		<item auctionItemId="66" itemId="15739" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Leather Boots-->
+		<item auctionItemId="67" itemId="15732" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Gaiter-->
+		<item auctionItemId="68" itemId="15737" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Gloves-->
+		<item auctionItemId="69" itemId="15735" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Gauntlet-->
+		<item auctionItemId="70" itemId="15738" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Boots-->
+		<item auctionItemId="71" itemId="15734" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Stockings-->
+		<item auctionItemId="72" itemId="15727" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Leather Helmet-->
+		<item auctionItemId="73" itemId="15742" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Sigil-->
+		<item auctionItemId="74" itemId="15726" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Helmet-->
+		<item auctionItemId="75" itemId="15741" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Shield-->
+		<!--IMPROVED RAID BOSS JEWELS-->
+		<item auctionItemId="76" itemId="22175" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Improved Blessed Earring of Zake-->
+		<item auctionItemId="77" itemId="22173" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Improved Ring of Baium-->
+		<item auctionItemId="78" itemId="22174" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Improved Ring of Queen Ant-->
+	</instance>
+	<instance id="32321" schedule="0 17 * * wed">
+		<!--ENCHANTED NO-GRADE WEAPONS-->
+		<item auctionItemId="1" itemId="9901" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Falchion-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="2" itemId="9902" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Great Spear-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="3" itemId="9903" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Iron Hammer-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="4" itemId="9904" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Sword Breaker-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="5" itemId="9905" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Viper Fang-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="6" itemId="9906" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Composite Bow-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="7" itemId="9907" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Flanged Mace-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="8" itemId="9908" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Mage Staff-->
+			<extra enchant_level="15"/>
+		</item>
+		<!--LIFE STONES-->
+		<item auctionItemId="9" itemId="10485" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--High-Grade Life Stone - Level 82-->
+		<item auctionItemId="10" itemId="10486" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Top-Grade Life Stone - Level 82-->
+		<item auctionItemId="11" itemId="9575" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--High-Grade Life Stone - Level 80-->
+		<item auctionItemId="12" itemId="9576" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Top-Grade Life Stone - Level 80-->
+		<!--SOUL STONES-->
+		<item auctionItemId="13" itemId="10480" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Red Soul Crystal - Stage 15-->
+		<item auctionItemId="14" itemId="10481" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Blue Soul Crystal - Stage 15-->
+		<item auctionItemId="15" itemId="10482" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Green Soul Crystal - Stage 15-->
+		<item auctionItemId="16" itemId="13071" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Red Soul Crystal - Stage 16-->
+		<item auctionItemId="17" itemId="13072" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Blue Soul Crystal - Stage 16-->
+		<item auctionItemId="18" itemId="13073" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Green Soul Crystal - Stage 16-->
+		<!--FORGOTTEN SCROLLS-->
+		<item auctionItemId="19" itemId="10552" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Fighter's Will-->
+		<item auctionItemId="20" itemId="10553" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Archer's Will-->
+		<item auctionItemId="21" itemId="14219" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Magician's Will-->
+		<item auctionItemId="22" itemId="10549" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Protection of Rune-->
+		<item auctionItemId="23" itemId="10550" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Protection of Elemental-->
+		<item auctionItemId="24" itemId="10551" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Protection of Alignment-->
+		<!--ACCESSORIES-->
+		<item auctionItemId="25" itemId="13497" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Chick Hat-->
+		<item auctionItemId="26" itemId="13498" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Wizard Hat-->
+		<item auctionItemId="27" itemId="13500" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Black Feather Mask-->
+		<item auctionItemId="28" itemId="13501" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Romantic Chapeau-->
+		<item auctionItemId="29" itemId="13499" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Jester Hat-->
+		<item auctionItemId="30" itemId="13493" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Carnival Circlet-->
+		<!--MID S84 WEAPONS-->
+		<item auctionItemId="31" itemId="15561" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Devilish Maul-->
+		<item auctionItemId="32" itemId="15569" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Gemtail Rapier-->
+		<item auctionItemId="33" itemId="15571" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Dominion Crossbow-->
+		<item auctionItemId="34" itemId="15568" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Skull Carnium Bow-->
+		<item auctionItemId="35" itemId="15559" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Skull Edge-->
+		<item auctionItemId="36" itemId="15562" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Feather Eye Blade-->
+		<item auctionItemId="37" itemId="15570" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Finale Blade-->
+		<item auctionItemId="38" itemId="15563" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Octo Claw-->
+		<item auctionItemId="39" itemId="15567" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Veniplant Sword-->
+		<item auctionItemId="40" itemId="15565" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Rising Star-->
+		<item auctionItemId="41" itemId="15566" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Black Visage-->
+		<item auctionItemId="42" itemId="15558" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Periel Sword-->
+		<item auctionItemId="43" itemId="15564" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Doubletop Spear-->
+		<item auctionItemId="44" itemId="15560" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Vigwik Axe-->
+		<!--TOP S84 WEAPONS-->
+		<item auctionItemId="45" itemId="15557" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Thorne Crossbow-->
+		<item auctionItemId="46" itemId="15546" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Eversor Mace-->
+		<item auctionItemId="47" itemId="15545" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Mamba Edge-->
+		<item auctionItemId="48" itemId="15556" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Pyseal Blade-->
+		<item auctionItemId="49" itemId="15554" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Recurve Thorne Bow-->
+		<item auctionItemId="50" itemId="15553" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Archangel Sword-->
+		<item auctionItemId="51" itemId="15544" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Eternal Core Sword-->
+		<item auctionItemId="52" itemId="15547" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Contristo Hammer-->
+		<item auctionItemId="53" itemId="15549" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Jade Claw-->
+		<item auctionItemId="54" itemId="15550" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Demitelum-->
+		<item auctionItemId="55" itemId="15548" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Lava Saw-->
+		<item auctionItemId="56" itemId="15555" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Heavenstare Rapier-->
+		<item auctionItemId="57" itemId="15551" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sacredium-->
+		<item auctionItemId="58" itemId="15552" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Cyclic Cane-->
+		<!--ELEGIA ARMORS-->
+		<item auctionItemId="59" itemId="15728" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Circlet-->
+		<item auctionItemId="60" itemId="15729" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Breastplate-->
+		<item auctionItemId="61" itemId="15730" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Leather Breastplate-->
+		<item auctionItemId="62" itemId="15731" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Tunic-->
+		<item auctionItemId="63" itemId="15740" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Shoes-->
+		<item auctionItemId="64" itemId="15733" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Leather Legging-->
+		<item auctionItemId="65" itemId="15736" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Leather Gloves-->
+		<item auctionItemId="66" itemId="15739" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Leather Boots-->
+		<item auctionItemId="67" itemId="15732" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Gaiter-->
+		<item auctionItemId="68" itemId="15737" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Gloves-->
+		<item auctionItemId="69" itemId="15735" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Gauntlet-->
+		<item auctionItemId="70" itemId="15738" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Boots-->
+		<item auctionItemId="71" itemId="15734" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Stockings-->
+		<item auctionItemId="72" itemId="15727" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Leather Helmet-->
+		<item auctionItemId="73" itemId="15742" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Sigil-->
+		<item auctionItemId="74" itemId="15726" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Helmet-->
+		<item auctionItemId="75" itemId="15741" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Shield-->
+		<!--IMPROVED RAID BOSS JEWELS-->
+		<item auctionItemId="76" itemId="22175" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Improved Blessed Earring of Zake-->
+		<item auctionItemId="77" itemId="22173" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Improved Ring of Baium-->
+		<item auctionItemId="78" itemId="22174" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Improved Ring of Queen Ant-->
+	</instance>
+	<instance id="32322" schedule="0 17 * * fri">
+		<!--ENCHANTED NO-GRADE WEAPONS-->
+		<item auctionItemId="1" itemId="9901" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Falchion-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="2" itemId="9902" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Great Spear-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="3" itemId="9903" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Iron Hammer-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="4" itemId="9904" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Sword Breaker-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="5" itemId="9905" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Viper Fang-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="6" itemId="9906" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Composite Bow-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="7" itemId="9907" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Flanged Mace-->
+			<extra enchant_level="15"/>
+		</item>
+		<item auctionItemId="8" itemId="9908" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Mage Staff-->
+			<extra enchant_level="15"/>
+		</item>
+		<!--LIFE STONES-->
+		<item auctionItemId="9" itemId="10485" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--High-Grade Life Stone - Level 82-->
+		<item auctionItemId="10" itemId="10486" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Top-Grade Life Stone - Level 82-->
+		<item auctionItemId="11" itemId="9575" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--High-Grade Life Stone - Level 80-->
+		<item auctionItemId="12" itemId="9576" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Top-Grade Life Stone - Level 80-->
+		<!--SOUL STONES-->
+		<item auctionItemId="13" itemId="10480" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Red Soul Crystal - Stage 15-->
+		<item auctionItemId="14" itemId="10481" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Blue Soul Crystal - Stage 15-->
+		<item auctionItemId="15" itemId="10482" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Green Soul Crystal - Stage 15-->
+		<item auctionItemId="16" itemId="13071" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Red Soul Crystal - Stage 16-->
+		<item auctionItemId="17" itemId="13072" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Blue Soul Crystal - Stage 16-->
+		<item auctionItemId="18" itemId="13073" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Green Soul Crystal - Stage 16-->
+		<!--FORGOTTEN SCROLLS-->
+		<item auctionItemId="19" itemId="10552" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Fighter's Will-->
+		<item auctionItemId="20" itemId="10553" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Archer's Will-->
+		<item auctionItemId="21" itemId="14219" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Magician's Will-->
+		<item auctionItemId="22" itemId="10549" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Protection of Rune-->
+		<item auctionItemId="23" itemId="10550" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Protection of Elemental-->
+		<item auctionItemId="24" itemId="10551" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Forgotten Scroll - Protection of Alignment-->
+		<!--ACCESSORIES-->
+		<item auctionItemId="25" itemId="13497" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Chick Hat-->
+		<item auctionItemId="26" itemId="13498" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Wizard Hat-->
+		<item auctionItemId="27" itemId="13500" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Black Feather Mask-->
+		<item auctionItemId="28" itemId="13501" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Romantic Chapeau-->
+		<item auctionItemId="29" itemId="13499" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Jester Hat-->
+		<item auctionItemId="30" itemId="13493" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Refined Carnival Circlet-->
+		<!--MID S84 WEAPONS-->
+		<item auctionItemId="31" itemId="15561" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Devilish Maul-->
+		<item auctionItemId="32" itemId="15569" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Gemtail Rapier-->
+		<item auctionItemId="33" itemId="15571" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Dominion Crossbow-->
+		<item auctionItemId="34" itemId="15568" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Skull Carnium Bow-->
+		<item auctionItemId="35" itemId="15559" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Skull Edge-->
+		<item auctionItemId="36" itemId="15562" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Feather Eye Blade-->
+		<item auctionItemId="37" itemId="15570" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Finale Blade-->
+		<item auctionItemId="38" itemId="15563" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Octo Claw-->
+		<item auctionItemId="39" itemId="15567" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Veniplant Sword-->
+		<item auctionItemId="40" itemId="15565" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Rising Star-->
+		<item auctionItemId="41" itemId="15566" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Black Visage-->
+		<item auctionItemId="42" itemId="15558" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Periel Sword-->
+		<item auctionItemId="43" itemId="15564" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Doubletop Spear-->
+		<item auctionItemId="44" itemId="15560" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Vigwik Axe-->
+		<!--TOP S84 WEAPONS-->
+		<item auctionItemId="45" itemId="15557" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Thorne Crossbow-->
+		<item auctionItemId="46" itemId="15546" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Eversor Mace-->
+		<item auctionItemId="47" itemId="15545" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Mamba Edge-->
+		<item auctionItemId="48" itemId="15556" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Pyseal Blade-->
+		<item auctionItemId="49" itemId="15554" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Recurve Thorne Bow-->
+		<item auctionItemId="50" itemId="15553" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Archangel Sword-->
+		<item auctionItemId="51" itemId="15544" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Eternal Core Sword-->
+		<item auctionItemId="52" itemId="15547" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Contristo Hammer-->
+		<item auctionItemId="53" itemId="15549" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Jade Claw-->
+		<item auctionItemId="54" itemId="15550" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Demitelum-->
+		<item auctionItemId="55" itemId="15548" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Lava Saw-->
+		<item auctionItemId="56" itemId="15555" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Heavenstare Rapier-->
+		<item auctionItemId="57" itemId="15551" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sacredium-->
+		<item auctionItemId="58" itemId="15552" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Cyclic Cane-->
+		<!--ELEGIA ARMORS-->
+		<item auctionItemId="59" itemId="15728" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Circlet-->
+		<item auctionItemId="60" itemId="15729" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Breastplate-->
+		<item auctionItemId="61" itemId="15730" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Leather Breastplate-->
+		<item auctionItemId="62" itemId="15731" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Tunic-->
+		<item auctionItemId="63" itemId="15740" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Shoes-->
+		<item auctionItemId="64" itemId="15733" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Leather Legging-->
+		<item auctionItemId="65" itemId="15736" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Leather Gloves-->
+		<item auctionItemId="66" itemId="15739" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Leather Boots-->
+		<item auctionItemId="67" itemId="15732" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Gaiter-->
+		<item auctionItemId="68" itemId="15737" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Gloves-->
+		<item auctionItemId="69" itemId="15735" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Gauntlet-->
+		<item auctionItemId="70" itemId="15738" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Boots-->
+		<item auctionItemId="71" itemId="15734" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Stockings-->
+		<item auctionItemId="72" itemId="15727" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Leather Helmet-->
+		<item auctionItemId="73" itemId="15742" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Sigil-->
+		<item auctionItemId="74" itemId="15726" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Helmet-->
+		<item auctionItemId="75" itemId="15741" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300"/>	<!--Sealed Elegia Shield-->
+		<!--IMPROVED RAID BOSS JEWELS-->
+		<item auctionItemId="76" itemId="22175" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Blessed Earring of Zake-->
+			<extra enchant_level="5"/>
+		</item>
+		<item auctionItemId="77" itemId="22173" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Ring of Baium-->
+			<extra enchant_level="5"/>
+		</item>
+		<item auctionItemId="78" itemId="22174" itemCount="1" bid_item_id="57" auctionInitBid="100000" auctionLenght="300">	<!--Improved Ring of Queen Ant-->
+			<extra enchant_level="5"/>
+		</item>
+	</instance>
+</list>

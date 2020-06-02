@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="3300" levels="1" name="Yellow Talisman of Speed">
+		<!--
+			Description: Increases speed when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="runSpd" value="5" />
+		</for>
+	</skill>
+	<skill id="3301" levels="1" name="Yellow Talisman of Violent Haste">
+		<!--
+			Description: Increases attack speed when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="pAtkSpd" value="10" />
+		</for>
+	</skill>
+	<skill id="3302" levels="1" name="Yellow Talisman of Arcane Haste">
+		<!--
+			Description: Increases casting speed when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mAtkSpd" value="8" />
+		</for>
+	</skill>
+	<skill id="3303" levels="1" name="White Talisman of Bandages">
+		<!--
+			Description: Increases resistance to bleeding when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i06" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="bleedResist" value="10" />
+		</for>
+	</skill>
+	<skill id="3304" levels="1" name="White Talisman of Attention">
+		<!--
+			Description: Increases resistance to sleep when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i06" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="sleepResist" value="10" />
+		</for>
+	</skill>
+	<skill id="3305" levels="1" name="White Talisman of Grounding">
+		<!--
+			Description: Increases resistance to shock when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i06" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="stunResist" value="10" />
+		</for>
+	</skill>
+	<skill id="3306" levels="1" name="White Talisman of Bravery">
+		<!--
+			Description: Increases resistance to mental attack when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i06" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mentalResist" value="10" />
+		</for>
+	</skill>
+	<skill id="3307" levels="1" name="White Talisman of Motion">
+		<!--
+			Description: Increases resistance to paralysis when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i06" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="paralyzeResist" value="10" />
+		</for>
+	</skill>
+	<skill id="3308" levels="1" name="White Talisman of Freedom">
+		<!--
+			Description: Increases resistance to hold when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i06" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="rootResist" value="10" />
+		</for>
+	</skill>
+	<skill id="3309" levels="1" name="White Talisman of Protection">
+		<!--
+			Description: Increases resistance to buff-lifting attack when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i06" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="cancelResist" value="100" />
+		</for>
+	</skill>
+	<skill id="3310" levels="1" name="Yellow Talisman of Physical Regeneration">
+		<!--
+			Description: Increases HP regeneration when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="regHp" value="1.03" />
+		</for>
+	</skill>
+	<skill id="3311" levels="1" name="Yellow Talisman of CP Regeneration">
+		<!--
+			Description: Increases CP regeneration when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="regCp" value="1.03" />
+		</for>
+	</skill>
+	<skill id="3312" levels="1" name="Yellow Talisman of Healing">
+		<!--
+			Description: Increases power of HP regeneration magic when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="healPower" value="40" />
+		</for>
+	</skill>
+	<skill id="3313" levels="1" name="Yellow Talisman of Alacrity">
+		<!--
+			Description: Increases attack/magic, movement speed when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="pAtkSpd" value="5" />
+			<add order="0x40" stat="mAtkSpd" value="4" />
+			<add order="0x40" stat="runSpd" value="3" />
+		</for>
+	</skill>
+	<skill id="3314" levels="1" name="Grey Talisman of Weight Training">
+		<!--
+			Description: Increases weight limit when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i07" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="maxLoad" value="1.1" />
+		</for>
+	</skill>
+	<skill id="3315" levels="1" name="Grey Talisman of Fishing">
+		<!--
+			Last modify:	23.08.2009
+
+			Description: Changes fishing expertise when equipped with the Talisman.
+			DS: исправить, должен быть пассивкой !
+		-->
+		<set name="icon" value="icon.etc_talisman_i07" />
+		<set name="power" value="26" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="20" stackType="fishPot" stackType2="GrayTalisman" time="3600" value="0" />
+		</for>
+	</skill>
+	<skill id="3316" levels="1" name="Yellow Talisman of Critical Dodging">
+		<!--
+			Description: Decreases chance of a critical regular attack when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<mul order="0x30" stat="critChanceRcpt" value="0.97" />
+		</for>
+	</skill>
+	<skill id="3317" levels="1" name="Yellow Talisman of Critical Reduction">
+		<!--
+			Description: Decreases damage of a critical regular attack when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<sub order="0x40" stat="critDamRcpt" value="100" />
+		</for>
+	</skill>
+	<skill id="3318" levels="1" name="Flag Display">
+		<!--
+
+			Description:
+			In order to get recognition, display the combat flag on the fortress's flagpole.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.weapon_fort_flag_i00" />
+		<set name="reuseDelay" value="5000" />
+		<set name="magicLevel" value="80" />
+		<set name="castRange" value="85" />
+		<set name="hitTime" value="180000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="target" value="TARGET_FLAGPOLE" />
+		<set name="skillType" value="TAKEFORTRESS" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="isSkillTimePermanent" value="true" />
+	</skill>
+	<skill id="3319" levels="1" name="Divine Protection of Ring">
+		<!--
+			Description: Immune to gust when equipped with ring.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="86" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="3320" levels="1" name="Yellow Talisman of Mental Regeneration">
+		<!--
+			Description: Increases MP regeneration when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="regMp" value="1.03" />
+		</for>
+	</skill>
+	<skill id="3321" levels="1" name="Blue Talisman of Evasion">
+		<!--
+			Description: Use the power of the Talisman to increase the evasion rate and decrease the chance of receiving a critical attack.
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.etc_talisman_i01" />
+		<set name="reuseDelay" value="360000" />
+		<set name="magicLevel" value="40" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="4" />
+		<set name="mpConsume2" value="14" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="9930" />
+		<set name="referenceItemMpConsume" value="6" />
+		<for>
+			<effect count="1" name="Buff" time="120" stackType="Talisman" value="0">
+				<add order="0x60" stat="rEvas" value="2" />
+				<mul order="0x30" stat="critChanceRcpt" value="0.95" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3322" levels="1" name="Brass Bracelet">
+		<!--
+			Description: 1 Talisman can be equipped.
+		-->
+		<set name="icon" value="icon.etc_rbracelet_c_i00" />
+		<set name="magicLevel" value="20" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="talismansLimit" value="1" />
+		</for>
+	</skill>
+	<skill id="3323" levels="1" name="Bronze Bracelet">
+		<!--
+			Description: 2 Talisman can be equipped.
+		-->
+		<set name="icon" value="icon.etc_rbracelet_b_i01" />
+		<set name="magicLevel" value="40" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="talismansLimit" value="2" />
+		</for>
+	</skill>
+	<skill id="3324" levels="1" name="Steel Bracelet">
+		<!--
+			Description: 3 Talisman can be equipped.
+		-->
+		<set name="icon" value="icon.etc_rbracelet_a_i02" />
+		<set name="magicLevel" value="52" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="talismansLimit" value="3" />
+		</for>
+	</skill>
+	<skill id="3325" levels="1" name="Mithril Bracelet">
+		<!--
+			Description: 4 Talisman can be equipped.
+		-->
+		<set name="icon" value="icon.etc_rbracelet_s_i03" />
+		<set name="magicLevel" value="61" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="talismansLimit" value="4" />
+		</for>
+	</skill>
+	<skill id="3326" levels="1" name="Jewerly Bracelet">
+		<!--
+			Description: 5 Talisman can be equipped.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="76" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="talismansLimit" value="5" />
+		</for>
+	</skill>
+	<skill id="3327" levels="1" name="Oriharukon Bracelet">
+		<!--
+			Description: 6 Talisman can be equipped.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="talismansLimit" value="6" />
+		</for>
+	</skill>
+	<skill id="3328" levels="1" name="Double Stab">
+		<!--
+			Description: Stab with 2 cursed swords.
+		-->
+		<set name="icon" value="icon.weapon_dual_sword_i00" />
+		<set name="coolTime" value="133" />
+		<set name="reuseDelay" value="60000" />
+		<set name="magicLevel" value="78" />
+		<set name="hitTime" value="1667" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="140" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="3329" levels="1" name="Power Slash">
+		<!--
+			Description: Attack twice with cursed sword.
+		-->
+		<set name="icon" value="icon.weapon_unique_zariche_i00" />
+		<set name="coolTime" value="133" />
+		<set name="reuseDelay" value="60000" />
+		<set name="magicLevel" value="78" />
+		<set name="hitTime" value="1667" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="140" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="3330" levels="1" name="Air Blade">
+		<!--
+			Description: Creates blade of air to attack enemies in front.
+		-->
+		<set name="affectLimit" value="6;12" />
+		<set name="icon" value="icon.skill3630" />
+		<set name="coolTime" value="720" />
+		<set name="reuseDelay" value="60000" />
+		<set name="magicLevel" value="78" />
+		<set name="hitTime" value="1080" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="140" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="3331" levels="1" name="Enslave">
+		<!--
+			Description: Emits force to nearby people, giving them the curse of sword.
+		-->
+		<set name="levelModifier" value="1" />
+		<set name="affectLimit" value="10;10" />
+		<set name="icon" value="icon.skill3631" />
+		<set name="reuseDelay" value="8000" />
+		<set name="magicLevel" value="78" />
+		<set name="hitTime" value="3000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="200" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="saveVs" value="MEN" />
+	</skill>
+	<skill id="3332" levels="1" name="Orange Talisman - Hot Springs Recovery">
+		<!--
+			Description: Create 1 Hot Springs Recovery with the power of the Talisman. Consumes 16 Soul Ores.
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.etc_talisman_i04" />
+		<set name="reuseDelay" value="300000" />
+		<set name="magicLevel" value="1" />
+		<set name="hitTime" value="20000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="itemConsumeId" value="1785" />
+		<set name="itemConsumeCount" value="16" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="SUMMON_ITEM" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="SummonItemId" value="10166" />
+		<set name="SummonMinCount" value="1" />
+		<set name="SummonMaxCount" value="1" />
+		<set name="referenceItemId" value="9952" />
+		<set name="referenceItemMpConsume" value="5" />
+	</skill>
+	<skill id="3333" levels="1" name="Orange Talisman - A Grade Elixir of Life">
+		<!--
+			Description: Create 1 Elixir of Life A with power of the Talisman. Consumes 50 Soul Ores.
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.etc_talisman_i04" />
+		<set name="reuseDelay" value="600000" />
+		<set name="magicLevel" value="1" />
+		<set name="hitTime" value="20000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="itemConsumeId" value="1785" />
+		<set name="itemConsumeCount" value="50" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="SUMMON_ITEM" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="SummonItemId" value="8626" />
+		<set name="SummonMinCount" value="1" />
+		<set name="SummonMaxCount" value="1" />
+		<set name="referenceItemId" value="9953" />
+		<set name="referenceItemMpConsume" value="5" />
+	</skill>
+	<skill id="3334" levels="1" name="Orange Talisman - A Grade Elixir of Mental Strength">
+		<!--
+			Description: Create 1 Elixir of Mental Strength A with the power of the Talisman. Consumes 57 Soul Ores.
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.etc_talisman_i04" />
+		<set name="reuseDelay" value="600000" />
+		<set name="magicLevel" value="1" />
+		<set name="hitTime" value="20000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="itemConsumeId" value="1785" />
+		<set name="itemConsumeCount" value="57" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="SUMMON_ITEM" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="SummonItemId" value="8632" />
+		<set name="SummonMinCount" value="1" />
+		<set name="SummonMaxCount" value="1" />
+		<set name="referenceItemId" value="9954" />
+		<set name="referenceItemMpConsume" value="6" />
+	</skill>
+	<skill id="3335" levels="1" name="Transform Yeti">
+		<!--
+			Need correct:	reuseDelay, addSkills, effect stats
+			Last modify:	13.12.2007
+
+			Description: Transforms into Yeti.
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skilltransform3" />
+		<set name="magicLevel" value="56" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="TRANSFORMATION" />
+		<set name="addSkills" value="619;1;5491;1" />
+		<set name="npcId" value="13091" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isCommon" value="true" />
+		<set name="referenceItemId" value="10141" />
+		<set name="referenceItemMpConsume" value="3" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="300" value="102">
+				<sub order="0x40" stat="STR" value="1" />
+				<sub order="0x40" stat="DEX" value="3" />
+				<add order="0x40" stat="CON" value="12" />
+				<sub order="0x40" stat="INT" value="8" />
+				<mul order="0x30" stat="runSpd" value="1.2" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3336" levels="1" name="Transform Buffalo">
+		<!--
+			Need correct:	reuseDelay, addSkills, effect stats
+			Last modify:	13.12.2007
+
+			Description: Transform into a Yeti. There is no effect from the Mystery Potion while in Yeti form.
+			Comment: Ошибка в описании? (Yeti - Buffalo)
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skilltransform3" />
+		<set name="magicLevel" value="56" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="TRANSFORMATION" />
+		<set name="addSkills" value="619;1;5491;1" />
+		<set name="npcId" value="13092" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isCommon" value="true" />
+		<set name="referenceItemId" value="10142" />
+		<set name="referenceItemMpConsume" value="3" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="300" value="103">
+				<sub order="0x40" stat="STR" value="1" />
+				<sub order="0x40" stat="DEX" value="3" />
+				<add order="0x40" stat="CON" value="12" />
+				<sub order="0x40" stat="INT" value="8" />
+				<mul order="0x30" stat="runSpd" value="1.2" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3337" levels="1" name="Transform Cutie Pig">
+		<!--
+			Need correct:	reuseDelay, addSkills, effect stats
+			Last modify:	13.12.2007
+
+			Description: Transforms into cute pig.
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skilltransform3" />
+		<set name="reuseDelay" value="600000" />
+		<set name="magicLevel" value="56" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="TRANSFORMATION" />
+		<set name="addSkills" value="619;1;5491;1" />
+		<set name="npcId" value="13093" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isCommon" value="true" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="300" value="104">
+				<sub order="0x40" stat="STR" value="1" />
+				<sub order="0x40" stat="DEX" value="3" />
+				<add order="0x40" stat="CON" value="12" />
+				<sub order="0x40" stat="INT" value="8" />
+				<mul order="0x30" stat="runSpd" value="1.2" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3338" levels="1" name="Shield Master">
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="STR" value="2" />
+			<add order="0x40" stat="CON" value="2" />
+			<mul order="0x30" stat="pDef" value="1.0540" />
+			<add order="0x40" stat="maxHp" value="492" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="mDef" value="1.08" />
+			<add order="0x40" stat="sleepResist" value="80" />
+		</for>
+	</skill>
+	<skill id="3339" levels="1" name="Bard">
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="CON" value="2" />
+			<add order="0x40" stat="STR" value="2" />
+			<mul order="0x30" stat="pDef" value="1.0540" />
+			<add order="0x40" stat="maxHp" value="492" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="mpConsum" value="0.80" />
+			<mul order="0x30" stat="pAtk" value="1.08" />
+		</for>
+	</skill>
+	<skill id="3340" levels="1" name="Weapon Master">
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="CON" value="2" />
+			<add order="0x40" stat="STR" value="2" />
+			<mul order="0x30" stat="pAtk" value="1.0540" />
+			<add order="0x40" stat="maxHp" value="492" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="cAtk" value="1.08" />
+		</for>
+	</skill>
+	<skill id="3341" levels="1" name="Force Master">
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="CON" value="2" />
+			<add order="0x40" stat="STR" value="2" />
+			<mul order="0x30" stat="pAtk" value="1.0540" />
+			<add order="0x40" stat="maxHp" value="492" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="mpConsum" value="0.80" />
+		</for>
+	</skill>
+	<skill id="3342" levels="1" name="Bow Master">
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="CON" value="2" />
+			<add order="0x40" stat="DEX" value="2" />
+			<add order="0x40" stat="rEvas" value="4" />
+			<add order="0x40" stat="maxHp" value="321" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="pAtkSpd" value="1.08" />
+			<mul order="0x30" stat="mpConsum" value="0.80" />
+		</for>
+	</skill>
+	<skill id="3343" levels="1" name="Dagger Master">
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="CON" value="2" />
+			<add order="0x40" stat="DEX" value="2" />
+			<add order="0x40" stat="accCombat" value="4" />
+			<add order="0x40" stat="maxHp" value="492" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<add order="0x40" stat="rootResist" value="80" />
+			<mul order="0x30" stat="pAtkSpd" value="1.08" />
+		</for>
+	</skill>
+	<skill id="3344" levels="1" name="Wizard">
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="INT" value="2" />
+			<add order="0x40" stat="WIT" value="1" />
+			<sub order="0x40" stat="MEN" value="2" />
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+			<add order="0x40" stat="maxMp" value="321" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<add order="0x40" stat="stunResist" value="80" />
+			<mul order="0x30" stat="mAtk" value="1.15" />
+		</for>
+	</skill>
+	<skill id="3345" levels="1" name="Summoner">
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="INT" value="2" />
+			<add order="0x40" stat="MEN" value="2" />
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+			<add order="0x40" stat="maxMp" value="321" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="pAtk" value="1.0540" />
+			<mul order="0x30" stat="pDef" value="1.0540" />
+		</for>
+	</skill>
+	<skill id="3346" levels="1" name="Healer">
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="INT" value="2" />
+			<add order="0x40" stat="MEN" value="2" />
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+			<add order="0x40" stat="maxMp" value="321" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="hpEff" value="1.08" />
+			<add order="0x40" stat="cancelResist" value="80" />
+		</for>
+	</skill>
+	<skill id="3347" levels="1" name="Enchanter">
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="INT" value="2" />
+			<add order="0x40" stat="MEN" value="2" />
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+			<add order="0x40" stat="maxMp" value="321" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="mpConsum" value="0.80" />
+			<mul order="0x30" stat="concentration" value="0.8" />
+		</for>
+	</skill>
+	<skill id="3348" levels="1" name="Dynasty Breast Plate">
+		<!--
+			Type Armor: Dynasty Breast Plate - Shield Master
+			Str-2, Con+2, P. Def. +5.4%, Max HP +492 effect. Darkness resistance is increased +8, received Increased Heal +3%. Shock resistance is increased.
+		-->
+		<set name="icon" value="icon.armor_t91_uk_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="STR" value="2" />
+			<add order="0x40" stat="CON" value="2" />
+			<mul order="0x30" stat="pDef" value="1.054" />
+			<add order="0x40" stat="maxHp" value="492" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="hpEff" value="1.03" />
+			<add order="0x40" stat="stunResist" value="10" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3349" levels="1" name="Dynasty Breast Plate">
+		<!--
+			Last modify:	04.06.2010
+			Type Armor: Dynasty Breast Plate - Weapon Master
+			Con-2, Str+2, P. Atk. +5.4%, MaxHP +492. Dark Resistance +8, Critical rate/damage is increased
+		-->
+		<set name="icon" value="icon.armor_t91_uw_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="CON" value="2" />
+			<add order="0x40" stat="STR" value="2" />
+			<mul order="0x30" stat="pAtk" value="1.054" />
+			<add order="0x40" stat="maxHp" value="492" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<add order="0x40" stat="baseCrit" value="24.6" />
+			<add order="0x40" stat="cAtkStatic" value="234" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3350" levels="1" name="Dynasty Breast Plate">
+		<!--
+			Last modify:	04.06.2010
+			Type Armor: Dynasty Breast Plate - Force Master
+			Con -2, Str +2, P. Atk. +5.4%, Max. HP +492, resistance to Darkness attacks +8, decreases MP consumption for active skills
+		-->
+		<set name="icon" value="icon.armor_t91_uf_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="CON" value="2" />
+			<add order="0x40" stat="STR" value="1" />
+			<add order="0x40" stat="DEX" value="1" />
+			<mul order="0x30" stat="pAtk" value="1.054" />
+			<add order="0x40" stat="maxHp" value="492" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="mpConsumePhysical" value="0.95" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3351" levels="1" name="Dynasty Breast Plate">
+		<!--
+			Type Armor: Dynasty Breast Plate - Bard
+			Con-2, Str+2, P. Def. +5.4%, Max HP +492 effect. Dark resistance +8. Decreased MP consumption when song and dance skills are used.
+		-->
+		<set name="icon" value="icon.armor_t91_uke_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="CON" value="2" />
+			<add order="0x40" stat="STR" value="2" />
+			<mul order="0x30" stat="pDef" value="1.054" />
+			<add order="0x40" stat="maxHp" value="492" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="mpDanceConsume" value="0.95" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3352" levels="1" name="Dynasty Leather Armor">
+		<!--
+			Type Armor: Dynasty Leather Armor - Dagger Master
+			Con-2, Dex+2, Evasion +4.3, Max HP +492 Effect. Dark resistance +8. Hold resistance and Atk. Spd. are increased.
+		-->
+		<set name="icon" value="icon.armor_t92_ud_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="CON" value="2" />
+			<add order="0x40" stat="DEX" value="2" />
+			<add order="0x40" stat="rEvas" value="4.3" />
+			<add order="0x40" stat="maxHp" value="492" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<add order="0x40" stat="rootResist" value="13" />
+			<mul order="0x30" stat="pAtkSpd" value="1.0266" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3353" levels="1" name="Dynasty Leather Armor">
+		<!--
+			Type Armor: Dynasty Leather Armor - Bow Master
+			Con-2, Dex+2, Accuracy +4.3, Max MP +321 Effect. Dark resistance +8. Atk. Spd. and MP recovery are increased.
+		-->
+		<set name="icon" value="icon.armor_t92_ub_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="CON" value="2" />
+			<add order="0x40" stat="DEX" value="2" />
+			<add order="0x40" stat="accCombat" value="4.3" />
+			<add order="0x40" stat="maxMp" value="321" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="pAtkSpd" value="1.0266" />
+			<add order="0x40" stat="regMp" value="1.72" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3354" levels="1" name="Dynasty Tunic">
+		<!--
+			Type Armor: Dynasty Tunic - Healer
+			Int-2, Men+2, Casting Spd. +15%, Max MP +321. Dark Resistance +8, increase amount of heal, increase magic cancel rate.
+		-->
+		<set name="icon" value="icon.armor_t93_uh_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="INT" value="2" />
+			<add order="0x40" stat="MEN" value="2" />
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+			<add order="0x40" stat="maxMp" value="321" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<add order="0x40" stat="healPower" value="20" />
+			<mul order="0x30" stat="concentration" value="0.85" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3355" levels="1" name="Dynasty Tunic, Dynasty Leather Armor">
+		<!--
+			Этот скилл используется как для туники, так и для лайта
+			Type Armor: Dynasty Leather Armor - Enchanter
+			Int-2, Men+2, Casting Spd. +15%, Max MP +321. Dark Resistance +8, decrease MP consumption, decrease magic cancel rate.
+			Type Armor: Dynasty Tunic - Enchanter
+			Int-2, Men+2, Casting Spd. +15%, Max MP +321. Dark Resistance +8, decrease MP consumption, decrease magic cancel rate.
+		-->
+		<set name="icon" value="icon.armor_t93_ue_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="INT" value="2" />
+			<add order="0x40" stat="MEN" value="2" />
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+			<add order="0x40" stat="maxMp" value="321" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="mpConsum" value="0.95" />
+			<mul order="0x30" stat="concentration" value="0.85" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3356" levels="1" name="Dynasty Tunic">
+		<!--
+			Type Armor: Dynasty Tunic - Summoner
+			Int-2, Men+2, Casting Spd. +15%, Max MP +321. Dark Resistance +8, increase P. Atk., P. Def.
+		-->
+		<set name="icon" value="icon.armor_t93_us_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="INT" value="2" />
+			<add order="0x40" stat="MEN" value="2" />
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+			<add order="0x40" stat="maxMp" value="321" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="pAtk" value="1.026" />
+			<mul order="0x30" stat="pDef" value="1.026" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3357" levels="1" name="Dynasty Tunic">
+		<!--
+			Last modify:	03.06.2010
+			Type Armor: Dynasty Tunic - Wizard
+			Int+1, Wit+1, Men-2, Casting Spd. +15%, Max MP +321. Dark Resistance +8, increase stun resistance, increase M. Atk.
+			Comment: В описании ошибка, Int+1 должно быть.
+		-->
+		<set name="icon" value="icon.armor_t93_uw_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="INT" value="1" />
+			<add order="0x40" stat="WIT" value="1" />
+			<sub order="0x40" stat="MEN" value="2" />
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+			<add order="0x40" stat="maxMp" value="321" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="mAtk" value="1.054" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3358" levels="1" name="Flag Equip">
+		<!--
+
+			Description: Equip flag to decrease various battle abilities.
+		-->
+		<set name="icon" value="icon.weapon_fort_flag_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<set name="isCommon" value="true" />
+		<for>
+			<mul order="0x30" stat="runSpd" value="0.2" />
+			<mul order="0x30" stat="pAtkSpd" value="0.2" />
+			<mul order="0x30" stat="pAtk" value="0.2" />
+			<mul order="0x30" stat="mAtkSpd" value="0.2" />
+			<mul order="0x30" stat="mAtk" value="0.2" />
+		</for>
+	</skill>
+	<skill id="3359" levels="1" name="Transform Native">
+		<!--
+			Last modify:	29.01.2009
+
+			Description: Transforms into Native.
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skilltransform3" />
+		<set name="magicLevel" value="56" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="TRANSFORMATION" />
+		<set name="addSkills" value="619;1;5491;1" />
+		<set name="npcId" value="13090" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isCommon" value="true" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="300" value="101">
+				<mul order="0x30" stat="pAtk" value="0.05" />
+				<mul order="0x30" stat="mAtk" value="0.05" />
+				<mul order="0x30" stat="pDef" value="0.4" />
+				<mul order="0x30" stat="mDef" value="0.4" />
+				<sub order="0x40" stat="rEvas" value="50" />
+				<sub order="0x40" stat="accCombat" value="50" />
+				<sub order="0x40" stat="runSpd" value="11" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3360" levels="25" name="Cheap Shot">
+		<!--  Общий скилл для всех SA луков, ибо НЦСофт такого сделать почему-то не удосужилась.
+			Description: Decreases MP consumption.
+			Miser (1-10)
+			Cheap Shot (11-20)
+			Quick Recovery (21-25)
+		-->
+		<table name="#miser">7 8 9 2 4 4 5 1 99 99</table>
+		<table name="#miserChance">30 30 30 30 40 32 37 19 0 0</table>
+		<table name="#cheapShot">0 0 0 0 0 0 0 0 0 0 2 1 2 2 2 1 2 0 0 0</table>
+		<table name="#cheapShotChance">0 0 0 0 0 0 0 0 0 0 46 34 42 38 36 26 38 0 0 0</table>
+		<table name="#mpConsumePhysical">1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 .88 1</table>
+		<table name="#atkReuse">1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 .9 .87 .85 .83 .8</table>
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="99" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<set name="displayLevel" value="1" />
+		<for>
+			<set value='#miser' order='0x08' stat='miser' />
+			<set value='#miserChance' order='0x08' stat='miserChance' />
+			<set value='#cheapShot' order='0x08' stat='cheapShot' />
+			<set value='#cheapShotChance' order='0x08' stat='cheapShotChance' />
+			<mul value='#mpConsumePhysical' order='0x30' stat='mpConsumePhysical' />
+			<mul value='#atkReuse' order='0x50' stat='atkReuse' />
+		</for>
+	</skill>
+	<skill id="3361" levels="1" name="Summon Agathion - Fortress">
+		<!--
+			Last modify:	12.12.2007
+
+			Description: Removes seal of Agathion.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_summon_aga_agit_i00" />
+		<set name="magicLevel" value="65" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="SUMMON" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="npcId" value="16029" />
+		<set name="summonType" value="agathion" />
+	</skill>
+	<skill id="3362" levels="1" name="Traits Strengthen Necklace">
+		<!-- 
+			Description: Increases the power of shock attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="stunPower" value="18" />
+		</for>
+	</skill>
+	<skill id="3363" levels="1" name="Traits Strengthen Ring">
+		<!-- 
+			Description: Increases the power of shock attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="stunPower" value="8" />
+		</for>
+	</skill>
+	<skill id="3364" levels="1" name="Traits Strengthen Earring">
+		<!-- 
+			Description: Increases the power of shock attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="stunPower" value="12" />
+		</for>
+	</skill>
+	<skill id="3365" levels="1" name="Dynasty Resistance Necklace">
+		<!--
+			Description: Increases resistance to shock attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="stunResist" value="18" />
+		</for>
+	</skill>
+	<skill id="3366" levels="1" name="Dynasty Resistance Ring">
+		<!--
+			Description: Increases resistance to shock attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="stunResist" value="8" />
+		</for>
+	</skill>
+	<skill id="3367" levels="1" name="Dynasty Resistance Earring">
+		<!--
+			Description: Increases resistance to shock attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="stunResist" value="12" />
+		</for>
+	</skill>
+	<skill id="3368" levels="1" name="Traits Strengthen Necklace">
+		<!-- 
+			Description: Increases the power of bleed attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="bleedPower" value="11" />
+		</for>
+	</skill>
+	<skill id="3369" levels="1" name="Traits Strengthen Ring">
+		<!-- 
+			Description: Increases the power of bleed attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="bleedPower" value="5" />
+		</for>
+	</skill>
+	<skill id="3370" levels="1" name="Traits Strengthen Earring">
+		<!-- 
+			Description: Increases the power of bleed attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="bleedPower" value="8" />
+		</for>
+	</skill>
+	<skill id="3371" levels="1" name="Dynasty Resistance Necklace">
+		<!--
+			Description: Increases resistance to bleed attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="bleedResist" value="11" />
+		</for>
+	</skill>
+	<skill id="3372" levels="1" name="Dynasty Resistance Ring">
+		<!--
+			Description: Increases resistance to bleed attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="bleedResist" value="5" />
+		</for>
+	</skill>
+	<skill id="3373" levels="1" name="Dynasty Resistance Earring">
+		<!--
+			Description: Increases resistance to bleed attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="bleedResist" value="8" />
+		</for>
+	</skill>
+	<skill id="3374" levels="1" name="Traits Strengthen Necklace">
+		<!-- 
+			Description: Increases the power of poison attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="poisonPower" value="16" />
+		</for>
+	</skill>
+	<skill id="3375" levels="1" name="Traits Strengthen Ring">
+		<!-- 
+			Description: Increases the power of poison attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="poisonPower" value="7" />
+		</for>
+	</skill>
+	<skill id="3376" levels="1" name="Traits Strengthen Earring">
+		<!-- 
+			Description: Increases the power of poison attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="poisonPower" value="11" />
+		</for>
+	</skill>
+	<skill id="3377" levels="1" name="Dynasty Resistance Necklace">
+		<!--
+			Description: Increases resistance to poison attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="poisonResist" value="16" />
+		</for>
+	</skill>
+	<skill id="3378" levels="1" name="Dynasty Resistance Ring">
+		<!--
+			Description: Increases resistance to poison attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="poisonResist" value="7" />
+		</for>
+	</skill>
+	<skill id="3379" levels="1" name="Dynasty Resistance Earring">
+		<!--
+			Description: Increases resistance to poison attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="poisonResist" value="11" />
+		</for>
+	</skill>
+	<skill id="3380" levels="1" name="Traits Strengthen Necklace">
+		<!-- 
+			Description: Increases the power of paralysis attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="paralyzePower" value="9" />
+		</for>
+	</skill>
+	<skill id="3381" levels="1" name="Traits Strengthen Ring">
+		<!-- 
+			Description: Increases the power of paralysis attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="paralyzePower" value="4" />
+		</for>
+	</skill>
+	<skill id="3382" levels="1" name="Traits Strengthen Earring">
+		<!-- 
+			Description: Increases the power of paralysis attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="paralyzePower" value="6" />
+		</for>
+	</skill>
+	<skill id="3383" levels="1" name="Dynasty Resistance Necklace">
+		<!--
+			Description: Increases resistance to paralysis attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="paralyzeResist" value="9" />
+		</for>
+	</skill>
+	<skill id="3384" levels="1" name="Dynasty Resistance Ring">
+		<!--
+			Description: Increases resistance to paralysis attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="paralyzeResist" value="4" />
+		</for>
+	</skill>
+	<skill id="3385" levels="1" name="Dynasty Resistance Earring">
+		<!--
+			Description: Increases resistance to paralysis attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="paralyzeResist" value="6" />
+		</for>
+	</skill>
+	<skill id="3386" levels="1" name="Traits Strengthen Necklace">
+		<!-- 
+			Description: Increases the power of hold attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="rootPower" value="18" />
+		</for>
+	</skill>
+	<skill id="3387" levels="1" name="Traits Strengthen Ring">
+		<!-- 
+			Description: Increases the power of hold attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="rootPower" value="8" />
+		</for>
+	</skill>
+	<skill id="3388" levels="1" name="Traits Strengthen Earring">
+		<!-- 
+			Description: Increases the power of hold attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="rootPower" value="12" />
+		</for>
+	</skill>
+	<skill id="3389" levels="1" name="Dynasty Resistance Necklace">
+		<!--
+			Description: Increases resistance to hold attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="rootResist" value="18" />
+		</for>
+	</skill>
+	<skill id="3390" levels="1" name="Dynasty Resistance Ring">
+		<!--
+			Description: Increases resistance to hold attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="rootResist" value="8" />
+		</for>
+	</skill>
+	<skill id="3391" levels="1" name="Dynasty Resistance Earring">
+		<!--
+			Description: Increases resistance to hold attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="rootResist" value="12" />
+		</for>
+	</skill>
+	<skill id="3392" levels="1" name="Traits Strengthen Necklace">
+		<!-- 
+			Description: Increases the power of sleep attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="sleepPower" value="18" />
+		</for>
+	</skill>
+	<skill id="3393" levels="1" name="Traits Strengthen Ring">
+		<!-- 
+			Description: Increases the power of sleep attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="sleepPower" value="8" />
+		</for>
+	</skill>
+	<skill id="3394" levels="1" name="Traits Strengthen Earring">
+		<!-- 
+			Description: Increases the power of sleep attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="sleepPower" value="12" />
+		</for>
+	</skill>
+	<skill id="3395" levels="1" name="Dynasty Resistance Necklace">
+		<!--
+			Description: Increases resistance to sleep attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="sleepResist" value="18" />
+		</for>
+	</skill>
+	<skill id="3396" levels="1" name="Dynasty Resistance Ring">
+		<!--
+			Description: Increases resistance to sleep attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="sleepResist" value="8" />
+		</for>
+	</skill>
+	<skill id="3397" levels="1" name="Dynasty Resistance Earring">
+		<!--
+			Description: Increases resistance to sleep attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="sleepResist" value="12" />
+		</for>
+	</skill>
+	<skill id="3398" levels="1" name="Traits Strengthen Necklace">
+		<!-- 
+			Description: Increases the power of abnormal mental state attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mentalPower" value="9" />
+		</for>
+	</skill>
+	<skill id="3399" levels="1" name="Traits Strengthen Ring">
+		<!-- 
+			Description: Increases the power of abnormal mental state attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mentalPower" value="4" />
+		</for>
+	</skill>
+</list>

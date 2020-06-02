@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<item>
+		<production id="17203" count="1"/>	<!--Agathion - Ball Trapping Gnosian-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="17204" count="1"/>	<!--Agathion - Ball Trapping Orodriel-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="17205" count="1"/>	<!--Agathion - Penalty Kick-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20006" count="1"/>	<!--Agathion - Majo-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20007" count="1"/>	<!--Agathion - Gold Majo-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20008" count="1"/>	<!--Agathion - Black Majo-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20012" count="1"/>	<!--Agathion - Plaipitak-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20063" count="1"/>	<!--Agathion - Baby Panda-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20064" count="1"/>	<!--Agathion - Bamboo Panda-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20065" count="1"/>	<!--Agathion - Sexy Panda-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20212" count="1"/>	<!--Agathion - Charming Cupid-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20213" count="1"/>	<!--Agathion - Naughty Cupid-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20221" count="1"/>	<!--Agathion - White Maneki Neko-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20222" count="1"/>	<!--Agathion - Black Maneki Neko-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20223" count="1"/>	<!--Agathion - Brown Maneki Neko-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20230" count="1"/>	<!--Agathion - One-eyed Bat Drove-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20236" count="1"/>	<!--Agathion - Pegasus-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20245" count="1"/>	<!--Agathion - Yellow-robed Tojigong-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20246" count="1"/>	<!--Agathion - Blue-robed Tojigong-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20247" count="1"/>	<!--Agathion - Green-robed Tojigong-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20252" count="1"/>	<!--Agathion - Bugbear-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20297" count="1"/>	<!--Agathion - Red Sumo Wrestler-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20299" count="1"/>	<!--Agathion - Blue Sumo Wrestler-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20301" count="1"/>	<!--Agathion - Great Sumo Match-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20303" count="1"/>	<!--Agathion - Button-eyed Bear Doll-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20307" count="1"/>	<!--Agathion - God of Fortune-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20309" count="1"/>	<!--Agathion - Dryad-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20310" count="1"/>	<!--Agathion - Wonboso-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20312" count="1"/>	<!--Agathion - Daewoonso-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20495" count="1"/>	<!--Agathion – Pomona-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20591" count="1"/>	<!--Agathion - Weaver-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20654" count="1"/>	<!--Agathion - Chon-chon-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20656" count="1"/>	<!--Agathion - Tang-tang-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20658" count="1"/>	<!--Agathion - Dancing Lucky Kid-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20660" count="1"/>	<!--Agathion - Monkey King-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20662" count="1"/>	<!--Agathion - Uthanka-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20664" count="1"/>	<!--Agathion - Bonus B-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20726" count="1"/>	<!--Agathion - Zombie-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20732" count="1"/>	<!--Agathion - Baekyi Hwamae-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20733" count="1"/>	<!--Agathion - Kwanwoo Hwamae-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20970" count="1"/>	<!--Agathion - Three-headed Dragon-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="21047" count="1"/>	<!--Agathion - Granny Tiger -->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="21048" count="1"/>	<!--Agathion - Flower Fairy Spirit-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="21050" count="1"/>	<!--Agathion - Cheerleader Orodriel-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="21052" count="1"/>	<!--Agathion - Cheerleader Lanya-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="21054" count="1"/>	<!--Agathion - Cheerleader Naonin-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="21056" count="1"/>	<!--Agathion - Cheerleader Mortia-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="21058" count="1"/>	<!--Agathion - Cheerleader Kaurin-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="21060" count="1"/>	<!--Agathion - Cheerleader Meruril-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="21062" count="1"/>	<!--Agathion - Handy-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="21165" count="1"/>	<!--Agathion Seal Bracelet - Zaken Spirit Sword-->
+		<ingredient id="4037" count="10"/>	<!--Gold Apiga-->
+	</item>
+	<item>
+		<production id="20834" count="1"/>	<!--Soul Avatar Seal Bracelet - Taman Zu Rapatui-->
+		<ingredient id="4037" count="12"/>	<!--Gold Apiga-->
+	</item>
+</list>

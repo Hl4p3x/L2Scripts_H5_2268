@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--Create by PaInKiLlEr-->
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<event id="10032" name="Fantasi Isle Day Parad" impl="FantasiIsleParad">
+		<on_start>
+			<spawn name="music" />
+			<spawn name="ms" />
+		</on_start>
+		<on_stop>
+			<despawn name="music" />
+			<despawn name="ms" />
+			<despawn name="Leyla" />
+			<despawn name="circus" />
+			<despawn name="individual_1" />
+			<despawn name="individual_2" />
+			<despawn name="individual_3" />
+			<despawn name="other" />
+			<despawn name="Sec_2" />
+			<despawn name="Sec_4" />
+			<despawn name="Sec_6" />
+			<despawn name="Sec_12" />
+			<despawn name="Sec_14" />
+			<despawn name="Sec_16" />
+			<despawn name="Sec_18" />
+			<despawn name="Sec_24" />
+			<despawn name="Sec_25" />
+			<despawn name="Sec_26" />
+			<despawn name="Sec_28" />
+			<despawn name="Sec_34" />
+			<despawn name="Sec_36" />
+			<despawn name="Sec_38" />
+			<despawn name="Sec_44" />
+			<despawn name="Sec_46" />
+			<despawn name="Sec_52" />
+			<despawn name="Sec_54" />
+			<despawn name="Sec_60" />
+			<despawn name="Sec_62" />
+			<despawn name="Sec_68" />
+			<despawn name="Sec_70" />
+			<despawn name="Sec_76" />
+			<despawn name="Sec_78" />
+			<despawn name="Sec_84" />
+			<despawn name="Sec_86" />
+			<despawn name="Sec_92" />
+			<despawn name="Sec_94" />
+			<despawn name="Sec_100" />
+			<despawn name="Sec_102" />
+			<despawn name="Sec_108" />
+			<despawn name="Sec_110" />
+			<despawn name="Sec_116" />
+			<despawn name="Sec_118" />
+			<despawn name="Sec_120" />
+			<despawn name="Sec_128" />
+			<despawn name="Sec_130" />
+			<despawn name="Sec_132" />
+			<despawn name="Sec_134" />
+			<despawn name="Sec_140" />
+			<despawn name="Sec_142" />
+			<despawn name="Sec_144" />
+			<despawn name="Sec_146" />
+			<despawn name="Sec_150" />
+			<despawn name="Sec_152" />
+			<despawn name="Sec_154" />
+			<despawn name="Sec_160" />
+		</on_stop>
+		<on_time>
+			<on time="0">
+				<!--start-->
+				<start name="event" />
+			</on>
+			<on time="2">
+				<spawn name="Sec_2" />
+			</on>
+			<on time="4">
+				<spawn name="Sec_4" />
+			</on>
+			<on time="6">
+				<spawn name="Sec_6" />
+			</on>
+			<on time="12">
+				<spawn name="Sec_12" />
+			</on>
+			<on time="14">
+				<spawn name="Sec_14" />
+			</on>
+			<on time="16">
+				<spawn name="Sec_16" />
+			</on>
+			<on time="18">
+				<spawn name="Sec_18" />
+			</on>
+			<on time="24">
+				<spawn name="Sec_24" />
+			</on>
+			<on time="25">
+				<spawn name="Sec_25" />
+			</on>
+			<on time="26">
+				<spawn name="Sec_26" />
+			</on>
+			<on time="28">
+				<spawn name="Sec_28" />
+			</on>
+			<on time="34">
+				<spawn name="Sec_34" />
+			</on>
+			<on time="36">
+				<spawn name="Sec_36" />
+			</on>
+			<on time="38">
+				<spawn name="Sec_38" />
+			</on>
+			<on time="44">
+				<spawn name="Sec_44" />
+			</on>
+			<on time="46">
+				<spawn name="Sec_46" />
+				<spawn name="Leyla" />
+			</on>
+			<on time="52">
+				<spawn name="Sec_52" />
+			</on>
+			<on time="54">
+				<spawn name="Sec_54" />
+			</on>
+			<on time="60">
+				<spawn name="Sec_60" />
+			</on>
+			<on time="62">
+				<spawn name="Sec_62" />
+			</on>
+			<on time="68">
+				<spawn name="Sec_68" />
+			</on>
+			<on time="70">
+				<spawn name="Sec_70" />
+			</on>
+			<on time="76">
+				<spawn name="Sec_76" />
+			</on>
+			<on time="78">
+				<spawn name="Sec_78" />
+			</on>
+			<on time="84">
+				<spawn name="Sec_84" />
+			</on>
+			<on time="86">
+				<spawn name="Sec_86" />
+			</on>
+			<on time="92">
+				<spawn name="Sec_92" />
+			</on>
+			<on time="94">
+				<spawn name="Sec_94" />
+			</on>
+			<on time="100">
+				<spawn name="Sec_100" />
+			</on>
+			<on time="102">
+				<spawn name="Sec_102" />
+			</on>
+			<on time="108">
+				<spawn name="Sec_108" />
+			</on>
+			<on time="110">
+				<spawn name="Sec_110" />
+			</on>
+			<on time="116">
+				<spawn name="Sec_116" />
+			</on>
+			<on time="118">
+				<spawn name="Sec_118" />
+			</on>
+			<on time="120">
+				<spawn name="Sec_120" />
+			</on>
+			<on time="128">
+				<spawn name="Sec_128" />
+			</on>
+			<on time="130">
+				<spawn name="Sec_130" />
+			</on>
+			<on time="132">
+				<spawn name="Sec_132" />
+			</on>
+			<on time="134">
+				<spawn name="Sec_134" />
+			</on>
+			<on time="140">
+				<spawn name="Sec_140" />
+			</on>
+			<on time="142">
+				<spawn name="Sec_142" />
+			</on>
+			<on time="144">
+				<spawn name="Sec_144" />
+			</on>
+			<on time="146">
+				<spawn name="Sec_146" />
+			</on>
+			<on time="150">
+				<spawn name="Sec_150" />
+			</on>
+			<on time="152">
+				<spawn name="Sec_152" />
+			</on>
+			<on time="154">
+				<spawn name="Sec_154" />
+			</on>
+			<on time="160">
+				<spawn name="Sec_160" />
+			</on>
+			<on time="269">
+				<despawn name="Leyla" />
+			</on>
+			<on time="281">
+				<spawn name="circus" />
+			</on>
+			<on time="386">
+				<despawn name="circus" />
+			</on>
+			<on time="394">
+				<spawn name="individual_1" />
+			</on>
+			<on time="398">
+				<despawn name="individual_1" />
+			</on>
+			<on time="399">
+				<spawn name="individual_2" />
+			</on>
+			<on time="403">
+				<despawn name="individual_2" />
+			</on>
+			<on time="404">
+				<spawn name="individual_3" />
+			</on>
+			<on time="408">
+				<despawn name="individual_3" />
+			</on>
+			<on time="410">
+				<spawn name="other" />
+			</on>
+			<on time="500">
+				<!--stop-->
+				<stop name="event" />
+			</on>
+		</on_time>
+		<objects name="ms">
+			<spawn_ex name="fantasy_parad_ms" />
+		</objects>
+		<objects name="other">
+			<spawn_ex name="fantasy_parad_other" />
+		</objects>
+		<objects name="Leyla">
+			<spawn_ex name="fantasy_parad_Leyla" />
+		</objects>
+		<objects name="individual_1">
+			<spawn_ex name="fantasy_parad_individual_1" />
+		</objects>
+		<objects name="individual_2">
+			<spawn_ex name="fantasy_parad_individual_2" />
+		</objects>
+		<objects name="individual_3">
+			<spawn_ex name="fantasy_parad_individual_3" />
+		</objects>
+		<objects name="circus">
+			<spawn_ex name="fantasy_parad_circus" />
+		</objects>
+		<objects name="music">
+			<spawn_ex name="fantasy_parad_music" />
+		</objects>
+		<objects name="Sec_2">
+			<spawn_ex name="fantasy_parad_Sec_2" />
+		</objects>
+		<objects name="Sec_4">
+			<spawn_ex name="fantasy_parad_Sec_4" />
+		</objects>
+		<objects name="Sec_6">
+			<spawn_ex name="fantasy_parad_Sec_6" />
+		</objects>
+		<objects name="Sec_12">
+			<spawn_ex name="fantasy_parad_Sec_12" />
+		</objects>
+		<objects name="Sec_14">
+			<spawn_ex name="fantasy_parad_Sec_14" />
+		</objects>
+		<objects name="Sec_16">
+			<spawn_ex name="fantasy_parad_Sec_16" />
+		</objects>
+		<objects name="Sec_18">
+			<spawn_ex name="fantasy_parad_Sec_18" />
+		</objects>
+		<objects name="Sec_24">
+			<spawn_ex name="fantasy_parad_Sec_24" />
+		</objects>
+		<objects name="Sec_25">
+			<spawn_ex name="fantasy_parad_Sec_25" />
+		</objects>
+		<objects name="Sec_26">
+			<spawn_ex name="fantasy_parad_Sec_26" />
+		</objects>
+		<objects name="Sec_28">
+			<spawn_ex name="fantasy_parad_Sec_28" />
+		</objects>
+		<objects name="Sec_34">
+			<spawn_ex name="fantasy_parad_Sec_34" />
+		</objects>
+		<objects name="Sec_36">
+			<spawn_ex name="fantasy_parad_Sec_36" />
+		</objects>
+		<objects name="Sec_38">
+			<spawn_ex name="fantasy_parad_Sec_38" />
+		</objects>
+		<objects name="Sec_44">
+			<spawn_ex name="fantasy_parad_Sec_44" />
+		</objects>
+		<objects name="Sec_46">
+			<spawn_ex name="fantasy_parad_Sec_46" />
+		</objects>
+		<objects name="Sec_52">
+			<spawn_ex name="fantasy_parad_Sec_52" />
+		</objects>
+		<objects name="Sec_54">
+			<spawn_ex name="fantasy_parad_Sec_54" />
+		</objects>
+		<objects name="Sec_60">
+			<spawn_ex name="fantasy_parad_Sec_60" />
+		</objects>
+		<objects name="Sec_62">
+			<spawn_ex name="fantasy_parad_Sec_62" />
+		</objects>
+		<objects name="Sec_68">
+			<spawn_ex name="fantasy_parad_Sec_68" />
+		</objects>
+		<objects name="Sec_70">
+			<spawn_ex name="fantasy_parad_Sec_70" />
+		</objects>
+		<objects name="Sec_76">
+			<spawn_ex name="fantasy_parad_Sec_76" />
+		</objects>
+		<objects name="Sec_78">
+			<spawn_ex name="fantasy_parad_Sec_78" />
+		</objects>
+		<objects name="Sec_84">
+			<spawn_ex name="fantasy_parad_Sec_84" />
+		</objects>
+		<objects name="Sec_86">
+			<spawn_ex name="fantasy_parad_Sec_86" />
+		</objects>
+		<objects name="Sec_92">
+			<spawn_ex name="fantasy_parad_Sec_92" />
+		</objects>
+		<objects name="Sec_94">
+			<spawn_ex name="fantasy_parad_Sec_94" />
+		</objects>
+		<objects name="Sec_100">
+			<spawn_ex name="fantasy_parad_Sec_100" />
+		</objects>
+		<objects name="Sec_102">
+			<spawn_ex name="fantasy_parad_Sec_102" />
+		</objects>
+		<objects name="Sec_108">
+			<spawn_ex name="fantasy_parad_Sec_108" />
+		</objects>
+		<objects name="Sec_110">
+			<spawn_ex name="fantasy_parad_Sec_110" />
+		</objects>
+		<objects name="Sec_116">
+			<spawn_ex name="fantasy_parad_Sec_116" />
+		</objects>
+		<objects name="Sec_118">
+			<spawn_ex name="fantasy_parad_Sec_118" />
+		</objects>
+		<objects name="Sec_120">
+			<spawn_ex name="fantasy_parad_Sec_120" />
+		</objects>
+		<objects name="Sec_128">
+			<spawn_ex name="fantasy_parad_Sec_128" />
+		</objects>
+		<objects name="Sec_130">
+			<spawn_ex name="fantasy_parad_Sec_130" />
+		</objects>
+		<objects name="Sec_132">
+			<spawn_ex name="fantasy_parad_Sec_132" />
+		</objects>
+		<objects name="Sec_134">
+			<spawn_ex name="fantasy_parad_Sec_134" />
+		</objects>
+		<objects name="Sec_140">
+			<spawn_ex name="fantasy_parad_Sec_140" />
+		</objects>
+		<objects name="Sec_142">
+			<spawn_ex name="fantasy_parad_Sec_142" />
+		</objects>
+		<objects name="Sec_144">
+			<spawn_ex name="fantasy_parad_Sec_144" />
+		</objects>
+		<objects name="Sec_146">
+			<spawn_ex name="fantasy_parad_Sec_146" />
+		</objects>
+		<objects name="Sec_150">
+			<spawn_ex name="fantasy_parad_Sec_150" />
+		</objects>
+		<objects name="Sec_152">
+			<spawn_ex name="fantasy_parad_Sec_152" />
+		</objects>
+		<objects name="Sec_154">
+			<spawn_ex name="fantasy_parad_Sec_154" />
+		</objects>
+		<objects name="Sec_160">
+			<spawn_ex name="fantasy_parad_Sec_160" />
+		</objects>
+	</event>
+</list>

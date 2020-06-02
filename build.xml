@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="L2-Scripts-HIGH_FIVE" default="jar" basedir=".">
+	<property name="build.version" value="1.0" />
+	<property name="debug" value="on" />
+	<property name="src.gameserver" location="gameserver/src/main/java" />
+	<property name="src.authserver" location="authserver/src/main/java" />
+	<property name="src.commons" location="commons/src/main/java" />
+	<property name="src.scripts" location="dist/gameserver/data" />
+	<property name="dist" location="dist" />
+	<property name="dist.gameserver" location="${dist}/gameserver" />
+	<property name="dist.authserver" location="${dist}/authserver" />
+	<property name="info" location="info" />
+	<property name="lib" location="lib" />
+	<!--<property name="optional" location="optional" />-->
+	<property name="build" location="build" />
+	<property name="build.classes" location="${build}/classes" />
+	<property name="build.dist" location="${build}/dist" />
+	<property name="build.dist.authserver" location="${build.dist}/authserver" />
+	<property name="build.dist.gameserver" location="${build.dist}/gameserver" />
+	<property name="build.dist.info" location="${build.dist}/info" />
+	<!--<property name="build.dist.gameserver.optional" location="${build.dist.gameserver}/optional" />-->
+	<path id="classpath">
+		<fileset dir="${lib}">
+			<include name="**/*.jar" />
+		</fileset>
+	</path>
+	<pathconvert property="jar.list" pathsep=" " refid="classpath">
+		<mapper type="flatten" />
+	</pathconvert>
+	<property name="build.classpath" refid="classpath" />
+	<tstamp>
+		<format property="build.tstamp" pattern="yyyy.MM.dd HH:mm" />
+	</tstamp>
+	<target name="clean" description="Remove the output directories.">
+		<delete dir="${build}" />
+	</target>
+	<target name="init" depends="clean" description="Create the output directories.">
+		<mkdir dir="${build}" />
+	</target>
+	<target name="compile-commons" depends="init" description="Compile commons source.">
+		<delete dir="${build.classes}" />
+		<mkdir dir="${build.classes}" />
+		<javac srcdir="${src.commons}" destdir="${build.classes}" optimize="on" debug="${debug}" source="1.8" target="1.8" includeantruntime="false" encoding="UTF-8" nowarn="off" classpath="${build.classpath}">
+			<compilerarg value="-Xlint:all,-serial" />
+		</javac>
+	</target>
+	<target name="commons-jar" depends="compile-commons" description="Compile commons source and make lib.">
+		<jar destfile="${build}/commons.jar">
+			<fileset dir="${build.classes}" />
+			<manifest>
+				<attribute name="Build-By" value="${user.name}" />
+				<attribute name="Build-Date" value="${build.tstamp}" />
+				<attribute name="Implementation-Build" value="${build.revision}" />
+				<attribute name="Implementation-Version" value="${build.version}" />
+			</manifest>
+		</jar>
+		<copy todir="${dist.authserver}/lib">
+			<fileset dir="${build}">
+				<include name="commons.jar" />
+			</fileset>
+		</copy>
+		<copy todir="${dist.gameserver}/lib">
+			<fileset dir="${build}">
+				<include name="commons.jar" />
+			</fileset>
+		</copy>
+	</target>
+	<target name="compile-gameserver" depends="init" description="Compile gameserver source.">
+		<delete dir="${build.classes}" />
+		<mkdir dir="${build.classes}" />
+		<javac srcdir="${src.gameserver}" destdir="${build.classes}" optimize="on" debug="${debug}" source="1.8" target="1.8" includeantruntime="false" encoding="UTF-8" nowarn="off" classpath="${build.classpath}:${dist.gameserver}/lib/commons.jar">
+			<compilerarg value="-Xlint:all,-serial" />
+		</javac>
+	</target>
+	<target name="gameserver-jar" depends="compile-gameserver" description="Compile gameserver source and make lib.">
+		<jar destfile="${build}/gameserver.jar">
+			<fileset dir="${build.classes}" />
+			<manifest>
+				<attribute name="Main-Class" value="l2s.gameserver.GameServer" />
+				<attribute name="Class-Path" value="${jar.list} commons.jar" />
+				<attribute name="Build-By" value="${user.name}" />
+				<attribute name="Build-Date" value="${build.tstamp}" />
+				<attribute name="Implementation-Build" value="${build.revision}" />
+				<attribute name="Implementation-Version" value="${build.version}" />
+			</manifest>
+		</jar>
+		<copy todir="${build}">
+			<fileset dir="${dist.gameserver}/lib">
+				<include name="commons.jar" />
+			</fileset>
+		</copy>
+		<delete dir="${dist.gameserver}/lib" />
+		<mkdir dir="${dist.gameserver}/lib" />
+		<copy todir="${dist.gameserver}/lib">
+			<fileset dir="${lib}">
+				<include name="*.jar" />
+			</fileset>
+			<fileset dir="${build}">
+				<include name="gameserver.jar" />
+				<include name="commons.jar" />
+			</fileset>
+		</copy>
+	</target>
+	<target name="gameserver" depends="gameserver-jar" description="Compile gameserver source and make dist.">
+		<mkdir dir="${build.dist}" />
+		<mkdir dir="${build.dist.gameserver}" />
+		<mkdir dir="${build.dist.gameserver}/lib" />
+		<sync todir="${build.dist.gameserver}" includeEmptyDirs="true">
+			<fileset dir="${dist}/gameserver" />
+		</sync>
+		<copy todir="${build.dist.gameserver}/lib">
+			<fileset dir="${lib}">
+				<include name="*.jar" />
+			</fileset>
+			<fileset dir="${build}">
+				<include name="gameserver.jar" />
+				<include name="commons.jar" />
+			</fileset>
+		</copy>
+		<fixcrlf srcdir="${build.dist.gameserver}" eol="lf" eof="remove" includes="**/*.sh" />
+		<fixcrlf srcdir="${build.dist.gameserver}" eol="crlf" eof="remove" includes="**/*.bat" />
+		<delete dir="${build.classes}" />
+	</target>
+	<target name="compile-scripts" depends="init" description="Compile scripts source.">
+		<delete dir="${build.classes}" />
+		<mkdir dir="${build.classes}" />
+		<javac destdir="${build.classes}" optimize="on" debug="on" source="1.8" target="1.8" encoding="UTF-8" includeantruntime="false" nowarn="off" classpath="${build.classpath}:${dist.gameserver}/lib/commons.jar:${dist.gameserver}/lib/gameserver.jar">
+			<compilerarg value="-Xlint:all,-serial" />
+			<src path="${src.scripts}" />
+			<classpath refid="classpath" />
+		</javac>
+	</target>
+	<target name="scripts-jar" depends="compile-scripts" description="Compile scripts source and make lib.">
+		<jar destfile="${build}/scripts.jar" level="9">
+			<fileset dir="${build.classes}" />
+			<manifest>
+				<attribute name="Main-Class" value="l2s.gameserver.GameServer" />
+				<attribute name="Class-Path" value="${jar.list} commons.jar" />
+				<attribute name="Build-By" value="${user.name}" />
+				<attribute name="Build-Date" value="${build.tstamp}" />
+			</manifest>
+		</jar>
+	</target>
+	<target name="scripts" depends="scripts-jar" description="Compile scripts source and make dist.">
+		<copy todir="${build.dist.gameserver}/lib">
+			<fileset dir="${build}">
+				<include name="scripts.jar" />
+			</fileset>
+		</copy>
+	</target>
+	<target name="compile-authserver" depends="init" description="Compile authserver source.">
+		<delete dir="${build.classes}" />
+		<mkdir dir="${build.classes}" />
+		<javac srcdir="${src.authserver}" optimize="on" destdir="${build.classes}" debug="${debug}" source="1.8" target="1.8" includeantruntime="false" encoding="UTF-8" nowarn="off" classpath="${build.classpath}:${dist.authserver}/lib/commons.jar">
+			<compilerarg value="-Xlint:all,-serial" />
+		</javac>
+	</target>
+	<target name="authserver-jar" depends="compile-authserver" description="Compile authserver source and make lib.">
+		<jar destfile="${build}/authserver.jar">
+			<fileset dir="${build.classes}" />
+			<manifest>
+				<attribute name="Main-Class" value="l2s.authserver.AuthServer" />
+				<attribute name="Class-Path" value="${jar.list} commons.jar" />
+				<attribute name="Build-By" value="${user.name}" />
+				<attribute name="Build-Date" value="${build.tstamp}" />
+				<attribute name="Implementation-Build" value="${build.revision}" />
+				<attribute name="Implementation-Version" value="${build.version}" />
+			</manifest>
+		</jar>
+		<copy todir="${build}">
+			<fileset dir="${dist.authserver}/lib">
+				<include name="commons.jar" />
+			</fileset>
+		</copy>
+		<delete dir="${dist.authserver}/lib" />
+		<mkdir dir="${dist.authserver}/lib" />
+		<copy todir="${dist.authserver}/lib">
+			<fileset dir="${lib}">
+				<include name="*.jar" />
+			</fileset>
+			<fileset dir="${build}">
+				<include name="authserver.jar" />
+				<include name="commons.jar" />
+			</fileset>
+		</copy>
+	</target>
+	<target name="authserver" depends="authserver-jar" description="Compile authserver source and make dist.">
+		<mkdir dir="${build.dist}" />
+		<mkdir dir="${build.dist.authserver}" />
+		<mkdir dir="${build.dist.authserver}/lib" />
+		<sync todir="${build.dist.authserver}" includeEmptyDirs="true">
+			<fileset dir="${dist}/authserver" />
+		</sync>
+		<copy todir="${build.dist.authserver}/lib">
+			<fileset dir="${lib}">
+				<include name="*.jar" />
+			</fileset>
+			<fileset dir="${build}">
+				<include name="authserver.jar" />
+				<include name="commons.jar" />
+			</fileset>
+		</copy>
+		<fixcrlf srcdir="${build.dist.authserver}" eol="lf" eof="remove" includes="**/*.sh" />
+		<fixcrlf srcdir="${build.dist.authserver}" eol="crlf" eof="remove" includes="**/*.bat" />
+		<delete dir="${build.classes}" />
+	</target>
+	<target name="jar" depends="commons-jar, authserver-jar, gameserver-jar, scripts-jar" description="Compile all source and make jar libraries." />
+</project>

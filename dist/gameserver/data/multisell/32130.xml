@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+
+	<!-- Elixir boxes -->
+	<item>
+		<ingredient id="-100" count="70" />
+		<production id="14713" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="120" />
+		<production id="14714" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="180" />
+		<production id="14715" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="220" />
+		<production id="14716" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="300" />
+		<production id="14717" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="420" />
+		<production id="14718" count="1" />
+	</item>
+	<!-- Milk -->
+	<item>
+		<ingredient id="-100" count="200" />
+		<production id="14739" count="10" />
+	</item>
+	<!-- Runes -->
+	<item>
+		<ingredient id="-100" count="600" />
+		<production id="20336" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="1000" />
+		<production id="20338" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="600" />
+		<production id="20342" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="1000" />
+		<production id="20344" count="1" />
+	</item>
+	<!-- Mounts -->
+	<item>
+		<ingredient id="-100" count="700" />
+		<production id="14066" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="700" />
+		<production id="14067" count="1" />
+	</item>
+	<!-- Revita-pop -->
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20034" count="1" />
+	</item>
+	<!-- Color name -->
+	<item>
+		<ingredient id="-100" count="2000" />
+		<production id="13021" count="1" />
+	</item>
+	<!-- Father of Blessing -->
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="10649" count="1" />
+	</item>
+	<!-- Kamaloka pass -->
+	<item>
+		<ingredient id="-100" count="700" />
+		<production id="13297" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="700" />
+		<production id="13298" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="700" />
+		<production id="13299" count="1" />
+	</item>
+	<!-- SP cubes -->
+	<item>
+		<ingredient id="-100" count="100" />
+		<production id="13386" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="200" />
+		<production id="13387" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="400" />
+		<production id="13388" count="1" />
+	</item>
+	<!-- Event Crystal Cubes -->
+	<item>
+		<ingredient id="-100" count="400" />
+		<production id="14737" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="200" />
+		<production id="14733" count="1" />
+	</item>
+	<!-- Baguette Weapons -->
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20255" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20256" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20257" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20258" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20259" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20260" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20261" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20262" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20263" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20264" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20265" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20266" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20267" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20268" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="500" />
+		<production id="20269" count="1" />
+	</item>
+		<!-- Blessed Scrolls -->
+	<item>
+		<ingredient id="-100" count="100" />
+		<production id="9156" count="5" />
+	</item>
+	<item>
+		<ingredient id="-100" count="100" />
+		<production id="9157" count="5" />
+	</item>
+	<!-- 7day hats -->
+	<item>
+		<ingredient id="-100" count="300" />
+		<production id="13239" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="300" />
+		<production id="13240" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="300" />
+		<production id="13241" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="300" />
+		<production id="13242" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="300" />
+		<production id="13243" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="300" />
+		<production id="13244" count="1" />
+	</item>
+	<item>
+		<ingredient id="-100" count="300" />
+		<production id="13245" count="1" />
+	</item>
+</list>

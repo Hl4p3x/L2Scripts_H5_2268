@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Tattoo shop -->
+<list>
+  <!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+  <!-- ignoreprice не работает с keepencahnted -->
+  <config showall="true" notax="false" keepenchanted="false" />
+
+  <!-- of Power -->
+  <!-- NG, 5% pAtk -->
+  <item>
+    <ingredient id="57" count="36900"/>
+    <production id="485" count="1"/>
+  </item>
+
+  <!-- of Soul -->
+  <!-- D, 5% mAtk -->
+  <item>
+    <ingredient id="1458" count="181"/>
+    <production id="492" count="1"/>
+  </item>
+
+  <!-- of Resolve -->
+  <!-- D, 5% pAtk, 5% pAtkSpd -->
+  <item>
+    <ingredient id="1458" count="276"/>
+    <production id="487" count="1"/>
+  </item>
+
+  <!-- of Fire -->
+  <!-- D, 5% mAtk, 5% mAtkSpd -->
+  <item>
+    <ingredient id="1458" count="276"/>
+    <production id="486" count="1"/>
+  </item>
+
+  <!-- of Bravery -->
+  <!-- C, 10% pAtk, 1000 maxHp -->
+  <item>
+    <ingredient id="1459" count="428"/>
+    <production id="489" count="1"/>
+  </item>
+
+  <!-- of Flame -->
+  <!-- B, 10% mAtk, 1000 maxMp -->
+  <item>
+    <ingredient id="1460" count="462"/>
+    <production id="488" count="1"/>
+  </item>
+
+  <!-- of Avadon -->
+  <!-- B, 10% pAtk, 10% pAtkSpd -->
+  <item>
+    <ingredient id="1460" count="208"/>
+    <production id="493" count="1"/>
+  </item>
+
+  <!-- of Pledge -->
+  <!-- B, 10% mAtk, 10% mAtkSpd -->
+  <item>
+    <ingredient id="1460" count="208"/>
+    <production id="495" count="1"/>
+  </item>
+
+  <!-- of Doom -->
+  <!-- B, 125 pAtk, 10% resist sleep/root/stun -->
+  <item>
+    <ingredient id="1460" count="321"/>
+    <production id="494" count="1"/>
+  </item>
+
+  <!-- of Divine -->
+  <!-- B, 125 mAtk, 10% resist sleep/root/stun -->
+  <item>
+    <ingredient id="1460" count="321"/>
+    <production id="496" count="1"/>
+  </item>
+
+  <!-- of Blood -->
+  <!-- A, 15% pAtkSpd, 15% mAtkSpd, 90% resist bleed -->
+  <item>
+    <ingredient id="1461" count="462"/>
+    <production id="490" count="1"/>
+  </item>
+
+  <!-- of Absolute -->
+  <!-- A, 15% pAtk, 1250 maxHp -->
+  <item>
+    <ingredient id="1461" count="422"/>
+    <production id="491" count="1"/>
+  </item>
+
+  <!-- of Nightmire -->
+  <!-- A, 15% mAtk, 1250 maxMp -->
+  <item>
+    <ingredient id="1461" count="422"/>
+    <production id="2410" count="1"/>
+  </item>
+
+</list>

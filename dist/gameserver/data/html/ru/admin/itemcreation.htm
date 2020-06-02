@@ -1,0 +1,43 @@
+<html><title>Вещи</title><body>
+<table width=260>
+<tr>
+<td width=40><button value="Главная" action="bypass -h admin_admin" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td width=180><center>Меню Создание Вещи</center></td>
+<td width=40><button value="Назад" action="bypass -h admin_admin" width=40 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+</table><br><br>
+<table width=270>
+<tr><td>Заполните ИД что бы создать нужную вам вещь</td></tr>
+<tr><td>Если нужно больше чем одна вещь, укажите кол-во.</td></tr>
+<tr><td><br></td></tr>
+<tr><td>Внимание:</td></tr>
+<tr><td>Не используйте кол-во с не складывающими вещами.</td></tr>
+<tr><td><br></td></tr>
+</table>
+<center>
+<table>
+<tr>
+<td>Id: <edit var="itemid" width=50></td>
+<td>Кол-во: <edit var="itemnum" width=50></td>
+<td>&nbsp;<button value="Создать Вещь" action="bypass -h admin_create_item $itemid $itemnum" width=100 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+</table>
+</center><br><br>
+<center>
+<table>
+<tr><td><center>Активы: <edit var="asset" width=70 height=11></center></td></tr>
+</table><br>
+<table>
+<tr>
+<td>
+<button value="ГМ Шоп" action="bypass -h admin_gmshop" width=105 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Адена" action="bypass -h admin_create_item 57 $asset" width=105 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Древняя Адена" action="bypass -h admin_create_item 5575 $asset" width=105 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Синие Камни" action="bypass -h admin_create_item 6360 $asset" width=105 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Зеленные Камни" action="bypass -h admin_create_item 6361 $asset" width=105 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Красные Камни" action="bypass -h admin_create_item 6362 $asset" width=105 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+</td>
+</tr>
+</table>
+</center>
+</body></html>

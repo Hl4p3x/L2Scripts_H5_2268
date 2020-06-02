@@ -1,0 +1,2508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+<!--LOA NPC-->
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="131176" y="114676" z="-3718" h="40960" />
+		<npc id="30755" /><!--Theodric-->
+	</spawn>
+	<spawn count="0" respawn="86400" respawn_random="21600" period_of_day="none">
+		<point x="143955" y="110360" z="-3955" h="32768" />
+		<npc id="25073" /><!--Bloody Priest Rudelto-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="154695" y="121097" z="-3757" h="0" />
+		<npc id="13001" /><!--Heart of Warding-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="131144" y="114200" z="-3712" h="31045" />
+		<npc id="32868" /><!--Separated Soul-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="146056" y="111144" z="-3560" h="0" />
+		<npc id="32869" /><!--Separated Soul-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="148456" y="110744" z="-3944" h="49151" />
+		<npc id="32891" /><!--Separated Soul-->
+	</spawn>
+<!--LOA Raid Bosses-->
+	<spawn count="1" respawn="14400" respawn_random="0" period_of_day="none">
+		<point x="145735" y="120035" z="-3912" h="15243" />
+		<npc id="25726" /><!--Raid Boss Behemoth Leader-->
+	</spawn>
+	<spawn count="1" respawn="14400" respawn_random="0" period_of_day="none">
+		<point x="148484" y="117856" z="-3752" h="36584" />
+		<npc id="25727" /><!--Raid Boss Dragon Beast-->
+	</spawn>
+	<spawn count="1" respawn="14400" respawn_random="0" period_of_day="none">
+		<point x="152314" y="110438" z="-5520" h="2826" />
+		<npc id="25725" /><!--Raid Boss Drake Lord-->
+	</spawn>
+	<spawn count="1" respawn="3600" respawn_random="0" period_of_day="none">
+		<point x="141843" y="121595" z="-3912" h="24575" />
+		<npc id="22857" /><!--Knoriks-->
+	</spawn>
+<!--LOA Cycle Runners-->	
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="145452" y="115969" zmin="-3760" zmax="-3560" />
+			<add x="144630" y="115316" zmin="-3760" zmax="-3560" />
+			<add x="145136" y="114851" zmin="-3760" zmax="-3560" />
+			<add x="146549" y="116126" zmin="-3760" zmax="-3560" />
+			<add x="146421" y="116429" zmin="-3760" zmax="-3560" />
+		</territory>
+		<npc id="22848" /><!--Drake Leader-->
+	</spawn>
+	<spawn count="8" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="146805" y="113117" zmin="-3773" zmax="-3573" />
+			<add x="147688" y="112881" zmin="-3773" zmax="-3573" />
+			<add x="146855" y="111908" zmin="-3773" zmax="-3573" />
+			<add x="146144" y="112116" zmin="-3773" zmax="-3573" />
+			<add x="145701" y="112734" zmin="-3773" zmax="-3573" />
+		</territory>
+		<npc id="22848" /><!--Drake Leader-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="145452" y="115969" zmin="-3760" zmax="-3560" />
+			<add x="144630" y="115316" zmin="-3760" zmax="-3560" />
+			<add x="145136" y="114851" zmin="-3760" zmax="-3560" />
+			<add x="146549" y="116126" zmin="-3760" zmax="-3560" />
+			<add x="146421" y="116429" zmin="-3760" zmax="-3560" />
+		</territory>
+		<npc id="22849" /><!--Drake Warrior-->
+	</spawn>	
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="146805" y="113117" zmin="-3773" zmax="-3573" />
+			<add x="147688" y="112881" zmin="-3773" zmax="-3573" />
+			<add x="146855" y="111908" zmin="-3773" zmax="-3573" />
+			<add x="146144" y="112116" zmin="-3773" zmax="-3573" />
+			<add x="145701" y="112734" zmin="-3773" zmax="-3573" />
+		</territory>
+		<npc id="22849" /><!--Drake Warrior-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="148755" y="111684" zmin="-3765" zmax="-3565" />
+			<add x="147079" y="112078" zmin="-3765" zmax="-3565" />
+			<add x="147731" y="112835" zmin="-3765" zmax="-3565" />
+			<add x="148489" y="112993" zmin="-3765" zmax="-3565" />
+			<add x="149243" y="112931" zmin="-3765" zmax="-3565" />
+			<add x="149093" y="112090" zmin="-3765" zmax="-3565" />
+		</territory>
+		<npc id="22849" /><!--Drake Warrior-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="148679" y="113049" zmin="-3770" zmax="-3570" />
+			<add x="148988" y="114546" zmin="-3770" zmax="-3570" />
+			<add x="149439" y="114416" zmin="-3770" zmax="-3570" />
+			<add x="149261" y="112973" zmin="-3770" zmax="-3570" />
+		</territory>
+		<npc id="22849" /><!--Drake Warrior-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="149074" y="116145" zmin="-3762" zmax="-3562" />
+			<add x="148660" y="116089" zmin="-3762" zmax="-3562" />
+			<add x="148398" y="115654" zmin="-3762" zmax="-3562" />
+			<add x="149211" y="114662" zmin="-3762" zmax="-3562" />
+			<add x="149447" y="114703" zmin="-3762" zmax="-3562" />
+			<add x="149407" y="115857" zmin="-3762" zmax="-3562" />
+		</territory>
+		<npc id="22849" /><!--Drake Warrior-->
+	</spawn>
+	<spawn count="5" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="148755" y="111684" zmin="-3765" zmax="-3565" />
+			<add x="147079" y="112078" zmin="-3765" zmax="-3565" />
+			<add x="147731" y="112835" zmin="-3765" zmax="-3565" />
+			<add x="148489" y="112993" zmin="-3765" zmax="-3565" />
+			<add x="149243" y="112931" zmin="-3765" zmax="-3565" />
+			<add x="149093" y="112090" zmin="-3765" zmax="-3565" />
+		</territory>
+		<npc id="22849" /><!--Drake Warrior-->
+	</spawn>	
+	<spawn count="4" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="145452" y="115969" zmin="-3760" zmax="-3560" />
+			<add x="144630" y="115316" zmin="-3760" zmax="-3560" />
+			<add x="145136" y="114851" zmin="-3760" zmax="-3560" />
+			<add x="146549" y="116126" zmin="-3760" zmax="-3560" />
+			<add x="146421" y="116429" zmin="-3760" zmax="-3560" />
+		</territory>
+		<npc id="22851" /><!--Drake Mage-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="146594" y="116155" zmin="-3758" zmax="-3558" />
+			<add x="146927" y="117084" zmin="-3758" zmax="-3558" />
+			<add x="147396" y="116946" zmin="-3758" zmax="-3558" />
+			<add x="147593" y="116581" zmin="-3758" zmax="-3558" />
+			<add x="147532" y="115986" zmin="-3758" zmax="-3558" />
+		</territory>
+		<npc id="22851" /><!--Drake Mage-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="149074" y="116145" zmin="-3762" zmax="-3562" />
+			<add x="148660" y="116089" zmin="-3762" zmax="-3562" />
+			<add x="148398" y="115654" zmin="-3762" zmax="-3562" />
+			<add x="149211" y="114662" zmin="-3762" zmax="-3562" />
+			<add x="149447" y="114703" zmin="-3762" zmax="-3562" />
+			<add x="149407" y="115857" zmin="-3762" zmax="-3562" />
+		</territory>
+		<npc id="22851" /><!--Drake Mage-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="147688" y="112881" zmin="-3773" zmax="-3573" />
+			<add x="146855" y="111908" zmin="-3773" zmax="-3573" />
+			<add x="146144" y="112116" zmin="-3773" zmax="-3573" />
+			<add x="145701" y="112734" zmin="-3773" zmax="-3573" />
+			<add x="146805" y="113117" zmin="-3773" zmax="-3573" />
+		</territory>
+		<npc id="22851" /><!--Drake Mage-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="148755" y="111684" zmin="-3765" zmax="-3565" />
+			<add x="147079" y="112078" zmin="-3765" zmax="-3565" />
+			<add x="147731" y="112835" zmin="-3765" zmax="-3565" />
+			<add x="148489" y="112993" zmin="-3765" zmax="-3565" />
+			<add x="149243" y="112931" zmin="-3765" zmax="-3565" />
+			<add x="149093" y="112090" zmin="-3765" zmax="-3565" />
+		</territory>
+		<npc id="22851" /><!--Drake Mage-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="146594" y="116155" zmin="-3758" zmax="-3558" />
+			<add x="146927" y="117084" zmin="-3758" zmax="-3558" />
+			<add x="147396" y="116946" zmin="-3758" zmax="-3558" />
+			<add x="147593" y="116581" zmin="-3758" zmax="-3558" />
+			<add x="147532" y="115986" zmin="-3758" zmax="-3558" />
+		</territory>
+		<npc id="22850" /><!--Drake Scout-->
+	</spawn>
+	<spawn count="6" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="146805" y="113117" zmin="-3773" zmax="-3573" />
+			<add x="147688" y="112881" zmin="-3773" zmax="-3573" />
+			<add x="146855" y="111908" zmin="-3773" zmax="-3573" />
+			<add x="146144" y="112116" zmin="-3773" zmax="-3573" />
+			<add x="145701" y="112734" zmin="-3773" zmax="-3573" />
+		</territory>
+		<npc id="22850" /><!--Drake Scout-->
+	</spawn>
+	<spawn count="5" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="148755" y="111684" zmin="-3765" zmax="-3565" />
+			<add x="147079" y="112078" zmin="-3765" zmax="-3565" />
+			<add x="147731" y="112835" zmin="-3765" zmax="-3565" />
+			<add x="148489" y="112993" zmin="-3765" zmax="-3565" />
+			<add x="149243" y="112931" zmin="-3765" zmax="-3565" />
+			<add x="149093" y="112090" zmin="-3765" zmax="-3565" />
+		</territory>
+		<npc id="22850" /><!--Drake Scout-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="148679" y="113049" zmin="-3770" zmax="-3570" />
+			<add x="148988" y="114546" zmin="-3770" zmax="-3570" />
+			<add x="149439" y="114416" zmin="-3770" zmax="-3570" />
+			<add x="149261" y="112973" zmin="-3770" zmax="-3570" />
+		</territory>
+		<npc id="22850" /><!--Drake Scout-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="149074" y="116145" zmin="-3762" zmax="-3562" />
+			<add x="148660" y="116089" zmin="-3762" zmax="-3562" />
+			<add x="148398" y="115654" zmin="-3762" zmax="-3562" />
+			<add x="149211" y="114662" zmin="-3762" zmax="-3562" />
+			<add x="149447" y="114703" zmin="-3762" zmax="-3562" />
+			<add x="149407" y="115857" zmin="-3762" zmax="-3562" />
+		</territory>
+		<npc id="22850" /><!--Drake Scout-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="148679" y="113049" zmin="-3770" zmax="-3570" />
+			<add x="148988" y="114546" zmin="-3770" zmax="-3570" />
+			<add x="149439" y="114416" zmin="-3770" zmax="-3570" />
+			<add x="149261" y="112973" zmin="-3770" zmax="-3570" />
+		</territory>
+		<npc id="22850" /><!--Drake Scout-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="149074" y="116145" zmin="-3762" zmax="-3562" />
+			<add x="148660" y="116089" zmin="-3762" zmax="-3562" />
+			<add x="148398" y="115654" zmin="-3762" zmax="-3562" />
+			<add x="149211" y="114662" zmin="-3762" zmax="-3562" />
+			<add x="149447" y="114703" zmin="-3762" zmax="-3562" />
+			<add x="149407" y="115857" zmin="-3762" zmax="-3562" />
+		</territory>
+		<npc id="22850" /><!--Drake Scout-->
+	</spawn>
+<!--LOA Monsters-->
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="135504" y="113765" zmin="-3748" zmax="-3548" />
+			<add x="135808" y="113732" zmin="-3748" zmax="-3548" />
+			<add x="135718" y="115105" zmin="-3748" zmax="-3548" />
+			<add x="135384" y="114998" zmin="-3748" zmax="-3548" />
+			<add x="135133" y="114652" zmin="-3748" zmax="-3548" />
+			<add x="135107" y="114175" zmin="-3748" zmax="-3548" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="135504" y="113765" zmin="-3748" zmax="-3548" />
+			<add x="135808" y="113732" zmin="-3748" zmax="-3548" />
+			<add x="135718" y="115105" zmin="-3748" zmax="-3548" />
+			<add x="135384" y="114998" zmin="-3748" zmax="-3548" />
+			<add x="135133" y="114652" zmin="-3748" zmax="-3548" />
+			<add x="135107" y="114175" zmin="-3748" zmax="-3548" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="135504" y="113765" zmin="-3748" zmax="-3548" />
+			<add x="135808" y="113732" zmin="-3748" zmax="-3548" />
+			<add x="135718" y="115105" zmin="-3748" zmax="-3548" />
+			<add x="135384" y="114998" zmin="-3748" zmax="-3548" />
+			<add x="135133" y="114652" zmin="-3748" zmax="-3548" />
+			<add x="135107" y="114175" zmin="-3748" zmax="-3548" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="136352" y="113594" zmin="-3760" zmax="-3560" />
+			<add x="136642" y="113684" zmin="-3760" zmax="-3560" />
+			<add x="137048" y="114204" zmin="-3760" zmax="-3560" />
+			<add x="137078" y="114720" zmin="-3760" zmax="-3560" />
+			<add x="136228" y="115234" zmin="-3760" zmax="-3560" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="136352" y="113594" zmin="-3760" zmax="-3560" />
+			<add x="136642" y="113684" zmin="-3760" zmax="-3560" />
+			<add x="137048" y="114204" zmin="-3760" zmax="-3560" />
+			<add x="137078" y="114720" zmin="-3760" zmax="-3560" />
+			<add x="136228" y="115234" zmin="-3760" zmax="-3560" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="136352" y="113594" zmin="-3760" zmax="-3560" />
+			<add x="136642" y="113684" zmin="-3760" zmax="-3560" />
+			<add x="137048" y="114204" zmin="-3760" zmax="-3560" />
+			<add x="137078" y="114720" zmin="-3760" zmax="-3560" />
+			<add x="136228" y="115234" zmin="-3760" zmax="-3560" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="139452" y="114235" zmin="-3776" zmax="-3576" />
+			<add x="140563" y="113690" zmin="-3776" zmax="-3576" />
+			<add x="141298" y="114113" zmin="-3776" zmax="-3576" />
+			<add x="141316" y="114663" zmin="-3776" zmax="-3576" />
+			<add x="140377" y="115242" zmin="-3776" zmax="-3576" />
+			<add x="139488" y="114608" zmin="-3776" zmax="-3576" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="139452" y="114235" zmin="-3776" zmax="-3576" />
+			<add x="140563" y="113690" zmin="-3776" zmax="-3576" />
+			<add x="141298" y="114113" zmin="-3776" zmax="-3576" />
+			<add x="141316" y="114663" zmin="-3776" zmax="-3576" />
+			<add x="140377" y="115242" zmin="-3776" zmax="-3576" />
+			<add x="139488" y="114608" zmin="-3776" zmax="-3576" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="139452" y="114235" zmin="-3776" zmax="-3576" />
+			<add x="140563" y="113690" zmin="-3776" zmax="-3576" />
+			<add x="141298" y="114113" zmin="-3776" zmax="-3576" />
+			<add x="141316" y="114663" zmin="-3776" zmax="-3576" />
+			<add x="140377" y="115242" zmin="-3776" zmax="-3576" />
+			<add x="139488" y="114608" zmin="-3776" zmax="-3576" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141348" y="114105" zmin="-3763" zmax="-3563" />
+			<add x="141762" y="114302" zmin="-3763" zmax="-3563" />
+			<add x="142202" y="114564" zmin="-3763" zmax="-3563" />
+			<add x="141943" y="114735" zmin="-3763" zmax="-3563" />
+			<add x="141353" y="114698" zmin="-3763" zmax="-3563" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141348" y="114105" zmin="-3763" zmax="-3563" />
+			<add x="141762" y="114302" zmin="-3763" zmax="-3563" />
+			<add x="142202" y="114564" zmin="-3763" zmax="-3563" />
+			<add x="141943" y="114735" zmin="-3763" zmax="-3563" />
+			<add x="141353" y="114698" zmin="-3763" zmax="-3563" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141348" y="114105" zmin="-3763" zmax="-3563" />
+			<add x="141762" y="114302" zmin="-3763" zmax="-3563" />
+			<add x="142202" y="114564" zmin="-3763" zmax="-3563" />
+			<add x="141943" y="114735" zmin="-3763" zmax="-3563" />
+			<add x="141353" y="114698" zmin="-3763" zmax="-3563" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142243" y="113448" zmin="-3759" zmax="-3559" />
+			<add x="142818" y="113352" zmin="-3759" zmax="-3559" />
+			<add x="142227" y="114534" zmin="-3759" zmax="-3559" />
+			<add x="141803" y="114335" zmin="-3759" zmax="-3559" />
+			<add x="142176" y="113782" zmin="-3759" zmax="-3559" />
+		</territory>
+		<npc id="22838" /><!--Malruk Leader-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142243" y="113448" zmin="-3759" zmax="-3559" />
+			<add x="142818" y="113352" zmin="-3759" zmax="-3559" />
+			<add x="142227" y="114534" zmin="-3759" zmax="-3559" />
+			<add x="141803" y="114335" zmin="-3759" zmax="-3559" />
+			<add x="142176" y="113782" zmin="-3759" zmax="-3559" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142243" y="113448" zmin="-3759" zmax="-3559" />
+			<add x="142818" y="113352" zmin="-3759" zmax="-3559" />
+			<add x="142227" y="114534" zmin="-3759" zmax="-3559" />
+			<add x="141803" y="114335" zmin="-3759" zmax="-3559" />
+			<add x="142176" y="113782" zmin="-3759" zmax="-3559" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="143466" y="113975" zmin="-3768" zmax="-3568" />
+			<add x="143442" y="114902" zmin="-3768" zmax="-3568" />
+			<add x="142784" y="113892" zmin="-3768" zmax="-3568" />
+			<add x="142562" y="113964" zmin="-3768" zmax="-3568" />
+			<add x="142674" y="113625" zmin="-3768" zmax="-3568" />
+			<add x="142823" y="113364" zmin="-3768" zmax="-3568" />
+			<add x="143113" y="113588" zmin="-3768" zmax="-3568" />
+		</territory>
+		<npc id="22838" /><!--Malruk Leader-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="143466" y="113975" zmin="-3768" zmax="-3568" />
+			<add x="143442" y="114902" zmin="-3768" zmax="-3568" />
+			<add x="142784" y="113892" zmin="-3768" zmax="-3568" />
+			<add x="142562" y="113964" zmin="-3768" zmax="-3568" />
+			<add x="142674" y="113625" zmin="-3768" zmax="-3568" />
+			<add x="142823" y="113364" zmin="-3768" zmax="-3568" />
+			<add x="143113" y="113588" zmin="-3768" zmax="-3568" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="143466" y="113975" zmin="-3768" zmax="-3568" />
+			<add x="143442" y="114902" zmin="-3768" zmax="-3568" />
+			<add x="142784" y="113892" zmin="-3768" zmax="-3568" />
+			<add x="142562" y="113964" zmin="-3768" zmax="-3568" />
+			<add x="142674" y="113625" zmin="-3768" zmax="-3568" />
+			<add x="142823" y="113364" zmin="-3768" zmax="-3568" />
+			<add x="143113" y="113588" zmin="-3768" zmax="-3568" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="140554" y="112460" zmin="-3757" zmax="-3557" />
+			<add x="141593" y="113082" zmin="-3757" zmax="-3557" />
+			<add x="140764" y="113548" zmin="-3757" zmax="-3557" />
+			<add x="140564" y="113282" zmin="-3757" zmax="-3557" />
+		</territory>
+		<npc id="22839" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="140554" y="112460" zmin="-3757" zmax="-3557" />
+			<add x="141593" y="113082" zmin="-3757" zmax="-3557" />
+			<add x="140764" y="113548" zmin="-3757" zmax="-3557" />
+			<add x="140564" y="113282" zmin="-3757" zmax="-3557" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="140554" y="112460" zmin="-3757" zmax="-3557" />
+			<add x="141593" y="113082" zmin="-3757" zmax="-3557" />
+			<add x="140764" y="113548" zmin="-3757" zmax="-3557" />
+			<add x="140564" y="113282" zmin="-3757" zmax="-3557" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141212" y="112225" zmin="-3808" zmax="-3558" />
+			<add x="142017" y="111975" zmin="-3808" zmax="-3558" />
+			<add x="142074" y="112228" zmin="-3808" zmax="-3558" />
+			<add x="141586" y="113035" zmin="-3808" zmax="-3558" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141212" y="112225" zmin="-3808" zmax="-3558" />
+			<add x="142017" y="111975" zmin="-3808" zmax="-3558" />
+			<add x="142074" y="112228" zmin="-3808" zmax="-3558" />
+			<add x="141586" y="113035" zmin="-3808" zmax="-3558" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141212" y="112225" zmin="-3808" zmax="-3558" />
+			<add x="142017" y="111975" zmin="-3808" zmax="-3558" />
+			<add x="142074" y="112228" zmin="-3808" zmax="-3558" />
+			<add x="141586" y="113035" zmin="-3808" zmax="-3558" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142668" y="111555" zmin="-3983" zmax="-3783" />
+			<add x="144804" y="112263" zmin="-3983" zmax="-3783" />
+			<add x="144363" y="112923" zmin="-3983" zmax="-3783" />
+			<add x="143943" y="113035" zmin="-3983" zmax="-3783" />
+			<add x="143212" y="112700" zmin="-3983" zmax="-3783" />
+			<add x="142706" y="112052" zmin="-3983" zmax="-3783" />
+		</territory>
+		<npc id="22838" /><!--Malruk Leader-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142668" y="111555" zmin="-3983" zmax="-3783" />
+			<add x="144804" y="112263" zmin="-3983" zmax="-3783" />
+			<add x="144363" y="112923" zmin="-3983" zmax="-3783" />
+			<add x="143943" y="113035" zmin="-3983" zmax="-3783" />
+			<add x="143212" y="112700" zmin="-3983" zmax="-3783" />
+			<add x="142706" y="112052" zmin="-3983" zmax="-3783" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142668" y="111555" zmin="-3983" zmax="-3783" />
+			<add x="144804" y="112263" zmin="-3983" zmax="-3783" />
+			<add x="144363" y="112923" zmin="-3983" zmax="-3783" />
+			<add x="143943" y="113035" zmin="-3983" zmax="-3783" />
+			<add x="143212" y="112700" zmin="-3983" zmax="-3783" />
+			<add x="142706" y="112052" zmin="-3983" zmax="-3783" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142668" y="111555" zmin="-3983" zmax="-3783" />
+			<add x="144804" y="112263" zmin="-3983" zmax="-3783" />
+			<add x="144363" y="112923" zmin="-3983" zmax="-3783" />
+			<add x="143943" y="113035" zmin="-3983" zmax="-3783" />
+			<add x="143212" y="112700" zmin="-3983" zmax="-3783" />
+			<add x="142706" y="112052" zmin="-3983" zmax="-3783" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142902" y="108182" zmin="-3990" zmax="-3790" />
+			<add x="143467" y="108568" zmin="-3990" zmax="-3790" />
+			<add x="143553" y="108922" zmin="-3990" zmax="-3790" />
+			<add x="143438" y="109045" zmin="-3990" zmax="-3790" />
+			<add x="142528" y="108983" zmin="-3990" zmax="-3790" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142902" y="108182" zmin="-3990" zmax="-3790" />
+			<add x="143467" y="108568" zmin="-3990" zmax="-3790" />
+			<add x="143553" y="108922" zmin="-3990" zmax="-3790" />
+			<add x="143438" y="109045" zmin="-3990" zmax="-3790" />
+			<add x="142528" y="108983" zmin="-3990" zmax="-3790" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142902" y="108182" zmin="-3990" zmax="-3790" />
+			<add x="143467" y="108568" zmin="-3990" zmax="-3790" />
+			<add x="143553" y="108922" zmin="-3990" zmax="-3790" />
+			<add x="143438" y="109045" zmin="-3990" zmax="-3790" />
+			<add x="142528" y="108983" zmin="-3990" zmax="-3790" />
+		</territory>
+		<npc id="22842" /><!--Malruk Banshee-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142902" y="108182" zmin="-3990" zmax="-3790" />
+			<add x="143467" y="108568" zmin="-3990" zmax="-3790" />
+			<add x="143553" y="108922" zmin="-3990" zmax="-3790" />
+			<add x="143438" y="109045" zmin="-3990" zmax="-3790" />
+			<add x="142528" y="108983" zmin="-3990" zmax="-3790" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="10" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="140434" y="107642" zmin="-3984" zmax="-3784" />
+			<add x="141248" y="108255" zmin="-3984" zmax="-3784" />
+			<add x="141694" y="109137" zmin="-3984" zmax="-3784" />
+			<add x="141192" y="110593" zmin="-3984" zmax="-3784" />
+			<add x="140433" y="111235" zmin="-3984" zmax="-3784" />
+			<add x="140016" y="110405" zmin="-3984" zmax="-3784" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="5" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="140434" y="107642" zmin="-3984" zmax="-3784" />
+			<add x="141248" y="108255" zmin="-3984" zmax="-3784" />
+			<add x="141694" y="109137" zmin="-3984" zmax="-3784" />
+			<add x="141192" y="110593" zmin="-3984" zmax="-3784" />
+			<add x="140433" y="111235" zmin="-3984" zmax="-3784" />
+			<add x="140016" y="110405" zmin="-3984" zmax="-3784" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="140434" y="107642" zmin="-3984" zmax="-3784" />
+			<add x="141248" y="108255" zmin="-3984" zmax="-3784" />
+			<add x="141694" y="109137" zmin="-3984" zmax="-3784" />
+			<add x="141192" y="110593" zmin="-3984" zmax="-3784" />
+			<add x="140433" y="111235" zmin="-3984" zmax="-3784" />
+			<add x="140016" y="110405" zmin="-3984" zmax="-3784" />
+		</territory>
+		<npc id="22842" /><!--Malruk Banshee-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="140434" y="107642" zmin="-3984" zmax="-3784" />
+			<add x="141248" y="108255" zmin="-3984" zmax="-3784" />
+			<add x="141694" y="109137" zmin="-3984" zmax="-3784" />
+			<add x="141192" y="110593" zmin="-3984" zmax="-3784" />
+			<add x="140433" y="111235" zmin="-3984" zmax="-3784" />
+			<add x="140016" y="110405" zmin="-3984" zmax="-3784" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="4" respawn="120" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141598" y="107145" zmin="-3952" zmax="-3752" />
+			<add x="142502" y="106757" zmin="-3952" zmax="-3752" />
+			<add x="142884" y="106865" zmin="-3952" zmax="-3752" />
+			<add x="143282" y="107114" zmin="-3952" zmax="-3752" />
+			<add x="142594" y="107832" zmin="-3952" zmax="-3752" />
+			<add x="141536" y="107287" zmin="-3952" zmax="-3752" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="3" respawn="120" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141598" y="107145" zmin="-3952" zmax="-3752" />
+			<add x="142502" y="106757" zmin="-3952" zmax="-3752" />
+			<add x="142884" y="106865" zmin="-3952" zmax="-3752" />
+			<add x="143282" y="107114" zmin="-3952" zmax="-3752" />
+			<add x="142594" y="107832" zmin="-3952" zmax="-3752" />
+			<add x="141536" y="107287" zmin="-3952" zmax="-3752" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141598" y="107145" zmin="-3952" zmax="-3752" />
+			<add x="142502" y="106757" zmin="-3952" zmax="-3752" />
+			<add x="142884" y="106865" zmin="-3952" zmax="-3752" />
+			<add x="143282" y="107114" zmin="-3952" zmax="-3752" />
+			<add x="142594" y="107832" zmin="-3952" zmax="-3752" />
+			<add x="141536" y="107287" zmin="-3952" zmax="-3752" />
+		</territory>
+		<npc id="22842" /><!--Malruk Banshee-->
+	</spawn>
+	<spawn count="2" respawn="120" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141598" y="107145" zmin="-3952" zmax="-3752" />
+			<add x="142502" y="106757" zmin="-3952" zmax="-3752" />
+			<add x="142884" y="106865" zmin="-3952" zmax="-3752" />
+			<add x="143282" y="107114" zmin="-3952" zmax="-3752" />
+			<add x="142594" y="107832" zmin="-3952" zmax="-3752" />
+			<add x="141536" y="107287" zmin="-3952" zmax="-3752" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="8" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="143953" y="107415" zmin="-4000" zmax="-3800" />
+			<add x="144852" y="107172" zmin="-4000" zmax="-3800" />
+			<add x="146008" y="108305" zmin="-4000" zmax="-3800" />
+			<add x="146087" y="109440" zmin="-4000" zmax="-3800" />
+			<add x="145672" y="110828" zmin="-4000" zmax="-3800" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="143953" y="107415" zmin="-4000" zmax="-3800" />
+			<add x="144852" y="107172" zmin="-4000" zmax="-3800" />
+			<add x="146008" y="108305" zmin="-4000" zmax="-3800" />
+			<add x="146087" y="109440" zmin="-4000" zmax="-3800" />
+			<add x="145672" y="110828" zmin="-4000" zmax="-3800" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="5" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="143953" y="107415" zmin="-4000" zmax="-3800" />
+			<add x="144852" y="107172" zmin="-4000" zmax="-3800" />
+			<add x="146008" y="108305" zmin="-4000" zmax="-3800" />
+			<add x="146087" y="109440" zmin="-4000" zmax="-3800" />
+			<add x="145672" y="110828" zmin="-4000" zmax="-3800" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="143953" y="107415" zmin="-4000" zmax="-3800" />
+			<add x="144852" y="107172" zmin="-4000" zmax="-3800" />
+			<add x="146008" y="108305" zmin="-4000" zmax="-3800" />
+			<add x="146087" y="109440" zmin="-4000" zmax="-3800" />
+			<add x="145672" y="110828" zmin="-4000" zmax="-3800" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="5" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="146992" y="109062" zmin="-3984" zmax="-3784" />
+			<add x="147827" y="109322" zmin="-3984" zmax="-3784" />
+			<add x="147773" y="110565" zmin="-3984" zmax="-3784" />
+			<add x="147772" y="110845" zmin="-3984" zmax="-3784" />
+			<add x="146803" y="110545" zmin="-3984" zmax="-3784" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="146992" y="109062" zmin="-3984" zmax="-3784" />
+			<add x="147827" y="109322" zmin="-3984" zmax="-3784" />
+			<add x="147773" y="110565" zmin="-3984" zmax="-3784" />
+			<add x="147772" y="110845" zmin="-3984" zmax="-3784" />
+			<add x="146803" y="110545" zmin="-3984" zmax="-3784" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="146992" y="109062" zmin="-3984" zmax="-3784" />
+			<add x="147827" y="109322" zmin="-3984" zmax="-3784" />
+			<add x="147773" y="110565" zmin="-3984" zmax="-3784" />
+			<add x="147772" y="110845" zmin="-3984" zmax="-3784" />
+			<add x="146803" y="110545" zmin="-3984" zmax="-3784" />
+		</territory>
+		<npc id="22842" /><!--mMalruk Banshee-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="146992" y="109062" zmin="-3984" zmax="-3784" />
+			<add x="147827" y="109322" zmin="-3984" zmax="-3784" />
+			<add x="147773" y="110565" zmin="-3984" zmax="-3784" />
+			<add x="147772" y="110845" zmin="-3984" zmax="-3784" />
+			<add x="146803" y="110545" zmin="-3984" zmax="-3784" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="143268" y="109775" zmin="-3984" zmax="-3784" />
+			<add x="143902" y="109724" zmin="-3984" zmax="-3784" />
+			<add x="144196" y="109902" zmin="-3984" zmax="-3784" />
+			<add x="144288" y="110328" zmin="-3984" zmax="-3784" />
+			<add x="144148" y="110708" zmin="-3984" zmax="-3784" />
+			<add x="143808" y="110852" zmin="-3984" zmax="-3784" />
+			<add x="143524" y="110828" zmin="-3984" zmax="-3784" />
+			<add x="143072" y="110368" zmin="-3984" zmax="-3784" />
+		</territory>
+		<npc id="22838" /><!--Malruk Leader-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="143268" y="109775" zmin="-3984" zmax="-3784" />
+			<add x="143902" y="109724" zmin="-3984" zmax="-3784" />
+			<add x="144196" y="109902" zmin="-3984" zmax="-3784" />
+			<add x="144288" y="110328" zmin="-3984" zmax="-3784" />
+			<add x="144148" y="110708" zmin="-3984" zmax="-3784" />
+			<add x="143808" y="110852" zmin="-3984" zmax="-3784" />
+			<add x="143524" y="110828" zmin="-3984" zmax="-3784" />
+			<add x="143072" y="110368" zmin="-3984" zmax="-3784" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="143268" y="109775" zmin="-3984" zmax="-3784" />
+			<add x="143902" y="109724" zmin="-3984" zmax="-3784" />
+			<add x="144196" y="109902" zmin="-3984" zmax="-3784" />
+			<add x="144288" y="110328" zmin="-3984" zmax="-3784" />
+			<add x="144148" y="110708" zmin="-3984" zmax="-3784" />
+			<add x="143808" y="110852" zmin="-3984" zmax="-3784" />
+			<add x="143524" y="110828" zmin="-3984" zmax="-3784" />
+			<add x="143072" y="110368" zmin="-3984" zmax="-3784" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="143268" y="109775" zmin="-3984" zmax="-3784" />
+			<add x="143902" y="109724" zmin="-3984" zmax="-3784" />
+			<add x="144196" y="109902" zmin="-3984" zmax="-3784" />
+			<add x="144288" y="110328" zmin="-3984" zmax="-3784" />
+			<add x="144148" y="110708" zmin="-3984" zmax="-3784" />
+			<add x="143808" y="110852" zmin="-3984" zmax="-3784" />
+			<add x="143524" y="110828" zmin="-3984" zmax="-3784" />
+			<add x="143072" y="110368" zmin="-3984" zmax="-3784" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="8" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="140047" y="117250" zmin="-3965" zmax="-3765" />
+			<add x="141174" y="117524" zmin="-3965" zmax="-3765" />
+			<add x="141238" y="117933" zmin="-3965" zmax="-3765" />
+			<add x="140894" y="119395" zmin="-3965" zmax="-3765" />
+			<add x="140353" y="119740" zmin="-3965" zmax="-3765" />
+			<add x="139752" y="118884" zmin="-3965" zmax="-3765" />
+			<add x="139734" y="118074" zmin="-3965" zmax="-3765" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="140047" y="117250" zmin="-3965" zmax="-3765" />
+			<add x="141174" y="117524" zmin="-3965" zmax="-3765" />
+			<add x="141238" y="117933" zmin="-3965" zmax="-3765" />
+			<add x="140894" y="119395" zmin="-3965" zmax="-3765" />
+			<add x="140353" y="119740" zmin="-3965" zmax="-3765" />
+			<add x="139752" y="118884" zmin="-3965" zmax="-3765" />
+			<add x="139734" y="118074" zmin="-3965" zmax="-3765" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="140047" y="117250" zmin="-3965" zmax="-3765" />
+			<add x="141174" y="117524" zmin="-3965" zmax="-3765" />
+			<add x="141238" y="117933" zmin="-3965" zmax="-3765" />
+			<add x="140894" y="119395" zmin="-3965" zmax="-3765" />
+			<add x="140353" y="119740" zmin="-3965" zmax="-3765" />
+			<add x="139752" y="118884" zmin="-3965" zmax="-3765" />
+			<add x="139734" y="118074" zmin="-3965" zmax="-3765" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="140047" y="117250" zmin="-3965" zmax="-3765" />
+			<add x="141174" y="117524" zmin="-3965" zmax="-3765" />
+			<add x="141238" y="117933" zmin="-3965" zmax="-3765" />
+			<add x="140894" y="119395" zmin="-3965" zmax="-3765" />
+			<add x="140353" y="119740" zmin="-3965" zmax="-3765" />
+			<add x="139752" y="118884" zmin="-3965" zmax="-3765" />
+			<add x="139734" y="118074" zmin="-3965" zmax="-3765" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142772" y="115884" zmin="-3965" zmax="-3765" />
+			<add x="143387" y="116115" zmin="-3965" zmax="-3765" />
+			<add x="143764" y="116888" zmin="-3965" zmax="-3765" />
+			<add x="143727" y="117830" zmin="-3965" zmax="-3765" />
+			<add x="143067" y="118220" zmin="-3965" zmax="-3765" />
+			<add x="141508" y="117362" zmin="-3965" zmax="-3765" />
+			<add x="142074" y="116185" zmin="-3965" zmax="-3765" />
+		</territory>
+		<npc id="22838" /><!--Malruk Leader-->
+	</spawn>
+	<spawn count="6" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142772" y="115884" zmin="-3965" zmax="-3765" />
+			<add x="143387" y="116115" zmin="-3965" zmax="-3765" />
+			<add x="143764" y="116888" zmin="-3965" zmax="-3765" />
+			<add x="143727" y="117830" zmin="-3965" zmax="-3765" />
+			<add x="143067" y="118220" zmin="-3965" zmax="-3765" />
+			<add x="141508" y="117362" zmin="-3965" zmax="-3765" />
+			<add x="142074" y="116185" zmin="-3965" zmax="-3765" />
+		</territory>
+		<npc id="22839" /><!--22839-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142772" y="115884" zmin="-3965" zmax="-3765" />
+			<add x="143387" y="116115" zmin="-3965" zmax="-3765" />
+			<add x="143764" y="116888" zmin="-3965" zmax="-3765" />
+			<add x="143727" y="117830" zmin="-3965" zmax="-3765" />
+			<add x="143067" y="118220" zmin="-3965" zmax="-3765" />
+			<add x="141508" y="117362" zmin="-3965" zmax="-3765" />
+			<add x="142074" y="116185" zmin="-3965" zmax="-3765" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142772" y="115884" zmin="-3965" zmax="-3765" />
+			<add x="143387" y="116115" zmin="-3965" zmax="-3765" />
+			<add x="143764" y="116888" zmin="-3965" zmax="-3765" />
+			<add x="143727" y="117830" zmin="-3965" zmax="-3765" />
+			<add x="143067" y="118220" zmin="-3965" zmax="-3765" />
+			<add x="141508" y="117362" zmin="-3965" zmax="-3765" />
+			<add x="142074" y="116185" zmin="-3965" zmax="-3765" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141618" y="118985" zmin="-3955" zmax="-3755" />
+			<add x="142002" y="118563" zmin="-3955" zmax="-3755" />
+			<add x="142882" y="118425" zmin="-3955" zmax="-3755" />
+			<add x="142904" y="119105" zmin="-3955" zmax="-3755" />
+			<add x="142454" y="119717" zmin="-3955" zmax="-3755" />
+			<add x="141923" y="119554" zmin="-3955" zmax="-3755" />
+			<add x="141584" y="119245" zmin="-3955" zmax="-3755" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141618" y="118985" zmin="-3955" zmax="-3755" />
+			<add x="142002" y="118563" zmin="-3955" zmax="-3755" />
+			<add x="142882" y="118425" zmin="-3955" zmax="-3755" />
+			<add x="142904" y="119105" zmin="-3955" zmax="-3755" />
+			<add x="142454" y="119717" zmin="-3955" zmax="-3755" />
+			<add x="141923" y="119554" zmin="-3955" zmax="-3755" />
+			<add x="141584" y="119245" zmin="-3955" zmax="-3755" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141618" y="118985" zmin="-3955" zmax="-3755" />
+			<add x="142002" y="118563" zmin="-3955" zmax="-3755" />
+			<add x="142882" y="118425" zmin="-3955" zmax="-3755" />
+			<add x="142904" y="119105" zmin="-3955" zmax="-3755" />
+			<add x="142454" y="119717" zmin="-3955" zmax="-3755" />
+			<add x="141923" y="119554" zmin="-3955" zmax="-3755" />
+			<add x="141584" y="119245" zmin="-3955" zmax="-3755" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141618" y="118985" zmin="-3955" zmax="-3755" />
+			<add x="142002" y="118563" zmin="-3955" zmax="-3755" />
+			<add x="142882" y="118425" zmin="-3955" zmax="-3755" />
+			<add x="142904" y="119105" zmin="-3955" zmax="-3755" />
+			<add x="142454" y="119717" zmin="-3955" zmax="-3755" />
+			<add x="141923" y="119554" zmin="-3955" zmax="-3755" />
+			<add x="141584" y="119245" zmin="-3955" zmax="-3755" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="120" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="140368" y="120325" zmin="-3946" zmax="-3746" />
+			<add x="141286" y="120788" zmin="-3946" zmax="-3746" />
+			<add x="141493" y="121005" zmin="-3946" zmax="-3746" />
+			<add x="140158" y="121224" zmin="-3946" zmax="-3746" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="120" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="140368" y="120325" zmin="-3946" zmax="-3746" />
+			<add x="141286" y="120788" zmin="-3946" zmax="-3746" />
+			<add x="141493" y="121005" zmin="-3946" zmax="-3746" />
+			<add x="140158" y="121224" zmin="-3946" zmax="-3746" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="120" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="140082" y="121282" zmin="-3963" zmax="-3763" />
+			<add x="141534" y="121905" zmin="-3963" zmax="-3763" />
+			<add x="141162" y="122045" zmin="-3963" zmax="-3763" />
+			<add x="140158" y="121804" zmin="-3963" zmax="-3763" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="120" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="140082" y="121282" zmin="-3963" zmax="-3763" />
+			<add x="141534" y="121905" zmin="-3963" zmax="-3763" />
+			<add x="141162" y="122045" zmin="-3963" zmax="-3763" />
+			<add x="140158" y="121804" zmin="-3963" zmax="-3763" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="120" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141016" y="121130" zmin="-3951" zmax="-3751" />
+			<add x="141547" y="121015" zmin="-3951" zmax="-3751" />
+			<add x="142103" y="121657" zmin="-3951" zmax="-3751" />
+			<add x="141573" y="121888" zmin="-3951" zmax="-3751" />
+			<add x="140938" y="121605" zmin="-3951" zmax="-3751" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="120" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="141016" y="121130" zmin="-3951" zmax="-3751" />
+			<add x="141547" y="121015" zmin="-3951" zmax="-3751" />
+			<add x="142103" y="121657" zmin="-3951" zmax="-3751" />
+			<add x="141573" y="121888" zmin="-3951" zmax="-3751" />
+			<add x="140938" y="121605" zmin="-3951" zmax="-3751" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="7" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142657" y="120064" zmin="-3953" zmax="-3753" />
+			<add x="143906" y="119675" zmin="-3953" zmax="-3753" />
+			<add x="144422" y="120125" zmin="-3953" zmax="-3753" />
+			<add x="144652" y="121168" zmin="-3953" zmax="-3753" />
+			<add x="143516" y="121830" zmin="-3953" zmax="-3753" />
+			<add x="142124" y="121657" zmin="-3953" zmax="-3753" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142657" y="120064" zmin="-3953" zmax="-3753" />
+			<add x="143906" y="119675" zmin="-3953" zmax="-3753" />
+			<add x="144422" y="120125" zmin="-3953" zmax="-3753" />
+			<add x="144652" y="121168" zmin="-3953" zmax="-3753" />
+			<add x="143516" y="121830" zmin="-3953" zmax="-3753" />
+			<add x="142124" y="121657" zmin="-3953" zmax="-3753" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142657" y="120064" zmin="-3953" zmax="-3753" />
+			<add x="143906" y="119675" zmin="-3953" zmax="-3753" />
+			<add x="144422" y="120125" zmin="-3953" zmax="-3753" />
+			<add x="144652" y="121168" zmin="-3953" zmax="-3753" />
+			<add x="143516" y="121830" zmin="-3953" zmax="-3753" />
+			<add x="142124" y="121657" zmin="-3953" zmax="-3753" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="142657" y="120064" zmin="-3953" zmax="-3753" />
+			<add x="143906" y="119675" zmin="-3953" zmax="-3753" />
+			<add x="144422" y="120125" zmin="-3953" zmax="-3753" />
+			<add x="144652" y="121168" zmin="-3953" zmax="-3753" />
+			<add x="143516" y="121830" zmin="-3953" zmax="-3753" />
+			<add x="142124" y="121657" zmin="-3953" zmax="-3753" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="144693" y="121264" zmin="-3957" zmax="-3757" />
+			<add x="146028" y="121932" zmin="-3957" zmax="-3757" />
+			<add x="145738" y="122032" zmin="-3957" zmax="-3757" />
+			<add x="144334" y="121605" zmin="-3957" zmax="-3757" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="144693" y="121264" zmin="-3957" zmax="-3757" />
+			<add x="146028" y="121932" zmin="-3957" zmax="-3757" />
+			<add x="145738" y="122032" zmin="-3957" zmax="-3757" />
+			<add x="144334" y="121605" zmin="-3957" zmax="-3757" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="144727" y="116955" zmin="-3949" zmax="-3749" />
+			<add x="145528" y="118350" zmin="-3949" zmax="-3749" />
+			<add x="145318" y="118715" zmin="-3949" zmax="-3749" />
+			<add x="144532" y="119030" zmin="-3949" zmax="-3749" />
+			<add x="144442" y="118343" zmin="-3949" zmax="-3749" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="144727" y="116955" zmin="-3949" zmax="-3749" />
+			<add x="145528" y="118350" zmin="-3949" zmax="-3749" />
+			<add x="145318" y="118715" zmin="-3949" zmax="-3749" />
+			<add x="144532" y="119030" zmin="-3949" zmax="-3749" />
+			<add x="144442" y="118343" zmin="-3949" zmax="-3749" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="144727" y="116955" zmin="-3949" zmax="-3749" />
+			<add x="145528" y="118350" zmin="-3949" zmax="-3749" />
+			<add x="145318" y="118715" zmin="-3949" zmax="-3749" />
+			<add x="144532" y="119030" zmin="-3949" zmax="-3749" />
+			<add x="144442" y="118343" zmin="-3949" zmax="-3749" />
+		</territory>
+		<npc id="22842" /><!--Malruk Banshee-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="144727" y="116955" zmin="-3949" zmax="-3749" />
+			<add x="145528" y="118350" zmin="-3949" zmax="-3749" />
+			<add x="145318" y="118715" zmin="-3949" zmax="-3749" />
+			<add x="144532" y="119030" zmin="-3949" zmax="-3749" />
+			<add x="144442" y="118343" zmin="-3949" zmax="-3749" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="145036" y="117435" zmin="-3955" zmax="-3755" />
+			<add x="145872" y="117075" zmin="-3955" zmax="-3755" />
+			<add x="146557" y="117728" zmin="-3955" zmax="-3755" />
+			<add x="145392" y="118034" zmin="-3955" zmax="-3755" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="145036" y="117435" zmin="-3955" zmax="-3755" />
+			<add x="145872" y="117075" zmin="-3955" zmax="-3755" />
+			<add x="146557" y="117728" zmin="-3955" zmax="-3755" />
+			<add x="145392" y="118034" zmin="-3955" zmax="-3755" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="145036" y="117435" zmin="-3955" zmax="-3755" />
+			<add x="145872" y="117075" zmin="-3955" zmax="-3755" />
+			<add x="146557" y="117728" zmin="-3955" zmax="-3755" />
+			<add x="145392" y="118034" zmin="-3955" zmax="-3755" />
+		</territory>
+		<npc id="22842" /><!--Malruk Banshee-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="145036" y="117435" zmin="-3955" zmax="-3755" />
+			<add x="145872" y="117075" zmin="-3955" zmax="-3755" />
+			<add x="146557" y="117728" zmin="-3955" zmax="-3755" />
+			<add x="145392" y="118034" zmin="-3955" zmax="-3755" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="15" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="147862" y="121475" zmin="-4924" zmax="-4724" />
+			<add x="148592" y="119507" zmin="-4924" zmax="-4724" />
+			<add x="149382" y="119325" zmin="-4924" zmax="-4724" />
+			<add x="150252" y="120945" zmin="-4924" zmax="-4724" />
+			<add x="150284" y="121532" zmin="-4924" zmax="-4724" />
+			<add x="149644" y="121765" zmin="-4924" zmax="-4724" />
+			<add x="148422" y="121804" zmin="-4924" zmax="-4724" />
+		</territory>
+		<npc id="22854" /><!--Bloody Karik-->
+	</spawn>
+	<spawn count="8" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="147862" y="121475" zmin="-4924" zmax="-4724" />
+			<add x="148592" y="119507" zmin="-4924" zmax="-4724" />
+			<add x="149382" y="119325" zmin="-4924" zmax="-4724" />
+			<add x="150252" y="120945" zmin="-4924" zmax="-4724" />
+			<add x="150284" y="121532" zmin="-4924" zmax="-4724" />
+			<add x="149644" y="121765" zmin="-4924" zmax="-4724" />
+			<add x="148422" y="121804" zmin="-4924" zmax="-4724" />
+		</territory>
+		<npc id="22855" /><!--Bloody Berserker-->
+	</spawn>
+	<spawn count="8" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="147862" y="121475" zmin="-4924" zmax="-4724" />
+			<add x="148592" y="119507" zmin="-4924" zmax="-4724" />
+			<add x="149382" y="119325" zmin="-4924" zmax="-4724" />
+			<add x="150252" y="120945" zmin="-4924" zmax="-4724" />
+			<add x="150284" y="121532" zmin="-4924" zmax="-4724" />
+			<add x="149644" y="121765" zmin="-4924" zmax="-4724" />
+			<add x="148422" y="121804" zmin="-4924" zmax="-4724" />
+		</territory>
+		<npc id="22856" /><!--Bloody Karinness-->
+	</spawn>
+	<spawn count="4" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152697" y="116625" zmin="-5295" zmax="-5095" />
+			<add x="154682" y="116602" zmin="-5295" zmax="-5095" />
+			<add x="154528" y="117125" zmin="-5295" zmax="-5095" />
+			<add x="153748" y="117340" zmin="-5295" zmax="-5095" />
+			<add x="152904" y="116945" zmin="-5295" zmax="-5095" />
+		</territory>
+		<npc id="22854" /><!--Bloody Karik-->
+	</spawn>
+	<spawn count="3" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152697" y="116625" zmin="-5295" zmax="-5095" />
+			<add x="154682" y="116602" zmin="-5295" zmax="-5095" />
+			<add x="154528" y="117125" zmin="-5295" zmax="-5095" />
+			<add x="153748" y="117340" zmin="-5295" zmax="-5095" />
+			<add x="152904" y="116945" zmin="-5295" zmax="-5095" />
+		</territory>
+		<npc id="22855" /><!--Bloody Berserker-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152697" y="116625" zmin="-5295" zmax="-5095" />
+			<add x="154682" y="116602" zmin="-5295" zmax="-5095" />
+			<add x="154528" y="117125" zmin="-5295" zmax="-5095" />
+			<add x="153748" y="117340" zmin="-5295" zmax="-5095" />
+			<add x="152904" y="116945" zmin="-5295" zmax="-5095" />
+		</territory>
+		<npc id="22856" /><!--Bloody Karinness-->
+	</spawn>
+	<spawn count="4" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152924" y="115015" zmin="-5296" zmax="-5096" />
+			<add x="153414" y="114614" zmin="-5296" zmax="-5096" />
+			<add x="153643" y="115710" zmin="-5296" zmax="-5096" />
+			<add x="153343" y="116580" zmin="-5296" zmax="-5096" />
+			<add x="153193" y="116585" zmin="-5296" zmax="-5096" />
+		</territory>
+		<npc id="22854" /><!--Bloody Karik-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152924" y="115015" zmin="-5296" zmax="-5096" />
+			<add x="153414" y="114614" zmin="-5296" zmax="-5096" />
+			<add x="153643" y="115710" zmin="-5296" zmax="-5096" />
+			<add x="153343" y="116580" zmin="-5296" zmax="-5096" />
+			<add x="153193" y="116585" zmin="-5296" zmax="-5096" />
+		</territory>
+		<npc id="22855" /><!--Bloody Berserker-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152924" y="115015" zmin="-5296" zmax="-5096" />
+			<add x="153414" y="114614" zmin="-5296" zmax="-5096" />
+			<add x="153643" y="115710" zmin="-5296" zmax="-5096" />
+			<add x="153343" y="116580" zmin="-5296" zmax="-5096" />
+			<add x="153193" y="116585" zmin="-5296" zmax="-5096" />
+		</territory>
+		<npc id="22856" /><!--Bloody Karinness-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="153474" y="114604" zmin="-5288" zmax="-5088" />
+			<add x="153892" y="114270" zmin="-5288" zmax="-5088" />
+			<add x="154512" y="114245" zmin="-5288" zmax="-5088" />
+			<add x="154844" y="114727" zmin="-5288" zmax="-5088" />
+			<add x="154878" y="115345" zmin="-5288" zmax="-5088" />
+			<add x="153542" y="114895" zmin="-5288" zmax="-5088" />
+		</territory>
+		<npc id="22854" /><!--Bloody Karik-->
+	</spawn>
+	<spawn count="3" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="153474" y="114604" zmin="-5288" zmax="-5088" />
+			<add x="153892" y="114270" zmin="-5288" zmax="-5088" />
+			<add x="154512" y="114245" zmin="-5288" zmax="-5088" />
+			<add x="154844" y="114727" zmin="-5288" zmax="-5088" />
+			<add x="154878" y="115345" zmin="-5288" zmax="-5088" />
+			<add x="153542" y="114895" zmin="-5288" zmax="-5088" />
+		</territory>
+		<npc id="22855" /><!--Bloody Berserker-->
+	</spawn>
+	<spawn count="4" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="153474" y="114604" zmin="-5288" zmax="-5088" />
+			<add x="153892" y="114270" zmin="-5288" zmax="-5088" />
+			<add x="154512" y="114245" zmin="-5288" zmax="-5088" />
+			<add x="154844" y="114727" zmin="-5288" zmax="-5088" />
+			<add x="154878" y="115345" zmin="-5288" zmax="-5088" />
+			<add x="153542" y="114895" zmin="-5288" zmax="-5088" />
+		</territory>
+		<npc id="22856" /><!--Bloody Karinness-->
+	</spawn>
+	<spawn count="4" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="154518" y="115267" zmin="-5304" zmax="-5104" />
+			<add x="154922" y="115422" zmin="-5304" zmax="-5104" />
+			<add x="154738" y="116552" zmin="-5304" zmax="-5104" />
+			<add x="154442" y="116574" zmin="-5304" zmax="-5104" />
+		</territory>
+		<npc id="22854" /><!--Bloody Karik-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="154518" y="115267" zmin="-5304" zmax="-5104" />
+			<add x="154922" y="115422" zmin="-5304" zmax="-5104" />
+			<add x="154738" y="116552" zmin="-5304" zmax="-5104" />
+			<add x="154442" y="116574" zmin="-5304" zmax="-5104" />
+		</territory>
+		<npc id="22855" /><!--Bloody Berserker-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="154518" y="115267" zmin="-5304" zmax="-5104" />
+			<add x="154922" y="115422" zmin="-5304" zmax="-5104" />
+			<add x="154738" y="116552" zmin="-5304" zmax="-5104" />
+			<add x="154442" y="116574" zmin="-5304" zmax="-5104" />
+		</territory>
+		<npc id="22856" /><!--Bloody Karinness-->
+	</spawn>
+	<spawn count="12" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150694" y="114117" zmin="-5519" zmax="-5319" />
+			<add x="151754" y="114875" zmin="-5519" zmax="-5319" />
+			<add x="151878" y="115383" zmin="-5519" zmax="-5319" />
+			<add x="151158" y="115993" zmin="-5519" zmax="-5319" />
+			<add x="150342" y="116047" zmin="-5519" zmax="-5319" />
+			<add x="149924" y="115432" zmin="-5519" zmax="-5319" />
+			<add x="149834" y="114595" zmin="-5519" zmax="-5319" />
+			<add x="150163" y="114144" zmin="-5519" zmax="-5319" />
+		</territory>
+		<npc id="22854" /><!--Bloody Karik-->
+	</spawn>
+	<spawn count="6" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150694" y="114117" zmin="-5519" zmax="-5319" />
+			<add x="151754" y="114875" zmin="-5519" zmax="-5319" />
+			<add x="151878" y="115383" zmin="-5519" zmax="-5319" />
+			<add x="151158" y="115993" zmin="-5519" zmax="-5319" />
+			<add x="150342" y="116047" zmin="-5519" zmax="-5319" />
+			<add x="149924" y="115432" zmin="-5519" zmax="-5319" />
+			<add x="149834" y="114595" zmin="-5519" zmax="-5319" />
+			<add x="150163" y="114144" zmin="-5519" zmax="-5319" />
+		</territory>
+		<npc id="22855" /><!--Bloody Berserker-->
+	</spawn>
+	<spawn count="7" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150694" y="114117" zmin="-5519" zmax="-5319" />
+			<add x="151754" y="114875" zmin="-5519" zmax="-5319" />
+			<add x="151878" y="115383" zmin="-5519" zmax="-5319" />
+			<add x="151158" y="115993" zmin="-5519" zmax="-5319" />
+			<add x="150342" y="116047" zmin="-5519" zmax="-5319" />
+			<add x="149924" y="115432" zmin="-5519" zmax="-5319" />
+			<add x="149834" y="114595" zmin="-5519" zmax="-5319" />
+			<add x="150163" y="114144" zmin="-5519" zmax="-5319" />
+		</territory>
+		<npc id="22856" /><!--Bloody Karinness-->
+	</spawn>
+	<spawn count="4" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="148817" y="114407" zmin="-5517" zmax="-5317" />
+			<add x="149763" y="114698" zmin="-5517" zmax="-5317" />
+			<add x="149798" y="115427" zmin="-5517" zmax="-5317" />
+			<add x="148817" y="115415" zmin="-5517" zmax="-5317" />
+			<add x="148364" y="115148" zmin="-5517" zmax="-5317" />
+			<add x="148374" y="114764" zmin="-5517" zmax="-5317" />
+		</territory>
+		<npc id="22854" /><!--Bloody Karik-->
+	</spawn>
+	<spawn count="3" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="148817" y="114407" zmin="-5517" zmax="-5317" />
+			<add x="149763" y="114698" zmin="-5517" zmax="-5317" />
+			<add x="149798" y="115427" zmin="-5517" zmax="-5317" />
+			<add x="148817" y="115415" zmin="-5517" zmax="-5317" />
+			<add x="148364" y="115148" zmin="-5517" zmax="-5317" />
+			<add x="148374" y="114764" zmin="-5517" zmax="-5317" />
+		</territory>
+		<npc id="22855" /><!--Bloody Berserker-->
+	</spawn>
+	<spawn count="3" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="148817" y="114407" zmin="-5517" zmax="-5317" />
+			<add x="149763" y="114698" zmin="-5517" zmax="-5317" />
+			<add x="149798" y="115427" zmin="-5517" zmax="-5317" />
+			<add x="148817" y="115415" zmin="-5517" zmax="-5317" />
+			<add x="148364" y="115148" zmin="-5517" zmax="-5317" />
+			<add x="148374" y="114764" zmin="-5517" zmax="-5317" />
+		</territory>
+		<npc id="22856" /><!--Bloody Karinness-->
+	</spawn>
+	<spawn count="6" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152883" y="113395" zmin="-5567" zmax="-5367" />
+			<add x="153242" y="111222" zmin="-5567" zmax="-5367" />
+			<add x="154423" y="111085" zmin="-5567" zmax="-5367" />
+			<add x="154544" y="112095" zmin="-5567" zmax="-5367" />
+			<add x="154352" y="112773" zmin="-5567" zmax="-5367" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152883" y="113395" zmin="-5567" zmax="-5367" />
+			<add x="153242" y="111222" zmin="-5567" zmax="-5367" />
+			<add x="154423" y="111085" zmin="-5567" zmax="-5367" />
+			<add x="154544" y="112095" zmin="-5567" zmax="-5367" />
+			<add x="154352" y="112773" zmin="-5567" zmax="-5367" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152883" y="113395" zmin="-5567" zmax="-5367" />
+			<add x="153242" y="111222" zmin="-5567" zmax="-5367" />
+			<add x="154423" y="111085" zmin="-5567" zmax="-5367" />
+			<add x="154544" y="112095" zmin="-5567" zmax="-5367" />
+			<add x="154352" y="112773" zmin="-5567" zmax="-5367" />
+		</territory>
+		<npc id="22842" /><!--Malruk Banshee-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152883" y="113395" zmin="-5567" zmax="-5367" />
+			<add x="153242" y="111222" zmin="-5567" zmax="-5367" />
+			<add x="154423" y="111085" zmin="-5567" zmax="-5367" />
+			<add x="154544" y="112095" zmin="-5567" zmax="-5367" />
+			<add x="154352" y="112773" zmin="-5567" zmax="-5367" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150203" y="110810" zmin="-5555" zmax="-5355" />
+			<add x="150824" y="110698" zmin="-5555" zmax="-5355" />
+			<add x="151386" y="111085" zmin="-5555" zmax="-5355" />
+			<add x="151087" y="112418" zmin="-5555" zmax="-5355" />
+			<add x="150373" y="112775" zmin="-5555" zmax="-5355" />
+			<add x="150027" y="112645" zmin="-5555" zmax="-5355" />
+			<add x="149824" y="112048" zmin="-5555" zmax="-5355" />
+			<add x="149816" y="111212" zmin="-5555" zmax="-5355" />
+		</territory>
+		<npc id="22838" /><!--Malruk Leader-->
+	</spawn>
+	<spawn count="7" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150203" y="110810" zmin="-5555" zmax="-5355" />
+			<add x="150824" y="110698" zmin="-5555" zmax="-5355" />
+			<add x="151386" y="111085" zmin="-5555" zmax="-5355" />
+			<add x="151087" y="112418" zmin="-5555" zmax="-5355" />
+			<add x="150373" y="112775" zmin="-5555" zmax="-5355" />
+			<add x="150027" y="112645" zmin="-5555" zmax="-5355" />
+			<add x="149824" y="112048" zmin="-5555" zmax="-5355" />
+			<add x="149816" y="111212" zmin="-5555" zmax="-5355" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150203" y="110810" zmin="-5555" zmax="-5355" />
+			<add x="150824" y="110698" zmin="-5555" zmax="-5355" />
+			<add x="151386" y="111085" zmin="-5555" zmax="-5355" />
+			<add x="151087" y="112418" zmin="-5555" zmax="-5355" />
+			<add x="150373" y="112775" zmin="-5555" zmax="-5355" />
+			<add x="150027" y="112645" zmin="-5555" zmax="-5355" />
+			<add x="149824" y="112048" zmin="-5555" zmax="-5355" />
+			<add x="149816" y="111212" zmin="-5555" zmax="-5355" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150203" y="110810" zmin="-5555" zmax="-5355" />
+			<add x="150824" y="110698" zmin="-5555" zmax="-5355" />
+			<add x="151386" y="111085" zmin="-5555" zmax="-5355" />
+			<add x="151087" y="112418" zmin="-5555" zmax="-5355" />
+			<add x="150373" y="112775" zmin="-5555" zmax="-5355" />
+			<add x="150027" y="112645" zmin="-5555" zmax="-5355" />
+			<add x="149824" y="112048" zmin="-5555" zmax="-5355" />
+			<add x="149816" y="111212" zmin="-5555" zmax="-5355" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="149698" y="109065" zmin="-5485" zmax="-5035" />
+			<add x="150187" y="109493" zmin="-5485" zmax="-5035" />
+			<add x="150233" y="109817" zmin="-5485" zmax="-5035" />
+			<add x="149526" y="110697" zmin="-5485" zmax="-5035" />
+			<add x="149292" y="110568" zmin="-5485" zmax="-5035" />
+			<add x="149188" y="109374" zmin="-5485" zmax="-5035" />
+		</territory>
+		<npc id="22838" /><!--Malruk Leader-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="149698" y="109065" zmin="-5485" zmax="-5035" />
+			<add x="150187" y="109493" zmin="-5485" zmax="-5035" />
+			<add x="150233" y="109817" zmin="-5485" zmax="-5035" />
+			<add x="149526" y="110697" zmin="-5485" zmax="-5035" />
+			<add x="149292" y="110568" zmin="-5485" zmax="-5035" />
+			<add x="149188" y="109374" zmin="-5485" zmax="-5035" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="149698" y="109065" zmin="-5485" zmax="-5035" />
+			<add x="150187" y="109493" zmin="-5485" zmax="-5035" />
+			<add x="150233" y="109817" zmin="-5485" zmax="-5035" />
+			<add x="149526" y="110697" zmin="-5485" zmax="-5035" />
+			<add x="149292" y="110568" zmin="-5485" zmax="-5035" />
+			<add x="149188" y="109374" zmin="-5485" zmax="-5035" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="149698" y="109065" zmin="-5485" zmax="-5035" />
+			<add x="150187" y="109493" zmin="-5485" zmax="-5035" />
+			<add x="150233" y="109817" zmin="-5485" zmax="-5035" />
+			<add x="149526" y="110697" zmin="-5485" zmax="-5035" />
+			<add x="149292" y="110568" zmin="-5485" zmax="-5035" />
+			<add x="149188" y="109374" zmin="-5485" zmax="-5035" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150914" y="108887" zmin="-5198" zmax="-4998" />
+			<add x="151874" y="109032" zmin="-5198" zmax="-4998" />
+			<add x="151887" y="109400" zmin="-5198" zmax="-4998" />
+			<add x="151444" y="109627" zmin="-5198" zmax="-4998" />
+			<add x="150742" y="109683" zmin="-5198" zmax="-4998" />
+			<add x="150324" y="109573" zmin="-5198" zmax="-4998" />
+		</territory>
+		<npc id="22838" /><!--Malruk Leader-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150914" y="108887" zmin="-5198" zmax="-4998" />
+			<add x="151874" y="109032" zmin="-5198" zmax="-4998" />
+			<add x="151887" y="109400" zmin="-5198" zmax="-4998" />
+			<add x="151444" y="109627" zmin="-5198" zmax="-4998" />
+			<add x="150742" y="109683" zmin="-5198" zmax="-4998" />
+			<add x="150324" y="109573" zmin="-5198" zmax="-4998" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150914" y="108887" zmin="-5198" zmax="-4998" />
+			<add x="151874" y="109032" zmin="-5198" zmax="-4998" />
+			<add x="151887" y="109400" zmin="-5198" zmax="-4998" />
+			<add x="151444" y="109627" zmin="-5198" zmax="-4998" />
+			<add x="150742" y="109683" zmin="-5198" zmax="-4998" />
+			<add x="150324" y="109573" zmin="-5198" zmax="-4998" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150914" y="108887" zmin="-5198" zmax="-4998" />
+			<add x="151874" y="109032" zmin="-5198" zmax="-4998" />
+			<add x="151887" y="109400" zmin="-5198" zmax="-4998" />
+			<add x="151444" y="109627" zmin="-5198" zmax="-4998" />
+			<add x="150742" y="109683" zmin="-5198" zmax="-4998" />
+			<add x="150324" y="109573" zmin="-5198" zmax="-4998" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152782" y="109452" zmin="-5194" zmax="-4994" />
+			<add x="153898" y="109404" zmin="-5194" zmax="-4994" />
+			<add x="153824" y="109664" zmin="-5194" zmax="-4994" />
+			<add x="153307" y="109754" zmin="-5194" zmax="-4994" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152782" y="109452" zmin="-5194" zmax="-4994" />
+			<add x="153898" y="109404" zmin="-5194" zmax="-4994" />
+			<add x="153824" y="109664" zmin="-5194" zmax="-4994" />
+			<add x="153307" y="109754" zmin="-5194" zmax="-4994" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152782" y="109452" zmin="-5194" zmax="-4994" />
+			<add x="153898" y="109404" zmin="-5194" zmax="-4994" />
+			<add x="153824" y="109664" zmin="-5194" zmax="-4994" />
+			<add x="153307" y="109754" zmin="-5194" zmax="-4994" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152782" y="109452" zmin="-5194" zmax="-4994" />
+			<add x="153898" y="109404" zmin="-5194" zmax="-4994" />
+			<add x="153824" y="109664" zmin="-5194" zmax="-4994" />
+			<add x="153307" y="109754" zmin="-5194" zmax="-4994" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="153082" y="108722" zmin="-5204" zmax="-5004" />
+			<add x="153473" y="108930" zmin="-5204" zmax="-5004" />
+			<add x="153138" y="109392" zmin="-5204" zmax="-5004" />
+			<add x="152822" y="109414" zmin="-5204" zmax="-5004" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="153082" y="108722" zmin="-5204" zmax="-5004" />
+			<add x="153473" y="108930" zmin="-5204" zmax="-5004" />
+			<add x="153138" y="109392" zmin="-5204" zmax="-5004" />
+			<add x="152822" y="109414" zmin="-5204" zmax="-5004" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="153082" y="108722" zmin="-5204" zmax="-5004" />
+			<add x="153473" y="108930" zmin="-5204" zmax="-5004" />
+			<add x="153138" y="109392" zmin="-5204" zmax="-5004" />
+			<add x="152822" y="109414" zmin="-5204" zmax="-5004" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="153082" y="108722" zmin="-5204" zmax="-5004" />
+			<add x="153473" y="108930" zmin="-5204" zmax="-5004" />
+			<add x="153138" y="109392" zmin="-5204" zmax="-5004" />
+			<add x="152822" y="109414" zmin="-5204" zmax="-5004" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="153618" y="108942" zmin="-5187" zmax="-4987" />
+			<add x="153838" y="108895" zmin="-5187" zmax="-4987" />
+			<add x="153896" y="109368" zmin="-5187" zmax="-4987" />
+			<add x="153583" y="109387" zmin="-5187" zmax="-4987" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="153618" y="108942" zmin="-5187" zmax="-4987" />
+			<add x="153838" y="108895" zmin="-5187" zmax="-4987" />
+			<add x="153896" y="109368" zmin="-5187" zmax="-4987" />
+			<add x="153583" y="109387" zmin="-5187" zmax="-4987" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="153618" y="108942" zmin="-5187" zmax="-4987" />
+			<add x="153838" y="108895" zmin="-5187" zmax="-4987" />
+			<add x="153896" y="109368" zmin="-5187" zmax="-4987" />
+			<add x="153583" y="109387" zmin="-5187" zmax="-4987" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="153618" y="108942" zmin="-5187" zmax="-4987" />
+			<add x="153838" y="108895" zmin="-5187" zmax="-4987" />
+			<add x="153896" y="109368" zmin="-5187" zmax="-4987" />
+			<add x="153583" y="109387" zmin="-5187" zmax="-4987" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152998" y="108157" zmin="-5194" zmax="-4994" />
+			<add x="153802" y="107972" zmin="-5194" zmax="-4994" />
+			<add x="154202" y="108228" zmin="-5194" zmax="-4994" />
+			<add x="154238" y="108657" zmin="-5194" zmax="-4994" />
+			<add x="153676" y="108870" zmin="-5194" zmax="-4994" />
+			<add x="153153" y="108685" zmin="-5194" zmax="-4994" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152998" y="108157" zmin="-5194" zmax="-4994" />
+			<add x="153802" y="107972" zmin="-5194" zmax="-4994" />
+			<add x="154202" y="108228" zmin="-5194" zmax="-4994" />
+			<add x="154238" y="108657" zmin="-5194" zmax="-4994" />
+			<add x="153676" y="108870" zmin="-5194" zmax="-4994" />
+			<add x="153153" y="108685" zmin="-5194" zmax="-4994" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152998" y="108157" zmin="-5194" zmax="-4994" />
+			<add x="153802" y="107972" zmin="-5194" zmax="-4994" />
+			<add x="154202" y="108228" zmin="-5194" zmax="-4994" />
+			<add x="154238" y="108657" zmin="-5194" zmax="-4994" />
+			<add x="153676" y="108870" zmin="-5194" zmax="-4994" />
+			<add x="153153" y="108685" zmin="-5194" zmax="-4994" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152998" y="108157" zmin="-5194" zmax="-4994" />
+			<add x="153802" y="107972" zmin="-5194" zmax="-4994" />
+			<add x="154202" y="108228" zmin="-5194" zmax="-4994" />
+			<add x="154238" y="108657" zmin="-5194" zmax="-4994" />
+			<add x="153676" y="108870" zmin="-5194" zmax="-4994" />
+			<add x="153153" y="108685" zmin="-5194" zmax="-4994" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="154253" y="108260" zmin="-5196" zmax="-4996" />
+			<add x="154592" y="108010" zmin="-5196" zmax="-4996" />
+			<add x="154813" y="108137" zmin="-5196" zmax="-4996" />
+			<add x="154936" y="108622" zmin="-5196" zmax="-4996" />
+			<add x="154753" y="108975" zmin="-5196" zmax="-4996" />
+			<add x="154753" y="108975" zmin="-5196" zmax="-4996" />
+			<add x="154313" y="108657" zmin="-5196" zmax="-4996" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="154253" y="108260" zmin="-5196" zmax="-4996" />
+			<add x="154592" y="108010" zmin="-5196" zmax="-4996" />
+			<add x="154813" y="108137" zmin="-5196" zmax="-4996" />
+			<add x="154936" y="108622" zmin="-5196" zmax="-4996" />
+			<add x="154753" y="108975" zmin="-5196" zmax="-4996" />
+			<add x="154753" y="108975" zmin="-5196" zmax="-4996" />
+			<add x="154313" y="108657" zmin="-5196" zmax="-4996" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="154253" y="108260" zmin="-5196" zmax="-4996" />
+			<add x="154592" y="108010" zmin="-5196" zmax="-4996" />
+			<add x="154813" y="108137" zmin="-5196" zmax="-4996" />
+			<add x="154936" y="108622" zmin="-5196" zmax="-4996" />
+			<add x="154753" y="108975" zmin="-5196" zmax="-4996" />
+			<add x="154753" y="108975" zmin="-5196" zmax="-4996" />
+			<add x="154313" y="108657" zmin="-5196" zmax="-4996" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="154253" y="108260" zmin="-5196" zmax="-4996" />
+			<add x="154592" y="108010" zmin="-5196" zmax="-4996" />
+			<add x="154813" y="108137" zmin="-5196" zmax="-4996" />
+			<add x="154936" y="108622" zmin="-5196" zmax="-4996" />
+			<add x="154753" y="108975" zmin="-5196" zmax="-4996" />
+			<add x="154753" y="108975" zmin="-5196" zmax="-4996" />
+			<add x="154313" y="108657" zmin="-5196" zmax="-4996" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152213" y="107437" zmin="-5190" zmax="-4990" />
+			<add x="153833" y="107018" zmin="-5190" zmax="-4990" />
+			<add x="153984" y="107203" zmin="-5190" zmax="-4990" />
+			<add x="153792" y="107937" zmin="-5190" zmax="-4990" />
+			<add x="153003" y="108120" zmin="-5190" zmax="-4990" />
+			<add x="152116" y="107818" zmin="-5190" zmax="-4990" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152213" y="107437" zmin="-5190" zmax="-4990" />
+			<add x="153833" y="107018" zmin="-5190" zmax="-4990" />
+			<add x="153984" y="107203" zmin="-5190" zmax="-4990" />
+			<add x="153792" y="107937" zmin="-5190" zmax="-4990" />
+			<add x="153003" y="108120" zmin="-5190" zmax="-4990" />
+			<add x="152116" y="107818" zmin="-5190" zmax="-4990" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152213" y="107437" zmin="-5190" zmax="-4990" />
+			<add x="153833" y="107018" zmin="-5190" zmax="-4990" />
+			<add x="153984" y="107203" zmin="-5190" zmax="-4990" />
+			<add x="153792" y="107937" zmin="-5190" zmax="-4990" />
+			<add x="153003" y="108120" zmin="-5190" zmax="-4990" />
+			<add x="152116" y="107818" zmin="-5190" zmax="-4990" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152213" y="107437" zmin="-5190" zmax="-4990" />
+			<add x="153833" y="107018" zmin="-5190" zmax="-4990" />
+			<add x="153984" y="107203" zmin="-5190" zmax="-4990" />
+			<add x="153792" y="107937" zmin="-5190" zmax="-4990" />
+			<add x="153003" y="108120" zmin="-5190" zmax="-4990" />
+			<add x="152116" y="107818" zmin="-5190" zmax="-4990" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150504" y="107212" zmin="-4873" zmax="-4603" />
+			<add x="151008" y="107125" zmin="-4873" zmax="-4603" />
+			<add x="151007" y="107435" zmin="-4873" zmax="-4603" />
+			<add x="150382" y="107745" zmin="-4873" zmax="-4603" />
+			<add x="150132" y="107485" zmin="-4873" zmax="-4603" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150504" y="107212" zmin="-4873" zmax="-4603" />
+			<add x="151008" y="107125" zmin="-4873" zmax="-4603" />
+			<add x="151007" y="107435" zmin="-4873" zmax="-4603" />
+			<add x="150382" y="107745" zmin="-4873" zmax="-4603" />
+			<add x="150132" y="107485" zmin="-4873" zmax="-4603" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="149463" y="108292" zmin="-4733" zmax="-4433" />
+			<add x="149993" y="107734" zmin="-4733" zmax="-4433" />
+			<add x="150348" y="107943" zmin="-4733" zmax="-4433" />
+			<add x="150042" y="108373" zmin="-4733" zmax="-4433" />
+			<add x="149542" y="108635" zmin="-4733" zmax="-4433" />
+		</territory>
+		<npc id="22838" /><!--Malruk Leader-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="149463" y="108292" zmin="-4733" zmax="-4433" />
+			<add x="149993" y="107734" zmin="-4733" zmax="-4433" />
+			<add x="150348" y="107943" zmin="-4733" zmax="-4433" />
+			<add x="150042" y="108373" zmin="-4733" zmax="-4433" />
+			<add x="149542" y="108635" zmin="-4733" zmax="-4433" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="148602" y="107740" zmin="-4473" zmax="-4153" />
+			<add x="149286" y="108238" zmin="-4473" zmax="-4153" />
+			<add x="149353" y="108613" zmin="-4473" zmax="-4153" />
+			<add x="148768" y="108413" zmin="-4473" zmax="-4153" />
+			<add x="148412" y="108053" zmin="-4473" zmax="-4153" />
+		</territory>
+		<npc id="22838" /><!--Malruk Leader-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="148602" y="107740" zmin="-4473" zmax="-4153" />
+			<add x="149286" y="108238" zmin="-4473" zmax="-4153" />
+			<add x="149353" y="108613" zmin="-4473" zmax="-4153" />
+			<add x="148768" y="108413" zmin="-4473" zmax="-4153" />
+			<add x="148412" y="108053" zmin="-4473" zmax="-4153" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="147627" y="107105" zmin="-4293" zmax="-3993" />
+			<add x="148136" y="107087" zmin="-4293" zmax="-3993" />
+			<add x="148593" y="107487" zmin="-4293" zmax="-3993" />
+			<add x="148317" y="107875" zmin="-4293" zmax="-3993" />
+			<add x="148046" y="107507" zmin="-4293" zmax="-3993" />
+			<add x="147688" y="107497" zmin="-4293" zmax="-3993" />
+		</territory>
+		<npc id="22838" /><!--Malruk Leader-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="147627" y="107105" zmin="-4293" zmax="-3993" />
+			<add x="148136" y="107087" zmin="-4293" zmax="-3993" />
+			<add x="148593" y="107487" zmin="-4293" zmax="-3993" />
+			<add x="148317" y="107875" zmin="-4293" zmax="-3993" />
+			<add x="148046" y="107507" zmin="-4293" zmax="-3993" />
+			<add x="147688" y="107497" zmin="-4293" zmax="-3993" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="146532" y="107842" zmin="-4056" zmax="-3686" />
+			<add x="147433" y="107195" zmin="-4056" zmax="-3686" />
+			<add x="147433" y="107552" zmin="-4056" zmax="-3686" />
+			<add x="147053" y="108064" zmin="-4056" zmax="-3686" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="146532" y="107842" zmin="-4056" zmax="-3686" />
+			<add x="147433" y="107195" zmin="-4056" zmax="-3686" />
+			<add x="147433" y="107552" zmin="-4056" zmax="-3686" />
+			<add x="147053" y="108064" zmin="-4056" zmax="-3686" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="149456" y="116532" zmin="-3749" zmax="-3549" />
+			<add x="149814" y="116175" zmin="-3749" zmax="-3549" />
+			<add x="150548" y="117214" zmin="-3749" zmax="-3549" />
+			<add x="150363" y="117493" zmin="-3749" zmax="-3549" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="149456" y="116532" zmin="-3749" zmax="-3549" />
+			<add x="149814" y="116175" zmin="-3749" zmax="-3549" />
+			<add x="150548" y="117214" zmin="-3749" zmax="-3549" />
+			<add x="150363" y="117493" zmin="-3749" zmax="-3549" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="149456" y="116532" zmin="-3749" zmax="-3549" />
+			<add x="149814" y="116175" zmin="-3749" zmax="-3549" />
+			<add x="150548" y="117214" zmin="-3749" zmax="-3549" />
+			<add x="150363" y="117493" zmin="-3749" zmax="-3549" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="149456" y="116532" zmin="-3749" zmax="-3549" />
+			<add x="149814" y="116175" zmin="-3749" zmax="-3549" />
+			<add x="150548" y="117214" zmin="-3749" zmax="-3549" />
+			<add x="150363" y="117493" zmin="-3749" zmax="-3549" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150428" y="117678" zmin="-3757" zmax="-3557" />
+			<add x="150603" y="117385" zmin="-3757" zmax="-3557" />
+			<add x="150937" y="117952" zmin="-3757" zmax="-3557" />
+			<add x="150693" y="118102" zmin="-3757" zmax="-3557" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150428" y="117678" zmin="-3757" zmax="-3557" />
+			<add x="150603" y="117385" zmin="-3757" zmax="-3557" />
+			<add x="150937" y="117952" zmin="-3757" zmax="-3557" />
+			<add x="150693" y="118102" zmin="-3757" zmax="-3557" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150428" y="117678" zmin="-3757" zmax="-3557" />
+			<add x="150603" y="117385" zmin="-3757" zmax="-3557" />
+			<add x="150937" y="117952" zmin="-3757" zmax="-3557" />
+			<add x="150693" y="118102" zmin="-3757" zmax="-3557" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="150428" y="117678" zmin="-3757" zmax="-3557" />
+			<add x="150603" y="117385" zmin="-3757" zmax="-3557" />
+			<add x="150937" y="117952" zmin="-3757" zmax="-3557" />
+			<add x="150693" y="118102" zmin="-3757" zmax="-3557" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151133" y="118072" zmin="-3938" zmax="-3688" />
+			<add x="151653" y="118352" zmin="-3938" zmax="-3688" />
+			<add x="151472" y="118517" zmin="-3938" zmax="-3688" />
+			<add x="150887" y="118188" zmin="-3938" zmax="-3688" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151133" y="118072" zmin="-3938" zmax="-3688" />
+			<add x="151653" y="118352" zmin="-3938" zmax="-3688" />
+			<add x="151472" y="118517" zmin="-3938" zmax="-3688" />
+			<add x="150887" y="118188" zmin="-3938" zmax="-3688" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151133" y="118072" zmin="-3938" zmax="-3688" />
+			<add x="151653" y="118352" zmin="-3938" zmax="-3688" />
+			<add x="151472" y="118517" zmin="-3938" zmax="-3688" />
+			<add x="150887" y="118188" zmin="-3938" zmax="-3688" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151133" y="118072" zmin="-3938" zmax="-3688" />
+			<add x="151653" y="118352" zmin="-3938" zmax="-3688" />
+			<add x="151472" y="118517" zmin="-3938" zmax="-3688" />
+			<add x="150887" y="118188" zmin="-3938" zmax="-3688" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151506" y="118542" zmin="-3949" zmax="-3729" />
+			<add x="151683" y="118378" zmin="-3949" zmax="-3729" />
+			<add x="152058" y="118825" zmin="-3949" zmax="-3729" />
+			<add x="151818" y="118983" zmin="-3949" zmax="-3729" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151506" y="118542" zmin="-3949" zmax="-3729" />
+			<add x="151683" y="118378" zmin="-3949" zmax="-3729" />
+			<add x="152058" y="118825" zmin="-3949" zmax="-3729" />
+			<add x="151818" y="118983" zmin="-3949" zmax="-3729" />
+		</territory>
+		<npc id="22843" /><!--Malruk Sniper-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151506" y="118542" zmin="-3949" zmax="-3729" />
+			<add x="151683" y="118378" zmin="-3949" zmax="-3729" />
+			<add x="152058" y="118825" zmin="-3949" zmax="-3729" />
+			<add x="151818" y="118983" zmin="-3949" zmax="-3729" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151506" y="118542" zmin="-3949" zmax="-3729" />
+			<add x="151683" y="118378" zmin="-3949" zmax="-3729" />
+			<add x="152058" y="118825" zmin="-3949" zmax="-3729" />
+			<add x="151818" y="118983" zmin="-3949" zmax="-3729" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152088" y="118903" zmin="-3856" zmax="-3656" />
+			<add x="152612" y="118855" zmin="-3856" zmax="-3656" />
+			<add x="153373" y="119625" zmin="-3856" zmax="-3656" />
+			<add x="152928" y="120295" zmin="-3856" zmax="-3656" />
+			<add x="152552" y="120512" zmin="-3856" zmax="-3656" />
+			<add x="151894" y="119965" zmin="-3856" zmax="-3656" />
+			<add x="151668" y="119444" zmin="-3856" zmax="-3656" />
+		</territory>
+		<npc id="22838" /><!--Malruk Leader-->
+	</spawn>
+	<spawn count="5" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152088" y="118903" zmin="-3856" zmax="-3656" />
+			<add x="152612" y="118855" zmin="-3856" zmax="-3656" />
+			<add x="153373" y="119625" zmin="-3856" zmax="-3656" />
+			<add x="152928" y="120295" zmin="-3856" zmax="-3656" />
+			<add x="152552" y="120512" zmin="-3856" zmax="-3656" />
+			<add x="151894" y="119965" zmin="-3856" zmax="-3656" />
+			<add x="151668" y="119444" zmin="-3856" zmax="-3656" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152088" y="118903" zmin="-3856" zmax="-3656" />
+			<add x="152612" y="118855" zmin="-3856" zmax="-3656" />
+			<add x="153373" y="119625" zmin="-3856" zmax="-3656" />
+			<add x="152928" y="120295" zmin="-3856" zmax="-3656" />
+			<add x="152552" y="120512" zmin="-3856" zmax="-3656" />
+			<add x="151894" y="119965" zmin="-3856" zmax="-3656" />
+			<add x="151668" y="119444" zmin="-3856" zmax="-3656" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="152088" y="118903" zmin="-3856" zmax="-3656" />
+			<add x="152612" y="118855" zmin="-3856" zmax="-3656" />
+			<add x="153373" y="119625" zmin="-3856" zmax="-3656" />
+			<add x="152928" y="120295" zmin="-3856" zmax="-3656" />
+			<add x="152552" y="120512" zmin="-3856" zmax="-3656" />
+			<add x="151894" y="119965" zmin="-3856" zmax="-3656" />
+			<add x="151668" y="119444" zmin="-3856" zmax="-3656" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="153046" y="119224" zmin="-3845" zmax="-3645" />
+			<add x="153687" y="118402" zmin="-3845" zmax="-3645" />
+			<add x="154203" y="118237" zmin="-3845" zmax="-3645" />
+			<add x="154684" y="118572" zmin="-3845" zmax="-3645" />
+			<add x="154273" y="119390" zmin="-3845" zmax="-3645" />
+			<add x="153403" y="119557" zmin="-3845" zmax="-3645" />
+		</territory>
+		<npc id="22838" /><!--Malruk Leader-->
+	</spawn>
+	<spawn count="6" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="153046" y="119224" zmin="-3845" zmax="-3645" />
+			<add x="153687" y="118402" zmin="-3845" zmax="-3645" />
+			<add x="154203" y="118237" zmin="-3845" zmax="-3645" />
+			<add x="154684" y="118572" zmin="-3845" zmax="-3645" />
+			<add x="154273" y="119390" zmin="-3845" zmax="-3645" />
+			<add x="153403" y="119557" zmin="-3845" zmax="-3645" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="153046" y="119224" zmin="-3845" zmax="-3645" />
+			<add x="153687" y="118402" zmin="-3845" zmax="-3645" />
+			<add x="154203" y="118237" zmin="-3845" zmax="-3645" />
+			<add x="154684" y="118572" zmin="-3845" zmax="-3645" />
+			<add x="154273" y="119390" zmin="-3845" zmax="-3645" />
+			<add x="153403" y="119557" zmin="-3845" zmax="-3645" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="153046" y="119224" zmin="-3845" zmax="-3645" />
+			<add x="153687" y="118402" zmin="-3845" zmax="-3645" />
+			<add x="154203" y="118237" zmin="-3845" zmax="-3645" />
+			<add x="154684" y="118572" zmin="-3845" zmax="-3645" />
+			<add x="154273" y="119390" zmin="-3845" zmax="-3645" />
+			<add x="153403" y="119557" zmin="-3845" zmax="-3645" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151954" y="120177" zmin="-3851" zmax="-3651" />
+			<add x="152458" y="120593" zmin="-3851" zmax="-3651" />
+			<add x="152033" y="121102" zmin="-3851" zmax="-3651" />
+			<add x="151553" y="121034" zmin="-3851" zmax="-3651" />
+		</territory>
+		<npc id="22838" /><!--Malruk Leader-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151954" y="120177" zmin="-3851" zmax="-3651" />
+			<add x="152458" y="120593" zmin="-3851" zmax="-3651" />
+			<add x="152033" y="121102" zmin="-3851" zmax="-3651" />
+			<add x="151553" y="121034" zmin="-3851" zmax="-3651" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151954" y="120177" zmin="-3851" zmax="-3651" />
+			<add x="152458" y="120593" zmin="-3851" zmax="-3651" />
+			<add x="152033" y="121102" zmin="-3851" zmax="-3651" />
+			<add x="151553" y="121034" zmin="-3851" zmax="-3651" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151954" y="120177" zmin="-3851" zmax="-3651" />
+			<add x="152458" y="120593" zmin="-3851" zmax="-3651" />
+			<add x="152033" y="121102" zmin="-3851" zmax="-3651" />
+			<add x="151553" y="121034" zmin="-3851" zmax="-3651" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151538" y="121125" zmin="-3870" zmax="-3670" />
+			<add x="151963" y="121170" zmin="-3870" zmax="-3670" />
+			<add x="152634" y="121608" zmin="-3870" zmax="-3670" />
+			<add x="152664" y="122142" zmin="-3870" zmax="-3670" />
+			<add x="151924" y="121880" zmin="-3870" zmax="-3670" />
+		</territory>
+		<npc id="22838" /><!--Malruk Leader-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151538" y="121125" zmin="-3870" zmax="-3670" />
+			<add x="151963" y="121170" zmin="-3870" zmax="-3670" />
+			<add x="152634" y="121608" zmin="-3870" zmax="-3670" />
+			<add x="152664" y="122142" zmin="-3870" zmax="-3670" />
+			<add x="151924" y="121880" zmin="-3870" zmax="-3670" />
+		</territory>
+		<npc id="22839" /><!--Malruk Warload-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151538" y="121125" zmin="-3870" zmax="-3670" />
+			<add x="151963" y="121170" zmin="-3870" zmax="-3670" />
+			<add x="152634" y="121608" zmin="-3870" zmax="-3670" />
+			<add x="152664" y="122142" zmin="-3870" zmax="-3670" />
+			<add x="151924" y="121880" zmin="-3870" zmax="-3670" />
+		</territory>
+		<npc id="22841" /><!--Malruk Princess-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="151538" y="121125" zmin="-3870" zmax="-3670" />
+			<add x="151963" y="121170" zmin="-3870" zmax="-3670" />
+			<add x="152634" y="121608" zmin="-3870" zmax="-3670" />
+			<add x="152664" y="122142" zmin="-3870" zmax="-3670" />
+			<add x="151924" y="121880" zmin="-3870" zmax="-3670" />
+		</territory>
+		<npc id="22840" /><!--Malruk Hunter-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="120" period_of_day="none">
+		<territory>
+			<add x="140182" y="114064" zmin="-3761" zmax="-3561" />
+			<add x="140313" y="113725" zmin="-3761" zmax="-3561" />
+			<add x="140498" y="113735" zmin="-3761" zmax="-3561" />
+			<add x="140384" y="114065" zmin="-3761" zmax="-3561" />
+		</territory>
+		<npc id="22844" /><!--Dragon Knight-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="120" period_of_day="none">
+		<territory>
+			<add x="143687" y="112200" zmin="-3986" zmax="-3786" />
+			<add x="143792" y="112252" zmin="-3986" zmax="-3786" />
+			<add x="143776" y="112432" zmin="-3986" zmax="-3786" />
+			<add x="143648" y="112415" zmin="-3986" zmax="-3786" />
+		</territory>
+		<npc id="22844" /><!--Dragon Knight-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="120" period_of_day="none">
+		<territory>
+			<add x="140212" y="109515" zmin="-3988" zmax="-3788" />
+			<add x="140422" y="109078" zmin="-3988" zmax="-3788" />
+			<add x="140773" y="109105" zmin="-3988" zmax="-3788" />
+			<add x="140496" y="109643" zmin="-3988" zmax="-3788" />
+		</territory>
+		<npc id="22844" /><!--Dragon Knight-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="120" period_of_day="none">
+		<territory>
+			<add x="140288" y="108282" zmin="-3989" zmax="-3789" />
+			<add x="140823" y="108292" zmin="-3989" zmax="-3789" />
+			<add x="140824" y="108982" zmin="-3989" zmax="-3789" />
+			<add x="140303" y="108542" zmin="-3989" zmax="-3789" />
+		</territory>
+		<npc id="22844" /><!--Dragon Knight-->
+	</spawn>
+	<spawn count="2" respawn="600" respawn_random="120" period_of_day="none">
+		<territory>
+			<add x="144594" y="108788" zmin="-3985" zmax="-3785" />
+			<add x="145192" y="108555" zmin="-3985" zmax="-3785" />
+			<add x="145307" y="108915" zmin="-3985" zmax="-3785" />
+			<add x="145182" y="109165" zmin="-3985" zmax="-3785" />
+			<add x="144876" y="109267" zmin="-3985" zmax="-3785" />
+		</territory>
+		<npc id="22844" /><!--Dragon Knight-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="120" period_of_day="none">
+		<territory>
+			<add x="147004" y="109065" zmin="-3984" zmax="-3784" />
+			<add x="147894" y="109324" zmin="-3984" zmax="-3784" />
+			<add x="147787" y="110567" zmin="-3984" zmax="-3784" />
+			<add x="147824" y="110847" zmin="-3984" zmax="-3784" />
+			<add x="146817" y="110552" zmin="-3984" zmax="-3784" />
+		</territory>
+		<npc id="22844" /><!--Dragon Knight-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="120" period_of_day="none">
+		<territory>
+			<add x="140172" y="118282" zmin="-3956" zmax="-3756" />
+			<add x="140204" y="118115" zmin="-3956" zmax="-3756" />
+			<add x="140423" y="118110" zmin="-3956" zmax="-3756" />
+			<add x="140538" y="118302" zmin="-3956" zmax="-3756" />
+			<add x="140482" y="118764" zmin="-3956" zmax="-3756" />
+		</territory>
+		<npc id="22844" /><!--Dragon Knight-->
+	</spawn>
+	<spawn count="2" respawn="600" respawn_random="120" period_of_day="none">
+		<territory>
+			<add x="142663" y="116850" zmin="-3953" zmax="-3753" />
+			<add x="142794" y="116755" zmin="-3953" zmax="-3753" />
+			<add x="143126" y="116850" zmin="-3953" zmax="-3753" />
+			<add x="143028" y="116957" zmin="-3953" zmax="-3753" />
+		</territory>
+		<npc id="22844" /><!--Dragon Knight-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="120" period_of_day="none">
+		<territory>
+			<add x="143747" y="121232" zmin="-3951" zmax="-3751" />
+			<add x="144024" y="120782" zmin="-3951" zmax="-3751" />
+			<add x="144218" y="120875" zmin="-3951" zmax="-3751" />
+			<add x="144166" y="121168" zmin="-3951" zmax="-3751" />
+		</territory>
+		<npc id="22844" /><!--Dragon Knight-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="120" period_of_day="none">
+		<territory>
+			<add x="142673" y="120215" zmin="-3954" zmax="-3754" />
+			<add x="143157" y="120124" zmin="-3954" zmax="-3754" />
+			<add x="143093" y="120855" zmin="-3954" zmax="-3754" />
+			<add x="142622" y="120860" zmin="-3954" zmax="-3754" />
+		</territory>
+		<npc id="22844" /><!--Dragon Knight-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="120" period_of_day="none">
+		<territory>
+			<add x="152883" y="113395" zmin="-5567" zmax="-5367" />
+			<add x="153242" y="111222" zmin="-5567" zmax="-5367" />
+			<add x="154423" y="111085" zmin="-5567" zmax="-5367" />
+			<add x="154544" y="112095" zmin="-5567" zmax="-5367" />
+			<add x="154352" y="112773" zmin="-5567" zmax="-5367" />
+		</territory>
+		<npc id="22844" /><!--Dragon Knight-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="120" period_of_day="none">
+		<territory>
+			<add x="150203" y="110810" zmin="-5555" zmax="-5355" />
+			<add x="150824" y="110698" zmin="-5555" zmax="-5355" />
+			<add x="151386" y="111085" zmin="-5555" zmax="-5355" />
+			<add x="151087" y="112418" zmin="-5555" zmax="-5355" />
+			<add x="150373" y="112775" zmin="-5555" zmax="-5355" />
+			<add x="150027" y="112645" zmin="-5555" zmax="-5355" />
+			<add x="149824" y="112048" zmin="-5555" zmax="-5355" />
+			<add x="149816" y="111212" zmin="-5555" zmax="-5355" />
+		</territory>
+		<npc id="22844" /><!--Dragon Knight-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="120" period_of_day="none">
+		<territory>
+			<add x="152213" y="107437" zmin="-5190" zmax="-4990" />
+			<add x="153833" y="107018" zmin="-5190" zmax="-4990" />
+			<add x="153984" y="107203" zmin="-5190" zmax="-4990" />
+			<add x="153792" y="107937" zmin="-5190" zmax="-4990" />
+			<add x="153003" y="108120" zmin="-5190" zmax="-4990" />
+			<add x="152116" y="107818" zmin="-5190" zmax="-4990" />
+		</territory>
+		<npc id="22844" /><!--Dragon Knight-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="147143" y="118737" z="-4000" h="-22316" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="147038" y="118789" z="-4000" h="-22316" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="146938" y="118819" z="-4000" h="-22316" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="146838" y="118859" z="-4000" h="-22316" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="147393" y="120798" z="-4680" h="-18484" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="147302" y="120833" z="-4680" h="-18484" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="147212" y="120868" z="-4680" h="-18484" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="147122" y="120903" z="-4680" h="-18484" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="150993" y="117931" z="-5070" h="25136" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151058" y="117870" z="-5070" h="25136" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151054" y="118003" z="-5070" h="25136" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151122" y="117942" z="-5070" h="25136" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151997" y="117526" z="-5230" h="25136" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151943" y="117450" z="-5230" h="25136" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151884" y="117372" z="-5230" h="25136" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151827" y="117294" z="-5230" h="25136" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151772" y="117216" z="-5230" h="25136" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151783" y="113523" z="-5510" h="-8192" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151904" y="113587" z="-5510" h="-8192" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="152024" y="113651" z="-5510" h="-8192" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="152146" y="113715" z="-5510" h="-8192" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="152267" y="113779" z="-5510" h="-8192" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="152388" y="113845" z="-5510" h="-8192" />
+		<npc id="22852" /><!--Dragon Guard-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="147188" y="118837" z="-4152" h="-22316" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="147086" y="118889" z="-4152" h="-22316" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="146986" y="118919" z="-4152" h="-22316" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="146886" y="118959" z="-4152" h="-22316" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151128" y="117808" z="-5070" h="25136" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151193" y="117880" z="-5070" h="25136" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="152078" y="117464" z="-5230" h="25136" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="152023" y="117388" z="-5230" h="25136" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151966" y="117310" z="-5230" h="25136" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151908" y="117232" z="-5230" h="25136" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151852" y="117154" z="-5230" h="25136" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151732" y="113612" z="-5510" h="-8192" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151853" y="113676" z="-5510" h="-8192" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="151974" y="113740" z="-5510" h="-8192" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="152094" y="113804" z="-5510" h="-8192" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="152216" y="113868" z="-5510" h="-8192" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="152337" y="113934" z="-5510" h="-8192" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="147423" y="120891" z="-4680" h="-18484" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="147332" y="120926" z="-4680" h="-18484" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="147242" y="120961" z="-4680" h="-18484" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+	<spawn count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="147152" y="120996" z="-4680" h="-18484" />
+		<npc id="22853" /><!--Dragon Mage-->
+	</spawn>
+</list>

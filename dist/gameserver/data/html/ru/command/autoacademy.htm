@@ -1,0 +1,146 @@
+<html><body>
+<!--AUTHOR: Bonux-->
+<html noscrollbar><head>
+<title>Автоакадемия</title>
+<body scroll="no">
+<table border=0 cellpadding=0 cellspacing=0 width=292>
+	<?message?>
+	<?content?>
+</table>
+</body></html><!--TEMPLATE1
+<tr>
+	<td>
+		<table width=292 border=0 background="L2UI_CT1.editbox_df_bg">
+			<tr><td align=center width=5></td><td align=center height=10></td><td align=center width=5></td></tr>
+			<tr><td align=center width=5></td><td align=center width=292><?message_text?></td><td align=center width=5></td></tr>
+			<tr><td align=center width=5></td><td align=center height=10></td><td align=center width=5></td></tr>
+		</table>
+		<br>
+	</td>
+</tr>
+TEMPLATE-->
+<!--TEMPLATE2
+<font color="FF0000">Введено неверное значение<br1>вознаграждения!</font>
+TEMPLATE-->
+<!--TEMPLATE3
+<font color="4CFF00">Автоматический набор<br1>в академию активирован!</font>
+TEMPLATE-->
+<!--TEMPLATE4
+<font color="4CFF00">Награда за автоматический<br1>набор в академию изменена!</font>
+TEMPLATE-->
+<!--TEMPLATE5
+<font color="4CFF00">Автоматический набор<br1>в академию деактивирован!</font>
+TEMPLATE-->
+<!--TEMPLATE6
+<font color="FF0000">Вы не соответствуете требованиям,<br1>для вступления в академию!</font>
+TEMPLATE-->
+<!--TEMPLATE7
+<font color="FF0000">Ваш клан не соответствует требованиям,<br1>для создания набора в академию!</font>
+TEMPLATE-->
+<!--TEMPLATE8
+<font color="FF0000">Вы уже состоите в академии!</font>
+TEMPLATE-->
+<!--TEMPLATE9
+<font color="FF0000">Только лидер клана может управлять<br1>автоматическим набором в академию!</font>
+TEMPLATE-->
+<!--TEMPLATE10
+<font color="DDD3B6">Автоматический набор в академию отсутствует.</font>
+TEMPLATE-->
+<!--TEMPLATE11
+<font color="FF0000">Невозможно вступить в данный клан!</font>
+TEMPLATE-->
+<!--TEMPLATE100
+<tr>
+	<td>
+		<table border=0 cellpadding=0 cellspacing=0 width=292 height=170 background="L2UI_CH3.refinewnd_back_Pattern">
+			<tr>
+				<td align=center height=120>
+					<br><br>
+					<?description?>
+					<br>
+					<table width=240>
+						<?current_reward?>
+						<tr><td fixwidth=110><font name="CreditText">Вознаграждение<font color="LEVEL">*</font>:</font></td><td fixwidth=120 height=29 align=right><edit var="reward" width=110 height=15 /></td></tr>
+					</table>
+					<?button_change?>
+					<?button_remove?>
+					<br>
+				</td>
+			</tr>
+			<tr><td align=center height=50><font color="LEVEL">* Вознаграждение взымается<br1>с кланового хранилища в виде Адены.</font></td></tr>
+		</table>
+	</td>
+</tr>
+TEMPLATE-->
+<!--TEMPLATE101
+<font color="DDD3B6">Активация автоматического<br1>набора в академию</font>
+TEMPLATE-->
+<!--TEMPLATE102
+<font color="DDD3B6">Управление автоматическим<br1>набором в академию</font>
+TEMPLATE-->
+<!--TEMPLATE103
+<tr><td fixwidth=110><font name="CreditText">Текущее вознагр.:</font></td><td fixwidth=120 align=right><font name="CreditTextNormal" color="FF6A00"><?current_reward_value?></font></td></tr>
+TEMPLATE-->
+<!--TEMPLATE104
+<br><button value="Активировать" action="bypass -h user_autoacademy add $reward" back="l2ui_ct1.Button_DF_Msn_down" width=200 height=30 fore="l2ui_ct1.Button_DF_Msn">
+TEMPLATE-->
+<!--TEMPLATE105
+<br><button value="Изменить вознаграждение" action="bypass -h user_autoacademy change $reward" back="l2ui_ct1.Button_DF_Msn_down" width=200 height=30 fore="l2ui_ct1.Button_DF_Msn">
+TEMPLATE-->
+<!--TEMPLATE106
+<br1><button value="Деактивировать" action="bypass -h user_autoacademy remove" back="l2ui_ct1.Button_DF_Msn_down" width=200 height=30 fore="l2ui_ct1.Button_DF_Msn">
+TEMPLATE-->
+<!--TEMPLATE200
+<tr>
+	<td>
+		<?clan_list?>
+	</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+	<td>
+		<table border=0 cellpadding=0 cellspacing=0 width=292>
+			<tr>
+				<td width=80 height=90></td>
+				<td width=30 height=90 align=center><?prev_page_button?></td>
+				<td width=70 height=90 align=center>Страница: <?current_page?></td>
+				<td width=30 height=90 align=center><?next_page_button?></td>
+				<td width=80 height=90></td>
+			</tr>
+		</table>
+	</td>
+</tr>
+TEMPLATE-->
+<!--TEMPLATE201
+<table border=0 cellpadding=0 cellspacing=0 width=292 bgcolor=<?bg_color?>>
+<tr>
+	<td width=200 height=45 align=center>
+		<table width=200>
+			<tr>
+				<td><?clan_name?> <font color="00FFFF">(<?clan_level?> ур.)</font></td>
+			</tr>
+			<tr>
+				<td><font color="DDD3B6">Вознаграждение:</font> <font color="LEVEL"><?reward?></font></td>
+			</tr>
+		</table>
+	</td>
+	<td width=92 height=45 align=center>
+		<button value="Вступить" action="bypass -h user_autoacademy enter <?clan_id?>" back="l2ui_ct1.Button_DF_Msn_down" width=70 height=39 fore="l2ui_ct1.Button_DF_Msn">
+	</td>
+</tr>
+</table>
+TEMPLATE-->
+<!--TEMPLATE202
+"443E36"
+TEMPLATE-->
+<!--TEMPLATE203
+"786C5C"
+TEMPLATE-->
+<!--TEMPLATE204
+<button action="bypass -h user_autoacademy <?prev_page?>" back="L2UI_CT1.Button_DF_Left_Down" fore="L2UI_CT1.Button_DF_Left" width=15 height=15>
+TEMPLATE-->
+<!--TEMPLATE205
+<button action="bypass -h user_autoacademy <?next_page?>" back="L2UI_CT1.Button_DF_Right_Down" fore="L2UI_CT1.Button_DF_Right" width=15 height=15>
+TEMPLATE-->
+</body></html>

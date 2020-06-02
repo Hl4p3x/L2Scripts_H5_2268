@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "tree.dtd">
+<list>
+	<reborn_skill_tree>
+		<!--EXAMPLE: <skill id="60061" level="1" name="Reborn" min_level="1" item_id="60000"/>-->
+	</reborn_skill_tree>
+</list>

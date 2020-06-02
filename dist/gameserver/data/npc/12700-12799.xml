@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+<list>
+	<npc id="12774" name="Young Squash" title="">
+		<set name="type" value="Squash"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="10.5"/>
+		<set name="collision_radius" value="10"/>
+		<set name="level" value="1"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="39.74519"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="2"/>
+		<set name="baseMpMax" value="40"/>
+		<set name="baseMpReg" value="0.9"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="10"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="8.47458"/>
+		<set name="basePDef" value="44.44444"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="5.78704"/>
+		<set name="baseMDef" value="32.52252"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="19"/>	<!--Others-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="3"/>	<!--Light Armor Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4441" level="5"/>	<!--Greater Resist Mental Derangement-->
+		</skills>
+	</npc>
+	<npc id="12775" name="High Quality Squash" title="">
+		<set name="type" value="Squash"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="25"/>
+		<set name="collision_radius" value="23"/>
+		<set name="level" value="1"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="39.74519"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="2"/>
+		<set name="baseMpMax" value="40"/>
+		<set name="baseMpReg" value="0.9"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="10"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="8.47458"/>
+		<set name="basePDef" value="44.44444"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="5.78704"/>
+		<set name="baseMDef" value="32.52252"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="19"/>	<!--Others-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="3"/>	<!--Light Armor Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4441" level="5"/>	<!--Greater Resist Mental Derangement-->
+		</skills>
+	</npc>
+	<npc id="12776" name="Low Quality Squash" title="">
+		<set name="type" value="Squash"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="16"/>
+		<set name="collision_radius" value="15"/>
+		<set name="level" value="1"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="39.74519"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="2"/>
+		<set name="baseMpMax" value="40"/>
+		<set name="baseMpReg" value="0.9"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="10"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="8.47458"/>
+		<set name="basePDef" value="44.44444"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="5.78704"/>
+		<set name="baseMDef" value="32.52252"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="19"/>	<!--Others-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="3"/>	<!--Light Armor Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4441" level="5"/>	<!--Greater Resist Mental Derangement-->
+		</skills>
+	</npc>
+	<npc id="12777" name="Large Young Squash" title="">
+		<set name="type" value="Squash"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="25"/>
+		<set name="collision_radius" value="23"/>
+		<set name="level" value="1"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="39.74519"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="2"/>
+		<set name="baseMpMax" value="40"/>
+		<set name="baseMpReg" value="0.9"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="10"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="8.47458"/>
+		<set name="basePDef" value="44.44444"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="5.78704"/>
+		<set name="baseMDef" value="32.52252"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="19"/>	<!--Others-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="3"/>	<!--Light Armor Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4441" level="5"/>	<!--Greater Resist Mental Derangement-->
+		</skills>
+	</npc>
+	<npc id="12778" name="High Quality Large Squash" title="">
+		<set name="type" value="Squash"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="40"/>
+		<set name="collision_radius" value="34"/>
+		<set name="level" value="1"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="39.74519"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="2"/>
+		<set name="baseMpMax" value="40"/>
+		<set name="baseMpReg" value="0.9"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="10"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="8.47458"/>
+		<set name="basePDef" value="44.44444"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="5.78704"/>
+		<set name="baseMDef" value="32.52252"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="19"/>	<!--Others-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="3"/>	<!--Light Armor Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4441" level="5"/>	<!--Greater Resist Mental Derangement-->
+		</skills>
+	</npc>
+	<npc id="12779" name="Low Quality Large Squash" title="">
+		<set name="type" value="Squash"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="31"/>
+		<set name="collision_radius" value="28"/>
+		<set name="level" value="1"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="39.74519"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="2"/>
+		<set name="baseMpMax" value="40"/>
+		<set name="baseMpReg" value="0.9"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="10"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="10"/>
+		<set name="basePAtk" value="8.47458"/>
+		<set name="basePDef" value="44.44444"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="5.78704"/>
+		<set name="baseMDef" value="32.52252"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="50"/>
+		<set name="baseAttackType" value="BLUNT"/>
+		<set name="basePHitModify" value="9"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.6"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="19"/>	<!--Others-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="3"/>	<!--Light Armor Type-->
+			<skill id="4415" level="5"/>	<!--Blunt Weapons-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4441" level="5"/>	<!--Greater Resist Mental Derangement-->
+		</skills>
+	</npc>
+	<npc id="12780" name="Baby Buffalo" title="">
+		<set name="type" value="Pet"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="15"/>
+		<set name="collision_radius" value="12"/>
+		<set name="level" value="25"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="460.96247"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="3.5"/>
+		<set name="baseMpMax" value="259.2"/>
+		<set name="baseMpReg" value="1.5"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="25"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="64.83203"/>
+		<set name="basePDef" value="101.83533"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="44.27187"/>
+		<set name="baseMDef" value="74.51868"/>
+		<set name="baseWalkSpd" value="30"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="10"/>
+		<set name="baseAttackType" value="FIST"/>
+		<set name="basePHitModify" value="4.75"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.48"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="corpse_time" value="86400"/>
+			<set name="spiritshot_count" value="2"/>
+			<set name="soulshot_count" value="2"/>
+		</ai_params>
+		<skills>
+			<skill id="4416" level="3"/>	<!--Beasts-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="1"/>	<!--Bare Hands-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4717" level="1" use_type="Heal1"/>	<!--Heal Trick-->
+			<skill id="4718" level="1" use_type="Heal2"/>	<!--Greater Heal Trick-->
+		</skills>
+	</npc>
+	<npc id="12781" name="Baby Kookaburra" title="">
+		<set name="type" value="Pet"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="15"/>
+		<set name="collision_radius" value="7"/>
+		<set name="level" value="25"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="460.96247"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="3.5"/>
+		<set name="baseMpMax" value="259.2"/>
+		<set name="baseMpReg" value="1.5"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="25"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="64.83203"/>
+		<set name="basePDef" value="101.83533"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="44.27187"/>
+		<set name="baseMDef" value="74.51868"/>
+		<set name="baseWalkSpd" value="13"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="10"/>
+		<set name="baseAttackType" value="FIST"/>
+		<set name="basePHitModify" value="4.75"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.5"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="corpse_time" value="86400"/>
+			<set name="spiritshot_count" value="2"/>
+			<set name="soulshot_count" value="2"/>
+		</ai_params>
+		<skills>
+			<skill id="4416" level="3"/>	<!--Beasts-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="1"/>	<!--Bare Hands-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4717" level="1" use_type="Heal1"/>	<!--Heal Trick-->
+			<skill id="4718" level="1" use_type="Heal2"/>	<!--Greater Heal Trick-->
+		</skills>
+	</npc>
+	<npc id="12782" name="Baby Cougar" title="">
+		<set name="type" value="Pet"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="15.7"/>
+		<set name="collision_radius" value="11"/>
+		<set name="level" value="25"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="460.96247"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="3.5"/>
+		<set name="baseMpMax" value="259.2"/>
+		<set name="baseMpReg" value="1.5"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="25"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="64.83203"/>
+		<set name="basePDef" value="101.83533"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="44.27187"/>
+		<set name="baseMDef" value="74.51868"/>
+		<set name="baseWalkSpd" value="28"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="10"/>
+		<set name="baseAttackType" value="FIST"/>
+		<set name="basePHitModify" value="4.75"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0.48"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<ai_params>
+			<set name="corpse_time" value="86400"/>
+			<set name="spiritshot_count" value="2"/>
+			<set name="soulshot_count" value="2"/>
+		</ai_params>
+		<skills>
+			<skill id="4416" level="3"/>	<!--Beasts-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="1"/>	<!--Bare Hands-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4717" level="1" use_type="Heal1"/>	<!--Heal Trick-->
+			<skill id="4718" level="1" use_type="Heal2"/>	<!--Greater Heal Trick-->
+		</skills>
+	</npc>
+</list>

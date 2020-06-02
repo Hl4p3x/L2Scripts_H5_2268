@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+
+<list>
+	<spawn>
+		<point x="-82168" y="-49167" z="-10326" h="32084" />
+		<npc id="32491" /> <!--Underground Coliseum Helper-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-79117" y="-45433" z="-10731" h="40959" />
+		<npc id="32377" /><!--Kuram-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-84640" y="-45360" z="-10728" h="56156" />
+		<npc id="32513" /><!--Kun-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-77408" y="-50656" z="-10728" h="29664" />
+		<npc id="32514" /><!--Tarion-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-81904" y="-53904" z="-10728" h="17044" />
+		<npc id="32515" /><!--Leo-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-86359" y="-50593" z="-10728" h="3704" />
+		<npc id="32516" /><!--Candice-->
+	</spawn>
+</list>

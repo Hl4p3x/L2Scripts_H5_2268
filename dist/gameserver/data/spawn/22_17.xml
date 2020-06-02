@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+
+<list>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90932" y="-18216" zmin="-2128" zmax="-1828" />
+			<add x="91660" y="-18456" zmin="-2128" zmax="-1828" />
+			<add x="92380" y="-17952" zmin="-2128" zmax="-1828" />
+			<add x="92048" y="-16452" zmin="-2128" zmax="-1828" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91772" y="-15004" zmin="-2252" zmax="-1952" />
+			<add x="92244" y="-17300" zmin="-2252" zmax="-1952" />
+			<add x="93716" y="-16044" zmin="-2252" zmax="-1952" />
+			<add x="92852" y="-15112" zmin="-2252" zmax="-1952" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="94364" y="-18652" zmin="-2204" zmax="-1704" />
+			<add x="92744" y="-18084" zmin="-2204" zmax="-1704" />
+			<add x="92552" y="-17040" zmin="-2204" zmax="-1704" />
+			<add x="93716" y="-16056" zmin="-2204" zmax="-1704" />
+			<add x="95076" y="-16616" zmin="-2204" zmax="-1704" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91260" y="-20516" zmin="-2184" zmax="-1484" />
+			<add x="91720" y="-19060" zmin="-2184" zmax="-1484" />
+			<add x="92736" y="-18116" zmin="-2184" zmax="-1484" />
+			<add x="94292" y="-18660" zmin="-2184" zmax="-1484" />
+			<add x="93140" y="-21468" zmin="-2184" zmax="-1484" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="95740" y="-19432" zmin="-2964" zmax="-2464" />
+			<add x="95884" y="-20992" zmin="-2964" zmax="-2464" />
+			<add x="96456" y="-21652" zmin="-2964" zmax="-2464" />
+			<add x="98048" y="-22024" zmin="-2964" zmax="-2464" />
+			<add x="98008" y="-19376" zmin="-2964" zmax="-2464" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="96096" y="-19444" zmin="-2852" zmax="-2552" />
+			<add x="96536" y="-17508" zmin="-2852" zmax="-2552" />
+			<add x="98104" y="-16756" zmin="-2852" zmax="-2552" />
+			<add x="98020" y="-19408" zmin="-2852" zmax="-2552" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="94160" y="-12632" zmin="-3264" zmax="-2664" />
+			<add x="96440" y="-15184" zmin="-3264" zmax="-2664" />
+			<add x="98092" y="-15088" zmin="-3264" zmax="-2664" />
+			<add x="98084" y="-12548" zmin="-3264" zmax="-2664" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="95248" y="-7928" zmin="-3568" zmax="-2968" />
+			<add x="96400" y="-7184" zmin="-3568" zmax="-2968" />
+			<add x="98072" y="-6692" zmin="-3568" zmax="-2968" />
+			<add x="98096" y="-12536" zmin="-3568" zmax="-2968" />
+			<add x="93964" y="-12092" zmin="-3568" zmax="-2968" />
+			<add x="93428" y="-10528" zmin="-3568" zmax="-2968" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86640" y="-7748" zmin="-3056" zmax="-2056" />
+			<add x="87156" y="-7572" zmin="-3056" zmax="-2056" />
+			<add x="90896" y="-11060" zmin="-3056" zmax="-2056" />
+			<add x="88924" y="-10936" zmin="-3056" zmax="-2056" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90836" y="-8872" zmin="-3416" zmax="-2716" />
+			<add x="88176" y="-7032" zmin="-3416" zmax="-2716" />
+			<add x="90032" y="-3584" zmin="-3416" zmax="-2716" />
+			<add x="90996" y="-4104" zmin="-3416" zmax="-2716" />
+			<add x="92224" y="-7040" zmin="-3416" zmax="-2716" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86224" y="-2748" zmin="-3556" zmax="-3056" />
+			<add x="87064" y="-6388" zmin="-3556" zmax="-3056" />
+			<add x="88160" y="-7024" zmin="-3556" zmax="-3056" />
+			<add x="90084" y="-3532" zmin="-3556" zmax="-3056" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="85596" y="-7840" zmin="-3572" zmax="-2772" />
+			<add x="87040" y="-6392" zmin="-3572" zmax="-2772" />
+			<add x="86220" y="-2732" zmin="-3572" zmax="-2772" />
+			<add x="84700" y="-3000" zmin="-3572" zmax="-2772" />
+			<add x="81696" y="-8144" zmin="-3572" zmax="-2772" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83184" y="-6364" zmin="-3340" zmax="-3040" />
+			<add x="84972" y="-3596" zmin="-3340" zmax="-3040" />
+			<add x="86360" y="-3672" zmin="-3340" zmax="-3040" />
+			<add x="87016" y="-6072" zmin="-3340" zmax="-3040" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79844" y="-8076" zmin="-3348" zmax="-2748" />
+			<add x="78520" y="-6272" zmin="-3348" zmax="-2748" />
+			<add x="79668" y="-3640" zmin="-3348" zmax="-2748" />
+			<add x="84036" y="-4000" zmin="-3348" zmax="-2748" />
+			<add x="81664" y="-8092" zmin="-3348" zmax="-2748" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79472" y="-5980" zmin="-3288" zmax="-2888" />
+			<add x="80592" y="-3868" zmin="-3288" zmax="-2888" />
+			<add x="82984" y="-4196" zmin="-3288" zmax="-2888" />
+			<add x="81092" y="-6616" zmin="-3288" zmax="-2888" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="73108" y="-4432" zmin="-3084" zmax="-2784" />
+			<add x="73900" y="-7412" zmin="-3084" zmax="-2784" />
+			<add x="75772" y="-7324" zmin="-3084" zmax="-2784" />
+			<add x="75788" y="-5008" zmin="-3084" zmax="-2784" />
+			<add x="74932" y="-4540" zmin="-3084" zmax="-2784" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="92440" y="-4908" zmin="-3612" zmax="-3112" />
+			<add x="93696" y="-7784" zmin="-3612" zmax="-3112" />
+			<add x="94404" y="-7732" zmin="-3612" zmax="-3112" />
+			<add x="95284" y="-6048" zmin="-3612" zmax="-3112" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91872" y="-9932" zmin="-3276" zmax="-2676" />
+			<add x="93124" y="-9972" zmin="-3276" zmax="-2676" />
+			<add x="94244" y="-7784" zmin="-3276" zmax="-2676" />
+			<add x="93724" y="-7828" zmin="-3276" zmax="-2676" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="93552" y="-15024" zmin="-2416" zmax="-1816" />
+			<add x="92904" y="-13188" zmin="-2416" zmax="-1816" />
+			<add x="93528" y="-12800" zmin="-2416" zmax="-1816" />
+			<add x="96288" y="-16124" zmin="-2416" zmax="-1816" />
+			<add x="95652" y="-16220" zmin="-2416" zmax="-1816" />
+		</territory>
+		<npc id="20161" /><!--Oel Mahum-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="94160" y="-12632" zmin="-3264" zmax="-2664" />
+			<add x="96440" y="-15184" zmin="-3264" zmax="-2664" />
+			<add x="98092" y="-15088" zmin="-3264" zmax="-2664" />
+			<add x="98084" y="-12548" zmin="-3264" zmax="-2664" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="95248" y="-7928" zmin="-3568" zmax="-2968" />
+			<add x="96400" y="-7184" zmin="-3568" zmax="-2968" />
+			<add x="98072" y="-6692" zmin="-3568" zmax="-2968" />
+			<add x="98096" y="-12536" zmin="-3568" zmax="-2968" />
+			<add x="93964" y="-12092" zmin="-3568" zmax="-2968" />
+			<add x="93428" y="-10528" zmin="-3568" zmax="-2968" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="95144" y="-10072" zmin="-3364" zmax="-3164" />
+			<add x="96412" y="-11744" zmin="-3364" zmax="-3164" />
+			<add x="97864" y="-11876" zmin="-3364" zmax="-3164" />
+			<add x="97324" y="-7992" zmin="-3364" zmax="-3164" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91276" y="-224" zmin="-3912" zmax="-3212" />
+			<add x="94212" y="-4708" zmin="-3912" zmax="-3212" />
+			<add x="98008" y="-4652" zmin="-3912" zmax="-3212" />
+			<add x="98032" y="-172" zmin="-3912" zmax="-3212" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="94796" y="-344" zmin="-3780" zmax="-3480" />
+			<add x="94888" y="-2316" zmin="-3780" zmax="-3480" />
+			<add x="97952" y="-3120" zmin="-3780" zmax="-3480" />
+			<add x="97964" y="-296" zmin="-3780" zmax="-3480" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="6" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87088" y="-1720" zmin="-3784" zmax="-3184" />
+			<add x="87772" y="-240" zmin="-3784" zmax="-3184" />
+			<add x="91232" y="-240" zmin="-3784" zmax="-3184" />
+			<add x="94156" y="-4692" zmin="-3784" zmax="-3184" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86640" y="-7748" zmin="-3056" zmax="-2056" />
+			<add x="87156" y="-7572" zmin="-3056" zmax="-2056" />
+			<add x="90896" y="-11060" zmin="-3056" zmax="-2056" />
+			<add x="88924" y="-10936" zmin="-3056" zmax="-2056" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90836" y="-8872" zmin="-3416" zmax="-2716" />
+			<add x="88176" y="-7032" zmin="-3416" zmax="-2716" />
+			<add x="90032" y="-3584" zmin="-3416" zmax="-2716" />
+			<add x="90996" y="-4104" zmin="-3416" zmax="-2716" />
+			<add x="92224" y="-7040" zmin="-3416" zmax="-2716" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="88404" y="-6876" zmin="-3256" zmax="-2956" />
+			<add x="89612" y="-4740" zmin="-3256" zmax="-2956" />
+			<add x="91136" y="-6148" zmin="-3256" zmax="-2956" />
+			<add x="90192" y="-7876" zmin="-3256" zmax="-2956" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86224" y="-2748" zmin="-3556" zmax="-3056" />
+			<add x="87064" y="-6388" zmin="-3556" zmax="-3056" />
+			<add x="88160" y="-7024" zmin="-3556" zmax="-3056" />
+			<add x="90084" y="-3532" zmin="-3556" zmax="-3056" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="85596" y="-7840" zmin="-3572" zmax="-2772" />
+			<add x="87040" y="-6392" zmin="-3572" zmax="-2772" />
+			<add x="86220" y="-2732" zmin="-3572" zmax="-2772" />
+			<add x="84700" y="-3000" zmin="-3572" zmax="-2772" />
+			<add x="81696" y="-8144" zmin="-3572" zmax="-2772" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83184" y="-6364" zmin="-3340" zmax="-3040" />
+			<add x="84972" y="-3596" zmin="-3340" zmax="-3040" />
+			<add x="86360" y="-3672" zmin="-3340" zmax="-3040" />
+			<add x="87016" y="-6072" zmin="-3340" zmax="-3040" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79844" y="-8076" zmin="-3348" zmax="-2748" />
+			<add x="78520" y="-6272" zmin="-3348" zmax="-2748" />
+			<add x="79668" y="-3640" zmin="-3348" zmax="-2748" />
+			<add x="84036" y="-4000" zmin="-3348" zmax="-2748" />
+			<add x="81664" y="-8092" zmin="-3348" zmax="-2748" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79472" y="-5980" zmin="-3288" zmax="-2888" />
+			<add x="80592" y="-3868" zmin="-3288" zmax="-2888" />
+			<add x="82984" y="-4196" zmin="-3288" zmax="-2888" />
+			<add x="81092" y="-6616" zmin="-3288" zmax="-2888" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="73108" y="-4432" zmin="-3084" zmax="-2784" />
+			<add x="73900" y="-7412" zmin="-3084" zmax="-2784" />
+			<add x="75772" y="-7324" zmin="-3084" zmax="-2784" />
+			<add x="75788" y="-5008" zmin="-3084" zmax="-2784" />
+			<add x="74932" y="-4540" zmin="-3084" zmax="-2784" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="72528" y="-1432" zmin="-3788" zmax="-3488" />
+			<add x="72932" y="-3336" zmin="-3788" zmax="-3488" />
+			<add x="74448" y="-2552" zmin="-3788" zmax="-3488" />
+			<add x="76420" y="-188" zmin="-3788" zmax="-3488" />
+			<add x="73028" y="-196" zmin="-3788" zmax="-3488" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="73664" y="-2792" zmin="-3768" zmax="-3568" />
+			<add x="73892" y="-260" zmin="-3768" zmax="-3568" />
+			<add x="76248" y="-268" zmin="-3768" zmax="-3568" />
+			<add x="74348" y="-2504" zmin="-3768" zmax="-3568" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="76880" y="-3604" zmin="-3792" zmax="-3492" />
+			<add x="74508" y="-2516" zmin="-3792" zmax="-3492" />
+			<add x="76432" y="-204" zmin="-3792" zmax="-3492" />
+			<add x="80392" y="-224" zmin="-3792" zmax="-3492" />
+			<add x="79808" y="-2284" zmin="-3792" zmax="-3492" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79816" y="-2284" zmin="-3832" zmax="-3432" />
+			<add x="80392" y="-224" zmin="-3832" zmax="-3432" />
+			<add x="86124" y="-240" zmin="-3832" zmax="-3432" />
+			<add x="82932" y="-2792" zmin="-3832" zmax="-3432" />
+		</territory>
+		<npc id="20241" /><!--Hunter Gargoyle-->
+	</spawn>
+	<spawn count="6" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91276" y="-224" zmin="-3912" zmax="-3212" />
+			<add x="94212" y="-4708" zmin="-3912" zmax="-3212" />
+			<add x="98008" y="-4652" zmin="-3912" zmax="-3212" />
+			<add x="98032" y="-172" zmin="-3912" zmax="-3212" />
+		</territory>
+		<npc id="20573" /><!--Tarlk Basilisk-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="94796" y="-344" zmin="-3780" zmax="-3480" />
+			<add x="94888" y="-2316" zmin="-3780" zmax="-3480" />
+			<add x="97952" y="-3120" zmin="-3780" zmax="-3480" />
+			<add x="97964" y="-296" zmin="-3780" zmax="-3480" />
+		</territory>
+		<npc id="20573" /><!--Tarlk Basilisk-->
+	</spawn>
+	<spawn count="7" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87088" y="-1720" zmin="-3784" zmax="-3184" />
+			<add x="87772" y="-240" zmin="-3784" zmax="-3184" />
+			<add x="91232" y="-240" zmin="-3784" zmax="-3184" />
+			<add x="94156" y="-4692" zmin="-3784" zmax="-3184" />
+		</territory>
+		<npc id="20573" /><!--Tarlk Basilisk-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90836" y="-8872" zmin="-3416" zmax="-2716" />
+			<add x="88176" y="-7032" zmin="-3416" zmax="-2716" />
+			<add x="90032" y="-3584" zmin="-3416" zmax="-2716" />
+			<add x="90996" y="-4104" zmin="-3416" zmax="-2716" />
+			<add x="92224" y="-7040" zmin="-3416" zmax="-2716" />
+		</territory>
+		<npc id="20573" /><!--Tarlk Basilisk-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86224" y="-2748" zmin="-3556" zmax="-3056" />
+			<add x="87064" y="-6388" zmin="-3556" zmax="-3056" />
+			<add x="88160" y="-7024" zmin="-3556" zmax="-3056" />
+			<add x="90084" y="-3532" zmin="-3556" zmax="-3056" />
+		</territory>
+		<npc id="20573" /><!--Tarlk Basilisk-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="85596" y="-7840" zmin="-3572" zmax="-2772" />
+			<add x="87040" y="-6392" zmin="-3572" zmax="-2772" />
+			<add x="86220" y="-2732" zmin="-3572" zmax="-2772" />
+			<add x="84700" y="-3000" zmin="-3572" zmax="-2772" />
+			<add x="81696" y="-8144" zmin="-3572" zmax="-2772" />
+		</territory>
+		<npc id="20573" /><!--Tarlk Basilisk-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83184" y="-6364" zmin="-3340" zmax="-3040" />
+			<add x="84972" y="-3596" zmin="-3340" zmax="-3040" />
+			<add x="86360" y="-3672" zmin="-3340" zmax="-3040" />
+			<add x="87016" y="-6072" zmin="-3340" zmax="-3040" />
+		</territory>
+		<npc id="20573" /><!--Tarlk Basilisk-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79844" y="-8076" zmin="-3348" zmax="-2748" />
+			<add x="78520" y="-6272" zmin="-3348" zmax="-2748" />
+			<add x="79668" y="-3640" zmin="-3348" zmax="-2748" />
+			<add x="84036" y="-4000" zmin="-3348" zmax="-2748" />
+			<add x="81664" y="-8092" zmin="-3348" zmax="-2748" />
+		</territory>
+		<npc id="20573" /><!--Tarlk Basilisk-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79472" y="-5980" zmin="-3288" zmax="-2888" />
+			<add x="80592" y="-3868" zmin="-3288" zmax="-2888" />
+			<add x="82984" y="-4196" zmin="-3288" zmax="-2888" />
+			<add x="81092" y="-6616" zmin="-3288" zmax="-2888" />
+		</territory>
+		<npc id="20573" /><!--Tarlk Basilisk-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="73108" y="-4432" zmin="-3084" zmax="-2784" />
+			<add x="73900" y="-7412" zmin="-3084" zmax="-2784" />
+			<add x="75772" y="-7324" zmin="-3084" zmax="-2784" />
+			<add x="75788" y="-5008" zmin="-3084" zmax="-2784" />
+			<add x="74932" y="-4540" zmin="-3084" zmax="-2784" />
+		</territory>
+		<npc id="20573" /><!--Tarlk Basilisk-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="72528" y="-1432" zmin="-3788" zmax="-3488" />
+			<add x="72932" y="-3336" zmin="-3788" zmax="-3488" />
+			<add x="74448" y="-2552" zmin="-3788" zmax="-3488" />
+			<add x="76420" y="-188" zmin="-3788" zmax="-3488" />
+			<add x="73028" y="-196" zmin="-3788" zmax="-3488" />
+		</territory>
+		<npc id="20573" /><!--Tarlk Basilisk-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="73664" y="-2792" zmin="-3768" zmax="-3568" />
+			<add x="73892" y="-260" zmin="-3768" zmax="-3568" />
+			<add x="76248" y="-268" zmin="-3768" zmax="-3568" />
+			<add x="74348" y="-2504" zmin="-3768" zmax="-3568" />
+		</territory>
+		<npc id="20573" /><!--Tarlk Basilisk-->
+	</spawn>
+	<spawn count="6" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="76880" y="-3604" zmin="-3792" zmax="-3492" />
+			<add x="74508" y="-2516" zmin="-3792" zmax="-3492" />
+			<add x="76432" y="-204" zmin="-3792" zmax="-3492" />
+			<add x="80392" y="-224" zmin="-3792" zmax="-3492" />
+			<add x="79808" y="-2284" zmin="-3792" zmax="-3492" />
+		</territory>
+		<npc id="20573" /><!--Tarlk Basilisk-->
+	</spawn>
+	<spawn count="5" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79816" y="-2284" zmin="-3832" zmax="-3432" />
+			<add x="80392" y="-224" zmin="-3832" zmax="-3432" />
+			<add x="86124" y="-240" zmin="-3832" zmax="-3432" />
+			<add x="82932" y="-2792" zmin="-3832" zmax="-3432" />
+		</territory>
+		<npc id="20573" /><!--Tarlk Basilisk-->
+	</spawn>
+	<spawn count="4" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91276" y="-224" zmin="-3912" zmax="-3212" />
+			<add x="94212" y="-4708" zmin="-3912" zmax="-3212" />
+			<add x="98008" y="-4652" zmin="-3912" zmax="-3212" />
+			<add x="98032" y="-172" zmin="-3912" zmax="-3212" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="4" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="94796" y="-344" zmin="-3780" zmax="-3480" />
+			<add x="94888" y="-2316" zmin="-3780" zmax="-3480" />
+			<add x="97952" y="-3120" zmin="-3780" zmax="-3480" />
+			<add x="97964" y="-296" zmin="-3780" zmax="-3480" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="5" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87088" y="-1720" zmin="-3784" zmax="-3184" />
+			<add x="87772" y="-240" zmin="-3784" zmax="-3184" />
+			<add x="91232" y="-240" zmin="-3784" zmax="-3184" />
+			<add x="94156" y="-4692" zmin="-3784" zmax="-3184" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86640" y="-7748" zmin="-3056" zmax="-2056" />
+			<add x="87156" y="-7572" zmin="-3056" zmax="-2056" />
+			<add x="90896" y="-11060" zmin="-3056" zmax="-2056" />
+			<add x="88924" y="-10936" zmin="-3056" zmax="-2056" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="88404" y="-6876" zmin="-3256" zmax="-2956" />
+			<add x="89612" y="-4740" zmin="-3256" zmax="-2956" />
+			<add x="91136" y="-6148" zmin="-3256" zmax="-2956" />
+			<add x="90192" y="-7876" zmin="-3256" zmax="-2956" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86224" y="-2748" zmin="-3556" zmax="-3056" />
+			<add x="87064" y="-6388" zmin="-3556" zmax="-3056" />
+			<add x="88160" y="-7024" zmin="-3556" zmax="-3056" />
+			<add x="90084" y="-3532" zmin="-3556" zmax="-3056" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="85596" y="-7840" zmin="-3572" zmax="-2772" />
+			<add x="87040" y="-6392" zmin="-3572" zmax="-2772" />
+			<add x="86220" y="-2732" zmin="-3572" zmax="-2772" />
+			<add x="84700" y="-3000" zmin="-3572" zmax="-2772" />
+			<add x="81696" y="-8144" zmin="-3572" zmax="-2772" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83184" y="-6364" zmin="-3340" zmax="-3040" />
+			<add x="84972" y="-3596" zmin="-3340" zmax="-3040" />
+			<add x="86360" y="-3672" zmin="-3340" zmax="-3040" />
+			<add x="87016" y="-6072" zmin="-3340" zmax="-3040" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79844" y="-8076" zmin="-3348" zmax="-2748" />
+			<add x="78520" y="-6272" zmin="-3348" zmax="-2748" />
+			<add x="79668" y="-3640" zmin="-3348" zmax="-2748" />
+			<add x="84036" y="-4000" zmin="-3348" zmax="-2748" />
+			<add x="81664" y="-8092" zmin="-3348" zmax="-2748" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79472" y="-5980" zmin="-3288" zmax="-2888" />
+			<add x="80592" y="-3868" zmin="-3288" zmax="-2888" />
+			<add x="82984" y="-4196" zmin="-3288" zmax="-2888" />
+			<add x="81092" y="-6616" zmin="-3288" zmax="-2888" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="73108" y="-4432" zmin="-3084" zmax="-2784" />
+			<add x="73900" y="-7412" zmin="-3084" zmax="-2784" />
+			<add x="75772" y="-7324" zmin="-3084" zmax="-2784" />
+			<add x="75788" y="-5008" zmin="-3084" zmax="-2784" />
+			<add x="74932" y="-4540" zmin="-3084" zmax="-2784" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="72528" y="-1432" zmin="-3788" zmax="-3488" />
+			<add x="72932" y="-3336" zmin="-3788" zmax="-3488" />
+			<add x="74448" y="-2552" zmin="-3788" zmax="-3488" />
+			<add x="76420" y="-188" zmin="-3788" zmax="-3488" />
+			<add x="73028" y="-196" zmin="-3788" zmax="-3488" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="73664" y="-2792" zmin="-3768" zmax="-3568" />
+			<add x="73892" y="-260" zmin="-3768" zmax="-3568" />
+			<add x="76248" y="-268" zmin="-3768" zmax="-3568" />
+			<add x="74348" y="-2504" zmin="-3768" zmax="-3568" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="6" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="76880" y="-3604" zmin="-3792" zmax="-3492" />
+			<add x="74508" y="-2516" zmin="-3792" zmax="-3492" />
+			<add x="76432" y="-204" zmin="-3792" zmax="-3492" />
+			<add x="80392" y="-224" zmin="-3792" zmax="-3492" />
+			<add x="79808" y="-2284" zmin="-3792" zmax="-3492" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="5" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79816" y="-2284" zmin="-3832" zmax="-3432" />
+			<add x="80392" y="-224" zmin="-3832" zmax="-3432" />
+			<add x="86124" y="-240" zmin="-3832" zmax="-3432" />
+			<add x="82932" y="-2792" zmin="-3832" zmax="-3432" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="92440" y="-4908" zmin="-3612" zmax="-3112" />
+			<add x="93696" y="-7784" zmin="-3612" zmax="-3112" />
+			<add x="94404" y="-7732" zmin="-3612" zmax="-3112" />
+			<add x="95284" y="-6048" zmin="-3612" zmax="-3112" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91872" y="-9932" zmin="-3276" zmax="-2676" />
+			<add x="93124" y="-9972" zmin="-3276" zmax="-2676" />
+			<add x="94244" y="-7784" zmin="-3276" zmax="-2676" />
+			<add x="93724" y="-7828" zmin="-3276" zmax="-2676" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="92776" y="-9988" zmin="-2888" zmax="-2188" />
+			<add x="93472" y="-12792" zmin="-2888" zmax="-2188" />
+			<add x="92892" y="-13144" zmin="-2888" zmax="-2188" />
+			<add x="92256" y="-12624" zmin="-2888" zmax="-2188" />
+			<add x="91892" y="-9964" zmin="-2888" zmax="-2188" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="93552" y="-15024" zmin="-2416" zmax="-1816" />
+			<add x="92904" y="-13188" zmin="-2416" zmax="-1816" />
+			<add x="93528" y="-12800" zmin="-2416" zmax="-1816" />
+			<add x="96288" y="-16124" zmin="-2416" zmax="-1816" />
+			<add x="95652" y="-16220" zmin="-2416" zmax="-1816" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="95636" y="-16200" zmin="-2332" zmax="-1932" />
+			<add x="95696" y="-17072" zmin="-2332" zmax="-1932" />
+			<add x="98052" y="-16328" zmin="-2332" zmax="-1932" />
+			<add x="98048" y="-15916" zmin="-2332" zmax="-1932" />
+		</territory>
+		<npc id="20574" /><!--Elder Tarlk Basilisk -->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="89692" y="-19820" zmin="-2124" zmax="-1824" />
+			<add x="90856" y="-20476" zmin="-2124" zmax="-1824" />
+			<add x="91644" y="-18468" zmin="-2124" zmax="-1824" />
+			<add x="90920" y="-18228" zmin="-2124" zmax="-1824" />
+		</territory>
+		<npc id="20575" /><!--Oel Mahum Warrior-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91772" y="-15004" zmin="-2252" zmax="-1952" />
+			<add x="92244" y="-17300" zmin="-2252" zmax="-1952" />
+			<add x="93716" y="-16044" zmin="-2252" zmax="-1952" />
+			<add x="92852" y="-15112" zmin="-2252" zmax="-1952" />
+		</territory>
+		<npc id="20575" /><!--Oel Mahum Warrior-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="94364" y="-18652" zmin="-2204" zmax="-1704" />
+			<add x="92744" y="-18084" zmin="-2204" zmax="-1704" />
+			<add x="92552" y="-17040" zmin="-2204" zmax="-1704" />
+			<add x="93716" y="-16056" zmin="-2204" zmax="-1704" />
+			<add x="95076" y="-16616" zmin="-2204" zmax="-1704" />
+		</territory>
+		<npc id="20575" /><!--Oel Mahum Warrior-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91260" y="-20516" zmin="-2184" zmax="-1484" />
+			<add x="91720" y="-19060" zmin="-2184" zmax="-1484" />
+			<add x="92736" y="-18116" zmin="-2184" zmax="-1484" />
+			<add x="94292" y="-18660" zmin="-2184" zmax="-1484" />
+			<add x="93140" y="-21468" zmin="-2184" zmax="-1484" />
+		</territory>
+		<npc id="20575" /><!--Oel Mahum Warrior-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="95740" y="-19432" zmin="-2964" zmax="-2464" />
+			<add x="95884" y="-20992" zmin="-2964" zmax="-2464" />
+			<add x="96456" y="-21652" zmin="-2964" zmax="-2464" />
+			<add x="98048" y="-22024" zmin="-2964" zmax="-2464" />
+			<add x="98008" y="-19376" zmin="-2964" zmax="-2464" />
+		</territory>
+		<npc id="20575" /><!--Oel Mahum Warrior-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="96096" y="-19444" zmin="-2852" zmax="-2552" />
+			<add x="96536" y="-17508" zmin="-2852" zmax="-2552" />
+			<add x="98104" y="-16756" zmin="-2852" zmax="-2552" />
+			<add x="98020" y="-19408" zmin="-2852" zmax="-2552" />
+		</territory>
+		<npc id="20575" /><!--Oel Mahum Warrior-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="94160" y="-12632" zmin="-3264" zmax="-2664" />
+			<add x="96440" y="-15184" zmin="-3264" zmax="-2664" />
+			<add x="98092" y="-15088" zmin="-3264" zmax="-2664" />
+			<add x="98084" y="-12548" zmin="-3264" zmax="-2664" />
+		</territory>
+		<npc id="20575" /><!--Oel Mahum Warrior-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="95248" y="-7928" zmin="-3568" zmax="-2968" />
+			<add x="96400" y="-7184" zmin="-3568" zmax="-2968" />
+			<add x="98072" y="-6692" zmin="-3568" zmax="-2968" />
+			<add x="98096" y="-12536" zmin="-3568" zmax="-2968" />
+			<add x="93964" y="-12092" zmin="-3568" zmax="-2968" />
+			<add x="93428" y="-10528" zmin="-3568" zmax="-2968" />
+		</territory>
+		<npc id="20575" /><!--Oel Mahum Warrior-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="95144" y="-10072" zmin="-3364" zmax="-3164" />
+			<add x="96412" y="-11744" zmin="-3364" zmax="-3164" />
+			<add x="97864" y="-11876" zmin="-3364" zmax="-3164" />
+			<add x="97324" y="-7992" zmin="-3364" zmax="-3164" />
+		</territory>
+		<npc id="20575" /><!--Oel Mahum Warrior-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="92440" y="-4908" zmin="-3612" zmax="-3112" />
+			<add x="93696" y="-7784" zmin="-3612" zmax="-3112" />
+			<add x="94404" y="-7732" zmin="-3612" zmax="-3112" />
+			<add x="95284" y="-6048" zmin="-3612" zmax="-3112" />
+		</territory>
+		<npc id="20575" /><!--Oel Mahum Warrior-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="92776" y="-9988" zmin="-2888" zmax="-2188" />
+			<add x="93472" y="-12792" zmin="-2888" zmax="-2188" />
+			<add x="92892" y="-13144" zmin="-2888" zmax="-2188" />
+			<add x="92256" y="-12624" zmin="-2888" zmax="-2188" />
+			<add x="91892" y="-9964" zmin="-2888" zmax="-2188" />
+		</territory>
+		<npc id="20575" /><!--Oel Mahum Warrior-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="95636" y="-16200" zmin="-2332" zmax="-1932" />
+			<add x="95696" y="-17072" zmin="-2332" zmax="-1932" />
+			<add x="98052" y="-16328" zmin="-2332" zmax="-1932" />
+			<add x="98048" y="-15916" zmin="-2332" zmax="-1932" />
+		</territory>
+		<npc id="20575" /><!--Oel Mahum Warrior-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="89692" y="-19820" zmin="-2124" zmax="-1824" />
+			<add x="90856" y="-20476" zmin="-2124" zmax="-1824" />
+			<add x="91644" y="-18468" zmin="-2124" zmax="-1824" />
+			<add x="90920" y="-18228" zmin="-2124" zmax="-1824" />
+		</territory>
+		<npc id="20576" /><!--Oel Mahum Witch Doctor-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90932" y="-18216" zmin="-2128" zmax="-1828" />
+			<add x="91660" y="-18456" zmin="-2128" zmax="-1828" />
+			<add x="92380" y="-17952" zmin="-2128" zmax="-1828" />
+			<add x="92048" y="-16452" zmin="-2128" zmax="-1828" />
+		</territory>
+		<npc id="20576" /><!--Oel Mahum Witch Doctor-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91772" y="-15004" zmin="-2252" zmax="-1952" />
+			<add x="92244" y="-17300" zmin="-2252" zmax="-1952" />
+			<add x="93716" y="-16044" zmin="-2252" zmax="-1952" />
+			<add x="92852" y="-15112" zmin="-2252" zmax="-1952" />
+		</territory>
+		<npc id="20576" /><!--Oel Mahum Witch Doctor-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="94364" y="-18652" zmin="-2204" zmax="-1704" />
+			<add x="92744" y="-18084" zmin="-2204" zmax="-1704" />
+			<add x="92552" y="-17040" zmin="-2204" zmax="-1704" />
+			<add x="93716" y="-16056" zmin="-2204" zmax="-1704" />
+			<add x="95076" y="-16616" zmin="-2204" zmax="-1704" />
+		</territory>
+		<npc id="20576" /><!--Oel Mahum Witch Doctor-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91260" y="-20516" zmin="-2184" zmax="-1484" />
+			<add x="91720" y="-19060" zmin="-2184" zmax="-1484" />
+			<add x="92736" y="-18116" zmin="-2184" zmax="-1484" />
+			<add x="94292" y="-18660" zmin="-2184" zmax="-1484" />
+			<add x="93140" y="-21468" zmin="-2184" zmax="-1484" />
+		</territory>
+		<npc id="20576" /><!--Oel Mahum Witch Doctor-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="95740" y="-19432" zmin="-2964" zmax="-2464" />
+			<add x="95884" y="-20992" zmin="-2964" zmax="-2464" />
+			<add x="96456" y="-21652" zmin="-2964" zmax="-2464" />
+			<add x="98048" y="-22024" zmin="-2964" zmax="-2464" />
+			<add x="98008" y="-19376" zmin="-2964" zmax="-2464" />
+		</territory>
+		<npc id="20576" /><!--Oel Mahum Witch Doctor-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="96096" y="-19444" zmin="-2852" zmax="-2552" />
+			<add x="96536" y="-17508" zmin="-2852" zmax="-2552" />
+			<add x="98104" y="-16756" zmin="-2852" zmax="-2552" />
+			<add x="98020" y="-19408" zmin="-2852" zmax="-2552" />
+		</territory>
+		<npc id="20576" /><!--Oel Mahum Witch Doctor-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="94160" y="-12632" zmin="-3264" zmax="-2664" />
+			<add x="96440" y="-15184" zmin="-3264" zmax="-2664" />
+			<add x="98092" y="-15088" zmin="-3264" zmax="-2664" />
+			<add x="98084" y="-12548" zmin="-3264" zmax="-2664" />
+		</territory>
+		<npc id="20576" /><!--Oel Mahum Witch Doctor-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="95248" y="-7928" zmin="-3568" zmax="-2968" />
+			<add x="96400" y="-7184" zmin="-3568" zmax="-2968" />
+			<add x="98072" y="-6692" zmin="-3568" zmax="-2968" />
+			<add x="98096" y="-12536" zmin="-3568" zmax="-2968" />
+			<add x="93964" y="-12092" zmin="-3568" zmax="-2968" />
+			<add x="93428" y="-10528" zmin="-3568" zmax="-2968" />
+		</territory>
+		<npc id="20576" /><!--Oel Mahum Witch Doctor-->
+	</spawn>
+	<spawn count="3" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="95144" y="-10072" zmin="-3364" zmax="-3164" />
+			<add x="96412" y="-11744" zmin="-3364" zmax="-3164" />
+			<add x="97864" y="-11876" zmin="-3364" zmax="-3164" />
+			<add x="97324" y="-7992" zmin="-3364" zmax="-3164" />
+		</territory>
+		<npc id="20576" /><!--Oel Mahum Witch Doctor-->
+	</spawn>
+	<spawn count="2" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="93552" y="-15024" zmin="-2416" zmax="-1816" />
+			<add x="92904" y="-13188" zmin="-2416" zmax="-1816" />
+			<add x="93528" y="-12800" zmin="-2416" zmax="-1816" />
+			<add x="96288" y="-16124" zmin="-2416" zmax="-1816" />
+			<add x="95652" y="-16220" zmin="-2416" zmax="-1816" />
+		</territory>
+		<npc id="20576" /><!--Oel Mahum Witch Doctor-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="95636" y="-16200" zmin="-2332" zmax="-1932" />
+			<add x="95696" y="-17072" zmin="-2332" zmax="-1932" />
+			<add x="98052" y="-16328" zmin="-2332" zmax="-1932" />
+			<add x="98048" y="-15916" zmin="-2332" zmax="-1932" />
+		</territory>
+		<npc id="20576" /><!--Oel Mahum Witch Doctor-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="89692" y="-19820" zmin="-2124" zmax="-1824" />
+			<add x="90856" y="-20476" zmin="-2124" zmax="-1824" />
+			<add x="91644" y="-18468" zmin="-2124" zmax="-1824" />
+			<add x="90920" y="-18228" zmin="-2124" zmax="-1824" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91772" y="-15004" zmin="-2252" zmax="-1952" />
+			<add x="92244" y="-17300" zmin="-2252" zmax="-1952" />
+			<add x="93716" y="-16044" zmin="-2252" zmax="-1952" />
+			<add x="92852" y="-15112" zmin="-2252" zmax="-1952" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="94364" y="-18652" zmin="-2204" zmax="-1704" />
+			<add x="92744" y="-18084" zmin="-2204" zmax="-1704" />
+			<add x="92552" y="-17040" zmin="-2204" zmax="-1704" />
+			<add x="93716" y="-16056" zmin="-2204" zmax="-1704" />
+			<add x="95076" y="-16616" zmin="-2204" zmax="-1704" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91260" y="-20516" zmin="-2184" zmax="-1484" />
+			<add x="91720" y="-19060" zmin="-2184" zmax="-1484" />
+			<add x="92736" y="-18116" zmin="-2184" zmax="-1484" />
+			<add x="94292" y="-18660" zmin="-2184" zmax="-1484" />
+			<add x="93140" y="-21468" zmin="-2184" zmax="-1484" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="95740" y="-19432" zmin="-2964" zmax="-2464" />
+			<add x="95884" y="-20992" zmin="-2964" zmax="-2464" />
+			<add x="96456" y="-21652" zmin="-2964" zmax="-2464" />
+			<add x="98048" y="-22024" zmin="-2964" zmax="-2464" />
+			<add x="98008" y="-19376" zmin="-2964" zmax="-2464" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="96096" y="-19444" zmin="-2852" zmax="-2552" />
+			<add x="96536" y="-17508" zmin="-2852" zmax="-2552" />
+			<add x="98104" y="-16756" zmin="-2852" zmax="-2552" />
+			<add x="98020" y="-19408" zmin="-2852" zmax="-2552" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="94160" y="-12632" zmin="-3264" zmax="-2664" />
+			<add x="96440" y="-15184" zmin="-3264" zmax="-2664" />
+			<add x="98092" y="-15088" zmin="-3264" zmax="-2664" />
+			<add x="98084" y="-12548" zmin="-3264" zmax="-2664" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="95248" y="-7928" zmin="-3568" zmax="-2968" />
+			<add x="96400" y="-7184" zmin="-3568" zmax="-2968" />
+			<add x="98072" y="-6692" zmin="-3568" zmax="-2968" />
+			<add x="98096" y="-12536" zmin="-3568" zmax="-2968" />
+			<add x="93964" y="-12092" zmin="-3568" zmax="-2968" />
+			<add x="93428" y="-10528" zmin="-3568" zmax="-2968" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86640" y="-7748" zmin="-3056" zmax="-2056" />
+			<add x="87156" y="-7572" zmin="-3056" zmax="-2056" />
+			<add x="90896" y="-11060" zmin="-3056" zmax="-2056" />
+			<add x="88924" y="-10936" zmin="-3056" zmax="-2056" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90836" y="-8872" zmin="-3416" zmax="-2716" />
+			<add x="88176" y="-7032" zmin="-3416" zmax="-2716" />
+			<add x="90032" y="-3584" zmin="-3416" zmax="-2716" />
+			<add x="90996" y="-4104" zmin="-3416" zmax="-2716" />
+			<add x="92224" y="-7040" zmin="-3416" zmax="-2716" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86224" y="-2748" zmin="-3556" zmax="-3056" />
+			<add x="87064" y="-6388" zmin="-3556" zmax="-3056" />
+			<add x="88160" y="-7024" zmin="-3556" zmax="-3056" />
+			<add x="90084" y="-3532" zmin="-3556" zmax="-3056" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="85596" y="-7840" zmin="-3572" zmax="-2772" />
+			<add x="87040" y="-6392" zmin="-3572" zmax="-2772" />
+			<add x="86220" y="-2732" zmin="-3572" zmax="-2772" />
+			<add x="84700" y="-3000" zmin="-3572" zmax="-2772" />
+			<add x="81696" y="-8144" zmin="-3572" zmax="-2772" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79844" y="-8076" zmin="-3348" zmax="-2748" />
+			<add x="78520" y="-6272" zmin="-3348" zmax="-2748" />
+			<add x="79668" y="-3640" zmin="-3348" zmax="-2748" />
+			<add x="84036" y="-4000" zmin="-3348" zmax="-2748" />
+			<add x="81664" y="-8092" zmin="-3348" zmax="-2748" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="92440" y="-4908" zmin="-3612" zmax="-3112" />
+			<add x="93696" y="-7784" zmin="-3612" zmax="-3112" />
+			<add x="94404" y="-7732" zmin="-3612" zmax="-3112" />
+			<add x="95284" y="-6048" zmin="-3612" zmax="-3112" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="92776" y="-9988" zmin="-2888" zmax="-2188" />
+			<add x="93472" y="-12792" zmin="-2888" zmax="-2188" />
+			<add x="92892" y="-13144" zmin="-2888" zmax="-2188" />
+			<add x="92256" y="-12624" zmin="-2888" zmax="-2188" />
+			<add x="91892" y="-9964" zmin="-2888" zmax="-2188" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="41" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="93552" y="-15024" zmin="-2416" zmax="-1816" />
+			<add x="92904" y="-13188" zmin="-2416" zmax="-1816" />
+			<add x="93528" y="-12800" zmin="-2416" zmax="-1816" />
+			<add x="96288" y="-16124" zmin="-2416" zmax="-1816" />
+			<add x="95652" y="-16220" zmin="-2416" zmax="-1816" />
+		</territory>
+		<npc id="21261" /><!--Ol Mahum Transcender-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<territory>
+			<add x="93628" y="-23452" zmin="-2352" zmax="-1752" />
+			<add x="95260" y="-24156" zmin="-2352" zmax="-1752" />
+			<add x="95932" y="-23160" zmin="-2352" zmax="-1752" />
+			<add x="95304" y="-21636" zmin="-2352" zmax="-1752" />
+		</territory>
+		<npc id="25067" /><!--Captain of Red Flag Shaka-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<territory>
+			<add x="88952" y="-6040" zmin="-3220" zmax="-2620" />
+			<add x="89080" y="-5484" zmin="-3220" zmax="-2620" />
+			<add x="89576" y="-5276" zmin="-3220" zmax="-2620" />
+			<add x="90204" y="-5884" zmin="-3220" zmax="-2620" />
+			<add x="89636" y="-6520" zmin="-3220" zmax="-2620" />
+		</territory>
+		<npc id="25122" /><!--Refugee Hopeful Leo-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<territory>
+			<add x="74424" y="-9228" zmin="-2904" zmax="-2304" />
+			<add x="75212" y="-10092" zmin="-2904" zmax="-2304" />
+			<add x="76132" y="-9688" zmin="-2904" zmax="-2304" />
+			<add x="75932" y="-8232" zmin="-2904" zmax="-2304" />
+		</territory>
+		<npc id="25131" /><!--Carnage Lord Gato-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81322" y="-15508" z="-1830" h="0" />
+		<npc id="35433" /><!--Inner Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80757" y="-15321" z="-1804" h="35768" />
+		<npc id="35434" /><!--Inner Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86528" y="-19392" z="-1904" h="49152" />
+		<npc id="35435" /><!--Outer Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85104" y="-17552" z="-1815" h="32768" />
+		<npc id="35436" /><!--Outer Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86228" y="-19620" z="-1904" h="0" />
+		<npc id="35437" /><!--Messenger-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80291" y="-15012" z="-1805" h="49152" />
+		<npc id="35438" /><!--Chamberlain-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="79279" y="-653" z="-3717" h="34919" />
+		<npc id="32012" /><!--Tantan-->
+	</spawn>
+	<spawn group="bandits_stronghold_mass_teleporters" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83348" y="-18267" z="-1248" h="14536" />
+		<npc id="35561" /><!--Mass Teleporter-->
+	</spawn>
+	<spawn group="bandits_stronghold_mass_teleporters" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81258" y="-17387" z="-1248" h="11144" />
+		<npc id="35562" /><!--Mass Teleporter-->
+	</spawn>
+	<spawn group="bandits_stronghold_mass_teleporters" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81832" y="-14223" z="-1248" h="-17664" />
+		<npc id="35563" /><!--Mass Teleporter-->
+	</spawn>
+	<spawn group="bandits_stronghold_mass_teleporters" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83687" y="-14532" z="-1248" h="-19008" />
+		<npc id="35564" /><!--Mass Teleporter-->
+	</spawn>
+	<spawn group="bandits_stronghold_mass_teleporters" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85263" y="-15447" z="-1248" h="-21328" />
+		<npc id="35565" /><!--Mass Teleporter-->
+	</spawn>
+</list>

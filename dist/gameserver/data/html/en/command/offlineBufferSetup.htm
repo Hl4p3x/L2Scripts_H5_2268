@@ -1,0 +1,26 @@
+<html><head><title>Setup Buffing Store</title></head><body><br>
+<center>
+<img src="L2UI.squaregray" width="280" height="1">
+<table width=280 bgcolor=222120>
+	<tr>
+		<td>
+			<center>
+			<font name="hs12" color="a22020">Your Server</font>
+			</center>
+		</td>
+	</tr>
+</table>
+<img src="L2UI.squaregray" width="280" height="1">
+<br><br>
+<center>
+<font color=c1b33a>
+Would you like to setup Offline Buffing Store?<br>
+</font>
+<table width=270>
+<tr><td><font color=686764>Price per Buff in Adena:</font></td><td><edit var="price" width=80 height=15 /></td></tr>
+<tr><td width=170><font color=686764>Buff Friends and Clan for Free?:</font></td><td><combobox var="ally" list="Yes;No" width=80 height=15 /></td></tr>
+</table>
+<br><br>
+<button value="Set Buffing Store" action="bypass -h user_cp offlineBuffing $price $ally" width=150 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" />
+<button value="Back" action="bypass -h user_cp back" width=150 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" /><br>
+</body></html>

@@ -1,0 +1,722 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!--
+	category = Best 		2
+	category = Event		1
+	category = Enchant		1
+	category = Supplies		2
+	category = Decorating	3
+	category = Package		4
+	category = Others		5
+	payment_item_id = -1 - Account points (ruofflike)
+	payment_item_id > 0 - Ingame items (Adena, coints, etc)
+	Base Parameters: <product id="0" name="" category="5" price="0" is_event="false" is_best="false" is_new="false" on_sale="false" sale_start_date="1980/01/01 08:00" sale_end_date="2037/06/01 08:00">
+	-->
+	<config payment_item_id="-1" recent_list_size="5"/>
+	<product id="1080001" name="Small fortuna box" category="5" price="135" is_best="true" on_sale="true">
+		<component item_id="22000" count="1"/>
+	</product>
+	<product id="1080002" name="Middle fortuna box" category="5" price="270" is_best="true" on_sale="true">
+		<component item_id="22001" count="1"/>
+	</product>
+	<product id="1080003" name="Large fortuna box" category="5" price="405" is_best="true" on_sale="true">
+		<component item_id="22002" count="1"/>
+	</product>
+	<product id="1080004" name="Small fortuna cube" category="5" price="81" is_best="true" on_sale="true">
+		<component item_id="22003" count="1"/>
+	</product>
+	<product id="1080005" name="Middle fortuna cube" category="5" price="216" is_best="true" on_sale="true">
+		<component item_id="22004" count="1"/>
+	</product>
+	<product id="1080006" name="Large fortuna cube" category="5" price="324" is_best="true" on_sale="true">
+		<component item_id="22005" count="1"/>
+	</product>
+	<product id="1080007" name="Powerful Healing Potion" category="2" price="3" on_sale="true">
+		<component item_id="22025" count="1"/>
+	</product>
+	<product id="1080008" name="High-grade Healing Potion" category="2" price="1" on_sale="true">
+		<component item_id="22026" count="1"/>
+	</product>
+	<product id="1080009" name="Secret medicine of Will - D grade" category="2">
+		<component item_id="22027" count="1"/>
+	</product>
+	<product id="1080010" name="Secret medicine of Will - C grade" category="2">
+		<component item_id="22028" count="1"/>
+	</product>
+	<product id="1080011" name="Secret medicine of Will - B grade" category="2">
+		<component item_id="22029" count="1"/>
+	</product>
+	<product id="1080012" name="Secret medicine of Will - A grade" category="2">
+		<component item_id="22030" count="1"/>
+	</product>
+	<product id="1080013" name="Secret medicine of Will - S grade" category="2">
+		<component item_id="22031" count="1"/>
+	</product>
+	<product id="1080014" name="Secret medicine of Life - D grade" category="2">
+		<component item_id="22032" count="1"/>
+	</product>
+	<product id="1080015" name="Secret medicine of Life - C grade" category="2">
+		<component item_id="22033" count="1"/>
+	</product>
+	<product id="1080016" name="Secret medicine of Life - B grade" category="2">
+		<component item_id="22034" count="1"/>
+	</product>
+	<product id="1080017" name="Secret medicine of Life - A grade" category="2">
+		<component item_id="22035" count="1"/>
+	</product>
+	<product id="1080018" name="Secret medicine of Life - S grade" category="2">
+		<component item_id="22036" count="1"/>
+	</product>
+	<product id="1080019" name="Potion of Will" category="2" price="4" is_best="true" on_sale="true">
+		<component item_id="22037" count="1"/>
+	</product>
+	<product id="1080020" name="Healing medicine for Mana" category="2">
+		<component item_id="22038" count="1"/>
+	</product>
+	<product id="1080021" name="Wind Walk Scroll" category="2" price="4" on_sale="true">
+		<component item_id="22039" count="1"/>
+	</product>
+	<product id="1080022" name="Haste Scroll" category="2" price="8" on_sale="true">
+		<component item_id="22040" count="1"/>
+	</product>
+	<product id="1080023" name="Might Scroll" category="2" price="4" on_sale="true">
+		<component item_id="22041" count="1"/>
+	</product>
+	<product id="1080024" name="Shield Scroll" category="2" price="4" on_sale="true">
+		<component item_id="22042" count="1"/>
+	</product>
+	<product id="1080025" name="Death Whisper Scroll" category="2" price="8" on_sale="true">
+		<component item_id="22043" count="1"/>
+	</product>
+	<product id="1080026" name="Guidance Scroll" category="2" price="8" on_sale="true">
+		<component item_id="22044" count="1"/>
+	</product>
+	<product id="1080027" name="Empower Scroll" category="2" price="8" on_sale="true">
+		<component item_id="22045" count="1"/>
+	</product>
+	<product id="1080028" name="Grater Acumen Scroll" category="2" price="8" on_sale="true">
+		<component item_id="22046" count="1"/>
+	</product>
+	<product id="1080029" name="Vampiric Rage Scroll" category="2" price="8" on_sale="true">
+		<component item_id="22047" count="1"/>
+	</product>
+	<product id="1080030" name="Bless the Body Scroll" category="2" price="8" on_sale="true">
+		<component item_id="22048" count="1"/>
+	</product>
+	<product id="1080031" name="Berserker Spirit Scroll" category="2" price="8" on_sale="true">
+		<component item_id="22049" count="1"/>
+	</product>
+	<product id="1080032" name="Magic Barrier Scroll" category="2" price="4" on_sale="true">
+		<component item_id="22050" count="1"/>
+	</product>
+	<product id="1080033" name="Bless the Soul Scroll" category="2" price="8" on_sale="true">
+		<component item_id="22051" count="1"/>
+	</product>
+	<product id="1080034" name="Clarity Scroll" category="2" price="8" on_sale="true">
+		<component item_id="22052" count="1"/>
+	</product>
+	<product id="1080035" name="Wild Magic Scroll" category="2" price="8" on_sale="true">
+		<component item_id="22053" count="1"/>
+	</product>
+	<product id="1080036" name="Rune of Experience Points" category="1" price="0">
+		<component item_id="22054" count="1"/>
+	</product>
+	<product id="1080037" name="Rune of Experience Points" category="1" price="0">
+		<component item_id="22055" count="1"/>
+	</product>
+	<product id="1080038" name="Rune of Experience Points" category="1" price="0">
+		<component item_id="22056" count="1"/>
+	</product>
+	<product id="1080039" name="Rune of Experience Points" category="1" price="0">
+		<component item_id="22057" count="1"/>
+	</product>
+	<product id="1080040" name="Rune of SP" category="1" price="0">
+		<component item_id="22058" count="1"/>
+	</product>
+	<product id="1080041" name="Rune of SP" category="1" price="0">
+		<component item_id="22059" count="1"/>
+	</product>
+	<product id="1080042" name="Rune of SP" category="1" price="0">
+		<component item_id="22060" count="1"/>
+	</product>
+	<product id="1080043" name="Rune of SP" category="1" price="0">
+		<component item_id="22061" count="1"/>
+	</product>
+	<product id="1080044" name="Crystal form Rune" category="1" price="0">
+		<component item_id="22062" count="1"/>
+	</product>
+	<product id="1080045" name="Crystal form Rune" category="1" price="0">
+		<component item_id="22063" count="1"/>
+	</product>
+	<product id="1080046" name="Crystal form Rune" category="1" price="0">
+		<component item_id="22064" count="1"/>
+	</product>
+	<product id="1080047" name="Crystal form Rune" category="1" price="0">
+		<component item_id="22065" count="1"/>
+	</product>
+	<product id="1080048" name="Rune of Feather" category="1" price="68" on_sale="true">
+		<component item_id="22066" count="1"/>
+	</product>
+	<product id="1080049" name="A Scroll Bundle of Fighter" category="4" price="52" on_sale="true">
+		<component item_id="22087" count="1"/>
+	</product>
+	<product id="1080050" name="A Scroll Bundle of Mage" category="4" price="59" on_sale="true">
+		<component item_id="22088" count="1"/>
+	</product>
+	<product id="1080051" name="Bone Quiver" category="2" price="21" on_sale="true">
+		<component item_id="22089" count="1"/>
+	</product>
+	<product id="1080052" name="Steel Quiver" category="2" price="34" on_sale="true">
+		<component item_id="22090" count="1"/>
+	</product>
+	<product id="1080053" name="Silver Quiver" category="2" price="48" on_sale="true">
+		<component item_id="22091" count="1"/>
+	</product>
+	<product id="1080054" name="Mithril Quiver" category="2" price="54" on_sale="true">
+		<component item_id="22092" count="1"/>
+	</product>
+	<product id="1080055" name="Quiver of Light" category="2" price="68" on_sale="true">
+		<component item_id="22093" count="1"/>
+	</product>
+	<product id="1080056" name="Bone Bolt Container" category="2" price="21" on_sale="true">
+		<component item_id="22149" count="1"/>
+	</product>
+	<product id="1080057" name="Steel Bolt Container" category="2" price="34" on_sale="true">
+		<component item_id="22150" count="1"/>
+	</product>
+	<product id="1080058" name="Silver Bolt Container" category="2" price="48" on_sale="true">
+		<component item_id="22151" count="1"/>
+	</product>
+	<product id="1080059" name="Mithril Bolt Container" category="2" price="54" on_sale="true">
+		<component item_id="22152" count="1"/>
+	</product>
+	<product id="1080060" name="Bolt Container of Light" category="2" price="68" on_sale="true">
+		<component item_id="22153" count="1"/>
+	</product>
+	<product id="1080061" name="Blessed Spiritshot Pack - D grade" category="2" price="31" on_sale="true">
+		<component item_id="22094" count="1"/>
+	</product>
+	<product id="1080062" name="Blessed Spiritshot Pack - C grade" category="2" price="61" on_sale="true">
+		<component item_id="22095" count="1"/>
+	</product>
+	<product id="1080063" name="Blessed Spiritshot Pack - B grade" category="2" price="166" on_sale="true">
+		<component item_id="22096" count="1"/>
+	</product>
+	<product id="1080064" name="Blessed Spiritshot Pack - A grade" category="2" price="196" on_sale="true">
+		<component item_id="22097" count="1"/>
+	</product>
+	<product id="1080065" name="Blessed Spiritshot Pack - S grade" category="2" price="237" on_sale="true">
+		<component item_id="22098" count="1"/>
+	</product>
+	<product id="1080066" name="Spiritshot Pack - D grade" category="2" price="12" on_sale="true">
+		<component item_id="22099" count="1"/>
+	</product>
+	<product id="1080067" name="Spiritshot Pack - C grade" category="2" price="24" on_sale="true">
+		<component item_id="22100" count="1"/>
+	</product>
+	<product id="1080068" name="Spiritshot Pack -  B grade" category="2" price="68" on_sale="true">
+		<component item_id="22101" count="1"/>
+	</product>
+	<product id="1080069" name="Spiritshot Pack - A grade" category="2" price="81" on_sale="true">
+		<component item_id="22102" count="1"/>
+	</product>
+	<product id="1080070" name="Spiritshot Pack - S grade" category="2" price="102" on_sale="true">
+		<component item_id="22103" count="1"/>
+	</product>
+	<product id="1080071" name="Soulshot Pack - D grade" category="2" price="8" on_sale="true">
+		<component item_id="22104" count="1"/>
+	</product>
+	<product id="1080072" name="Soulshot Pack - C grade" category="2" price="10" on_sale="true">
+		<component item_id="22105" count="1"/>
+	</product>
+	<product id="1080073" name="Soulshot Pack -  B grade" category="2" price="34" on_sale="true">
+		<component item_id="22106" count="1"/>
+	</product>
+	<product id="1080074" name="Soulshot Pack - A grade" category="2" price="54" on_sale="true">
+		<component item_id="22107" count="1"/>
+	</product>
+	<product id="1080075" name="Soulshot Pack - S grade" category="2" price="68" on_sale="true">
+		<component item_id="22108" count="1"/>
+	</product>
+	<product id="1080076" name="Blessed Spiritshot Large Pack - D grade" category="2" price="61" on_sale="true">
+		<component item_id="22109" count="1"/>
+	</product>
+	<product id="1080077" name="Blessed Spiritshot Large Pack - C grade" category="2" price="122" on_sale="true">
+		<component item_id="22110" count="1"/>
+	</product>
+	<product id="1080078" name="Blessed Spiritshot Large Pack - B grade" category="2" price="331" on_sale="true">
+		<component item_id="22111" count="1"/>
+	</product>
+	<product id="1080079" name="Blessed Spiritshot Large Pack - A grade" category="2" price="392" on_sale="true">
+		<component item_id="22112" count="1"/>
+	</product>
+	<product id="1080080" name="Blessed Spiritshot Large Pack - S grade" category="2" price="473" on_sale="true">
+		<component item_id="22113" count="1"/>
+	</product>
+	<product id="1080081" name="Spiritshot Large Pack - D grade" category="2" price="24" on_sale="true">
+		<component item_id="22114" count="1"/>
+	</product>
+	<product id="1080082" name="Spiritshot Large Pack - C grade" category="2" price="48" on_sale="true">
+		<component item_id="22115" count="1"/>
+	</product>
+	<product id="1080083" name="Spiritshot Large Pack -  B grade" category="2" price="135" on_sale="true">
+		<component item_id="22116" count="1"/>
+	</product>
+	<product id="1080084" name="Spiritshot Large Pack - A grade" category="2" price="162" on_sale="true">
+		<component item_id="22117" count="1"/>
+	</product>
+	<product id="1080085" name="Spiritshot Large Pack - S grade" category="2" price="203" on_sale="true">
+		<component item_id="22118" count="1"/>
+	</product>
+	<product id="1080086" name="Soulshot Large Pack - D grade" category="2" price="14" on_sale="true">
+		<component item_id="22119" count="1"/>
+	</product>
+	<product id="1080087" name="Soulshot Large Pack - C grade" category="2" price="21" on_sale="true">
+		<component item_id="22120" count="1"/>
+	</product>
+	<product id="1080088" name="Soulshot Large Pack -  B grade" category="2" price="68" on_sale="true">
+		<component item_id="22121" count="1"/>
+	</product>
+	<product id="1080089" name="Soulshot Large Pack - A grade" category="2" price="108" on_sale="true">
+		<component item_id="22122" count="1"/>
+	</product>
+	<product id="1080090" name="Soulshot Large Pack - S grade" category="2" price="135" on_sale="true">
+		<component item_id="22123" count="1"/>
+	</product>
+	<product id="1080091" name="Wrapped daisy hairpin" category="3" price="338" on_sale="true">
+		<component item_id="22124" count="1"/>
+	</product>
+	<product id="1080092" name="Wrapped forget-me-not hairpin" category="3" price="338" on_sale="true">
+		<component item_id="22125" count="1"/>
+	</product>
+	<product id="1080093" name="Wrapped outlaw's eyepatch" category="3" price="338" on_sale="true">
+		<component item_id="22126" count="1"/>
+	</product>
+	<product id="1080094" name="Wrapped pirate's eyepatch" category="3" price="338" on_sale="true">
+		<component item_id="22127" count="1"/>
+	</product>
+	<product id="1080095" name="Wrapped Monocle" category="3" price="338" on_sale="true">
+		<component item_id="22128" count="1"/>
+	</product>
+	<product id="1080096" name="Wrapped Red Mask of Victory" category="3" price="338" on_sale="true">
+		<component item_id="22129" count="1"/>
+	</product>
+	<product id="1080097" name="Wrapped Red Horn of Victory" category="3" price="338" on_sale="true">
+		<component item_id="22130" count="1"/>
+	</product>
+	<product id="1080098" name="Wrapped Party Mask" category="3" price="338" on_sale="true">
+		<component item_id="22131" count="1"/>
+	</product>
+	<product id="1080099" name="Wrapped Red Party Mask" category="3" price="338" on_sale="true">
+		<component item_id="22132" count="1"/>
+	</product>
+	<product id="1080100" name="Wrapped Cat Ear" category="3" price="338" on_sale="true">
+		<component item_id="22133" count="1"/>
+	</product>
+	<product id="1080101" name="Wrapped Noblewoman's Hairpin" category="3" price="338" on_sale="true">
+		<component item_id="22134" count="1"/>
+	</product>
+	<product id="1080102" name="Wrapped Raccoon Ear" category="3" price="338" on_sale="true">
+		<component item_id="22135" count="1"/>
+	</product>
+	<product id="1080103" name="Wrapped Rabbit Ear" category="3" price="338" on_sale="true">
+		<component item_id="22136" count="1"/>
+	</product>
+	<product id="1080104" name="Wrapped Little Angel's Wings" category="3" price="338" on_sale="true">
+		<component item_id="22137" count="1"/>
+	</product>
+	<product id="1080105" name="Wrapped Fairy's Tentacle" category="3" price="338" on_sale="true">
+		<component item_id="22138" count="1"/>
+	</product>
+	<product id="1080106" name="Wrapped Dandy's Chapeau" category="3" price="338" on_sale="true">
+		<component item_id="22139" count="1"/>
+	</product>
+	<product id="1080107" name="Wrapped Artisan's Goggles" category="3" price="338" on_sale="true">
+		<component item_id="22140" count="1"/>
+	</product>
+	<product id="1080108" name="Wrapped Pet Exchange Ticket - Buffalo" category="5">
+		<component item_id="22141" count="1"/>
+	</product>
+	<product id="1080109" name="Wrapped Pet Exchange Ticket - Cougar" category="5">
+		<component item_id="22142" count="1"/>
+	</product>
+	<product id="1080110" name="Wrapped Pet Exchange Ticket - kookaburra" category="5">
+		<component item_id="22143" count="1"/>
+	</product>
+	<product id="1080111" name="Blessed Wolf Hat Package" category="4" price="0">
+		<component item_id="22154" count="1"/>
+		<component item_id="22155" count="1"/>
+	</product>
+	<product id="1080112" name="Rune of Exp. Points 30% - 5 hours" category="1" price="33" is_new="true" on_sale="true">
+		<component item_id="20335" count="1"/>
+	</product>
+	<product id="1080113" name="Rune of Exp. Points 50% - 5 hours" category="1" price="54" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20336" count="1"/>
+	</product>
+	<product id="1080114" name="Rune of Exp. Points 30% - 10 hours" category="1" price="52" is_new="true" on_sale="true">
+		<component item_id="20337" count="1"/>
+	</product>
+	<product id="1080115" name="Rune of Exp. Points 50% - 10 hours" category="1" price="87" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20338" count="1"/>
+	</product>
+	<product id="1080116" name="Rune of Exp. Points 30% - 7 days" category="1" price="697" is_new="true" on_sale="true">
+		<component item_id="20339" count="1"/>
+	</product>
+	<product id="1080117" name="Rune of Exp. Points 50% - 7 days" category="1" price="1161" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20340" count="1"/>
+	</product>
+	<product id="1080118" name="Rune of SP 30% - 5 hours" category="1" price="17" is_new="true" on_sale="true">
+		<component item_id="20341" count="1"/>
+	</product>
+	<product id="1080119" name="Rune of SP 50% - 5 hours" category="1" price="27" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20342" count="1"/>
+	</product>
+	<product id="1080120" name="Rune of SP 30% - 10 hours" category="1" price="26" is_new="true" on_sale="true">
+		<component item_id="20343" count="1"/>
+	</product>
+	<product id="1080121" name="Rune of SP 50% - 10 hours" category="1" price="44" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20344" count="1"/>
+	</product>
+	<product id="1080122" name="Rune of SP 30% - 7 days" category="1" price="349" is_new="true" on_sale="true">
+		<component item_id="20345" count="1"/>
+	</product>
+	<product id="1080123" name="Rune of SP 50% - 7 days" category="1" price="581" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20346" count="1"/>
+	</product>
+	<product id="1080124" name="Rune of Crystal level 3 - 5 hours" category="1" price="33" is_new="true" on_sale="true">
+		<component item_id="20347" count="1"/>
+	</product>
+	<product id="1080125" name="Rune of Crystal level 5 - 5 hours" category="1" price="54" is_new="true" on_sale="true">
+		<component item_id="20348" count="1"/>
+	</product>
+	<product id="1080126" name="Rune of Crystal level 3 - 10 hours" category="1" price="52" is_new="true" on_sale="true">
+		<component item_id="20349" count="1"/>
+	</product>
+	<product id="1080127" name="Rune of Crystal level 5 - 10 hours" category="1" price="87" is_new="true" on_sale="true">
+		<component item_id="20350" count="1"/>
+	</product>
+	<product id="1080128" name="Rune of Crystal level 3 - 7 days" category="1" price="697" is_new="true" on_sale="true">
+		<component item_id="20351" count="1"/>
+	</product>
+	<product id="1080129" name="Rune of Crystal level 5 - 7 days" category="1" price="1161" is_new="true" on_sale="true">
+		<component item_id="20352" count="1"/>
+	</product>
+	<product id="1080130" name="Weapon-type Enhance Backup Stone (D-Grade)" category="1" price="21" is_new="true" on_sale="true">
+		<component item_id="12362" count="1"/>
+	</product>
+	<product id="1080131" name="Weapon-type Enhance Backup Stone (C-Grade)" category="1" price="45" is_new="true" on_sale="true">
+		<component item_id="12363" count="1"/>
+	</product>
+	<product id="1080132" name="Weapon-type Enhance Backup Stone (B-Grade)" category="1" price="203" is_new="true" on_sale="true">
+		<component item_id="12364" count="1"/>
+	</product>
+	<product id="1080133" name="Weapon-type Enhance Backup Stone (A-Grade)" category="1" price="729" is_new="true" on_sale="true">
+		<component item_id="12365" count="1"/>
+	</product>
+	<product id="1080134" name="Weapon-type Enhance Backup Stone (S-Grade)" category="1" price="2025" is_new="true" on_sale="true">
+		<component item_id="12366" count="1"/>
+	</product>
+	<product id="1080135" name="Armor-type Enhance Backup Stone (D-Grade)" category="1" price="4" is_new="true" on_sale="true">
+		<component item_id="12367" count="1"/>
+	</product>
+	<product id="1080136" name="Armor-type Enhance Backup Stone (C-Grade)" category="1" price="7" is_new="true" on_sale="true">
+		<component item_id="12368" count="1"/>
+	</product>
+	<product id="1080137" name="Armor-type Enhance Backup Stone (B-Grade)" category="1" price="29" is_new="true" on_sale="true">
+		<component item_id="12369" count="1"/>
+	</product>
+	<product id="1080138" name="Armor-type Enhance Backup Stone (A-Grade)" category="1" price="104" is_new="true" on_sale="true">
+		<component item_id="12370" count="1"/>
+	</product>
+	<product id="1080139" name="Armor-type Enhance Backup Stone (S-Grade)" category="1" price="290" is_new="true" on_sale="true">
+		<component item_id="12371" count="1"/>
+	</product>
+	<product id="1080140" name="Beast Soulshot Pack" category="2" price="14" is_new="true" on_sale="true">
+		<component item_id="20326" count="1"/>
+	</product>
+	<product id="1080141" name="Beast Spiritshot Pack" category="2" price="11" is_new="true" on_sale="true">
+		<component item_id="20327" count="1"/>
+	</product>
+	<product id="1080142" name="Blessed Beast Spiritshot Pack" category="2" price="68" is_new="true" on_sale="true">
+		<component item_id="20328" count="1"/>
+	</product>
+	<product id="1080143" name="Beast Soulshot Large Pack" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20329" count="1"/>
+	</product>
+	<product id="1080144" name="Beast Spiritshot Large Pack" category="2" price="22" is_new="true" on_sale="true">
+		<component item_id="20330" count="1"/>
+	</product>
+	<product id="1080145" name="Blessed Beast Spiritshot Large Pack" category="2" price="135" is_new="true" on_sale="true">
+		<component item_id="20331" count="1"/>
+	</product>
+	<product id="1080146" name="Omen Beast Transformation Scroll" category="2" price="30" is_new="true" on_sale="true">
+		<component item_id="20364" count="1"/>
+	</product>
+	<product id="1080147" name="Death Blader Transformation Scroll" category="2" price="30" is_new="true" on_sale="true">
+		<component item_id="20365" count="1"/>
+	</product>
+	<product id="1080148" name="Grail Apostle Transformation Scroll" category="2" price="30" is_new="true" on_sale="true">
+		<component item_id="20366" count="1"/>
+	</product>
+	<product id="1080149" name="Unicorn Transformation Scroll" category="2" price="30" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20367" count="1"/>
+	</product>
+	<product id="1080150" name="Lilim Knight Transformation Scroll" category="2" price="30" is_new="true" on_sale="true">
+		<component item_id="20368" count="1"/>
+	</product>
+	<product id="1080151" name="Golem Guardian Transformation Scroll" category="2" price="30" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20369" count="1"/>
+	</product>
+	<product id="1080152" name="Inferno Drake Transformation Scroll" category="2" price="30" is_new="true" on_sale="true">
+		<component item_id="20370" count="1"/>
+	</product>
+	<product id="1080153" name="Dragon Bomber Transformation Scroll" category="2" price="30" is_new="true" on_sale="true">
+		<component item_id="20371" count="1"/>
+	</product>
+	<product id="1080154" name="Escape - Talking Island Village" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20372" count="1"/>
+	</product>
+	<product id="1080155" name="Escape - Elven Village" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20373" count="1"/>
+	</product>
+	<product id="1080156" name="Escape - Dark Elven Village" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20374" count="1"/>
+	</product>
+	<product id="1080157" name="Escape - Orc Village" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20375" count="1"/>
+	</product>
+	<product id="1080158" name="Escape - Dwarven Village" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20376" count="1"/>
+	</product>
+	<product id="1080159" name="Escape - Gludin Village" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20377" count="1"/>
+	</product>
+	<product id="1080160" name="Escape - Town of Gludio" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20378" count="1"/>
+	</product>
+	<product id="1080161" name="Escape - Town of Dion" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20379" count="1"/>
+	</product>
+	<product id="1080162" name="Escape - Floran Village" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20380" count="1"/>
+	</product>
+	<product id="1080163" name="Escape - Giran Castle Town" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20381" count="1"/>
+	</product>
+	<product id="1080164" name="Escape - Hardin's Academy" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20382" count="1"/>
+	</product>
+	<product id="1080165" name="Escape - Heine" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20383" count="1"/>
+	</product>
+	<product id="1080166" name="Escape - Town of Oren" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20384" count="1"/>
+	</product>
+	<product id="1080167" name="Escape - Ivory Tower" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20385" count="1"/>
+	</product>
+	<product id="1080168" name="Escape - Hunters Village" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20386" count="1"/>
+	</product>
+	<product id="1080169" name="Escape - Town of Aden" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20387" count="1"/>
+	</product>
+	<product id="1080170" name="Escape - Town of Goddard" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20388" count="1"/>
+	</product>
+	<product id="1080171" name="Escape - Rune Township" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20389" count="1"/>
+	</product>
+	<product id="1080172" name="Escape - Town of Schuttgart" category="2" price="27" is_new="true" on_sale="true">
+		<component item_id="20390" count="1"/>
+	</product>
+	<product id="1080173" name="Free Teleport Scroll" category="2" price="675" is_new="true" on_sale="true">
+		<component item_id="13015" count="1"/>
+	</product>
+	<product id="1080174" name="Free Teleport Spellbook 5 Sheet Bundle" category="2" price="135" is_new="true" on_sale="true">
+		<component item_id="20025" count="5"/>
+	</product>
+	<product id="1080175" name="Free Teleport Spellbook 10 Sheet Bundle" category="2" price="270" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20025" count="10"/>
+	</product>
+	<product id="1080176" name="Free Teleport Flag 5 Sheet Bundle" category="2" price="338" is_new="true" on_sale="true">
+		<component item_id="20033" count="5"/>
+	</product>
+	<product id="1080177" name="Free Teleport Flag 10 Sheet Bundle" category="2" price="675" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20033" count="10"/>
+	</product>
+	<product id="1080178" name="Extra Entrance Pass - Kamaloka (Hall of the Abyss) 5 Sheet Bundle" category="2" price="338" is_new="true" on_sale="true">
+		<component item_id="20026" count="5"/>
+	</product>
+	<product id="1080179" name="Extra Entrance Pass - Kamaloka (Hall of the Abyss) 10 Sheet Bundle" category="2" price="675" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20026" count="10"/>
+	</product>
+	<product id="1080180" name="Extra Entrance Pass - Near Kamaloka 5 Sheet Bundle" category="2" price="338" is_new="true" on_sale="true">
+		<component item_id="20027" count="5"/>
+	</product>
+	<product id="1080181" name="Extra Entrance Pass - Near Kamaloka 10 Sheet Bundle" category="2" price="675" is_new="true" on_sale="true">
+		<component item_id="20027" count="10"/>
+	</product>
+	<product id="1080182" name="Extra Entrance Pass - Kamaloka (Labyrinth of the Abyss) 5 Sheet Bundle" category="2" price="338" is_new="true" on_sale="true">
+		<component item_id="20028" count="5"/>
+	</product>
+	<product id="1080183" name="Extra Entrance Pass - Kamaloka (Labyrinth of the Abyss) 10 Sheet Bundle" category="2" price="675" is_new="true" on_sale="true">
+		<component item_id="20028" count="10"/>
+	</product>
+	<product id="1080184" name="Feather of Blessing" category="2" is_new="true">
+		<component item_id="10649" count="1"/>
+	</product>
+	<product id="1080185" name="Color Name" category="2" price="268" is_best="true" is_new="true" on_sale="true">
+		<component item_id="13021" count="1"/>
+	</product>
+	<product id="1080186" name="High Grade Potion of Will" category="2" price="14" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20353" count="1"/>
+	</product>
+	<product id="1080187" name="Secret medicine of Will - D grade" category="2" price="4" on_sale="true">
+		<component item_id="20354" count="1"/>
+	</product>
+	<product id="1080188" name="Secret medicine of Will - C grade" category="2" price="13" on_sale="true">
+		<component item_id="20355" count="1"/>
+	</product>
+	<product id="1080189" name="Secret medicine of Will - B grade" category="2" price="22" on_sale="true">
+		<component item_id="20356" count="1"/>
+	</product>
+	<product id="1080190" name="Secret medicine of Will - A grade" category="2" price="34" on_sale="true">
+		<component item_id="20357" count="1"/>
+	</product>
+	<product id="1080191" name="Secret medicine of Will - S grade" category="2" price="49" on_sale="true">
+		<component item_id="20358" count="1"/>
+	</product>
+	<product id="1080192" name="Secret medicine of Life - D grade" category="2" price="10" on_sale="true">
+		<component item_id="20359" count="1"/>
+	</product>
+	<product id="1080193" name="Secret medicine of Life - C grade" category="2" price="30" on_sale="true">
+		<component item_id="20360" count="1"/>
+	</product>
+	<product id="1080194" name="Secret medicine of Life - B grade" category="2" price="54" on_sale="true">
+		<component item_id="20361" count="1"/>
+	</product>
+	<product id="1080195" name="Secret medicine of Life - A grade" category="2" price="85" on_sale="true">
+		<component item_id="20362" count="1"/>
+	</product>
+	<product id="1080196" name="Secret medicine of Life - S grade" category="2" price="122" on_sale="true">
+		<component item_id="20363" count="1"/>
+	</product>
+	<product id="1080197" name="Potion of Energy Maintenance" category="2" price="142" is_new="true" on_sale="true">
+		<component item_id="20391" count="1"/>
+	</product>
+	<product id="1080198" name="Potion of Energy Replenishing" category="2" price="68" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20392" count="1"/>
+	</product>
+	<product id="1080199" name="Sweet Fruit Cocktail" category="2" price="79" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20393" count="1"/>
+	</product>
+	<product id="1080200" name="Fresh Fruit Cocktail" category="2" price="91" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20394" count="1"/>
+	</product>
+	<product id="1080201" name="Sudden Agathion 7 Day Pack" category="3" price="338" is_new="true" on_sale="true">
+		<component item_id="139" count="1"/>
+	</product>
+	<product id="1080202" name="Shiny Agathion 7 Day Pack" category="3" price="338" is_new="true" on_sale="true">
+		<component item_id="140" count="1"/>
+	</product>
+	<product id="1080203" name="Sobbing Agathion 7 Day Pack" category="3" price="338" is_new="true" on_sale="true">
+		<component item_id="141" count="1"/>
+	</product>
+	<product id="1080204" name="Agathion of Love 7 Day Pack" category="3" price="228" is_new="true" on_sale="true">
+		<component item_id="13280" count="1"/>
+	</product>
+	<product id="1080205" name="Pumpkin Transformation Stick 7 Day Pack" category="3" price="254" is_new="true" on_sale="true">
+		<component item_id="13281" count="1"/>
+	</product>
+	<product id="1080206" name="Kat the Cat Hat 7 Day Pack" category="3" price="169" is_new="true" on_sale="true">
+		<component item_id="13282" count="1"/>
+	</product>
+	<product id="1080207" name="Feline Queen Hat 7 Day Pack" category="3" price="169" is_new="true" on_sale="true">
+		<component item_id="13283" count="1"/>
+	</product>
+	<product id="1080208" name="Monster Eye Hat 7 Day Pack" category="3" price="169" is_new="true" on_sale="true">
+		<component item_id="13284" count="1"/>
+	</product>
+	<product id="1080209" name="Brown Bear Hat 7 Day Pack" category="3" price="169" is_new="true" on_sale="true">
+		<component item_id="13285" count="1"/>
+	</product>
+	<product id="1080210" name="Fungus Hat 7 Day Pack" category="3" price="169" is_new="true" on_sale="true">
+		<component item_id="13286" count="1"/>
+	</product>
+	<product id="1080211" name="Skull Hat 7 Day Pack" category="3" price="169" is_new="true" on_sale="true">
+		<component item_id="13287" count="1"/>
+	</product>
+	<product id="1080212" name="Ornithomimus Hat 7 Day Pack" category="3" price="169" is_new="true" on_sale="true">
+		<component item_id="13288" count="1"/>
+	</product>
+	<product id="1080213" name="Feline King Hat 7 Day Pack" category="3" price="169" is_new="true" on_sale="true">
+		<component item_id="13289" count="1"/>
+	</product>
+	<product id="1080214" name="Kai the Cat Hat 7 Day Pack" category="3" price="169" is_new="true" on_sale="true">
+		<component item_id="13290" count="1"/>
+	</product>
+	<product id="1080215" name="Goggle Pack" category="3" price="0" is_new="true">
+		<component item_id="20315" count="1"/>
+	</product>
+	<product id="1080216" name="Napoleon Hat Pack" category="3" price="0" is_best="true" is_new="true">
+		<component item_id="20316" count="1"/>
+	</product>
+	<product id="1080217" name="Black Gem Mask Pack" category="3" price="0" is_new="true">
+		<component item_id="20318" count="1"/>
+	</product>
+	<product id="1080218" name="Afro Hair Pack - Gold" category="3" price="0" is_new="true">
+		<component item_id="20278" count="1"/>
+	</product>
+	<product id="1080219" name="Afro Hair Pack - Pink" category="3" price="0" is_new="true">
+		<component item_id="20279" count="1"/>
+	</product>
+	<product id="1080220" name="Horn Rimmed Glasses Pack" category="3" price="0" is_new="true">
+		<component item_id="20045" count="1"/>
+	</product>
+	<product id="1080221" name="Afro Hair Pack" category="3" price="0" is_new="true">
+		<component item_id="20046" count="1"/>
+	</product>
+	<product id="1080222" name="Afro Hair Pack - Big Head, Firework" category="3" price="0" is_new="true">
+		<component item_id="20047" count="1"/>
+	</product>
+	<product id="1080223" name="Afro Hair Pack - Wind Walk" category="3" price="0" is_new="true">
+		<component item_id="20048" count="1"/>
+	</product>
+	<product id="1080224" name="Uniform Hat Pack" category="3" price="0" is_new="true">
+		<component item_id="20049" count="1"/>
+	</product>
+	<product id="1080225" name="Assassin's Bamboo Hat Pack" category="3" price="0" is_new="true">
+		<component item_id="20050" count="1"/>
+	</product>
+	<product id="1080226" name="Ruthless Tribe Mask Pack" category="3" price="0" is_new="true">
+		<component item_id="20051" count="1"/>
+	</product>
+	<product id="1080227" name="Ribbon Hairband Pack" category="3" price="0" is_new="true">
+		<component item_id="20052" count="1"/>
+	</product>
+	<product id="1080228" name="Visor Pack" category="3" price="0" is_new="true">
+		<component item_id="20053" count="1"/>
+	</product>
+	<product id="1080229" name="Hunting Helper Exchange Coupon - 1 sheet" category="5" price="169" is_new="true" on_sale="true">
+		<component item_id="13273" count="1"/>
+	</product>
+	<product id="1080230" name="Hunting Helper Exchange Coupon - 3 sheet" category="5" price="506" is_new="true" on_sale="true">
+		<component item_id="13273" count="3"/>
+	</product>
+	<product id="1080231" name="High Quality Hunting Helper Exchange Coupon - 1 sheet" category="5" is_new="true">
+		<component item_id="14065" count="1"/>
+	</product>
+	<product id="1080232" name="High Quality Hunting Helper Exchange Coupon - 3 sheet" category="5" is_new="true">
+		<component item_id="14065" count="3"/>
+	</product>
+	<product id="1080233" name="Steam Beatle Mounting Bracelet 7 Day Pack" category="5" price="2695" is_new="true" on_sale="true">
+		<component item_id="14232" count="1"/>
+	</product>
+	<product id="1080234" name="Light Purple Maned Horse Bracelet 30 Day Pack" category="5" price="2695" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20059" count="1"/>
+	</product>
+	<product id="1080235" name="Golden Jack O'Lantern Mask 7 Day Pack" category="3" price="39" is_event="true" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20734" count="1"/>
+	</product>
+</list>

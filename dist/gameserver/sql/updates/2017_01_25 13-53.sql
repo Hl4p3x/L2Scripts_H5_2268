@@ -1,0 +1,1 @@
+ALTER TABLE items ADD COLUMN `visual_id` int(7) NOT NULL AFTER `agathion_energy`;

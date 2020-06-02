@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+<list>
+	<npc id="25800" name="Mammon Collector Talos" title="Lord of Destruction">
+		<set name="type" value="RaidBoss"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="37.5"/>
+		<set name="collision_radius" value="13"/>
+		<set name="level" value="25"/>
+		<set name="rewardExp" value="2541012"/>
+		<set name="rewardRp" value="320"/>
+		<set name="rewardSp" value="95136"/>
+		<set name="baseHpMax" value="43316.3085364372"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="18.4385313667577"/>
+		<set name="baseMpMax" value="259.2"/>
+		<set name="baseMpReg" value="1.5"/>
+		<set name="baseSTR" value="60"/>
+		<set name="baseCON" value="57"/>
+		<set name="baseDEX" value="73"/>
+		<set name="baseINT" value="76"/>
+		<set name="baseMEN" value="80"/>
+		<set name="baseWIT" value="70"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="74.2223188804512"/>
+		<set name="basePDef" value="305.50599"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="4.67967242276365"/>
+		<set name="baseMDef" value="149.04"/>
+		<set name="baseWalkSpd" value="41"/>
+		<set name="baseRunSpd" value="190"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="10"/>
+		<set name="baseAttackType" value="FIST"/>
+		<set name="basePHitModify" value="4.75"/>
+		<set name="basePAvoidModify" value="-18"/>
+		<set name="baseHitTimeFactor" value="0.5"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<minions>
+			<minion npc_id="25801" count="1" />	<!--Talos' Cohort-->
+		</minions>
+		<skills>
+			<skill id="4494" level="1"/>	<!--Raid Boss-->
+			<skill id="4983" level="1"/>	<!--Raid Boss - Level 25-->
+			<skill id="4416" level="9"/>	<!--Demons-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="1"/>	<!--Bare Hands-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4444" level="2"/>	<!--Higher Resist Bow/Crossbow Weapons-->
+			<skill id="4273" level="3"/>	<!--Resist Daggers/Rapier Weapon-->
+			<skill id="4274" level="1"/>	<!--Blunt Weapon Weak Point-->
+			<skill id="4197" level="2" use_type="RangeHold_a"/>	<!--Hold-->
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="73.1441">
+				<reward item_id="393" min="1" max="1" chance="17.1639"/>	<!--Mithril Banded Mail-->
+				<reward item_id="394" min="1" max="1" chance="17.1639"/>	<!--Reinforced Leather Shirt-->
+				<reward item_id="415" min="1" max="1" chance="27.4341"/>	<!--Mithril Banded Gaiters-->
+				<reward item_id="416" min="1" max="1" chance="27.4341"/>	<!--Reinforced Leather Gaiters-->
+				<reward item_id="223" min="1" max="1" chance="2.701"/>	<!--Kukuri-->
+				<reward item_id="238" min="1" max="1" chance="2.701"/>	<!--Dagger of Mana-->
+				<reward item_id="239" min="1" max="1" chance="2.701"/>	<!--Mystic Knife-->
+				<reward item_id="241" min="1" max="1" chance="2.701"/>	<!--Shilen Knife-->
+			</group>
+			<group chance="68.9993">
+				<reward item_id="1938" min="60" max="180" chance="23.8522"/>	<!--Mithril Banded Mail Material-->
+				<reward item_id="1939" min="28" max="84" chance="66.7799"/>	<!--Mithril Banded Gaiters Material-->
+				<reward item_id="2028" min="27" max="81" chance="9.3679"/>	<!--Shilen Knife Edge-->
+			</group>
+			<group chance="1.2886">
+				<reward item_id="22229" min="1" max="1" chance="100"/>	<!--Scroll: Enchant Weapon of Destruction (D-Grade)-->
+			</group>
+		</rewardlist>
+	</npc>
+	<npc id="25801" name="Talos' Cohort" title="Follower of Destruction">
+		<set name="type" value="Minion"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="36"/>
+		<set name="collision_radius" value="14"/>
+		<set name="level" value="22"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="6247.18478795455"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="17.1576881427546"/>
+		<set name="baseMpMax" value="218.52"/>
+		<set name="baseMpReg" value="1.5"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="231.186222377034"/>
+		<set name="basePDef" value="138.98541"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="58.1778709153521"/>
+		<set name="baseMDef" value="135.6"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="190"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="10"/>
+		<set name="baseAttackType" value="FIST"/>
+		<set name="basePHitModify" value="4.75"/>
+		<set name="basePAvoidModify" value="-18"/>
+		<set name="baseHitTimeFactor" value="0.35"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<skills>
+			<skill id="4416" level="9"/>	<!--Demons-->
+			<skill id="4408" level="1"/>	<!--HP Increase (1x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="3"/>	<!--Light Armor Type-->
+			<skill id="4415" level="1"/>	<!--Bare Hands-->
+			<skill id="4045" level="1"/>	<!--Resist Full Magic Attack-->
+			<skill id="4444" level="2"/>	<!--Higher Resist Bow/Crossbow Weapons-->
+			<skill id="4273" level="3"/>	<!--Resist Daggers/Rapier Weapon-->
+			<skill id="4274" level="1"/>	<!--Blunt Weapon Weak Point-->
+			<skill id="4743" level="2" use_type="PhysicalSpecial_a"/>	<!--BOSS Strike-->
+		</skills>
+	</npc>
+</list>

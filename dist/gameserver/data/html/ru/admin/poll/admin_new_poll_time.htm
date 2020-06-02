@@ -1,0 +1,15 @@
+<html><body>
+<title>ГМ Панель</title>
+<center><table width=260>
+<tr>
+<td><button value="Главная" action="bypass -h admin_admin" width=65 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Ивенты" action="bypass -h admin_events" width=65 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Персонажи" action="bypass -h admin_char_manage" width=72 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Сервер" action="bypass -h admin_server admserver.htm" width=65 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr></table></center><br>
+<center>Сколько минут оно должно быть открыто?(Можно позже изменить):<br1>
+<multiedit var="time" width=80 height=35>
+<br><br><br>
+<button value="Установить время" action="bypass -h admin_poll_set_time $time" width=120 height=30 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+</center>
+</body></html>

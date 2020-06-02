@@ -1,0 +1,1502 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+ npc_id - id НПЦ для спауна
+ loc - точные координаты (для точечного спауна, указать "0 0 0 0", если локационный) (формат: x y z heading)
+ amount - кол-во (для локационного спауна)
+ loc_id - ид территории (table locations, указан в spawnlist; указать "0" если точечный)
+ respawn - респаун в секундах
+ respawn_rnd - рандомная составляющая респауна
+ stage - стадии, на которых НПЦ спаунится, разделять ";"
+ -->
+<list>
+<!-- WalkRoute Typhoon -->
+	<data npc_id="25539" loc="-15864 250872 -3013 0" respawn="86400" respawn_rnd="21600" stage="1;2;3;4;5;6;7;8;9;10;11" />
+<!-- Leodas -->
+	<data npc_id="22448" count="1"	respawn="129600" respawn_rnd="86400" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-28035" y="252201" zmin="-3552" zmax="-3352" />
+			<add x="-27420" y="252208" zmin="-3552" zmax="-3352" />
+			<add x="-27420" y="252968" zmin="-3552" zmax="-3352" />
+			<add x="-28028" y="252975" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+<!-- Keltas -->
+	<data npc_id="22341" count="1"	respawn="10800"	respawn_rnd="3600" stage="3">
+		<territory>
+			<add x="-27387" y="250713" zmin="-3552" zmax="-3352" />
+			<add x="-26767" y="250691" zmin="-3552" zmax="-3352" />
+			<add x="-26779" y="251458" zmin="-3552" zmax="-3352" />
+			<add x="-27387" y="251458" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+	<data npc_id="22341" count="1"	respawn="43200"	respawn_rnd="14400" stage="4">
+		<territory>
+			<add x="-29841" y="252520" zmin="-3552" zmax="-3352" />
+			<add x="-29305" y="252525" zmin="-3552" zmax="-3352" />
+			<add x="-29294" y="253282" zmin="-3552" zmax="-3352" />
+			<add x="-29868" y="253261" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+<!-- Hellinark -->
+	<data npc_id="22326" count="1"	respawn="0" stage="6">
+		<territory>
+			<add x="-23491" y="243283" zmin="-3568" zmax="-2868" />
+			<add x="-22501" y="244424" zmin="-3568" zmax="-2868" />
+			<add x="-22956" y="246226" zmin="-3568" zmax="-2868" />
+			<add x="-23703" y="247179" zmin="-3568" zmax="-2868" />
+			<add x="-25171" y="246866" zmin="-3568" zmax="-2868" />
+			<add x="-25241" y="245931" zmin="-3568" zmax="-2868" />
+			<add x="-25314" y="244924" zmin="-3568" zmax="-2868" />
+			<add x="-24542" y="244339" zmin="-3568" zmax="-2868" />
+		</territory>
+	</data>
+<!-- Naia Failan -->
+	<data npc_id="18484" loc="-23283 245408 -3072 0" respawn="300" respawn_rnd="150" stage="6" />
+	<data npc_id="18484" loc="-23845 244452 -3138 0" respawn="300" respawn_rnd="150" stage="6" />
+	<data npc_id="18484" loc="-23619 245844 -3140 0" respawn="300" respawn_rnd="150" stage="6" />
+	<data npc_id="18484" loc="-24391 244782 -3138 0" respawn="300" respawn_rnd="150" stage="6" />
+	<data npc_id="18484" loc="-24354 245380 -3138 0" respawn="300" respawn_rnd="150" stage="6" />
+	<data npc_id="18484" loc="-23319 244695 -3138 0" respawn="300" respawn_rnd="150" stage="6" />
+<!-- Derek -->	
+	<data npc_id="18465" count="1"	respawn="0" stage="4">
+		<territory>
+			<add x="-28475" y="256242" zmin="-2388" zmax="-1688" />
+			<add x="-26207" y="256220" zmin="-2388" zmax="-1688" />
+			<add x="-26204" y="257340" zmin="-2388" zmax="-1688" />
+			<add x="-28448" y="257348" zmin="-2388" zmax="-1688" />
+		</territory>
+	</data>
+<!-- Hellbound NPC -->
+	<data npc_id="32352" loc="-19648 249424 -3232 16384" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32294" loc="-11840 236224 -3272 16384" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32345" loc="-11172 236565 -3272 28492" respawn="60" stage="1;2;3;4" />
+	<data npc_id="32307" loc="-5952 249344 -3117 0" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32296" loc="-27504 252448 -2256 0" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32300" loc="-21075 250295 -3295 16384" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32297" loc="-19904 250016 -3248 12288" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32308" loc="-19696 249280 -3234 16384" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32354" loc="-20939 250329 -3276 16384" respawn="60" stage="1;2;3;4" />
+	<data npc_id="32298" loc="-4896 255840 -3135 49152" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32356" loc="-4096 255472 -3136 40960" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32345" loc="-28567 248994 -3482 16384" respawn="60" stage="5;6;7;8;9;10;11" />
+	<data npc_id="32354" loc="-28357 248993 -3478 16384" respawn="60" stage="5;6;7;8;9;10;11" />
+	<data npc_id="32355" loc="-28916 249381 -3478 0" respawn="60" stage="5;6;7;8;9;10;11" />
+	<data npc_id="32245" loc="8800 251652 -2032 11668" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32346" loc="13694 255389 -2019 32768" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+<!-- Caravan Supporter -->
+	<data npc_id="32361" count="3"	respawn="180" stage="6;7;8;9;10;11">
+		<territory>
+			<add x="-27202" y="250938" zmin="-3552" zmax="-3352" />
+			<add x="-26928" y="250938" zmin="-3552" zmax="-3352" />
+			<add x="-26928" y="251204" zmin="-3552" zmax="-3352" />
+			<add x="-27202" y="251204" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+	<data npc_id="32361" count="3"	respawn="180" stage="6;7;8;9;10;11">
+		<territory>
+			<add x="-28395" y="250654" zmin="-3564" zmax="-3364" />
+			<add x="-28250" y="250654" zmin="-3564" zmax="-3364" />
+			<add x="-28250" y="251064" zmin="-3564" zmax="-3364" />
+			<add x="-28395" y="251064" zmin="-3564" zmax="-3364" />
+		</territory>
+	</data>
+	<data npc_id="32361" count="3"	respawn="180" stage="6;7;8;9;10;11">
+		<territory>
+			<add x="-29179" y="250654" zmin="-3560" zmax="-3360" />
+			<add x="-29047" y="250654" zmin="-3560" zmax="-3360" />
+			<add x="-29047" y="251190" zmin="-3560" zmax="-3360" />
+			<add x="-29184" y="251190" zmin="-3560" zmax="-3360" />
+		</territory>
+	</data>
+	<data npc_id="32361" count="3"	respawn="180" stage="6;7;8;9;10;11">
+		<territory>
+			<add x="-29551" y="253009" zmin="-3556" zmax="-3356" />
+			<add x="-29351" y="253009" zmin="-3556" zmax="-3356" />
+			<add x="-29351" y="253209" zmin="-3556" zmax="-3356" />
+			<add x="-29551" y="253209" zmin="-3556" zmax="-3356" />
+		</territory>
+	</data>
+	<data npc_id="32361" count="3"	respawn="180" stage="6;7;8;9;10;11">
+		<territory>
+			<add x="-28426" y="252030" zmin="-3556" zmax="-3356" />
+			<add x="-27137" y="252030" zmin="-3556" zmax="-3356" />
+			<add x="-27137" y="252088" zmin="-3556" zmax="-3356" />
+			<add x="-28434" y="252088" zmin="-3556" zmax="-3356" />
+		</territory>
+	</data>
+	<data npc_id="32361" loc="-28368 249440 -3477 0" respawn="60" stage="6;7;8;9;10;11" />
+	<data npc_id="32361" loc="-28896 249040 -3477 0" respawn="60" stage="6;7;8;9;10;11" />
+	<data npc_id="32361" loc="-28912 249184 -3477 0" respawn="60" stage="6;7;8;9;10;11" />
+<!-- Corpse Village -->
+	<data npc_id="32306" loc="-26768 251968 -3481 45056" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-27296 251872 -3521 53248" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-27968 251120 -3521 53248" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-26848 251360 -3521 36864" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-27232 250800 -3521 49152" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-27328 251328 -3521 8192" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-28736 250848 -3521 28672" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-28880 251008 -3521 0" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-28768 251216 -3521 0" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-28544 251008 -3521 32768" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-28640 251776 -3521 0" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-28832 252176 -3521 36864" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-28112 252064 -3521 20480" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-27984 251584 -3521 45056" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-26896 252208 -3521 61440" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-27248 252528 -3521 0" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-29072 252736 -3521 0" respawn="60" stage="3;4" />
+	<data npc_id="32306" loc="-28640 252432 -3521 53248" respawn="60" stage="3;4" />
+<!-- Native Slave -->
+	<data npc_id="32357" count="2"	respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="8620" y="252488" zmin="-1964" zmax="-1764" />
+			<add x="8820" y="252488" zmin="-1964" zmax="-1764" />
+			<add x="8820" y="252688" zmin="-1964" zmax="-1764" />
+			<add x="8620" y="252688" zmin="-1964" zmax="-1764" />
+		</territory>
+	</data>
+	<data npc_id="32357" count="2"	respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="8696" y="251550" zmin="-2076" zmax="-1876" />
+			<add x="8896" y="251550" zmin="-2076" zmax="-1876" />
+			<add x="8896" y="251750" zmin="-2076" zmax="-1876" />
+			<add x="8696" y="251750" zmin="-2076" zmax="-1876" />
+		</territory>
+	</data>
+	<data npc_id="32357" count="2"	respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="8776" y="249942" zmin="-2040" zmax="-1840" />
+			<add x="8894" y="250004" zmin="-2040" zmax="-1840" />
+			<add x="8859" y="250076" zmin="-2040" zmax="-1840" />
+			<add x="8739" y="250014" zmin="-2040" zmax="-1840" />
+		</territory>
+	</data>
+<!-- Hellbound Insurgent -->
+	<data npc_id="32363" loc="-28592 249976 -3478 16384" respawn="60" stage="5;6;7;8;9;10;11" />
+	<data npc_id="32363" loc="-28400 249977 -3478 16384" respawn="60" stage="5;6;7;8;9;10;11" />
+	<data npc_id="32363" loc="-29123 250387 -3478 0" respawn="60" stage="5;6;7;8;9;10;11" />
+	<data npc_id="32363" loc="-28310 250388 -3478 32768" respawn="60" stage="5;6;7;8;9;10;11" />
+	<data npc_id="32363" loc="-25376 252368 -3257 0" respawn="60" stage="5;6;7;8;9;10;11" />
+	<data npc_id="32363" loc="-25376 252208 -3257 0" respawn="60" stage="5;6;7;8;9;10;11" />
+<!-- Hellbound Traitor -->
+	<data npc_id="32364" loc="-27352 252387 -3521 5416" respawn="60" stage="5;6;7;8;9;10;11" />
+<!-- Deltuva -->
+	<data npc_id="32313" loc="10632 244721 -2008 -32732" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+<!-- Quarry Slaves -->
+	<data npc_id="32299" loc="-9168 243264 -1856 -13676" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-9200 243328 -1852 31080" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-9168 245008 -1856 11596" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-9216 244912 -1857 32132" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-9344 244288 -1856 24968" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-9392 244144 -1862 -32700" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-8336 245850 -1856 9312" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-8496 245776 -1852 23720" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-7648 246576 -1840 27544" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-7488 246688 -1851 22328" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-2880 242832 -1901 0" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-2960 242736 -1908 -4720" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-6608 240976 -1842 -19164" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-6816 241040 -1840 -24360" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-4864 241136 -1893 -25632" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-4768 240928 -1888 -13272" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-4032 241696 -1846 13004" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-3712 245840 -1857 17468" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-2848 244176 -1865 7608" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-2768 243952 -1878 0" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-4400 245456 -2016 -21612" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-4544 245568 -2033 -19996" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-5472 245680 -2059 -26644" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-6256 245328 -2079 0" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-5824 244944 -2058 16900" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-6464 244608 -2043 -25360" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-7600 245024 -2048 -5852" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-7856 244832 -2048 -8240" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-7104 244336 -2048 -1380" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-7600 244048 -2048 -15076" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-7312 242784 -2032 -4188" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-6496 243296 -2086 10700" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-6432 242848 -2080 4632" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-6340 242010 -2038 14736" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-5968 241744 -2016 10080" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-5392 243584 -2048 -23024" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-5072 243216 -2032 -9772" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-4256 243696 -2040 16668" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-4688 244336 -2080 -5192" respawn="180" stage="1;2;3;4;5" />
+	<data npc_id="32299" loc="-4976 244064 -2048 29696" respawn="180" stage="1;2;3;4;5" />
+<!-- Hellbound Harbor -->
+	<data npc_id="22324" count="12" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-14186" y="234739" zmin="-3600" zmax="-2900" />
+			<add x="-12532" y="236354" zmin="-3600" zmax="-2900" />
+			<add x="-12523" y="237069" zmin="-3600" zmax="-2900" />
+			<add x="-11286" y="237836" zmin="-3600" zmax="-2900" />
+			<add x="-11572" y="239212" zmin="-3600" zmax="-2900" />
+			<add x="-12365" y="239461" zmin="-3600" zmax="-2900" />
+			<add x="-13766" y="238657" zmin="-3600" zmax="-2900" />
+			<add x="-17767" y="237895" zmin="-3600" zmax="-2900" />
+		</territory>
+	</data>
+	<data npc_id="22325" count="12" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-14186" y="234739" zmin="-3600" zmax="-2900" />
+			<add x="-12532" y="236354" zmin="-3600" zmax="-2900" />
+			<add x="-12523" y="237069" zmin="-3600" zmax="-2900" />
+			<add x="-11286" y="237836" zmin="-3600" zmax="-2900" />
+			<add x="-11572" y="239212" zmin="-3600" zmax="-2900" />
+			<add x="-12365" y="239461" zmin="-3600" zmax="-2900" />
+			<add x="-13766" y="238657" zmin="-3600" zmax="-2900" />
+			<add x="-17767" y="237895" zmin="-3600" zmax="-2900" />
+		</territory>
+	</data>
+	<data npc_id="22324" count="7" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-17812" y="235722" zmin="-3128" zmax="-2428" />
+			<add x="-18112" y="234221" zmin="-3128" zmax="-2428" />
+			<add x="-15245" y="234116" zmin="-3128" zmax="-2428" />
+			<add x="-18048" y="237009" zmin="-3128" zmax="-2428" />
+			<add x="-18499" y="236787" zmin="-3128" zmax="-2428" />
+		</territory>
+	</data>
+	<data npc_id="22325" count="7" respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-17812" y="235722" zmin="-3128" zmax="-2428" />
+			<add x="-18112" y="234221" zmin="-3128" zmax="-2428" />
+			<add x="-15245" y="234116" zmin="-3128" zmax="-2428" />
+			<add x="-18048" y="237009" zmin="-3128" zmax="-2428" />
+			<add x="-18499" y="236787" zmin="-3128" zmax="-2428" />
+		</territory>
+	</data>
+	<data npc_id="22320" count="3" respawn="80" stage="1;2;3;4">
+		<territory>
+			<add x="-17812" y="235722" zmin="-3128" zmax="-2428" />
+			<add x="-18112" y="234221" zmin="-3128" zmax="-2428" />
+			<add x="-15245" y="234116" zmin="-3128" zmax="-2428" />
+			<add x="-18048" y="237009" zmin="-3128" zmax="-2428" />
+			<add x="-18499" y="236787" zmin="-3128" zmax="-2428" />
+		</territory>
+	</data>
+	<data npc_id="22321" count="3" respawn="80" stage="1;2;3;4">
+		<territory>
+			<add x="-17812" y="235722" zmin="-3128" zmax="-2428" />
+			<add x="-18112" y="234221" zmin="-3128" zmax="-2428" />
+			<add x="-15245" y="234116" zmin="-3128" zmax="-2428" />
+			<add x="-18048" y="237009" zmin="-3128" zmax="-2428" />
+			<add x="-18499" y="236787" zmin="-3128" zmax="-2428" />
+		</territory>
+	</data>
+	<data npc_id="22320" count="6" respawn="60" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-17812" y="235722" zmin="-3128" zmax="-2428" />
+			<add x="-18112" y="234221" zmin="-3128" zmax="-2428" />
+			<add x="-15245" y="234116" zmin="-3128" zmax="-2428" />
+			<add x="-18048" y="237009" zmin="-3128" zmax="-2428" />
+			<add x="-18499" y="236787" zmin="-3128" zmax="-2428" />
+		</territory>
+	</data>
+	<data npc_id="22321" count="6" respawn="60" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-17812" y="235722" zmin="-3128" zmax="-2428" />
+			<add x="-18112" y="234221" zmin="-3128" zmax="-2428" />
+			<add x="-15245" y="234116" zmin="-3128" zmax="-2428" />
+			<add x="-18048" y="237009" zmin="-3128" zmax="-2428" />
+			<add x="-18499" y="236787" zmin="-3128" zmax="-2428" />
+		</territory>
+	</data>
+	<data npc_id="22324" count="5"	respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-20551" y="237430" zmin="-2992" zmax="-2292" />
+			<add x="-18930" y="238754" zmin="-2992" zmax="-2292" />
+			<add x="-19796" y="241169" zmin="-2992" zmax="-2292" />
+			<add x="-21506" y="240811" zmin="-2992" zmax="-2292" />
+		</territory>
+	</data>
+	<data npc_id="22325" count="5"	respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-20551" y="237430" zmin="-2992" zmax="-2292" />
+			<add x="-18930" y="238754" zmin="-2992" zmax="-2292" />
+			<add x="-19796" y="241169" zmin="-2992" zmax="-2292" />
+			<add x="-21506" y="240811" zmin="-2992" zmax="-2292" />
+		</territory>
+	</data>
+	<data npc_id="22320" count="5"	respawn="80" stage="1;4">
+		<territory>
+			<add x="-20551" y="237430" zmin="-2992" zmax="-2292" />
+			<add x="-18930" y="238754" zmin="-2992" zmax="-2292" />
+			<add x="-19796" y="241169" zmin="-2992" zmax="-2292" />
+			<add x="-21506" y="240811" zmin="-2992" zmax="-2292" />
+		</territory>
+	</data>
+	<data npc_id="22321" count="5"	respawn="80" stage="1;4">
+		<territory>
+			<add x="-20551" y="237430" zmin="-2992" zmax="-2292" />
+			<add x="-18930" y="238754" zmin="-2992" zmax="-2292" />
+			<add x="-19796" y="241169" zmin="-2992" zmax="-2292" />
+			<add x="-21506" y="240811" zmin="-2992" zmax="-2292" />
+		</territory>
+	</data>
+	<data npc_id="22320" count="10"	respawn="60" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-20551" y="237430" zmin="-2992" zmax="-2292" />
+			<add x="-18930" y="238754" zmin="-2992" zmax="-2292" />
+			<add x="-19796" y="241169" zmin="-2992" zmax="-2292" />
+			<add x="-21506" y="240811" zmin="-2992" zmax="-2292" />
+		</territory>
+	</data>
+	<data npc_id="22321" count="10"	respawn="60" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-20551" y="237430" zmin="-2992" zmax="-2292" />
+			<add x="-18930" y="238754" zmin="-2992" zmax="-2292" />
+			<add x="-19796" y="241169" zmin="-2992" zmax="-2292" />
+			<add x="-21506" y="240811" zmin="-2992" zmax="-2292" />
+		</territory>
+	</data>
+	<data npc_id="22320" count="2"	respawn="80" stage="1;4">
+		<territory>
+			<add x="-10205" y="236995" zmin="-3384" zmax="-2884" />
+			<add x="-10216" y="237849" zmin="-3384" zmax="-2884" />
+			<add x="-11185" y="237795" zmin="-3384" zmax="-2884" />
+		</territory>
+	</data>
+	<data npc_id="22321" count="2"	respawn="80" stage="1;4">
+		<territory>
+			<add x="-10205" y="236995" zmin="-3384" zmax="-2884" />
+			<add x="-10216" y="237849" zmin="-3384" zmax="-2884" />
+			<add x="-11185" y="237795" zmin="-3384" zmax="-2884" />
+		</territory>
+	</data>
+	<data npc_id="22320" count="4"	respawn="60" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-10205" y="236995" zmin="-3384" zmax="-2884" />
+			<add x="-10216" y="237849" zmin="-3384" zmax="-2884" />
+			<add x="-11185" y="237795" zmin="-3384" zmax="-2884" />
+		</territory>
+	</data>
+	<data npc_id="22321" count="4"	respawn="60" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-10205" y="236995" zmin="-3384" zmax="-2884" />
+			<add x="-10216" y="237849" zmin="-3384" zmax="-2884" />
+			<add x="-11185" y="237795" zmin="-3384" zmax="-2884" />
+		</territory>
+	</data>
+	<data npc_id="22320" count="3" respawn="80" stage="1;4">
+		<territory>
+			<add x="-17353" y="238156" zmin="-3468" zmax="-2968" />
+			<add x="-16563" y="238256" zmin="-3468" zmax="-2968" />
+			<add x="-17789" y="240181" zmin="-3468" zmax="-2968" />
+			<add x="-18539" y="239671" zmin="-3468" zmax="-2968" />
+			<add x="-17664" y="238810" zmin="-3468" zmax="-2968" />
+		</territory>
+	</data>
+	<data npc_id="22321" count="3" respawn="80" stage="1;4">
+		<territory>
+			<add x="-17353" y="238156" zmin="-3468" zmax="-2968" />
+			<add x="-16563" y="238256" zmin="-3468" zmax="-2968" />
+			<add x="-17789" y="240181" zmin="-3468" zmax="-2968" />
+			<add x="-18539" y="239671" zmin="-3468" zmax="-2968" />
+			<add x="-17664" y="238810" zmin="-3468" zmax="-2968" />
+		</territory>
+	</data>
+	<data npc_id="22320" count="6"	respawn="60" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-17353" y="238156" zmin="-3468" zmax="-2968" />
+			<add x="-16563" y="238256" zmin="-3468" zmax="-2968" />
+			<add x="-17789" y="240181" zmin="-3468" zmax="-2968" />
+			<add x="-18539" y="239671" zmin="-3468" zmax="-2968" />
+			<add x="-17664" y="238810" zmin="-3468" zmax="-2968" />
+		</territory>
+	</data>
+	<data npc_id="22321" count="6"	respawn="60" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-17353" y="238156" zmin="-3468" zmax="-2968" />
+			<add x="-16563" y="238256" zmin="-3468" zmax="-2968" />
+			<add x="-17789" y="240181" zmin="-3468" zmax="-2968" />
+			<add x="-18539" y="239671" zmin="-3468" zmax="-2968" />
+			<add x="-17664" y="238810" zmin="-3468" zmax="-2968" />
+		</territory>
+	</data>
+<!-- Enchanted Megaliths -->
+	<data npc_id="22327" count="6"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-23491" y="243283" zmin="-3568" zmax="-2868" />
+			<add x="-22501" y="244424" zmin="-3568" zmax="-2868" />
+			<add x="-22956" y="246226" zmin="-3568" zmax="-2868" />
+			<add x="-23703" y="247179" zmin="-3568" zmax="-2868" />
+			<add x="-25171" y="246866" zmin="-3568" zmax="-2868" />
+			<add x="-25241" y="245931" zmin="-3568" zmax="-2868" />
+			<add x="-25314" y="244924" zmin="-3568" zmax="-2868" />
+			<add x="-24542" y="244339" zmin="-3568" zmax="-2868" />
+		</territory>
+	</data>
+	<data npc_id="22328" count="6"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-23491" y="243283" zmin="-3568" zmax="-2868" />
+			<add x="-22501" y="244424" zmin="-3568" zmax="-2868" />
+			<add x="-22956" y="246226" zmin="-3568" zmax="-2868" />
+			<add x="-23703" y="247179" zmin="-3568" zmax="-2868" />
+			<add x="-25171" y="246866" zmin="-3568" zmax="-2868" />
+			<add x="-25241" y="245931" zmin="-3568" zmax="-2868" />
+			<add x="-25314" y="244924" zmin="-3568" zmax="-2868" />
+			<add x="-24542" y="244339" zmin="-3568" zmax="-2868" />
+		</territory>
+	</data>
+	<data npc_id="22329" count="6"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-23491" y="243283" zmin="-3568" zmax="-2868" />
+			<add x="-22501" y="244424" zmin="-3568" zmax="-2868" />
+			<add x="-22956" y="246226" zmin="-3568" zmax="-2868" />
+			<add x="-23703" y="247179" zmin="-3568" zmax="-2868" />
+			<add x="-25171" y="246866" zmin="-3568" zmax="-2868" />
+			<add x="-25241" y="245931" zmin="-3568" zmax="-2868" />
+			<add x="-25314" y="244924" zmin="-3568" zmax="-2868" />
+			<add x="-24542" y="244339" zmin="-3568" zmax="-2868" />
+		</territory>
+	</data>
+<!-- Oasis - Village -->
+	<data npc_id="22342" count="8"	respawn="60" stage="3;4">
+		<territory>
+			<add x="-23671" y="251218" zmin="-3424" zmax="-2824" />
+			<add x="-22960" y="251818" zmin="-3424" zmax="-2824" />
+			<add x="-23365" y="253049" zmin="-3424" zmax="-2824" />
+			<add x="-24986" y="252745" zmin="-3424" zmax="-2824" />
+			<add x="-25359" y="251774" zmin="-3424" zmax="-2824" />
+			<add x="-24801" y="251335" zmin="-3424" zmax="-2824" />
+		</territory>
+	</data>
+	<data npc_id="22343" count="7"	respawn="80" stage="3;4">
+		<territory>
+			<add x="-23671" y="251218" zmin="-3424" zmax="-2824" />
+			<add x="-22960" y="251818" zmin="-3424" zmax="-2824" />
+			<add x="-23365" y="253049" zmin="-3424" zmax="-2824" />
+			<add x="-24986" y="252745" zmin="-3424" zmax="-2824" />
+			<add x="-25359" y="251774" zmin="-3424" zmax="-2824" />
+			<add x="-24801" y="251335" zmin="-3424" zmax="-2824" />
+		</territory>
+	</data>
+	<data npc_id="22342" loc="-25376 252368 -3257 0" respawn="60" stage="3;4" />
+	<data npc_id="22342" loc="-25376 252208 -3257 0" respawn="60" stage="3;4" />
+	<data npc_id="22343" count="6"	respawn="80" stage="3;4">
+		<territory>
+			<add x="-27762" y="251835" zmin="-3556" zmax="-3356" />
+			<add x="-26899" y="251825" zmin="-3556" zmax="-3356" />
+			<add x="-26899" y="252085" zmin="-3556" zmax="-3356" />
+			<add x="-28852" y="252084" zmin="-3556" zmax="-3356" />
+			<add x="-28852" y="251833" zmin="-3556" zmax="-3356" />
+			<add x="-28018" y="251833" zmin="-3556" zmax="-3356" />
+			<add x="-28015" y="251022" zmin="-3556" zmax="-3356" />
+			<add x="-27761" y="251020" zmin="-3556" zmax="-3356" />
+		</territory>
+	</data>
+	<data npc_id="32362" count="4"	respawn="60" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-27762" y="251835" zmin="-3556" zmax="-3356" />
+			<add x="-26899" y="251825" zmin="-3556" zmax="-3356" />
+			<add x="-26899" y="252085" zmin="-3556" zmax="-3356" />
+			<add x="-28852" y="252084" zmin="-3556" zmax="-3356" />
+			<add x="-28852" y="251833" zmin="-3556" zmax="-3356" />
+			<add x="-28018" y="251833" zmin="-3556" zmax="-3356" />
+			<add x="-28015" y="251022" zmin="-3556" zmax="-3356" />
+			<add x="-27761" y="251020" zmin="-3556" zmax="-3356" />
+		</territory>
+	</data>
+	<data npc_id="32362" count="2"	respawn="60" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-29015" y="248944" zmin="-3552" zmax="-3352" />
+			<add x="-28250" y="248927" zmin="-3552" zmax="-3352" />
+			<add x="-28233" y="249545" zmin="-3552" zmax="-3352" />
+			<add x="-29021" y="249523" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+	<data npc_id="22342" count="4"	respawn="60" stage="3;4">
+		<territory>
+			<add x="-27387" y="250713" zmin="-3552" zmax="-3352" />
+			<add x="-26767" y="250691" zmin="-3552" zmax="-3352" />
+			<add x="-26779" y="251458" zmin="-3552" zmax="-3352" />
+			<add x="-27387" y="251458" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+	<data npc_id="22343" count="3" respawn="80" stage="3;4">
+		<territory>
+			<add x="-27387" y="250713" zmin="-3552" zmax="-3352" />
+			<add x="-26767" y="250691" zmin="-3552" zmax="-3352" />
+			<add x="-26779" y="251458" zmin="-3552" zmax="-3352" />
+			<add x="-27387" y="251458" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+	<data npc_id="32362" count="2"	respawn="60" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-27387" y="250713" zmin="-3552" zmax="-3352" />
+			<add x="-26767" y="250691" zmin="-3552" zmax="-3352" />
+			<add x="-26779" y="251458" zmin="-3552" zmax="-3352" />
+			<add x="-27387" y="251458" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+	<data npc_id="22342" count="4"	respawn="60" stage="3;4">
+		<territory>
+			<add x="-29841" y="252520" zmin="-3552" zmax="-3352" />
+			<add x="-29305" y="252525" zmin="-3552" zmax="-3352" />
+			<add x="-29294" y="253282" zmin="-3552" zmax="-3352" />
+			<add x="-29868" y="253261" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+	<data npc_id="22343" count="3" respawn="80" stage="3;4">
+		<territory>
+			<add x="-29841" y="252520" zmin="-3552" zmax="-3352" />
+			<add x="-29305" y="252525" zmin="-3552" zmax="-3352" />
+			<add x="-29294" y="253282" zmin="-3552" zmax="-3352" />
+			<add x="-29868" y="253261" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+	<data npc_id="32362" count="2"	respawn="60" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-29841" y="252520" zmin="-3552" zmax="-3352" />
+			<add x="-29305" y="252525" zmin="-3552" zmax="-3352" />
+			<add x="-29294" y="253282" zmin="-3552" zmax="-3352" />
+			<add x="-29868" y="253261" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+	<data npc_id="22342" count="4"	respawn="60" stage="3;4">
+		<territory>
+			<add x="-28777" y="251874" zmin="-3552" zmax="-3352" />
+			<add x="-26918" y="251861" zmin="-3552" zmax="-3352" />
+			<add x="-26918" y="252061" zmin="-3552" zmax="-3352" />
+			<add x="-28789" y="252066" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+	<data npc_id="22343" count="3" respawn="80" stage="3;4">
+		<territory>
+			<add x="-28777" y="251874" zmin="-3552" zmax="-3352" />
+			<add x="-26918" y="251861" zmin="-3552" zmax="-3352" />
+			<add x="-26918" y="252061" zmin="-3552" zmax="-3352" />
+			<add x="-28789" y="252066" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+	<data npc_id="32362" count="2"	respawn="60" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-28777" y="251874" zmin="-3552" zmax="-3352" />
+			<add x="-26918" y="251861" zmin="-3552" zmax="-3352" />
+			<add x="-26918" y="252061" zmin="-3552" zmax="-3352" />
+			<add x="-28789" y="252066" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+	<data npc_id="22342" count="4"	respawn="60" stage="3;4">
+		<territory>
+			<add x="-29168" y="250081" zmin="-3552" zmax="-3352" />
+			<add x="-28263" y="250081" zmin="-3552" zmax="-3352" />
+			<add x="-28279" y="251310" zmin="-3552" zmax="-3352" />
+			<add x="-29137" y="251333" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+	<data npc_id="22343" count="3" respawn="80" stage="3;4">	
+		<territory>
+			<add x="-29168" y="250081" zmin="-3552" zmax="-3352" />
+			<add x="-28263" y="250081" zmin="-3552" zmax="-3352" />
+			<add x="-28279" y="251310" zmin="-3552" zmax="-3352" />
+			<add x="-29137" y="251333" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+	<data npc_id="32362" count="2"	respawn="60" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-29168" y="250081" zmin="-3552" zmax="-3352" />
+			<add x="-28263" y="250081" zmin="-3552" zmax="-3352" />
+			<add x="-28279" y="251310" zmin="-3552" zmax="-3352" />
+			<add x="-29137" y="251333" zmin="-3552" zmax="-3352" />
+		</territory>
+	</data>
+<!-- Ancient Temple -->
+	<data npc_id="22330" count="4"	respawn="80" stage="1">
+		<territory>
+			<add x="-28475" y="256242" zmin="-2388" zmax="-1688" />
+			<add x="-26207" y="256220" zmin="-2388" zmax="-1688" />
+			<add x="-26204" y="257340" zmin="-2388" zmax="-1688" />
+			<add x="-28448" y="257348" zmin="-2388" zmax="-1688" />
+		</territory>
+	</data>
+	<data npc_id="22330" count="3" respawn="60" stage="2;3;4">
+		<territory>
+			<add x="-28475" y="256242" zmin="-2388" zmax="-1688" />
+			<add x="-26207" y="256220" zmin="-2388" zmax="-1688" />
+			<add x="-26204" y="257340" zmin="-2388" zmax="-1688" />
+			<add x="-28448" y="257348" zmin="-2388" zmax="-1688" />
+		</territory>
+	</data>
+	<data npc_id="18463" count="2"	respawn="80" stage="2;3;4">
+		<territory>
+			<add x="-28475" y="256242" zmin="-2388" zmax="-1688" />
+			<add x="-26207" y="256220" zmin="-2388" zmax="-1688" />
+			<add x="-26204" y="257340" zmin="-2388" zmax="-1688" />
+			<add x="-28448" y="257348" zmin="-2388" zmax="-1688" />
+		</territory>
+	</data>
+	<data npc_id="18464" count="2"	respawn="80" stage="2;3;4">
+		<territory>
+			<add x="-28475" y="256242" zmin="-2388" zmax="-1688" />
+			<add x="-26207" y="256220" zmin="-2388" zmax="-1688" />
+			<add x="-26204" y="257340" zmin="-2388" zmax="-1688" />
+			<add x="-28448" y="257348" zmin="-2388" zmax="-1688" />
+		</territory>
+	</data>
+	<data npc_id="22330" count="4"	respawn="80" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-28475" y="256242" zmin="-2388" zmax="-1688" />
+			<add x="-26207" y="256220" zmin="-2388" zmax="-1688" />
+			<add x="-26204" y="257340" zmin="-2388" zmax="-1688" />
+			<add x="-28448" y="257348" zmin="-2388" zmax="-1688" />
+		</territory>
+	</data>
+	<data npc_id="22330" count="4"	respawn="80" stage="1">
+		<territory>
+			<add x="-27915" y="254536" zmin="-2364" zmax="-1864" />
+			<add x="-26614" y="254460" zmin="-2364" zmax="-1864" />
+			<add x="-26719" y="255524" zmin="-2364" zmax="-1864" />
+			<add x="-27915" y="255551" zmin="-2364" zmax="-1864" />
+		</territory>
+	</data>
+	<data npc_id="22330" count="3" respawn="60" stage="2;4">
+		<territory>
+			<add x="-27915" y="254536" zmin="-2364" zmax="-1864" />
+			<add x="-26614" y="254460" zmin="-2364" zmax="-1864" />
+			<add x="-26719" y="255524" zmin="-2364" zmax="-1864" />
+			<add x="-27915" y="255551" zmin="-2364" zmax="-1864" />
+		</territory>
+	</data>
+	<data npc_id="18463" count="2"	respawn="80" stage="2;4">
+		<territory>
+			<add x="-27915" y="254536" zmin="-2364" zmax="-1864" />
+			<add x="-26614" y="254460" zmin="-2364" zmax="-1864" />
+			<add x="-26719" y="255524" zmin="-2364" zmax="-1864" />
+			<add x="-27915" y="255551" zmin="-2364" zmax="-1864" />
+		</territory>
+	</data>
+	<data npc_id="18464" count="2"	respawn="80" stage="2;4">
+		<territory>
+			<add x="-27915" y="254536" zmin="-2364" zmax="-1864" />
+			<add x="-26614" y="254460" zmin="-2364" zmax="-1864" />
+			<add x="-26719" y="255524" zmin="-2364" zmax="-1864" />
+			<add x="-27915" y="255551" zmin="-2364" zmax="-1864" />
+		</territory>
+	</data>
+	<data npc_id="22330" count="4"	respawn="80" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-27915" y="254536" zmin="-2364" zmax="-1864" />
+			<add x="-26614" y="254460" zmin="-2364" zmax="-1864" />
+			<add x="-26719" y="255524" zmin="-2364" zmax="-1864" />
+			<add x="-27915" y="255551" zmin="-2364" zmax="-1864" />
+		</territory>
+	</data>
+	<data npc_id="22330" count="4"	respawn="80" stage="1">
+		<territory>
+			<add x="-29237" y="254451" zmin="-2376" zmax="-1876" />
+			<add x="-28087" y="254492" zmin="-2376" zmax="-1876" />
+			<add x="-28076" y="255745" zmin="-2376" zmax="-1876" />
+			<add x="-29244" y="255628" zmin="-2376" zmax="-1876" />
+		</territory>
+	</data>
+	<data npc_id="22330" count="3" respawn="60" stage="2;4">
+		<territory>
+			<add x="-29237" y="254451" zmin="-2376" zmax="-1876" />
+			<add x="-28087" y="254492" zmin="-2376" zmax="-1876" />
+			<add x="-28076" y="255745" zmin="-2376" zmax="-1876" />
+			<add x="-29244" y="255628" zmin="-2376" zmax="-1876" />
+		</territory>
+	</data>
+	<data npc_id="18463" count="2"	respawn="80" stage="2;4">
+		<territory>
+			<add x="-29237" y="254451" zmin="-2376" zmax="-1876" />
+			<add x="-28087" y="254492" zmin="-2376" zmax="-1876" />
+			<add x="-28076" y="255745" zmin="-2376" zmax="-1876" />
+			<add x="-29244" y="255628" zmin="-2376" zmax="-1876" />
+		</territory>
+	</data>
+	<data npc_id="18464" count="2"	respawn="80" stage="2;4">
+		<territory>
+			<add x="-29237" y="254451" zmin="-2376" zmax="-1876" />
+			<add x="-28087" y="254492" zmin="-2376" zmax="-1876" />
+			<add x="-28076" y="255745" zmin="-2376" zmax="-1876" />
+			<add x="-29244" y="255628" zmin="-2376" zmax="-1876" />
+		</territory>
+	</data>
+	<data npc_id="22330" count="4"	respawn="80" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-29237" y="254451" zmin="-2376" zmax="-1876" />
+			<add x="-28087" y="254492" zmin="-2376" zmax="-1876" />
+			<add x="-28076" y="255745" zmin="-2376" zmax="-1876" />
+			<add x="-29244" y="255628" zmin="-2376" zmax="-1876" />
+		</territory>
+	</data>
+	<data npc_id="22330" count="4"	respawn="80" stage="1">
+		<territory>
+			<add x="-26547" y="254439" zmin="-2372" zmax="-1872" />
+			<add x="-25439" y="254465" zmin="-2372" zmax="-1872" />
+			<add x="-25418" y="255762" zmin="-2372" zmax="-1872" />
+			<add x="-26529" y="255527" zmin="-2372" zmax="-1872" />
+		</territory>
+	</data>
+	<data npc_id="22330" count="3" respawn="60" stage="2;4">
+		<territory>
+			<add x="-26547" y="254439" zmin="-2372" zmax="-1872" />
+			<add x="-25439" y="254465" zmin="-2372" zmax="-1872" />
+			<add x="-25418" y="255762" zmin="-2372" zmax="-1872" />
+			<add x="-26529" y="255527" zmin="-2372" zmax="-1872" />
+		</territory>
+	</data>
+	<data npc_id="18463" count="2"	respawn="80" stage="2;4">
+		<territory>
+			<add x="-26547" y="254439" zmin="-2372" zmax="-1872" />
+			<add x="-25439" y="254465" zmin="-2372" zmax="-1872" />
+			<add x="-25418" y="255762" zmin="-2372" zmax="-1872" />
+			<add x="-26529" y="255527" zmin="-2372" zmax="-1872" />
+		</territory>
+	</data>
+	<data npc_id="18464" count="2"	respawn="80" stage="2;4">	
+		<territory>
+			<add x="-26547" y="254439" zmin="-2372" zmax="-1872" />
+			<add x="-25439" y="254465" zmin="-2372" zmax="-1872" />
+			<add x="-25418" y="255762" zmin="-2372" zmax="-1872" />
+			<add x="-26529" y="255527" zmin="-2372" zmax="-1872" />
+		</territory>
+	</data>
+	<data npc_id="22330" count="4"	respawn="80" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-26547" y="254439" zmin="-2372" zmax="-1872" />
+			<add x="-25439" y="254465" zmin="-2372" zmax="-1872" />
+			<add x="-25418" y="255762" zmin="-2372" zmax="-1872" />
+			<add x="-26529" y="255527" zmin="-2372" zmax="-1872" />
+		</territory>
+	</data>
+	<data npc_id="22330" count="4"	respawn="80" stage="1">
+		<territory>
+			<add x="-25766" y="256185" zmin="-2392" zmax="-1992" />
+			<add x="-25138" y="256185" zmin="-2392" zmax="-1992" />
+			<add x="-25259" y="257934" zmin="-2392" zmax="-1992" />
+			<add x="-25685" y="257345" zmin="-2392" zmax="-1992" />
+		</territory>
+	</data>
+	<data npc_id="22330" count="3" respawn="60" stage="2;4">	
+		<territory>
+			<add x="-25766" y="256185" zmin="-2392" zmax="-1992" />
+			<add x="-25138" y="256185" zmin="-2392" zmax="-1992" />
+			<add x="-25259" y="257934" zmin="-2392" zmax="-1992" />
+			<add x="-25685" y="257345" zmin="-2392" zmax="-1992" />
+		</territory>
+	</data>
+	<data npc_id="18463" count="2"	respawn="80" stage="2;4">	
+		<territory>
+			<add x="-25766" y="256185" zmin="-2392" zmax="-1992" />
+			<add x="-25138" y="256185" zmin="-2392" zmax="-1992" />
+			<add x="-25259" y="257934" zmin="-2392" zmax="-1992" />
+			<add x="-25685" y="257345" zmin="-2392" zmax="-1992" />
+		</territory>
+	</data>
+	<data npc_id="18464" count="2"	respawn="80" stage="2;4">	
+		<territory>
+			<add x="-25766" y="256185" zmin="-2392" zmax="-1992" />
+			<add x="-25138" y="256185" zmin="-2392" zmax="-1992" />
+			<add x="-25259" y="257934" zmin="-2392" zmax="-1992" />
+			<add x="-25685" y="257345" zmin="-2392" zmax="-1992" />
+		</territory>
+	</data>
+	<data npc_id="22330" count="4"	respawn="80" stage="5;6;7;8;9;10;11">
+		<territory>
+			<add x="-25766" y="256185" zmin="-2392" zmax="-1992" />
+			<add x="-25138" y="256185" zmin="-2392" zmax="-1992" />
+			<add x="-25259" y="257934" zmin="-2392" zmax="-1992" />
+			<add x="-25685" y="257345" zmin="-2392" zmax="-1992" />
+		</territory>
+	</data>
+<!-- Quarry -->	
+	<data npc_id="22344" count="5"	respawn="80" stage="1;5">
+		<territory>
+			<add x="-9675" y="240402" zmin="-2509" zmax="-1509" />
+			<add x="-2401" y="240307" zmin="-2509" zmax="-1509" />
+			<add x="-2393" y="246927" zmin="-2509" zmax="-1509" />
+			<add x="-9590" y="246820" zmin="-2509" zmax="-1509" />
+		</territory>
+	</data>
+	<data npc_id="22345" count="6"	respawn="80" stage="1;5">
+		<territory>
+			<add x="-9675" y="240402" zmin="-2509" zmax="-1509" />
+			<add x="-2401" y="240307" zmin="-2509" zmax="-1509" />
+			<add x="-2393" y="246927" zmin="-2509" zmax="-1509" />
+			<add x="-9590" y="246820" zmin="-2509" zmax="-1509" />
+		</territory>
+	</data>
+	<data npc_id="22346" loc="-5585 244854 -2076 27840" respawn="60" stage="1;5" />
+	<data npc_id="22346" loc="-4788 241228 -1880 0" respawn="60" stage="1;5" />
+	<data npc_id="22346" loc="-8628 244748 -1872 -25548" respawn="60" stage="1;5" />
+<!-- Desert Dunes -->
+	<data npc_id="22335" count="6"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-17306" y="248772" zmin="-3991" zmax="-2491" />
+			<add x="-15911" y="249769" zmin="-3991" zmax="-2491" />
+			<add x="-15538" y="251879" zmin="-3991" zmax="-2491" />
+			<add x="-18631" y="249562" zmin="-3991" zmax="-2491" />
+		</territory>
+	</data>
+	<data npc_id="22337" count="4"	respawn="90" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-17306" y="248772" zmin="-3991" zmax="-2491" />
+			<add x="-15911" y="249769" zmin="-3991" zmax="-2491" />
+			<add x="-15538" y="251879" zmin="-3991" zmax="-2491" />
+			<add x="-18631" y="249562" zmin="-3991" zmax="-2491" />
+		</territory>
+	</data>
+	<data npc_id="22339" count="2"	respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-17306" y="248772" zmin="-3991" zmax="-2491" />
+			<add x="-15911" y="249769" zmin="-3991" zmax="-2491" />
+			<add x="-15538" y="251879" zmin="-3991" zmax="-2491" />
+			<add x="-18631" y="249562" zmin="-3991" zmax="-2491" />
+		</territory>
+	</data>
+	<data npc_id="22340" count="2"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-17306" y="248772" zmin="-3991" zmax="-2491" />
+			<add x="-15911" y="249769" zmin="-3991" zmax="-2491" />
+			<add x="-15538" y="251879" zmin="-3991" zmax="-2491" />
+			<add x="-18631" y="249562" zmin="-3991" zmax="-2491" />
+		</territory>
+	</data>
+	<data npc_id="22335" count="6"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-18628" y="249557" zmin="-3652" zmax="-2652" />
+			<add x="-15387" y="251994" zmin="-3652" zmax="-2652" />
+			<add x="-14508" y="254296" zmin="-3652" zmax="-2652" />
+			<add x="-19401" y="254208" zmin="-3652" zmax="-2652" />
+		</territory>
+	</data>
+	<data npc_id="22337" count="4"	respawn="90" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-18628" y="249557" zmin="-3652" zmax="-2652" />
+			<add x="-15387" y="251994" zmin="-3652" zmax="-2652" />
+			<add x="-14508" y="254296" zmin="-3652" zmax="-2652" />
+			<add x="-19401" y="254208" zmin="-3652" zmax="-2652" />
+		</territory>
+	</data>
+	<data npc_id="22339" count="2"	respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-18628" y="249557" zmin="-3652" zmax="-2652" />
+			<add x="-15387" y="251994" zmin="-3652" zmax="-2652" />
+			<add x="-14508" y="254296" zmin="-3652" zmax="-2652" />
+			<add x="-19401" y="254208" zmin="-3652" zmax="-2652" />
+		</territory>
+	</data>
+	<data npc_id="22340" count="2"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-18628" y="249557" zmin="-3652" zmax="-2652" />
+			<add x="-15387" y="251994" zmin="-3652" zmax="-2652" />
+			<add x="-14508" y="254296" zmin="-3652" zmax="-2652" />
+			<add x="-19401" y="254208" zmin="-3652" zmax="-2652" />
+		</territory>
+	</data>
+	<data npc_id="22335" count="6"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-22356" y="251736" zmin="-3692" zmax="-2692" />
+			<add x="-18944" y="251426" zmin="-3692" zmax="-2692" />
+			<add x="-19402" y="254207" zmin="-3692" zmax="-2692" />
+			<add x="-22998" y="256356" zmin="-3692" zmax="-2692" />
+		</territory>
+	</data>
+	<data npc_id="22337" count="4"	respawn="90" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-22356" y="251736" zmin="-3692" zmax="-2692" />
+			<add x="-18944" y="251426" zmin="-3692" zmax="-2692" />
+			<add x="-19402" y="254207" zmin="-3692" zmax="-2692" />
+			<add x="-22998" y="256356" zmin="-3692" zmax="-2692" />
+		</territory>
+	</data>
+	<data npc_id="22339" count="2"	respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-22356" y="251736" zmin="-3692" zmax="-2692" />
+			<add x="-18944" y="251426" zmin="-3692" zmax="-2692" />
+			<add x="-19402" y="254207" zmin="-3692" zmax="-2692" />
+			<add x="-22998" y="256356" zmin="-3692" zmax="-2692" />
+		</territory>
+	</data>
+	<data npc_id="22340" count="2"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-22356" y="251736" zmin="-3692" zmax="-2692" />
+			<add x="-18944" y="251426" zmin="-3692" zmax="-2692" />
+			<add x="-19402" y="254207" zmin="-3692" zmax="-2692" />
+			<add x="-22998" y="256356" zmin="-3692" zmax="-2692" />
+		</territory>
+	</data>
+	<data npc_id="22335" count="6"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-22529" y="256091" zmin="-3640" zmax="-2640" />
+			<add x="-19418" y="254210" zmin="-3640" zmax="-2640" />
+			<add x="-14559" y="254312" zmin="-3640" zmax="-2640" />
+			<add x="-16376" y="256943" zmin="-3640" zmax="-2640" />
+		</territory>
+	</data>
+	<data npc_id="22337" count="4"	respawn="90" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-22529" y="256091" zmin="-3640" zmax="-2640" />
+			<add x="-19418" y="254210" zmin="-3640" zmax="-2640" />
+			<add x="-14559" y="254312" zmin="-3640" zmax="-2640" />
+			<add x="-16376" y="256943" zmin="-3640" zmax="-2640" />
+		</territory>
+	</data>
+	<data npc_id="22339" count="2"	respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-22529" y="256091" zmin="-3640" zmax="-2640" />
+			<add x="-19418" y="254210" zmin="-3640" zmax="-2640" />
+			<add x="-14559" y="254312" zmin="-3640" zmax="-2640" />
+			<add x="-16376" y="256943" zmin="-3640" zmax="-2640" />
+		</territory>
+	</data>
+	<data npc_id="22340" count="2"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-22529" y="256091" zmin="-3640" zmax="-2640" />
+			<add x="-19418" y="254210" zmin="-3640" zmax="-2640" />
+			<add x="-14559" y="254312" zmin="-3640" zmax="-2640" />
+			<add x="-16376" y="256943" zmin="-3640" zmax="-2640" />
+		</territory>
+	</data>
+	<data npc_id="22335" count="6"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-22379" y="256131" zmin="-3516" zmax="-2516" />
+			<add x="-18405" y="256674" zmin="-3516" zmax="-2516" />
+			<add x="-18578" y="258662" zmin="-3516" zmax="-2516" />
+			<add x="-20171" y="258896" zmin="-3516" zmax="-2516" />
+		</territory>
+	</data>
+	<data npc_id="22337" count="3" respawn="90" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-22379" y="256131" zmin="-3516" zmax="-2516" />
+			<add x="-18405" y="256674" zmin="-3516" zmax="-2516" />
+			<add x="-18578" y="258662" zmin="-3516" zmax="-2516" />
+			<add x="-20171" y="258896" zmin="-3516" zmax="-2516" />
+		</territory>
+	</data>
+	<data npc_id="22339" count="4"	respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-22379" y="256131" zmin="-3516" zmax="-2516" />
+			<add x="-18405" y="256674" zmin="-3516" zmax="-2516" />
+			<add x="-18578" y="258662" zmin="-3516" zmax="-2516" />
+			<add x="-20171" y="258896" zmin="-3516" zmax="-2516" />
+		</territory>
+	</data>
+	<data npc_id="22340" count="2"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-22379" y="256131" zmin="-3516" zmax="-2516" />
+			<add x="-18405" y="256674" zmin="-3516" zmax="-2516" />
+			<add x="-18578" y="258662" zmin="-3516" zmax="-2516" />
+			<add x="-20171" y="258896" zmin="-3516" zmax="-2516" />
+		</territory>
+	</data>
+	<data npc_id="32350" count="10"	respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-18971" y="255976" zmin="-3504" zmax="-2754" />
+			<add x="-19203" y="257620" zmin="-3504" zmax="-2754" />
+			<add x="-19907" y="257669" zmin="-3504" zmax="-2754" />
+			<add x="-21850" y="255362" zmin="-3504" zmax="-2754" />
+			<add x="-21353" y="251989" zmin="-3504" zmax="-2754" />
+			<add x="-18844" y="251669" zmin="-3504" zmax="-2754" />
+			<add x="-17284" y="249059" zmin="-3504" zmax="-2754" />
+			<add x="-15955" y="250007" zmin="-3504" zmax="-2754" />
+			<add x="-15283" y="253623" zmin="-3504" zmax="-2754" />
+			<add x="-16602" y="255960" zmin="-3504" zmax="-2754" />
+		</territory>
+	</data>
+	<data npc_id="22334" count="4"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-11615" y="250378" zmin="-3712" zmax="-2512" />
+			<add x="-7392" y="249690" zmin="-3712" zmax="-2512" />
+			<add x="-7027" y="257805" zmin="-3712" zmax="-2512" />
+			<add x="-8526" y="259114" zmin="-3712" zmax="-2512" />
+			<add x="-10376" y="258928" zmin="-3712" zmax="-2512" />
+			<add x="-10552" y="257431" zmin="-3712" zmax="-2512" />
+			<add x="-13475" y="256124" zmin="-3712" zmax="-2512" />
+		</territory>
+	</data>
+	<data npc_id="22336" count="3" respawn="90" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-11615" y="250378" zmin="-3712" zmax="-2512" />
+			<add x="-7392" y="249690" zmin="-3712" zmax="-2512" />
+			<add x="-7027" y="257805" zmin="-3712" zmax="-2512" />
+			<add x="-8526" y="259114" zmin="-3712" zmax="-2512" />
+			<add x="-10376" y="258928" zmin="-3712" zmax="-2512" />
+			<add x="-10552" y="257431" zmin="-3712" zmax="-2512" />
+			<add x="-13475" y="256124" zmin="-3712" zmax="-2512" />
+		</territory>
+	</data>
+	<data npc_id="22337" count="3" respawn="90" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-11615" y="250378" zmin="-3712" zmax="-2512" />
+			<add x="-7392" y="249690" zmin="-3712" zmax="-2512" />
+			<add x="-7027" y="257805" zmin="-3712" zmax="-2512" />
+			<add x="-8526" y="259114" zmin="-3712" zmax="-2512" />
+			<add x="-10376" y="258928" zmin="-3712" zmax="-2512" />
+			<add x="-10552" y="257431" zmin="-3712" zmax="-2512" />
+			<add x="-13475" y="256124" zmin="-3712" zmax="-2512" />
+		</territory>
+	</data>
+	<data npc_id="22340" count="2"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-11615" y="250378" zmin="-3712" zmax="-2512" />
+			<add x="-7392" y="249690" zmin="-3712" zmax="-2512" />
+			<add x="-7027" y="257805" zmin="-3712" zmax="-2512" />
+			<add x="-8526" y="259114" zmin="-3712" zmax="-2512" />
+			<add x="-10376" y="258928" zmin="-3712" zmax="-2512" />
+			<add x="-10552" y="257431" zmin="-3712" zmax="-2512" />
+			<add x="-13475" y="256124" zmin="-3712" zmax="-2512" />
+		</territory>
+	</data>
+	<data npc_id="22334" count="5"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-7389" y="249670" zmin="-3588" zmax="-2588" />
+			<add x="-3030" y="249681" zmin="-3588" zmax="-2588" />
+			<add x="-3439" y="254349" zmin="-3588" zmax="-2588" />
+			<add x="-7153" y="254842" zmin="-3588" zmax="-2588" />
+		</territory>
+	</data>
+	<data npc_id="22336" count="3" respawn="90" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-7389" y="249670" zmin="-3588" zmax="-2588" />
+			<add x="-3030" y="249681" zmin="-3588" zmax="-2588" />
+			<add x="-3439" y="254349" zmin="-3588" zmax="-2588" />
+			<add x="-7153" y="254842" zmin="-3588" zmax="-2588" />
+		</territory>
+	</data>
+	<data npc_id="22337" count="3" respawn="90" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-7389" y="249670" zmin="-3588" zmax="-2588" />
+			<add x="-3030" y="249681" zmin="-3588" zmax="-2588" />
+			<add x="-3439" y="254349" zmin="-3588" zmax="-2588" />
+			<add x="-7153" y="254842" zmin="-3588" zmax="-2588" />
+		</territory>
+	</data>
+	<data npc_id="22340" count="2"	respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-7389" y="249670" zmin="-3588" zmax="-2588" />
+			<add x="-3030" y="249681" zmin="-3588" zmax="-2588" />
+			<add x="-3439" y="254349" zmin="-3588" zmax="-2588" />
+			<add x="-7153" y="254842" zmin="-3588" zmax="-2588" />
+		</territory>
+	</data>	
+	<data npc_id="32350" count="10"	respawn="60" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-11615" y="250378" zmin="-3824" zmax="-2624" />
+			<add x="-3197" y="250021" zmin="-3824" zmax="-2624" />
+			<add x="-3615" y="253528" zmin="-3824" zmax="-2624" />
+			<add x="-6649" y="254525" zmin="-3824" zmax="-2624" />
+			<add x="-8454" y="256700" zmin="-3824" zmax="-2624" />
+			<add x="-11679" y="255865" zmin="-3824" zmax="-2624" />
+			<add x="-12276" y="254590" zmin="-3824" zmax="-2624" />
+		</territory>
+	</data>
+<!-- Wounded Land Guards -->
+	<data npc_id="18467" loc="-245 235090 -3264 -30392" respawn="60" stage="1;2;3;4;5;6" />
+	<data npc_id="18467" loc="-208 235030 -3248 -30392" respawn="60" stage="1;2;3;4;5;6" />
+	<data npc_id="18467" loc="-209 234832 -3260 -30392" respawn="60" stage="1;2;3;4;5;6" />
+	<data npc_id="18467" loc="-198 234904 -3260 -30392" respawn="60" stage="1;2;3;4;5;6" />
+	<data npc_id="18467" loc="-245 235090 -3264 -30392" respawn="60" stage="7;8" />
+	<data npc_id="18467" loc="-208 235030 -3248 -30392" respawn="60" stage="7;8" />
+	<data npc_id="18467" loc="-209 234832 -3260 -30392" respawn="60" stage="7;8" />
+	<data npc_id="18467" loc="-198 234904 -3260 -30392" respawn="60" stage="7;8" />
+	<data npc_id="18467" loc="-309 234770 -3248 28248" respawn="60" stage="7;8" />
+	<data npc_id="18467" loc="-351 234725 -3248 30424" respawn="60" stage="7;8" />
+	<data npc_id="18467" loc="-336 235088 -3259 -26248" respawn="60" stage="7;8" />
+	<data npc_id="18467" loc="-400 235088 -3232 -23092" respawn="60" stage="7;8" />
+<!-- Battered Lands -->
+	<data npc_id="22349" count="2"	respawn="20" respawn_rnd="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="4031" y="233049" zmin="-3452" zmax="-2952" />
+			<add x="5144" y="234116" zmin="-3452" zmax="-2952" />
+			<add x="5491" y="236029" zmin="-3452" zmax="-2952" />
+			<add x="391" y="235672" zmin="-3452" zmax="-2952" />
+			<add x="772" y="232284" zmin="-3452" zmax="-2952" />
+			<add x="2979" y="232934" zmin="-3452" zmax="-2952" />
+		</territory>
+	</data>
+	<data npc_id="22350" count="2"	respawn="20" respawn_rnd="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="4031" y="233049" zmin="-3452" zmax="-2952" />
+			<add x="5144" y="234116" zmin="-3452" zmax="-2952" />
+			<add x="5491" y="236029" zmin="-3452" zmax="-2952" />
+			<add x="391" y="235672" zmin="-3452" zmax="-2952" />
+			<add x="772" y="232284" zmin="-3452" zmax="-2952" />
+			<add x="2979" y="232934" zmin="-3452" zmax="-2952" />
+		</territory>
+	</data>
+	<data npc_id="22351" count="2"	respawn="20" respawn_rnd="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="4031" y="233049" zmin="-3452" zmax="-2952" />
+			<add x="5144" y="234116" zmin="-3452" zmax="-2952" />
+			<add x="5491" y="236029" zmin="-3452" zmax="-2952" />
+			<add x="391" y="235672" zmin="-3452" zmax="-2952" />
+			<add x="772" y="232284" zmin="-3452" zmax="-2952" />
+			<add x="2979" y="232934" zmin="-3452" zmax="-2952" />
+		</territory>
+	</data>
+	<data npc_id="22352" count="2"	respawn="20" respawn_rnd="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="4031" y="233049" zmin="-3452" zmax="-2952" />
+			<add x="5144" y="234116" zmin="-3452" zmax="-2952" />
+			<add x="5491" y="236029" zmin="-3452" zmax="-2952" />
+			<add x="391" y="235672" zmin="-3452" zmax="-2952" />
+			<add x="772" y="232284" zmin="-3452" zmax="-2952" />
+			<add x="2979" y="232934" zmin="-3452" zmax="-2952" />
+		</territory>
+	</data>
+	<data npc_id="22349" count="2"	respawn="20" respawn_rnd="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="403" y="235787" zmin="-3432" zmax="-2682" />
+			<add x="5440" y="236094" zmin="-3432" zmax="-2682" />
+			<add x="5942" y="237468" zmin="-3432" zmax="-2682" />
+			<add x="3985" y="240339" zmin="-3432" zmax="-2682" />
+			<add x="2578" y="240619" zmin="-3432" zmax="-2682" />
+			<add x="823" y="239158" zmin="-3432" zmax="-2682" />
+		</territory>
+	</data>
+	<data npc_id="22350" count="2"	respawn="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="403" y="235787" zmin="-3432" zmax="-2682" />
+			<add x="5440" y="236094" zmin="-3432" zmax="-2682" />
+			<add x="5942" y="237468" zmin="-3432" zmax="-2682" />
+			<add x="3985" y="240339" zmin="-3432" zmax="-2682" />
+			<add x="2578" y="240619" zmin="-3432" zmax="-2682" />
+			<add x="823" y="239158" zmin="-3432" zmax="-2682" />
+		</territory>
+	</data>
+	<data npc_id="22351" count="2"	respawn="20" respawn_rnd="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="403" y="235787" zmin="-3432" zmax="-2682" />
+			<add x="5440" y="236094" zmin="-3432" zmax="-2682" />
+			<add x="5942" y="237468" zmin="-3432" zmax="-2682" />
+			<add x="3985" y="240339" zmin="-3432" zmax="-2682" />
+			<add x="2578" y="240619" zmin="-3432" zmax="-2682" />
+			<add x="823" y="239158" zmin="-3432" zmax="-2682" />
+		</territory>
+	</data>
+	<data npc_id="22352" count="2"	respawn="20" respawn_rnd="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="403" y="235787" zmin="-3432" zmax="-2682" />
+			<add x="5440" y="236094" zmin="-3432" zmax="-2682" />
+			<add x="5942" y="237468" zmin="-3432" zmax="-2682" />
+			<add x="3985" y="240339" zmin="-3432" zmax="-2682" />
+			<add x="2578" y="240619" zmin="-3432" zmax="-2682" />
+			<add x="823" y="239158" zmin="-3432" zmax="-2682" />
+		</territory>
+	</data>
+	<data npc_id="22349" count="2"	respawn="20" respawn_rnd="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="7784" y="238218" zmin="-2056" zmax="-1556" />
+			<add x="9121" y="239775" zmin="-2056" zmax="-1556" />
+			<add x="9069" y="240394" zmin="-2056" zmax="-1556" />
+			<add x="6581" y="241588" zmin="-2056" zmax="-1556" />
+			<add x="6409" y="241035" zmin="-2056" zmax="-1556" />
+			<add x="6331" y="239635" zmin="-2056" zmax="-1556" />
+		</territory>
+	</data>
+	<data npc_id="22350" count="2"	respawn="20" respawn_rnd="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="7784" y="238218" zmin="-2056" zmax="-1556" />
+			<add x="9121" y="239775" zmin="-2056" zmax="-1556" />
+			<add x="9069" y="240394" zmin="-2056" zmax="-1556" />
+			<add x="6581" y="241588" zmin="-2056" zmax="-1556" />
+			<add x="6409" y="241035" zmin="-2056" zmax="-1556" />
+			<add x="6331" y="239635" zmin="-2056" zmax="-1556" />
+		</territory>
+	</data>
+	<data npc_id="22351" count="2"	respawn="20" respawn_rnd="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="7784" y="238218" zmin="-2056" zmax="-1556" />
+			<add x="9121" y="239775" zmin="-2056" zmax="-1556" />
+			<add x="9069" y="240394" zmin="-2056" zmax="-1556" />
+			<add x="6581" y="241588" zmin="-2056" zmax="-1556" />
+			<add x="6409" y="241035" zmin="-2056" zmax="-1556" />
+			<add x="6331" y="239635" zmin="-2056" zmax="-1556" />
+		</territory>
+	</data>
+	<data npc_id="22352" count="2"	respawn="20" respawn_rnd="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="7784" y="238218" zmin="-2056" zmax="-1556" />
+			<add x="9121" y="239775" zmin="-2056" zmax="-1556" />
+			<add x="9069" y="240394" zmin="-2056" zmax="-1556" />
+			<add x="6581" y="241588" zmin="-2056" zmax="-1556" />
+			<add x="6409" y="241035" zmin="-2056" zmax="-1556" />
+			<add x="6331" y="239635" zmin="-2056" zmax="-1556" />
+		</territory>
+	</data>
+	<data npc_id="22349" count="2"	respawn="20" respawn_rnd="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="10626" y="234096" zmin="-2108" zmax="-1608" />
+			<add x="11970" y="235400" zmin="-2108" zmax="-1608" />
+			<add x="12404" y="238448" zmin="-2108" zmax="-1608" />
+			<add x="9462" y="240011" zmin="-2108" zmax="-1608" />
+			<add x="7733" y="238095" zmin="-2108" zmax="-1608" />
+			<add x="6786" y="234959" zmin="-2108" zmax="-1608" />
+			<add x="8463" y="234368" zmin="-2108" zmax="-1608" />
+			<add x="9142" y="233954" zmin="-2108" zmax="-1608" />
+		</territory>
+	</data>
+	<data npc_id="22350" count="2"	respawn="20" respawn_rnd="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="10626" y="234096" zmin="-2108" zmax="-1608" />
+			<add x="11970" y="235400" zmin="-2108" zmax="-1608" />
+			<add x="12404" y="238448" zmin="-2108" zmax="-1608" />
+			<add x="9462" y="240011" zmin="-2108" zmax="-1608" />
+			<add x="7733" y="238095" zmin="-2108" zmax="-1608" />
+			<add x="6786" y="234959" zmin="-2108" zmax="-1608" />
+			<add x="8463" y="234368" zmin="-2108" zmax="-1608" />
+			<add x="9142" y="233954" zmin="-2108" zmax="-1608" />
+		</territory>
+	</data>
+	<data npc_id="22351" count="2"	respawn="20" respawn_rnd="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="10626" y="234096" zmin="-2108" zmax="-1608" />
+			<add x="11970" y="235400" zmin="-2108" zmax="-1608" />
+			<add x="12404" y="238448" zmin="-2108" zmax="-1608" />
+			<add x="9462" y="240011" zmin="-2108" zmax="-1608" />
+			<add x="7733" y="238095" zmin="-2108" zmax="-1608" />
+			<add x="6786" y="234959" zmin="-2108" zmax="-1608" />
+			<add x="8463" y="234368" zmin="-2108" zmax="-1608" />
+			<add x="9142" y="233954" zmin="-2108" zmax="-1608" />
+		</territory>
+	</data>
+	<data npc_id="22352" count="2"	respawn="20" respawn_rnd="20" stage="7;8;9;10;11">
+		<territory>
+			<add x="10626" y="234096" zmin="-2108" zmax="-1608" />
+			<add x="11970" y="235400" zmin="-2108" zmax="-1608" />
+			<add x="12404" y="238448" zmin="-2108" zmax="-1608" />
+			<add x="9462" y="240011" zmin="-2108" zmax="-1608" />
+			<add x="7733" y="238095" zmin="-2108" zmax="-1608" />
+			<add x="6786" y="234959" zmin="-2108" zmax="-1608" />
+			<add x="8463" y="234368" zmin="-2108" zmax="-1608" />
+			<add x="9142" y="233954" zmin="-2108" zmax="-1608" />
+		</territory>
+	</data>
+	<data npc_id="22353" count="1"	respawn="5400" respawn_rnd="3600" stage="7;8">
+		<territory>
+			<add x="7784" y="238218" zmin="-2056" zmax="-1556" />
+			<add x="9121" y="239775" zmin="-2056" zmax="-1556" />
+			<add x="9069" y="240394" zmin="-2056" zmax="-1556" />
+			<add x="6581" y="241588" zmin="-2056" zmax="-1556" />
+			<add x="6409" y="241035" zmin="-2056" zmax="-1556" />
+			<add x="6331" y="239635" zmin="-2056" zmax="-1556" />
+		</territory>
+	</data>
+	<data npc_id="22353" count="1"	respawn="5400" respawn_rnd="3600" stage="9;10;11">
+		<territory>
+			<add x="10626" y="234096" zmin="-2108" zmax="-1608" />
+			<add x="11970" y="235400" zmin="-2108" zmax="-1608" />
+			<add x="12404" y="238448" zmin="-2108" zmax="-1608" />
+			<add x="9462" y="240011" zmin="-2108" zmax="-1608" />
+			<add x="7733" y="238095" zmin="-2108" zmax="-1608" />
+			<add x="6786" y="234959" zmin="-2108" zmax="-1608" />
+			<add x="8463" y="234368" zmin="-2108" zmax="-1608" />
+			<add x="9142" y="233954" zmin="-2108" zmax="-1608" />
+		</territory>
+	</data>
+	<data npc_id="22349" count="2"	respawn="20" respawn_rnd="20" stage="9;10;11">
+		<territory>
+			<add x="10626" y="234096" zmin="-2108" zmax="-1608" />
+			<add x="11970" y="235400" zmin="-2108" zmax="-1608" />
+			<add x="12404" y="238448" zmin="-2108" zmax="-1608" />
+			<add x="9462" y="240011" zmin="-2108" zmax="-1608" />
+			<add x="7733" y="238095" zmin="-2108" zmax="-1608" />
+			<add x="6786" y="234959" zmin="-2108" zmax="-1608" />
+			<add x="8463" y="234368" zmin="-2108" zmax="-1608" />
+			<add x="9142" y="233954" zmin="-2108" zmax="-1608" />
+		</territory>
+	</data>
+	<data npc_id="22350" count="2"	respawn="20" respawn_rnd="20" stage="9;10;11">
+		<territory>
+			<add x="10626" y="234096" zmin="-2108" zmax="-1608" />
+			<add x="11970" y="235400" zmin="-2108" zmax="-1608" />
+			<add x="12404" y="238448" zmin="-2108" zmax="-1608" />
+			<add x="9462" y="240011" zmin="-2108" zmax="-1608" />
+			<add x="7733" y="238095" zmin="-2108" zmax="-1608" />
+			<add x="6786" y="234959" zmin="-2108" zmax="-1608" />
+			<add x="8463" y="234368" zmin="-2108" zmax="-1608" />
+			<add x="9142" y="233954" zmin="-2108" zmax="-1608" />
+		</territory>
+	</data>
+	<data npc_id="22351" count="2"	respawn="20" respawn_rnd="20" stage="9;10;11">
+		<territory>
+			<add x="10626" y="234096" zmin="-2108" zmax="-1608" />
+			<add x="11970" y="235400" zmin="-2108" zmax="-1608" />
+			<add x="12404" y="238448" zmin="-2108" zmax="-1608" />
+			<add x="9462" y="240011" zmin="-2108" zmax="-1608" />
+			<add x="7733" y="238095" zmin="-2108" zmax="-1608" />
+			<add x="6786" y="234959" zmin="-2108" zmax="-1608" />
+			<add x="8463" y="234368" zmin="-2108" zmax="-1608" />
+			<add x="9142" y="233954" zmin="-2108" zmax="-1608" />
+		</territory>
+	</data>
+	<data npc_id="22352" count="2"	respawn="20" respawn_rnd="20" stage="9;10;11">
+		<territory>
+			<add x="10626" y="234096" zmin="-2108" zmax="-1608" />
+			<add x="11970" y="235400" zmin="-2108" zmax="-1608" />
+			<add x="12404" y="238448" zmin="-2108" zmax="-1608" />
+			<add x="9462" y="240011" zmin="-2108" zmax="-1608" />
+			<add x="7733" y="238095" zmin="-2108" zmax="-1608" />
+			<add x="6786" y="234959" zmin="-2108" zmax="-1608" />
+			<add x="8463" y="234368" zmin="-2108" zmax="-1608" />
+			<add x="9142" y="233954" zmin="-2108" zmax="-1608" />
+		</territory>
+	</data>
+	<data npc_id="22353" count="1"	respawn="5400" respawn_rnd="3600" stage="9;10;11">
+		<territory>
+			<add x="7784" y="238218" zmin="-2056" zmax="-1556" />
+			<add x="9121" y="239775" zmin="-2056" zmax="-1556" />
+			<add x="9069" y="240394" zmin="-2056" zmax="-1556" />
+			<add x="6581" y="241588" zmin="-2056" zmax="-1556" />
+			<add x="6409" y="241035" zmin="-2056" zmax="-1556" />
+			<add x="6331" y="239635" zmin="-2056" zmax="-1556" />
+		</territory>
+	</data>
+	<data npc_id="22349" count="1"	respawn="20" respawn_rnd="20" stage="9;10;11">
+		<territory>
+			<add x="7784" y="238218" zmin="-2056" zmax="-1556" />
+			<add x="9121" y="239775" zmin="-2056" zmax="-1556" />
+			<add x="9069" y="240394" zmin="-2056" zmax="-1556" />
+			<add x="6581" y="241588" zmin="-2056" zmax="-1556" />
+			<add x="6409" y="241035" zmin="-2056" zmax="-1556" />
+			<add x="6331" y="239635" zmin="-2056" zmax="-1556" />
+		</territory>
+	</data>
+	<data npc_id="22350" count="1"	respawn="20" respawn_rnd="20" stage="9;10;11">
+		<territory>
+			<add x="7784" y="238218" zmin="-2056" zmax="-1556" />
+			<add x="9121" y="239775" zmin="-2056" zmax="-1556" />
+			<add x="9069" y="240394" zmin="-2056" zmax="-1556" />
+			<add x="6581" y="241588" zmin="-2056" zmax="-1556" />
+			<add x="6409" y="241035" zmin="-2056" zmax="-1556" />
+			<add x="6331" y="239635" zmin="-2056" zmax="-1556" />
+		</territory>
+	</data>
+	<data npc_id="22351" count="1"	respawn="20" respawn_rnd="20" stage="9;10;11">
+		<territory>
+			<add x="7784" y="238218" zmin="-2056" zmax="-1556" />
+			<add x="9121" y="239775" zmin="-2056" zmax="-1556" />
+			<add x="9069" y="240394" zmin="-2056" zmax="-1556" />
+			<add x="6581" y="241588" zmin="-2056" zmax="-1556" />
+			<add x="6409" y="241035" zmin="-2056" zmax="-1556" />
+			<add x="6331" y="239635" zmin="-2056" zmax="-1556" />
+		</territory>
+	</data>
+	<data npc_id="22352" count="1"	respawn="20" respawn_rnd="20" stage="9;10;11">
+		<territory>
+			<add x="7784" y="238218" zmin="-2056" zmax="-1556" />
+			<add x="9121" y="239775" zmin="-2056" zmax="-1556" />
+			<add x="9069" y="240394" zmin="-2056" zmax="-1556" />
+			<add x="6581" y="241588" zmin="-2056" zmax="-1556" />
+			<add x="6409" y="241035" zmin="-2056" zmax="-1556" />
+			<add x="6331" y="239635" zmin="-2056" zmax="-1556" />
+		</territory>
+	</data>
+<!-- Outpost Captain -->
+	<data npc_id="18466" loc="4912 244032 -1930 36864" respawn="60" stage="7;8" />
+	<data npc_id="22358" loc="4867 244495 -1930 36863" respawn="60" stage="7;8" />
+	<data npc_id="22358" loc="5282 243755 -1930 36863" respawn="60" stage="7;8" />
+	<data npc_id="22358" loc="5529 243572 -1595 36863" respawn="60" stage="7;8" />
+	<data npc_id="22357" loc="5440 243488 -1595 36864" respawn="60" stage="7;8" />
+	<data npc_id="22358" loc="4896 244816 -1595 36864" respawn="60" stage="7;8" />
+	<data npc_id="22357" loc="4800 244800 -1595 36864" respawn="60" stage="7;8" />
+<!-- Chimeras in Steel Citadel -->
+	<data npc_id="22353" count="1"	respawn="5400" respawn_rnd="3600" stage="9;10;11">
+		<territory>
+			<add x="14723" y="277263" zmin="-9754" zmax="-9554" />
+			<add x="17869" y="277242" zmin="-9754" zmax="-9554" />
+			<add x="17872" y="279068" zmin="-9754" zmax="-9554" />
+			<add x="14755" y="279038" zmin="-9754" zmax="-9554" />
+		</territory>
+	</data>
+	<data npc_id="22349" count="2"	respawn="60" stage="9;10;11">
+		<territory>
+			<add x="14723" y="277263" zmin="-9754" zmax="-9554" />
+			<add x="17869" y="277242" zmin="-9754" zmax="-9554" />
+			<add x="17872" y="279068" zmin="-9754" zmax="-9554" />
+			<add x="14755" y="279038" zmin="-9754" zmax="-9554" />
+		</territory>
+	</data>
+	<data npc_id="22350" count="2"	respawn="60" stage="9;10;11">
+		<territory>
+			<add x="14723" y="277263" zmin="-9754" zmax="-9554" />
+			<add x="17869" y="277242" zmin="-9754" zmax="-9554" />
+			<add x="17872" y="279068" zmin="-9754" zmax="-9554" />
+			<add x="14755" y="279038" zmin="-9754" zmax="-9554" />
+		</territory>
+	</data>
+	<data npc_id="22351" count="2"	respawn="60" stage="9;10;11">
+		<territory>
+			<add x="14723" y="277263" zmin="-9754" zmax="-9554" />
+			<add x="17869" y="277242" zmin="-9754" zmax="-9554" />
+			<add x="17872" y="279068" zmin="-9754" zmax="-9554" />
+			<add x="14755" y="279038" zmin="-9754" zmax="-9554" />
+		</territory>
+	</data>
+	<data npc_id="22352" count="2"	respawn="60" stage="9;10;11">
+		<territory>
+			<add x="14723" y="277263" zmin="-9754" zmax="-9554" />
+			<add x="17869" y="277242" zmin="-9754" zmax="-9554" />
+			<add x="17872" y="279068" zmin="-9754" zmax="-9554" />
+			<add x="14755" y="279038" zmin="-9754" zmax="-9554" />
+		</territory>
+	</data>
+<!-- Anomic Foundry -->
+	<data npc_id="22396" loc="26224 246656 -3200 30572" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="26160 246544 -3200 25704" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="26048 246464 -3200 22316" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="25936 246416 -3200 17496" respawn="80" stage="10;11" />
+	<data npc_id="22403" loc="26080 246368 -3200 17944" respawn="120" stage="10;11" />
+	<data npc_id="22397" loc="26224 246480 -3216 26720" respawn="120" stage="10;11" />
+	<data npc_id="22396" loc="27984 248752 -3184 29124" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="27872 248672 -3200 25216" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="27776 248592 -3200 21892" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="27712 248512 -3216 15124" respawn="80" stage="10;11" />
+	<data npc_id="22397" loc="27968 248656 -3200 25816" respawn="120" stage="10;11" />
+	<data npc_id="22403" loc="27840 248560 -3200 21092" respawn="120" stage="10;11" />
+	<data npc_id="22396" loc="27280 246144 -3664 26356" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="27408 246416 -3680 -30072" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="27376 246272 -3664 28056" respawn="80" stage="10;11" />
+	<data npc_id="22403" loc="27273 245990 -3664 23116" respawn="120" stage="10;11" />
+	<data npc_id="22397" loc="27392 246176 -3664 29584" respawn="120" stage="10;11" />
+	<data npc_id="22396" loc="27892 246256 -3696 -10584" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="27984 246288 -3696 -10636" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="28656 246128 -3696 -29408" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="28544 246288 -3696 -21140" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="28592 246208 -3696 -25144" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="28096 246288 -3696 -21640" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="28656 245728 -3696 -25188" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="28688 245552 -3696 27356" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="28496 245536 -3696 8272" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="28128 245552 -3696 22648" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="27968 245600 -3696 8540" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="27888 245744 -3696 -396" respawn="80" stage="10;11" />
+	<data npc_id="22397" loc="28416 245600 -3696 428" respawn="120" stage="10;11" />
+	<data npc_id="22403" loc="28208 245616 -3696 31856" respawn="120" stage="10;11" />
+	<data npc_id="22397" loc="27920 245840 -3696 -9612" respawn="120" stage="10;11" />
+	<data npc_id="22403" loc="27936 246016 -3696 14964" respawn="120" stage="10;11" />
+	<data npc_id="22397" loc="28224 246224 -3696 25308" respawn="120" stage="10;11" />
+	<data npc_id="22403" loc="28320 246208 -3696 11176" respawn="120" stage="10;11" />
+	<data npc_id="22397" loc="28528 245984 -3696 0" respawn="120" stage="10;11" />
+	<data npc_id="22403" loc="28528 245840 -3696 0" respawn="120" stage="10;11" />
+	<data npc_id="22396" loc="28384 244064 -3696 11888" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="28336 244192 -3696 512" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="28368 244320 -3696 -10236" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="29008 243936 -3696 26896" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="28912 243872 -3696 21380" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="28800 243856 -3696 14888" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="29120 244496 -3696 -10140" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="29184 244288 -3696 15864" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="29312 244416 -3696 -30748" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="28704 244736 -3696 -11756" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="28832 244720 -3696 -15492" respawn="80" stage="10;11" />
+	<data npc_id="22396" loc="28624 244688 -3696 -4692" respawn="80" stage="10;11" />
+	<data npc_id="22397" loc="28945 244643 -3696 25876" respawn="120" stage="10;11" />
+	<data npc_id="22403" loc="29056 244560 -3696 0" respawn="120" stage="10;11" />
+	<data npc_id="22397" loc="29184 244192 -3696 13188" respawn="120" stage="10;11" />
+	<data npc_id="22403" loc="29072 244048 -3696 -24132" respawn="120" stage="10;11" />
+	<data npc_id="22397" loc="28672 244000 -3696 -7332" respawn="120" stage="10;11" />
+	<data npc_id="22403" loc="28528 244080 -3696 28480" respawn="120" stage="10;11" />
+	<data npc_id="22397" loc="28448 244384 -3696 -17792" respawn="120" stage="10;11" />
+	<data npc_id="22403" loc="28592 244528 -3696 4964" respawn="120" stage="10;11" />
+	<data npc_id="22398" loc="27883 248613 -3209 -13248"	count="5"	respawn="60" stage="10;11" />
+	<data npc_id="22398" loc="26142 246442 -3216 7064"	count="5"	respawn="60" stage="10;11" />
+	<data npc_id="22398" loc="27335 246217 -3668 -7992"	count="5"	respawn="60" stage="10;11" />
+	<data npc_id="22398" loc="28486 245913 -3698 0"	count="10"	respawn="60" stage="10;11" />
+	<data npc_id="22399" loc="28684 244118 -3700 -22560"	count="10"	respawn="60" stage="10;11" />
+</list>

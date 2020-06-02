@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+ <config showall="true" notax="true" keepenchanted="false" />
+
+		<item>
+		<!-- Event - Medal -->
+		<ingredient count="30" id="6673" />
+
+		<!-- Red Soul Crystal - Stage 14 -->
+		<production count="1" id="9570" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="30" id="6673" />
+
+		<!-- Green Soul Crystal - Stage 14 -->
+		<production count="1" id="9572" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="30" id="6673" />
+
+		<!-- Blue Soul Crystal - Stage 14 -->
+		<production count="1" id="9571" />
+	</item>
+	
+		<item>
+		<!-- Event - Medal -->
+		<ingredient count="60" id="6673" />
+
+		<!-- Red Soul Crystal - Stage 15 -->
+		<production count="1" id="10480" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="60" id="6673" />
+
+		<!-- Green Soul Crystal - Stage 15 -->
+		<production count="1" id="10482" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="60" id="6673" />
+
+		<!-- Blue Soul Crystal - Stage 15 -->
+		<production count="1" id="10481" />
+	</item>
+
+		<item>
+		<!-- Event - Medal -->
+		<ingredient count="90" id="6673" />
+
+		<!-- Red Soul Crystal - Stage 16 -->
+		<production count="1" id="13071" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="90" id="6673" />
+
+		<!-- Green Soul Crystal - Stage 16 -->
+		<production count="1" id="13072" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="90" id="6673" />
+
+		<!-- Blue Soul Crystal - Stage 16 -->
+		<production count="1" id="13073" />
+	</item>
+		<item>
+		<!-- Event - Medal -->
+		<ingredient count="150" id="6673" />
+
+
+		<!-- Red Soul Crystal - Stage 17 -->
+		<production count="1" id="15541" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="150" id="6673" />
+
+		<!-- Green Soul Crystal - Stage 17 -->
+		<production count="1" id="15542" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="150" id="6673" />
+
+		<!-- Blue Soul Crystal - Stage 17 -->
+		<production count="1" id="15543" />
+	</item>
+
+
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="4" id="6673" />
+
+		<!-- Cry Elemental -->
+		<production count="2" id="9552" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="4" id="6673" />
+
+		<!-- Cry Elemental -->
+		<production count="2" id="9553" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="4" id="6673" />
+
+		<!-- Cry Elemental -->
+		<production count="2" id="9554" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="4" id="6673" />
+
+		<!-- Cry Elemental -->
+		<production count="2" id="9555" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="4" id="6673" />
+
+		<!-- Cry Elemental -->
+		<production count="2" id="9556" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="4" id="6673" />
+
+		<!-- Cry Elemental -->
+		<production count="2" id="9557" />
+	</item>
+
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="1" id="6673" />
+
+		<!-- Giant's Codex -->
+		<production count="2" id="6622" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="1" id="6673" />
+
+		<!-- Giant's Codex - Oblivion -->
+		<production count="1" id="9625" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="1" id="6673" />
+
+		<!-- Giant's Codex - Discipline -->
+		<production count="1" id="9626" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="3" id="6673" />
+
+		<!-- Giant's Codex - Mastery -->
+		<production count="1" id="9627" />
+	</item>
+  	<item>
+		<!-- Vote Coin -->
+		<ingredient count="3" id="6673" />
+
+		<!-- tali -->
+		<production count="1" id="9932" />
+	</item>
+  
+    	<item>
+		<!-- Vote Coin -->
+		<ingredient count="3" id="6673" />
+
+		<!-- tali -->
+		<production count="1" id="10518" />
+	</item>
+  
+    	<item>
+		<!-- Vote Coin -->
+		<ingredient count="3" id="6673" />
+
+		<!-- tali -->
+		<production count="1" id="9918" />   
+	</item>
+  
+    	<item>
+		<!-- Vote Coin -->
+		<ingredient count="3" id="6673" />
+
+		<!-- tali -->
+		<production count="1" id="10416" />
+	</item>
+    	<item>
+		<!-- Vote Coin -->
+		<ingredient count="3" id="6673" />
+
+		<!-- tali -->
+		<production count="1" id="10417" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="3" id="6673" />
+
+		<!-- LIFE Stones -->
+		<production count="1" id="9575" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="4" id="6673" />
+
+		<!-- LIFE Stones -->
+		<production count="1" id="9576" />
+	</item>
+
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="1" id="6673" />
+
+		<!-- Noble Stone -->
+		<production count="25" id="14052" />
+	</item>
+
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="20" id="6673" />
+
+		<!-- BEAS -->
+		<production count="1" id="6578" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="40" id="6673" />
+
+		<!-- BEWS -->
+		<production count="1" id="6577" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="20" id="6673" />
+
+		<!-- olaf chant -->
+		<production count="1" id="21582" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="30" id="6673" />
+
+		<!-- Shirt -->
+		<production count="1" id="10512" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="30" id="6673" />
+
+		<!-- Shirt -->
+		<production count="1" id="10513" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="30" id="6673" />
+
+		<!-- Shirt -->
+		<production count="1" id="10514" />
+	</item>
+  
+  <item>
+		<!-- Vote Coin -->
+		<ingredient count="90" id="6673" />
+
+		<!-- olaf Shirt -->
+		<production count="1" id="21580" />
+	</item>
+  
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="75" id="6673" />
+
+		<!-- Belt -->
+		<production count="1" id="13953" />
+	</item>
+
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="30" id="6673" />
+
+		<!-- Formal Wear -->
+		<production count="1" id="6408" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="1" id="6673" />
+
+		<!-- Adena -->
+		<production count="3000000" id="57" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="15" id="6673" />
+
+		<!-- RUNE -->
+		<production count="1" id="20336" />
+	</item>
+
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="12" id="6673" />
+
+		<!-- QI -->
+		<production count="1" id="7267" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="24" id="6673" />
+
+		<!-- QI -->
+		<production count="1" id="8073" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="12" id="6673" />
+
+		<!-- QI -->
+		<production count="1" id="4295" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="12" id="6673" />
+
+		<!-- QI -->
+		<production count="1" id="3865" />
+	</item>
+
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="50" id="6673" />
+
+		<!-- Cloak -->
+		<production count="1" id="21583" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="50" id="6673" />
+
+		<!-- Cloak -->
+		<production count="1" id="21587" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="50" id="6673" />
+
+		<!-- Cloak -->
+		<production count="1" id="21588" />
+	</item>
+
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="50" id="6673" />
+
+		<!-- neo cry  -->
+		<production count="1" id="14680" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="100" id="6673" />
+
+		<!-- neo cry  -->
+		<production count="1" id="14681" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="150" id="6673" />
+
+		<!-- neo cry  -->
+		<production count="1" id="21579" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="25" id="6673" />
+
+		<!-- Blood Oath -->
+		<production count="1" id="9910" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="1250" id="6673" />
+
+		<!-- Blood alliance  -->
+		<production count="1" id="9911" />
+	</item>
+
+</list>

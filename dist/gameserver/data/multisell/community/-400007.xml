@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	
+	<!-- Браслет Льва 7 day limited period -->
+	<item>
+		<ingredient id="4357" count="25"/>
+		<production id="13547" count="1"/>
+	</item>
+
+	<!-- Light Purple-Maned Horse Mounting Bracelet	7 day limited period -->
+	<item>
+		<ingredient id="4357" count="25"/>
+		<production id="13022" count="1"/>
+	</item>
+
+	<!-- Light Purple-Maned Horse Mounting Bracelet	30 day limited period -->
+	<item>
+		<ingredient id="4357" count="50"/>
+		<production id="20030" count="1"/>
+	</item>
+
+	<!-- Wolf Collar -->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="2375" count="1"/>
+	</item>
+
+	<!-- Food For Wolves -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2515" count="1"/>
+	</item>
+
+	<!-- Wolf's Mithril Armor -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="3901" count="1"/>
+	</item>
+
+	<!-- Fang of Fenril -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="3911" count="1"/>
+	</item>
+
+	<!-- Great Wolf Necklace -->
+	<item>
+		<ingredient id="4357" count="25"/>
+		<production id="9882" count="1"/>
+	</item>
+
+	<!-- Fenrir Necklace -->
+	<item>
+		<ingredient id="4357" count="50"/>
+		<production id="10426" count="1"/>
+	</item>
+
+	<!-- Great Wolf Food -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9668" count="1"/>
+	</item>
+
+	<!-- Enchanted Fenril Fang -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="9661" count="1"/>
+	</item>
+
+	<!-- Great Wolf Orichalcum Armor -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="11511" count="1"/>
+	</item>
+
+	<!-- Asofe Pendant -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="12752" count="1"/>
+	</item>
+
+	<!-- Baby Buffalo Panpipe -->
+	<item>
+		<ingredient id="57" count="3000000"/>
+		<production id="6648" count="1"/>
+	</item>
+
+	<!-- Baby Cougar Chimet -->
+	<item>
+		<ingredient id="57" count="3000000"/>
+		<production id="6649" count="1"/>
+	</item>
+
+	<!-- Baby Kookaburra Ocarina -->
+	<item>
+		<ingredient id="57" count="3000000"/>
+		<production id="6650" count="1"/>
+	</item>
+
+	<!-- Baby Spice -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="7582" count="1"/>
+	</item>
+
+	<!-- Improved Buffalo Panpipe -->
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="10311" count="1"/>
+	</item>
+
+	<!-- Improved Cougar Chime -->
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="10312" count="1"/>
+	</item>
+
+	<!-- Improved Kookaburra Ocarina -->
+	<item>
+		<ingredient id="57" count="30000000"/>
+		<production id="10313" count="1"/>
+	</item>
+
+	<!-- Improved Baby Pet Food -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="10425" count="1"/>
+	</item>
+
+	<!-- Baby Pet Orichalcum Armor -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="12745" count="1"/>
+	</item>
+
+	<!-- Dragonflute of Wind -->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="3500" count="1"/>
+	</item>
+
+	<!-- Dragonflute of Star -->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="3501" count="1"/>
+	</item>
+
+	<!-- Dragonflute of Twilight -->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="3502" count="1"/>
+	</item>
+
+	<!-- Food For Hatchling -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4038" count="1"/>
+	</item>
+
+	<!-- Hatchling's Level 75 Armor -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4235" count="1"/>
+	</item>
+
+	<!-- Hatchling's Level 75 Weapon -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="4238" count="1"/>
+	</item>
+
+	<!-- Dragon Bugle of Wind -->
+	<item>
+		<ingredient id="4357" count="50"/>
+		<production id="4422" count="1"/>
+	</item>
+
+	<!-- Dragon Bugle of Star -->
+	<item>
+		<ingredient id="4357" count="50"/>
+		<production id="4423" count="1"/>
+	</item>
+
+	<!-- Dragon Bugle of Dusk -->
+	<item>
+		<ingredient id="4357" count="50"/>
+		<production id="4424" count="1"/>
+	</item>
+
+	<!-- Food for Strider -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5168" count="1"/>
+	</item>
+	<!-- 5169	Deluxe Food for Strider??? -->
+
+	<!-- Inferno Panzer Coat -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5175" count="1"/>
+	</item>
+
+	<!-- Diamond Drill -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5181" count="1"/>
+	</item>
+	<!-- Fox Shaman Hunting Helper Necklace -->
+  <item id="4">
+    <ingredient id="4357" count="45"/>
+    <production id="13020" count="1"/>
+  </item>
+
+  <!-- Toy Knight Summon Bracelet -->
+  <item id="5">
+    <ingredient id="4357" count="150"/>
+    <production id="14061" count="1"/>
+  </item>
+
+  <!-- Spirit Shaman Summon Bracelet -->
+  <item id="6">
+    <ingredient id="4357" count="45"/>
+    <production id="14062" count="1"/>
+  </item>
+
+  <!-- Owl Monk Summon Bracelet -->
+  <item id="7">
+    <ingredient id="4357" count="45"/>
+    <production id="14063" count="1"/>
+  </item>
+
+  <!-- Turtle Ascetic Summon Bracelet -->
+  <item id="8">
+    <ingredient id="4357" count="45"/>
+    <production id="14064" count="1"/>
+  </item>
+  <!-- Guardian's Dragon Bugle -->
+  <item id="8">
+    <ingredient id="4357" count="200"/>
+    <production id="14819" count="1"/>
+  </item>
+
+</list>

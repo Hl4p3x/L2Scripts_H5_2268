@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-87148" y="-16396" z="-8336" h="0" />
+		<npc id="32504" /><!--Match Manager-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_0" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-85984" y="-20400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_0" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-19880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-19880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18579" /><!--Hunting Ground Keeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_0" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-19880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-19880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_0" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-19880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-19880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_0" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-19880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-19880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-83984" y="-20400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_1" count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84504" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-19880" zmin="-8352" zmax="-8352" />
+			<add x="-84504" y="-19880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-81984" y="-20400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_2" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-19880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-19880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18579" /><!--Hunting Ground Keeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_2" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-19880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-19880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_2" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-19880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-19880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_2" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-19880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-19880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_2" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-19880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-19880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_3" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-79984" y="-20400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_3" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-19880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-19880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_3" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-19880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-19880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_3" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-19880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-19880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_4" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-77984" y="-20400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_4" count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-20920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-19880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-19880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_5" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-85984" y="-18400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_5" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_5" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_5" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_6" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-83984" y="-18400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_6" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-84504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18579" /><!--Hunting Ground Keeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_6" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-84504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_6" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-84504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_6" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-84504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_7" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-81984" y="-18400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_7" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18579" /><!--Hunting Ground Keeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_7" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_7" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_7" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_8" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-79984" y="-18400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_8" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18579" /><!--Hunting Ground Keeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_8" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_8" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_8" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_8" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_9" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-77984" y="-18400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_9" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_9" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_9" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-18920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-17880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-17880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_10" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-85984" y="-16400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_10" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18579" /><!--Hunting Ground Keeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_10" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_10" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_10" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_10" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_11" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-83984" y="-16400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_11" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-84504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_11" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-84504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_11" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-84504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_12" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-81984" y="-16400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_12" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_12" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_12" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_13" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-79984" y="-16400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_13" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_13" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_13" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_14" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-77984" y="-16400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_14" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18579" /><!--Hunting Ground Keeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_14" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_14" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_14" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_14" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-16920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-15880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-15880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_15" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-85984" y="-14400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_15" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18579" /><!--Hunting Ground Keeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_15" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_15" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_15" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_15" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_16" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-83984" y="-14400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_16" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-84504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18579" /><!--Hunting Ground Keeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_16" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-84504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_16" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-84504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_16" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-84504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_17" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-81984" y="-14400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_17" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18579" /><!--Hunting Ground Keeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_17" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_17" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_17" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_18" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-79984" y="-14400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_18" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18582" /><!--Turned Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_18" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18579" /><!--Hunting Ground Keeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_18" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_18" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_18" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_18" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_19" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-77984" y="-14400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_19" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_19" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_19" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-14920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-13880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-13880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_20" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-85984" y="-12400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_20" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_20" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_20" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-85464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-86504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_21" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-83984" y="-12400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_21" count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-83464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-84504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_22" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-81984" y="-12400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_22" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18579" /><!--Hunting Ground Keeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_22" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_22" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_22" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-82504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-81464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-82504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_23" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18579" /><!--Hunting Ground Keeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_23" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_23" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_23" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_23" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-80504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-79464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-80504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18584" /><!--Turned Boy-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_24" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-77984" y="-12400" z="-8352" h="0" />
+		<npc id="18601" /><!--Kratei's Watcher-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_24" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18579" /><!--Hunting Ground Keeper-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_24" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18580" /><!--Cursed Girl-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_24" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18581" /><!--Gardener-->
+	</spawn>
+	<spawn group="krateis_cube_70_75_room_24" count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78504" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-12920" zmin="-8352" zmax="-8352" />
+			<add x="-77464" y="-11880" zmin="-8352" zmax="-8352" />
+			<add x="-78504" y="-11880" zmin="-8352" zmax="-8352" />
+		</territory>
+		<npc id="18583" /><!--Housekeeper-->
+	</spawn>
+</list>

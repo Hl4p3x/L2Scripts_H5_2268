@@ -1,0 +1,26 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+	<!-- SSQ Sanctum -->
+	<instance id="111" name="Sanctum of the Lords of Dawn" maxChannels="20" collapseIfEmpty="10" timelimit="60" dispelBuffs="false">
+		<collapse on-party-dismiss="true" timer="60"/>
+		<level min="79" max="85"/>
+		<party min="1" max="1"/>
+		<return loc="-12584 122328 -2992"/>
+		<teleport loc="-75976 213416 -7120"/>
+		<remove itemId="0" count="0" necessary="false"/>
+		<give itemId="0" count="0"/>
+		<quest id="195"/>
+		<reuse resetReuse="* * * * *" setUponEntry="true" sharedReuseGroup="0"/>
+		<spawns>
+			<group name="sanctum_of_the_dawn" spawned="true"/>
+		</spawns>
+		<doors>
+			<door id="17240001"/>
+			<door id="17240002"/>
+			<door id="17240003"/>
+			<door id="17240004"/>
+			<door id="17240005"/>
+			<door id="17240006"/>
+		</doors>
+	</instance>
+</list>

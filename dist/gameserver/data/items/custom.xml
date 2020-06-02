@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<armor id="40102" name="Костюм Капитана">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom5.captain_ico"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="1000"/>
+		<equip>
+			<slot id="FORMAL_WEAR"/>
+		</equip>
+	</armor>
+	<armor id="40113" name="Костюм Крестоносца">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageUniqueTex.uniqarmor_icon"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="1000"/>
+		<equip>
+			<slot id="FORMAL_WEAR"/>
+		</equip>
+	</armor>
+	<armor id="40115" name="Костюм Служанки">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon.g_co_cutie_maid"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="1000"/>
+		<equip>
+			<slot id="FORMAL_WEAR"/>
+		</equip>
+	</armor>
+	<armor id="40124" name="Костюм Офицера">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="navy_uniform.navy_uniform_a_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="1000"/>
+		<equip>
+			<slot id="FORMAL_WEAR"/>
+		</equip>
+	</armor>
+	<armor id="40125" name="Костюм Белефа">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Beres_armor.g_co_beres_u"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="1000"/>
+		<equip>
+			<slot id="FORMAL_WEAR"/>
+		</equip>
+	</armor>
+	<armor id="40127" name="Костюм Хэллоуина">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom3.hwn_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="1000"/>
+		<equip>
+			<slot id="FORMAL_WEAR"/>
+		</equip>
+	</armor>
+	<armor id="40128" name="Костюм Хэллоуина">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom3.mgc_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="1000"/>
+		<equip>
+			<slot id="FORMAL_WEAR"/>
+		</equip>
+	</armor>
+	<armor id="40130" name="Костюм Темного Рыцаря">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom4.Dark_Kninght"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="1000"/>
+		<equip>
+			<slot id="FORMAL_WEAR"/>
+		</equip>
+	</armor>
+	<armor id="40132" name="Белый Костюм Разбойника">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom2.ico.Asmw_ico"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="1000"/>
+		<equip>
+			<slot id="FORMAL_WEAR"/>
+		</equip>
+	</armor>
+	<armor id="40142" name="Школьный Костюм 1">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom4.Br_schoollook"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="1000"/>
+		<equip>
+			<slot id="FORMAL_WEAR"/>
+		</equip>
+	</armor>
+	<armor id="40143" name="Школьный Костюм 2">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom4.Br_schoollook_b"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="1000"/>
+		<equip>
+			<slot id="FORMAL_WEAR"/>
+		</equip>
+	</armor>
+</list>

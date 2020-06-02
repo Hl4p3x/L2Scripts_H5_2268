@@ -1,0 +1,40 @@
+<html><body>
+<center><font color="LEVEL">
+	<?npc_name?> [AI: %ai_type%]<br1>
+	Level <?level?> %class%, faction %factionId%
+</font></center>
+<table border=0 width="100%">
+<tr><td>Агрессия</td><td>%aggro%</td><td>Respawn</td><td>%respawn%</td></tr>
+<tr><td>ИД НПЦ</td><td><?id?></td><td>Location</td><td>%loc%</td></tr>
+</table><table border=0 width="100%">
+<tr><td>Pos</td><td>%xyz%</td><td>Direction</td><td>%direction%</td></tr>
+</table>
+<table border=0 width="100%">
+<tr><td><font color="LEVEL">Combat</font></td><td></td></tr>
+<tr><td>Текущее ХП</td><td>%currentHP%</td><td>Текущее МП</td><td>%currentMP%</td></tr>
+<tr><td>Макс. ХП</td><td><?max_hp?></td><td>Макс.МП</td><td><?max_mp?></td></tr>
+<tr><td>Ф.Атака</td><td>%pAtk%</td><td>М.Атака.</td><td>%mAtk%</td></tr>
+<tr><td>Ф.Защита.</td><td>%pDef%</td><td>М.Защита.</td><td>%mDef%</td></tr>
+<tr><td>Точность.</td><td>%pacc%</td><td>P. Evs.</td><td>%pevs%</td></tr>
+<tr><td>Крит шанс.</td><td>%pcrt%</td><td>Скорость</td><td>%walkSpeed%/%runSpeed%</td></tr>
+<tr><td>Скорость атаки</td><td>%aspd%</td><td>Скорость каста</td><td>%cspd%</td></tr>
+<tr><td>Dist.</td><td>%dist%</td><td>Убит</td><td>%killed%</td></tr>
+<tr><td>Exp</td><td><?xp_reward?></td><td>Sp</td><td><?sp_reward?></td></tr>
+</table>
+<br>
+Event: %event%
+<br>
+<table>
+<tr>
+	<td><button value="Список наград" action="bypass -h scripts_actions.OnActionShift:droplist" width=80 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	<td><button value="Резисты" action="bypass -h scripts_actions.OnActionShift:resists" width=80 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	<td><button value="Агрессивность" action="bypass -h scripts_actions.OnActionShift:aggro" width=80 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+<tr>
+	<td><button value="Задания" action="bypass -h scripts_actions.OnActionShift:quests" width=80 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	<td><button value="Умения" action="bypass -h scripts_actions.OnActionShift:skills" width=80 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	<td><button value="Эффекты" action="bypass -h scripts_actions.OnActionShift:effects" width=80 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr><br>
+</table><br>
+%AI%<br>
+</body></html>

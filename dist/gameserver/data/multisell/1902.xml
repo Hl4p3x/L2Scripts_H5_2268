@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+	<!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+	<!-- ignoreprice не работает с keepencahnted -->
+	<config showall="true" notax="true" keepenchanted="false" />
+
+	<item>
+	<!-- Warrior's T-shirt -->
+		<ingredient id="13722" count="30600" />
+		<production id="13751" count="1" />
+	</item>
+	<item>
+		<!-- Olympiad Warrior's Ring -->
+		<ingredient id="13722" count="22000" />
+		<production id="13752" count="1" />
+	</item>
+	<item>
+		<!-- Olympiad Warrior's Necklace -->
+		<ingredient id="13722" count="44000" />
+		<production id="13753" count="1" />
+	</item>
+	<item>
+		<!-- Olympiad Warrior's Earring -->
+		<ingredient id="13722" count="33000" />
+		<production id="13754" count="1" />
+	</item>
+
+	<item>
+	<!-- Vesper Helmet-->
+		<ingredient id="13722" count="245000" />
+		<production id="13137" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Leather Helmet-->
+		<ingredient id="13722" count="245000" />
+		<production id="13138" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Circle-->
+		<ingredient id="13722" count="245000" />
+		<production id="13139" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Sigil -->
+		<ingredient id="13722" count="171500" />
+		<production id="12813" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Havy -->
+		<ingredient id="13722" count="635352" />
+		<production id="13432" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Light -->
+		<ingredient id="13722" count="490000" />
+		<production id="13433" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Robe -->
+		<ingredient id="13722" count="490000" />
+		<production id="13434" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Gaiters -->
+		<ingredient id="13722" count="408352" />
+		<production id="13438" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Gauntlet -->
+		<ingredient id="13722" count="163338" />
+		<production id="13439" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Boots -->
+		<ingredient id="13722" count="163338" />
+		<production id="13440" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Shield -->
+		<ingredient id="13722" count="171500" />
+		<production id="13471" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Leather Leggings  -->
+		<ingredient id="13722" count="306264" />
+		<production id="13441" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Leather Gloves  -->
+		<ingredient id="13722" count="163338" />
+		<production id="13442" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Leather Boots   -->
+		<ingredient id="13722" count="163338" />
+		<production id="13443" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Leather Boots   -->
+		<ingredient id="13722" count="306264" />
+		<production id="13444" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Gloves -->
+		<ingredient id="13722" count="163338" />
+		<production id="13445" count="1" />
+	</item>
+	<item>
+	<!-- Vesper Shoes -->
+		<ingredient id="13722" count="163338" />
+		<production id="13446" count="1" />
+	</item>
+	<!-- Vorpal -->
+	<item>
+	<!-- Vorpal Helmet  -->
+		<ingredient id="13722" count="314100" />
+		<ingredient id="57" count="10470000" />
+		<production id="15589" count="1" />
+	</item>
+	<item>
+	<!-- Vorpal Leather Helmet   -->
+		<ingredient id="13722" count="314100" />
+		<ingredient id="57" count="10470000" />
+		<production id="15590" count="1" />
+	</item>	
+	<item>	
+	<!-- Vorpal Helmet  -->
+		<ingredient id="13722" count="314100" />
+		<ingredient id="57" count="10470000" />
+		<production id="15591" count="1" />
+	</item>
+	<item>	
+	<!-- Vorpal Cuirass   -->
+		<ingredient id="13722" count="837600" />
+		<ingredient id="57" count="27920000" />
+		<production id="15592" count="1" />
+	</item>
+	<item>	
+	<!-- Vorpal Hauberk -->
+		<ingredient id="13722" count="628200" />
+		<ingredient id="57" count="20940000" />
+		<production id="15593" count="1" />
+	</item>	
+	<item>	
+	<!-- Vorpal Tunic -->
+		<ingredient id="13722" count="628200" />
+		<ingredient id="57" count="20940000" />
+		<production id="15594" count="1" />
+	</item>
+	<item>	
+	<!-- Vorpal Gaiter   -->
+		<ingredient id="13722" count="523500" />
+		<ingredient id="57" count="17450000" />
+		<production id="15595" count="1" />
+	</item>
+	<item>	
+	<!-- Vorpal Leather Legging  -->
+		<ingredient id="13722" count="392625" />
+		<ingredient id="57" count="13087500" />
+		<production id="15596" count="1" />
+	</item>	
+	<item>	
+	<!-- Vorpal Hose -->
+		<ingredient id="13722" count="392625" />
+		<ingredient id="57" count="13087500" />
+		<production id="15597" count="1" />
+	</item>
+	<item>	
+	<!-- Vorpal Gauntlet   -->
+		<ingredient id="13722" count="209400" />
+		<ingredient id="57" count="6980000" />
+		<production id="15598" count="1" />
+	</item>
+	<item>	
+	<!-- Vorpal Leather Gloves -->
+		<ingredient id="13722" count="209400" />
+		<ingredient id="57" count="6980000" />
+		<production id="15599" count="1" />
+	</item>	
+	<item>	
+	<!-- Vorpal Gloves  -->
+		<ingredient id="13722" count="209400" />
+		<ingredient id="57" count="6980000" />
+		<production id="15600" count="1" />
+	</item>
+	<item>	
+	<!-- Vorpal Boots    -->
+		<ingredient id="13722" count="209400" />
+		<ingredient id="57" count="6980000" />
+		<production id="15601" count="1" />
+	</item>
+	<item>	
+	<!-- Vorpal Leather Boots  -->
+		<ingredient id="13722" count="209400" />
+		<ingredient id="57" count="6980000" />
+		<production id="15602" count="1" />
+	</item>	
+	<item>	
+	<!-- Vorpal Shoes -->
+		<ingredient id="13722" count="209400" />
+		<ingredient id="57" count="6980000" />
+		<production id="15603" count="1" />
+	</item>
+	<item>	
+	<!-- Vorpal Shield -->
+		<ingredient id="13722" count="219870" />
+		<ingredient id="57" count="7329000" />
+		<production id="15604" count="1" />
+	</item>
+	<item>	
+	<!-- Vorpal Shield -->
+		<ingredient id="13722" count="219870" />
+		<ingredient id="57" count="7329000" />
+		<production id="15605" count="1" />
+	</item>
+</list>

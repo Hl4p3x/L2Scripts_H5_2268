@@ -1,0 +1,24 @@
+<!ELEMENT list (arena)*>
+
+	<!ELEMENT arena (teleport_locations|zones|doors)*>
+	<!ATTLIST arena
+		id CDATA #REQUIRED>
+
+		<!ELEMENT teleport_locations (point)*>
+		<!ATTLIST teleport_locations
+			team CDATA #REQUIRED>
+			<!ELEMENT point (#PCDATA)>
+			<!ATTLIST point
+				x CDATA #REQUIRED
+				y CDATA #REQUIRED
+				z CDATA #REQUIRED>
+
+		<!ELEMENT zones (zone)*>
+			<!ELEMENT zone (#PCDATA)>
+			<!ATTLIST zone
+				name CDATA #REQUIRED>
+
+		<!ELEMENT doors (door)*>
+			<!ELEMENT door (#PCDATA)>
+			<!ATTLIST door
+				id CDATA #REQUIRED>

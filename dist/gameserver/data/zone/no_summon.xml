@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "zone.dtd">
+<list>
+	<zone name="[oracle_of_dusk_waitroom]" type="no_summon">
+		<polygon>
+			<coords loc="-82064 85608 -5383 -4883"/>
+			<coords loc="-75832 85626 -5383 -4883"/>
+			<coords loc="-75832 88068 -5383 -4883"/>
+			<coords loc="-82099 88080 -5383 -4883"/>
+		</polygon>
+	</zone>
+	<zone name="[oracle_of_dawn_waitroom]" type="no_summon">
+		<polygon>
+			<coords loc="-80884 110475 -5118 -4618"/>
+			<coords loc="-74529 110476 -5118 -4618"/>
+			<coords loc="-74524 113224 -5118 -4618"/>
+			<coords loc="-80892 113211 -5118 -4618"/>
+		</polygon>
+	</zone>
+	<zone name="[rift_between_worlds_waitroom]" type="no_summon">
+		<polygon>
+			<coords loc="-115608 -182374 -6949 -6449"/>
+			<coords loc="-113976 -182380 -6949 -6449"/>
+			<coords loc="-113990 -177851 -6949 -6449"/>
+			<coords loc="-115606 -177858 -6949 -6449"/>
+		</polygon>
+	</zone>
+	<zone name="[monster_derby_track]" type="no_summon">
+		<polygon>
+			<coords loc="14566 182997 -3668 -3168"/>
+			<coords loc="13257 182976 -3668 -3168"/>
+			<coords loc="13250 184333 -3668 -3168"/>
+			<coords loc="11629 184316 -3668 -3168"/>
+			<coords loc="11621 181298 -3668 -3168"/>
+			<coords loc="14486 181302 -3668 -3168"/>
+		</polygon>
+	</zone>
+	<zone name="[gm_prison]" type="no_summon">
+		<polygon>
+			<coords loc="-116390 -251581"/>
+			<coords loc="-112756 -251617"/>
+			<coords loc="-112720 -248199"/>
+			<coords loc="-116354 -248217"/>
+		</polygon>
+	</zone>
+	<zone name="[Hell_Bound_Island]" type="no_summon">
+		<polygon>
+			<coords loc="-47730 228200"/>
+			<coords loc="-48000 287833"/>
+			<coords loc="48000 287833"/>
+			<coords loc="48000 228200"/>
+			<coords loc="-10026 228200"/>
+		</polygon>
+	</zone>
+	<zone name="[boss_area_valakas]" type="no_summon">
+		<polygon>
+			<coords loc="196710 -130845 -3753"/>
+			<coords loc="228895 -130845 -3753"/>
+			<coords loc="229126 -96162 -3753"/>
+			<coords loc="196478 -98187 -3753"/>
+		</polygon>
+	</zone>
+	<zone name="[boss_area_valakas2]" type="no_summon">
+		<polygon>
+			<coords loc="183634 -115085 -3388 -3188"/>
+			<coords loc="183634 -114885 -3388 -3188"/>
+			<coords loc="184000 -114885 -3388 -3188"/>
+			<coords loc="184000 -115085 -3388 -3188"/>
+		</polygon>
+	</zone>
+	<zone name="[20_26_basetower_inner_01]" type="no_summon">
+		<polygon>
+			<coords loc="12080 274633 -10736 -5736"/>
+			<coords loc="20523 274633 -10736 -5736"/>
+			<coords loc="20553 284567 -10736 -5736"/>
+			<coords loc="11947 284600 -10736 -5736"/>
+		</polygon>
+	</zone>
+	<zone name="[19_26_tower_a_inner_01]" type="no_summon">
+		<polygon>
+			<coords loc="-23324 276243 -15364 -6864"/>
+			<coords loc="-17912 276243 -15364 -6864"/>
+			<coords loc="-17912 280871 -15364 -6864"/>
+			<coords loc="-23324 280871 -15364 -6864"/>
+		</polygon>
+	</zone>
+	<zone name="[19_26_tower_b_inner_01]" type="no_summon">
+		<polygon>
+			<coords loc="-15081 271397 -15504 -7904"/>
+			<coords loc="-9858 271401 -15504 -7904"/>
+			<coords loc="-9809 282115 -15504 -7904"/>
+			<coords loc="-15085 282131 -15504 -7904"/>
+		</polygon>
+	</zone>
+	<zone name="[18_25_tower_c_inner_01]" type="no_summon">
+		<polygon>
+			<coords loc="-58700 238125 -16148 -4648"/>
+			<coords loc="-39128 238125 -16148 -4648"/>
+			<coords loc="-39128 253515 -16148 -4648"/>
+			<coords loc="-58700 253515 -16148 -4648"/>
+		</polygon>
+	</zone>
+	<zone name="[20_24_beres_01]" type="no_summon">
+		<polygon>
+			<coords loc="11214 205578 -10412 -5112"/>
+			<coords loc="20607 205578 -10412 -5112"/>
+			<coords loc="20648 220271 -10412 -5112"/>
+			<coords loc="11172 220271 -10412 -5112"/>
+		</polygon>
+	</zone>
+	<zone name="[20_21_cruma_tower]" type="no_summon">
+		<polygon>
+			<coords loc="9951 106537 -14581 -4581"/>
+			<coords loc="25483 106522 -14581 -4581"/>
+			<coords loc="25456 121770 -14581 -4581"/>
+			<coords loc="9991 121797 -14581 -4581"/>
+		</polygon>
+	</zone>
+	<zone name="[14_25_kserth01]" type="no_summon">
+		<polygon>
+			<coords loc="-185793 237221 534 4534"/>
+			<coords loc="-179675 239239 534 4534"/>
+			<coords loc="-182132 249166 534 4534"/>
+			<coords loc="-189240 247252 534 4534"/>
+		</polygon>
+	</zone>
+	<zone name="[13_24_undying01]" type="no_summon">
+		<polygon>
+			<coords loc="-215517 207306 4039 5039"/>
+			<coords loc="-209939 207283 4039 5039"/>
+			<coords loc="-209952 212489 4039 5039"/>
+			<coords loc="-215511 212467 4039 5039"/>
+		</polygon>
+	</zone>
+	<zone name="[14_24_undying02]" type="no_summon">
+		<polygon>
+			<coords loc="-188655 204450 -16246 -6246"/>
+			<coords loc="-171766 204407 -16246 -6246"/>
+			<coords loc="-171791 221459 -16246 -6246"/>
+			<coords loc="-188592 221581 -16246 -6246"/>
+		</polygon>
+	</zone>
+	<zone name="[12_24_destruction01]" type="no_summon">
+		<polygon>
+			<coords loc="-253983 204764 -13600 -5600"/>
+			<coords loc="-237481 204721 -13600 -5600"/>
+			<coords loc="-237521 221261 -13600 -5600"/>
+			<coords loc="-253986 221221 -13600 -5600"/>
+		</polygon>
+	</zone>
+	<zone name="[12_25_destruction02]" type="no_summon">
+		<polygon>
+			<coords loc="-253537 245296 3964 5964"/>
+			<coords loc="-246362 245296 3964 5964"/>
+			<coords loc="-246326 252369 3964 5964"/>
+			<coords loc="-253537 252369 3964 5964"/>
+		</polygon>
+	</zone>
+	<zone name="[14_23_annihilation01]" type="no_summon">
+		<polygon>
+			<coords loc="-193000 165212 -16312 -5912"/>
+			<coords loc="-165004 165212 -16312 -5912"/>
+			<coords loc="-165044 195382 -16312 -5912"/>
+			<coords loc="-193000 195382 -16312 -5912"/>
+		</polygon>
+	</zone>
+	<zone name="[13_23_annihilation02]" type="no_summon">
+		<polygon>
+			<coords loc="-221209 171933 -16384 -5704"/>
+			<coords loc="-204834 171933 -16384 -5704"/>
+			<coords loc="-204834 188552 -16384 -5704"/>
+			<coords loc="-221209 188552 -16384 -5704"/>
+		</polygon>
+	</zone>
+	<zone name="[14_23_annihilation03]" type="no_summon">
+		<polygon>
+			<coords loc="-188401 139198 -16096 10228"/>
+			<coords loc="-171892 139242 -16096 10228"/>
+			<coords loc="-172090 155776 -16096 10228"/>
+			<coords loc="-188584 155747 -16096 10228"/>
+		</polygon>
+	</zone>
+	<zone name="[13_25_cleft01]" type="no_summon">
+		<polygon>
+			<coords loc="-226831 234718 -5412 14587"/>
+			<coords loc="-201182 234791 -5412 14587"/>
+			<coords loc="-201182 255191 -5412 14587"/>
+			<coords loc="-226778 255249 -5412 14587"/>
+		</polygon>
+	</zone>
+	<zone name="[18_16_etc08_nocall]" type="no_summon">
+		<polygon>
+			<coords loc="-58571 -64074 -2425 -2225"/>
+			<coords loc="-56368 -64071 -2425 -2225"/>
+			<coords loc="-56370 -61896 -2425 -2225"/>
+			<coords loc="-58565 -61904 -2425 -2225"/>
+		</polygon>
+	</zone>
+	<zone name="[25_15_godard15_nocall]" type="no_summon">
+		<polygon>
+			<coords loc="164226 -94258 -8800 200"/>
+			<coords loc="171998 -94378 -8800 200"/>
+			<coords loc="171845 -84191 -8800 200"/>
+			<coords loc="164030 -83790 -8800 200"/>
+		</polygon>
+	</zone>
+	<zone name="[25_15_godard14_nocall]" type="no_summon">
+		<polygon>
+			<coords loc="176475 -90312 -8800 200"/>
+			<coords loc="192224 -90260 -8800 200"/>
+			<coords loc="192236 -84568 -8800 200"/>
+			<coords loc="180669 -84640 -8800 200"/>
+			<coords loc="180606 -82852 -8800 200"/>
+			<coords loc="176498 -82757 -8800 200"/>
+		</polygon>
+	</zone>
+	<zone name="[25_15_godard18_nocall]" type="no_summon">
+		<polygon>
+			<coords loc="172063 -90095 -7318 -6718"/>
+			<coords loc="176460 -90057 -7318 -6718"/>
+			<coords loc="176460 -74019 -7318 -6718"/>
+			<coords loc="172089 -74076 -7318 -6718"/>
+		</polygon>
+	</zone>
+</list>

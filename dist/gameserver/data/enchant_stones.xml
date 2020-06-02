@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "enchant_stones.dtd">
+<!--AUTHOR: Bonux-->
+<list>
+	<!--Стандартные настройки для камней увеличения шанса заточки-->
+	<default on_fail="CRYSTALS" min_enchant_level="3" min_fullbody_enchant_level="4" max_enchant_level="9"/>
+
+	<enchant_stone id="12362" chance="20" grade="D" type="WEAPON"/>
+	<enchant_stone id="14078" chance="20" grade="D" type="WEAPON"/>
+	<enchant_stone id="14702" chance="20" grade="D" type="WEAPON"/>
+
+	<enchant_stone id="12363" chance="18" grade="C" type="WEAPON"/>
+	<enchant_stone id="14079" chance="18" grade="C" type="WEAPON"/>
+	<enchant_stone id="14703" chance="18" grade="C" type="WEAPON"/>
+
+	<enchant_stone id="12364" chance="15" grade="B" type="WEAPON"/>
+	<enchant_stone id="14080" chance="15" grade="B" type="WEAPON"/>
+	<enchant_stone id="14704" chance="15" grade="B" type="WEAPON"/>
+
+	<enchant_stone id="12365" chance="12" grade="A" type="WEAPON"/>
+	<enchant_stone id="14081" chance="12" grade="A" type="WEAPON"/>
+	<enchant_stone id="14705" chance="12" grade="A" type="WEAPON"/>
+
+	<enchant_stone id="12366" chance="10" grade="S;S80;S84" type="WEAPON"/>
+	<enchant_stone id="14082" chance="10" grade="S;S80;S84" type="WEAPON"/>
+	<enchant_stone id="14706" chance="10" grade="S;S80;S84" type="WEAPON"/>
+
+	<enchant_stone id="12367" chance="35" grade="D" type="ARMOR"/>
+	<enchant_stone id="14083" chance="35" grade="D" type="ARMOR"/>
+	<enchant_stone id="14707" chance="35" grade="D" type="ARMOR"/>
+
+	<enchant_stone id="12368" chance="27" grade="C" type="ARMOR"/>
+	<enchant_stone id="14084" chance="27" grade="C" type="ARMOR"/>
+	<enchant_stone id="14708" chance="27" grade="C" type="ARMOR"/>
+
+	<enchant_stone id="12369" chance="23" grade="B" type="ARMOR"/>
+	<enchant_stone id="14085" chance="23" grade="B" type="ARMOR"/>
+	<enchant_stone id="14709" chance="23" grade="B" type="ARMOR"/>
+
+	<enchant_stone id="12370" chance="18" grade="A" type="ARMOR"/>
+	<enchant_stone id="14086" chance="18" grade="A" type="ARMOR"/>
+	<enchant_stone id="14710" chance="18" grade="A" type="ARMOR"/>
+
+	<enchant_stone id="12371" chance="15" grade="S;S80;S84" type="ARMOR"/>
+	<enchant_stone id="14087" chance="15" grade="S;S80;S84" type="ARMOR"/>
+	<enchant_stone id="14711" chance="15" grade="S;S80;S84" type="ARMOR"/>
+</list>

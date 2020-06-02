@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	
+	<item><!--Forgotten Scroll - Fighter's Will-->
+		<ingredient id="4037" count="1"/>
+		<production id="10552" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Archer's Will-->
+		<ingredient id="4037" count="1"/>
+		<production id="10553" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Expose Weak Point-->
+		<ingredient id="4037" count="1"/>
+		<production id="10560" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Final Secret-->
+		<ingredient id="4037" count="1"/>
+		<production id="14208" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Protection of Alignment-->
+		<ingredient id="4037" count="1"/>
+		<production id="10551" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Protection of Rune-->
+		<ingredient id="4037" count="1"/>
+		<production id="10549" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Protection of Elemental-->
+		<ingredient id="4037" count="1"/>
+		<production id="10550" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Maximum Sonic Focus-->
+		<ingredient id="4037" count="1"/>
+		<production id="14202" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Dread Pool-->
+		<ingredient id="4037" count="1"/>
+		<production id="14181" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Anti-Magic Armor-->
+		<ingredient id="4037" count="1"/>
+		<production id="10554" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Deflect Magic-->
+		<ingredient id="4037" count="1"/>
+		<production id="14207" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Sixth Sense-->
+		<ingredient id="4037" count="1"/>
+		<production id="10559" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Spirit of Phoenix-->
+		<ingredient id="4037" count="1"/>
+		<production id="14172" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Summon Imperial Phoenix-->
+		<ingredient id="4037" count="1"/>
+		<production id="14200" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Seed of Revenge-->
+		<ingredient id="4037" count="1"/>
+		<production id="14170" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Hell Scream-->
+		<ingredient id="4037" count="1"/>
+		<production id="14171" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Silent Mind-->
+		<ingredient id="4037" count="1"/>
+		<production id="14220" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Seven Arrow-->
+		<ingredient id="4037" count="1"/>
+		<production id="14211" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Flame Hawk-->
+		<ingredient id="4037" count="1"/>
+		<production id="14178" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Dual Dagger Mastery-->
+		<ingredient id="4037" count="1"/>
+		<production id="14210" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Hide-->
+		<ingredient id="4037" count="1"/>
+		<production id="14209" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Exciting Adventure-->
+		<ingredient id="4037" count="1"/>
+		<production id="14175" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Magician's Will-->
+		<ingredient id="4037" count="1"/>
+		<production id="14219" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Meteor-->
+		<ingredient id="4037" count="1"/>
+		<production id="14191" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Enlightenment - Wizard-->
+		<ingredient id="4037" count="1"/>
+		<production id="14212" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Flame Armor-->
+		<ingredient id="4037" count="1"/>
+		<production id="14187" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Vampiric Mist-->
+		<ingredient id="4037" count="1"/>
+		<production id="14190" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Servitor Barrier-->
+		<ingredient id="4037" count="1"/>
+		<production id="10576" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Mutual Response-->
+		<ingredient id="4037" count="1"/>
+		<production id="10578" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Excessive Loyalty-->
+		<ingredient id="4037" count="1"/>
+		<production id="10577" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Spirit of the Cat-->
+		<ingredient id="4037" count="1"/>
+		<production id="14204" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Turn Stone-->
+		<ingredient id="4037" count="1"/>
+		<production id="14221" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Enlightenment - Healer-->
+		<ingredient id="4037" count="1"/>
+		<production id="14213" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Sublime Self Sacrifice-->
+		<ingredient id="4037" count="1"/>
+		<production id="14193" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Counter Critical-->
+		<ingredient id="4037" count="1"/>
+		<production id="14225" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Eva's Will / Touch of Eva-->
+		<ingredient id="4037" count="1"/>
+		<production id="14173" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Song of Windstorm-->
+		<ingredient id="4037" count="1"/>
+		<production id="10557" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Song of Purification-->
+		<ingredient id="4037" count="1"/>
+		<production id="14198" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Wind Riding-->
+		<ingredient id="4037" count="1"/>
+		<production id="14176" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Arrow Rain-->
+		<ingredient id="4037" count="1"/>
+		<production id="14179" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Star Fall-->
+		<ingredient id="4037" count="1"/>
+		<production id="14192" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Frost Armor-->
+		<ingredient id="4037" count="1"/>
+		<production id="14188" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Spirit of the Unicorn-->
+		<ingredient id="4037" count="1"/>
+		<production id="14205" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Blessing of Eva-->
+		<ingredient id="4037" count="1"/>
+		<production id="14194" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Pain of Shillien-->
+		<ingredient id="4037" count="1"/>
+		<production id="14174" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Dance of Berserker-->
+		<ingredient id="4037" count="1"/>
+		<production id="14199" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Ghost Walking-->
+		<ingredient id="4037" count="1"/>
+		<production id="14177" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Ghost Piercing-->
+		<ingredient id="4037" count="1"/>
+		<production id="14180" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Hurricane Armor-->
+		<ingredient id="4037" count="1"/>
+		<production id="14189" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Spirit of the Phantom-->
+		<ingredient id="4037" count="1"/>
+		<production id="14206" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Lord of Vampire-->
+		<ingredient id="4037" count="1"/>
+		<production id="14195" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Demolition Impact-->
+		<ingredient id="4037" count="1"/>
+		<production id="14183" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Maximum Force Focus-->
+		<ingredient id="4037" count="1"/>
+		<production id="14201" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Force of Destruction-->
+		<ingredient id="4037" count="1"/>
+		<production id="14182" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Onslaught of Pa'agrio-->
+		<ingredient id="4037" count="1"/>
+		<production id="14226" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Seal of Limit-->
+		<ingredient id="4037" count="1"/>
+		<production id="14197" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Great Fury-->
+		<ingredient id="4037" count="1"/>
+		<production id="14227" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Lucky Strike-->
+		<ingredient id="4037" count="1"/>
+		<production id="14222" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Create Item Lv 10-->
+		<ingredient id="4037" count="1"/>
+		<production id="17030" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Golem Armor-->
+		<ingredient id="4037" count="1"/>
+		<production id="14184" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Eye for Eye-->
+		<ingredient id="4037" count="1"/>
+		<production id="14223" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Lightning Shock-->
+		<ingredient id="4037" count="1"/>
+		<production id="14186" count="1" />
+	</item>
+	<item><!--Forgotten Scroll - Wild Shot-->
+		<ingredient id="4037" count="1"/>
+		<production id="14185" count="1" />
+	</item>
+</list>

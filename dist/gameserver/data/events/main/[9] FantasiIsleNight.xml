@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--Create by PaInKiLlEr-->
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<event id="10031" name="Fantasi Isle Night Parad" impl="FantasiIsleParad">
+		<on_start>
+			<spawn name="music" />
+			<spawn name="ms" />
+		</on_start>
+		<on_stop>
+			<despawn name="music" />
+			<despawn name="ms" />
+			<despawn name="Leyla" />
+			<despawn name="circus" />
+			<despawn name="individual_1" />
+			<despawn name="individual_2" />
+			<despawn name="individual_3" />
+			<despawn name="other" />
+			<despawn name="Sec_2" />
+			<despawn name="Sec_4" />
+			<despawn name="Sec_6" />
+			<despawn name="Sec_12" />
+			<despawn name="Sec_14" />
+			<despawn name="Sec_16" />
+			<despawn name="Sec_18" />
+			<despawn name="Sec_24" />
+			<despawn name="Sec_25" />
+			<despawn name="Sec_26" />
+			<despawn name="Sec_28" />
+			<despawn name="Sec_32" />
+			<despawn name="Sec_34_nigh" />
+			<despawn name="Sec_36_nigh" />
+			<despawn name="Sec_38_nigh" />
+			<despawn name="Sec_40_nigh" />
+			<despawn name="Sec_42_nigh" />
+			<despawn name="Sec_44_nigh" />
+			<despawn name="Sec_46_nigh" />
+			<despawn name="Sec_50_nigh" />
+			<despawn name="Sec_52_nigh" />
+			<despawn name="Sec_54_nigh" />
+			<despawn name="Sec_56_nigh" />
+			<despawn name="Sec_62_nigh" />
+			<despawn name="Sec_66_nigh" />
+			<despawn name="Sec_72_nigh" />
+			<despawn name="Sec_74_nigh" />
+			<despawn name="Sec_76_nigh" />
+			<despawn name="Sec_82_nigh" />
+			<despawn name="Sec_84_nigh" />
+			<despawn name="Sec_86_nigh" />
+			<despawn name="Sec_88_nigh" />
+			<despawn name="Sec_94_nigh" />
+			<despawn name="Sec_96_nigh" />
+			<despawn name="Sec_98_nigh" />
+			<despawn name="Sec_100_nigh" />
+			<despawn name="Sec_106_nigh" />
+			<despawn name="Sec_108_nigh" />
+			<despawn name="Sec_110_nigh" />
+			<despawn name="Sec_116_nigh" />
+		</on_stop>
+		<on_time>
+			<on time="0">
+				<!--start-->
+				<start name="event" />
+			</on>
+			<on time="2">
+				<spawn name="Sec_2" />
+			</on>
+			<on time="4">
+				<spawn name="Sec_4" />
+			</on>
+			<on time="6">
+				<spawn name="Sec_6" />
+			</on>
+			<on time="12">
+				<spawn name="Sec_12" />
+			</on>
+			<on time="14">
+				<spawn name="Sec_14" />
+			</on>
+			<on time="16">
+				<spawn name="Sec_16" />
+			</on>
+			<on time="18">
+				<spawn name="Sec_18" />
+			</on>
+			<on time="24">
+				<spawn name="Sec_24" />
+			</on>
+			<on time="25">
+				<spawn name="Sec_25" />
+			</on>
+			<on time="26">
+				<spawn name="Sec_26" />
+			</on>
+			<on time="28">
+				<spawn name="Sec_28" />
+			</on>
+			<on time="32">
+				<spawn name="Sec_32" />
+			</on>
+			<on time="34">
+				<spawn name="Sec_34_nigh" />
+			</on>
+			<on time="36">
+				<spawn name="Sec_36_nigh" />
+			</on>
+			<on time="38">
+				<spawn name="Sec_38_nigh" />
+			</on>
+			<on time="40">
+				<spawn name="Sec_40_nigh" />
+			</on>
+			<on time="42">
+				<spawn name="Sec_42_nigh" />
+			</on>
+			<on time="44">
+				<spawn name="Sec_44_nigh" />
+			</on>
+			<on time="46">
+				<spawn name="Sec_46_nigh" />
+				<spawn name="Leyla" />
+			</on>
+			<on time="50">
+				<spawn name="Sec_50_nigh" />
+			</on>
+			<on time="52">
+				<spawn name="Sec_52_nigh" />
+			</on>
+			<on time="54">
+				<spawn name="Sec_54_nigh" />
+			</on>
+			<on time="56">
+				<spawn name="Sec_56_nigh" />
+			</on>
+			<on time="62">
+				<spawn name="Sec_62_nigh" />
+			</on>
+			<on time="66">
+				<spawn name="Sec_66_nigh" />
+			</on>
+			<on time="72">
+				<spawn name="Sec_72_nigh" />
+			</on>
+			<on time="74">
+				<spawn name="Sec_74_nigh" />
+			</on>
+			<on time="76">
+				<spawn name="Sec_76_nigh" />
+			</on>
+			<on time="82">
+				<spawn name="Sec_82_nigh" />
+			</on>
+			<on time="84">
+				<spawn name="Sec_84_nigh" />
+			</on>
+			<on time="86">
+				<spawn name="Sec_86_nigh" />
+			</on>
+			<on time="88">
+				<spawn name="Sec_88_nigh" />
+			</on>
+			<on time="94">
+				<spawn name="Sec_94_nigh" />
+			</on>
+			<on time="96">
+				<spawn name="Sec_96_nigh" />
+			</on>
+			<on time="98">
+				<spawn name="Sec_98_nigh" />
+			</on>
+			<on time="100">
+				<spawn name="Sec_100_nigh" />
+			</on>
+			<on time="106">
+				<spawn name="Sec_106_nigh" />
+			</on>
+			<on time="108">
+				<spawn name="Sec_108_nigh" />
+			</on>
+			<on time="110">
+				<spawn name="Sec_110_nigh" />
+			</on>
+			<on time="116">
+				<spawn name="Sec_116_nigh" />
+			</on>
+			<on time="269">
+				<despawn name="Leyla" />
+			</on>
+			<on time="281">
+				<spawn name="circus" />
+			</on>
+			<on time="386">
+				<despawn name="circus" />
+			</on>
+			<on time="394">
+				<spawn name="individual_1" />
+			</on>
+			<on time="398">
+				<despawn name="individual_1" />
+			</on>
+			<on time="399">
+				<spawn name="individual_2" />
+			</on>
+			<on time="403">
+				<despawn name="individual_2" />
+			</on>
+			<on time="404">
+				<spawn name="individual_3" />
+			</on>
+			<on time="408">
+				<despawn name="individual_3" />
+			</on>
+			<on time="410">
+				<spawn name="other" />
+			</on>
+			<on time="500">
+				<!--stop-->
+				<stop name="event" />
+			</on>
+		</on_time>
+		<objects name="ms">
+			<spawn_ex name="fantasy_parad_ms" />
+		</objects>
+		<objects name="other">
+			<spawn_ex name="fantasy_parad_other" />
+		</objects>
+		<objects name="Leyla">
+			<spawn_ex name="fantasy_parad_Leyla" />
+		</objects>
+		<objects name="individual_1">
+			<spawn_ex name="fantasy_parad_individual_1" />
+		</objects>
+		<objects name="individual_2">
+			<spawn_ex name="fantasy_parad_individual_2" />
+		</objects>
+		<objects name="individual_3">
+			<spawn_ex name="fantasy_parad_individual_3" />
+		</objects>
+		<objects name="circus">
+			<spawn_ex name="fantasy_parad_circus" />
+		</objects>
+		<objects name="music">
+			<spawn_ex name="fantasy_parad_music" />
+		</objects>
+		<objects name="Sec_2">
+			<spawn_ex name="fantasy_parad_Sec_2" />
+		</objects>
+		<objects name="Sec_4">
+			<spawn_ex name="fantasy_parad_Sec_4" />
+		</objects>
+		<objects name="Sec_6">
+			<spawn_ex name="fantasy_parad_Sec_6" />
+		</objects>
+		<objects name="Sec_12">
+			<spawn_ex name="fantasy_parad_Sec_12" />
+		</objects>
+		<objects name="Sec_14">
+			<spawn_ex name="fantasy_parad_Sec_14" />
+		</objects>
+		<objects name="Sec_16">
+			<spawn_ex name="fantasy_parad_Sec_16" />
+		</objects>
+		<objects name="Sec_18">
+			<spawn_ex name="fantasy_parad_Sec_18" />
+		</objects>
+		<objects name="Sec_24">
+			<spawn_ex name="fantasy_parad_Sec_24" />
+		</objects>
+		<objects name="Sec_25">
+			<spawn_ex name="fantasy_parad_Sec_25" />
+		</objects>
+		<objects name="Sec_26">
+			<spawn_ex name="fantasy_parad_Sec_26" />
+		</objects>
+		<objects name="Sec_28">
+			<spawn_ex name="fantasy_parad_Sec_28" />
+		</objects>
+		<objects name="Sec_32">
+			<spawn_ex name="fantasy_parad_Sec_32" />
+		</objects>
+		<objects name="Sec_34_nigh">
+			<spawn_ex name="fantasy_parad_Sec_34_nigh" />
+		</objects>
+		<objects name="Sec_36_nigh">
+			<spawn_ex name="fantasy_parad_Sec_36_nigh" />
+		</objects>
+		<objects name="Sec_38_nigh">
+			<spawn_ex name="fantasy_parad_Sec_38_nigh" />
+		</objects>
+		<objects name="Sec_40_nigh">
+			<spawn_ex name="fantasy_parad_Sec_40_nigh" />
+		</objects>
+		<objects name="Sec_42_nigh">
+			<spawn_ex name="fantasy_parad_Sec_42_nigh" />
+		</objects>
+		<objects name="Sec_44_nigh">
+			<spawn_ex name="fantasy_parad_Sec_44_nigh" />
+		</objects>
+		<objects name="Sec_46_nigh">
+			<spawn_ex name="fantasy_parad_Sec_46_nigh" />
+		</objects>
+		<objects name="Sec_50_nigh">
+			<spawn_ex name="fantasy_parad_Sec_50_nigh" />
+		</objects>
+		<objects name="Sec_52_nigh">
+			<spawn_ex name="fantasy_parad_Sec_52_nigh" />
+		</objects>
+		<objects name="Sec_54_nigh">
+			<spawn_ex name="fantasy_parad_Sec_54_nigh" />
+		</objects>
+		<objects name="Sec_56_nigh">
+			<spawn_ex name="fantasy_parad_Sec_56_nigh" />
+		</objects>
+		<objects name="Sec_62_nigh">
+			<spawn_ex name="fantasy_parad_Sec_62_nigh" />
+		</objects>
+		<objects name="Sec_66_nigh">
+			<spawn_ex name="fantasy_parad_Sec_66_nigh" />
+		</objects>
+		<objects name="Sec_72_nigh">
+			<spawn_ex name="fantasy_parad_Sec_72_nigh" />
+		</objects>
+		<objects name="Sec_74_nigh">
+			<spawn_ex name="fantasy_parad_Sec_74_nigh" />
+		</objects>
+		<objects name="Sec_76_nigh">
+			<spawn_ex name="fantasy_parad_Sec_76_nigh" />
+		</objects>
+		<objects name="Sec_82_nigh">
+			<spawn_ex name="fantasy_parad_Sec_82_nigh" />
+		</objects>
+		<objects name="Sec_84_nigh">
+			<spawn_ex name="fantasy_parad_Sec_84_nigh" />
+		</objects>
+		<objects name="Sec_86_nigh">
+			<spawn_ex name="fantasy_parad_Sec_86_nigh" />
+		</objects>
+		<objects name="Sec_88_nigh">
+			<spawn_ex name="fantasy_parad_Sec_88_nigh" />
+		</objects>
+		<objects name="Sec_94_nigh">
+			<spawn_ex name="fantasy_parad_Sec_94_nigh" />
+		</objects>
+		<objects name="Sec_96_nigh">
+			<spawn_ex name="fantasy_parad_Sec_96_nigh" />
+		</objects>
+		<objects name="Sec_98_nigh">
+			<spawn_ex name="fantasy_parad_Sec_98_nigh" />
+		</objects>
+		<objects name="Sec_100_nigh">
+			<spawn_ex name="fantasy_parad_Sec_100_nigh" />
+		</objects>
+		<objects name="Sec_106_nigh">
+			<spawn_ex name="fantasy_parad_Sec_106_nigh" />
+		</objects>
+		<objects name="Sec_108_nigh">
+			<spawn_ex name="fantasy_parad_Sec_108_nigh" />
+		</objects>
+		<objects name="Sec_110_nigh">
+			<spawn_ex name="fantasy_parad_Sec_110_nigh" />
+		</objects>
+		<objects name="Sec_116_nigh">
+			<spawn_ex name="fantasy_parad_Sec_116_nigh" />
+		</objects>
+	</event>
+</list>

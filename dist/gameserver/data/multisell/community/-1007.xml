@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<item>
+		<production id="15553" count="1"/>	<!--Меч Архангела-->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15548" count="1"/>	<!-- Пылающая Пила -->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15544" count="1"/>	<!--  Меч Неиссякаемой Сущности -->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15546" count="1"/>	<!-- Дробитель -->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15547" count="1"/>	<!--    Молот Берестира -->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15551" count="1"/>	<!--  Сакредюмор -->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15552" count="1"/>	<!-- Трость Могущества -->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>	
+	<item>
+		<production id="15545" count="1"/>	<!--  Зуб Мамбы  -->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15550" count="1"/>	<!-- Призрачный Жнец -->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15549" count="1"/>	<!-- Нефритовые Кулаки -->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15554" count="1"/>	<!--  Лук Изогнутых Шипов -->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>
+	<item>
+		<production id="16158" count="1"/>	<!-- Парные Мечи Неиссякаемой Сущности -->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15555" count="1"/>	<!-- Рапира Вознесения -->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15557" count="1"/>	<!--  Арбалет Шипов -->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15556" count="1"/>	<!-- Клинок Печати -->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>
+	<item>
+		<production id="16156" count="1"/>	<!-- Парные Зубы Мамбы -->
+		<ingredient id="4037" count="110"/>	<!--col-->
+	</item>	
+</list>

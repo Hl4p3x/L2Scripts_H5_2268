@@ -1,0 +1,26 @@
+<html><head><title>Control Panel</title></head><body><br>
+<center>
+<img src="L2UI.squaregray" width="280" height="1">
+<table width=280 bgcolor=222120>
+	<tr>
+		<td>
+			<center>
+			<font name="hs12" color="a22020">Your Server</font>
+			</center>
+		</td>
+	</tr>
+</table>
+<img src="L2UI.squaregray" width="280" height="1">
+<br><br>
+</center>
+<font color=c1b33a>
+Add remove from CWH privilage to nickname:<br>
+</font>
+<center>
+<edit var="name" width=150 height=15 />
+<br><br>
+<button value="Add Character" action="bypass -h user_cp cwhPrivs allowwh $name" width=150 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" />
+<button value="Remove Character" action="bypass -h user_cp cwhPrivs blockwh $name" width=150 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" />
+<button value="View current List" action="bypass -h user_cp cwhPrivs list" width=150 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" />
+<button value="Back" action="bypass -h user_cp back" width=150 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" /><br>
+</body></html>

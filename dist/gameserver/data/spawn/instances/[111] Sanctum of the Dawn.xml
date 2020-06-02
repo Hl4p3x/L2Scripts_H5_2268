@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--AUTHOR: Bonux-->
+<list>
+	<spawn group="sanctum_of_the_dawn" count="1" respawn="0">
+		<point x="-75988" y="213411" z="-7124" h="0"/>
+		<npc id="32579"/><!--Darkness of Dawn-->
+	</spawn>
+	<spawn group="sanctum_of_the_dawn" count="1" respawn="0">
+		<point x="-75695" y="213537" z="-7128" h="0"/>
+		<npc id="32578"><!--Identity Confirm Device-->
+			<set name="device_id" value="1"/>
+		</npc>
+	</spawn>
+	<spawn group="sanctum_of_the_dawn" count="1" respawn="0">
+		<point x="-78289" y="205749" z="-7884" h="0"/>
+		<npc id="32578"><!--Identity Confirm Device-->
+			<set name="device_id" value="2"/>
+		</npc>
+	</spawn>
+	<spawn group="sanctum_of_the_dawn" count="1" respawn="0">
+		<point x="-80152" y="205740" z="-7904" h="0"/>
+		<npc id="32577"/><!--Password Entry Device-->
+	</spawn>
+	<spawn group="sanctum_of_the_dawn" count="1" respawn="0">
+		<point x="-81384" y="205560" z="-8012" h="65342"/>
+		<npc id="32580"/><!---->
+	</spawn>
+</list>

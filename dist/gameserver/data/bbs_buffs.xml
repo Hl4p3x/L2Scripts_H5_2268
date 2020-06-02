@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "bbs_buffs.dtd">
+<!--AUTHOR: Bonux-->
+<list>
+	<available_skills>
+		<!--If level of skill is -1 server automatically set max level of skill.-->
+		<premium_skills>
+			<!--The skills indicated in the 'premium_skills' redefine the skills in the main groups.-->
+			<skills_group time_modifier="1" time_assign="-1">
+				<skill id="395" level="-1"/>	<!--Heroic Miracle-->
+				<skill id="396" level="-1"/>	<!--Heroic Berserker-->
+			</skills_group>
+		</premium_skills>
+		<skills_group time_modifier="1" time_assign="-1">
+			<skill id="1085" level="-1"/>	<!--Acumen-->
+			<skill id="1043" level="-1"/>	<!--Holy Weapon-->
+			<skill id="827" level="-1"/>	<!--Restring-->
+			<skill id="1059" level="-1"/>	<!--Empower-->
+			<skill id="829" level="-1"/>	<!--Hard Tanning-->
+			<skill id="1307" level="-1"/>	<!--Prayer-->
+			<skill id="830" level="-1"/>	<!--Embroider-->
+			<skill id="826" level="-1"/>	<!--Spike-->
+			<skill id="1542" level="-1"/>	<!--Counter Critical-->
+			<skill id="1259" level="-1"/>	<!--Resist Shock-->
+			<skill id="1240" level="-1"/>	<!--Guidance-->
+			<skill id="1078" level="-1"/>	<!--Concentration-->
+			<skill id="1062" level="-1"/>	<!--Berserker Spirit-->
+			<skill id="1036" level="-1"/>	<!--Magic Barrier-->
+			<skill id="1035" level="-1"/>	<!--Mental Shield-->
+			<skill id="828" level="-1"/>	<!--Case Harden-->
+			<skill id="825" level="-1"/>	<!--Sharp Edge-->
+			<skill id="1303" level="-1"/>	<!--Wild Magic-->
+			<skill id="1087" level="-1"/>	<!--Agility-->
+			<skill id="1499" level="-1"/>	<!--Improved Combat-->
+			<skill id="1500" level="-1"/>	<!--Improved Magic-->
+			<skill id="1501" level="-1"/>	<!--Improved Condition-->
+			<skill id="1502" level="-1"/>	<!--Improved Critical Attack-->
+			<skill id="1503" level="-1"/>	<!--Improved Shield Defense-->
+			<skill id="1504" level="-1"/>	<!--Improved Movement-->
+			<skill id="1519" level="-1"/>	<!--Chant of Blood Awakening-->
+			<skill id="1388" level="-1"/>	<!--Greater Might-->
+			<skill id="1389" level="-1"/>	<!--Greater Shield-->
+			<skill id="1243" level="-1"/>	<!--Bless Shield-->
+			<skill id="1461" level="-1"/>	<!--Chant of Protection-->
+			<skill id="1032" level="-1"/>	<!--Invigor-->
+			<skill id="1033" level="-1"/>	<!--Resist Poison-->
+			<skill id="1182" level="-1"/>	<!--Resist Aqua-->
+			<skill id="1189" level="-1"/>	<!--Resist Wind-->
+			<skill id="1191" level="-1"/>	<!--Resist Fire-->
+			<skill id="1352" level="-1"/>	<!--Elemental Protection-->
+			<skill id="1353" level="-1"/>	<!--Divine Protection-->
+			<skill id="1354" level="-1"/>	<!--Arcane Protection-->
+			<skill id="1392" level="-1"/>	<!--Holy Resistance-->
+			<skill id="1393" level="-1"/>	<!--Unholy Resistance-->
+			<skill id="1284" level="-1"/>	<!--Chant of Revenge-->
+			<skill id="1397" level="-1"/>	<!--Clarity-->
+			<skill id="1257" level="-1"/>	<!--Decrease Weight-->
+			<skill id="1044" level="-1"/>	<!--Regeneration-->
+			<skill id="1073" level="-1"/>	<!--Kiss of Eva-->
+			<skill id="1460" level="-1"/>	<!--Mana Gain-->
+		</skills_group>
+		<skills_group time_modifier="1" time_assign="-1">
+			<skill id="1355" level="-1"/>	<!--Prophecy of Water-->
+			<skill id="1356" level="-1"/>	<!--Prophecy of Fire-->
+			<skill id="1357" level="-1"/>	<!--Prophecy of Wind-->
+			<skill id="1363" level="-1"/>	<!--Chant of Victory-->
+			<skill id="1413" level="-1"/>	<!--Magnus' Chant-->
+			<skill id="1414" level="-1"/>	<!--Victory of Pa'agrio-->
+		</skills_group>
+		<skills_group time_modifier="1" time_assign="-1">
+			<skill id="4699" level="-1"/>	<!--Blessing of Queen-->
+			<skill id="4700" level="-1"/>	<!--Gift of Queen-->
+			<skill id="4702" level="-1"/>	<!--Blessing of Seraphim-->
+			<skill id="4703" level="-1"/>	<!--Gift of Seraphim-->
+		</skills_group>
+		<skill id="1323" level="-1" time_modifier="1" time_assign="-1"/>	<!--Noblesse Blessing-->
+		<skills_group time_modifier="1" time_assign="-1">
+			<skill id="264" level="-1"/>	<!--Song of Earth-->
+			<skill id="265" level="-1"/>	<!--Song of Life-->
+			<skill id="266" level="-1"/>	<!--Song of Water-->
+			<skill id="267" level="-1"/>	<!--Song of Warding-->
+			<skill id="268" level="-1"/>	<!--Song of Wind-->
+			<skill id="269" level="-1"/>	<!--Song of Hunter-->
+			<skill id="270" level="-1"/>	<!--Song of Invocation-->
+			<skill id="304" level="-1"/>	<!--Song of Vitality-->
+			<skill id="305" level="-1"/>	<!--Song of Vengeance-->
+			<skill id="306" level="-1"/>	<!--Song of Flame Guard-->
+			<skill id="308" level="-1"/>	<!--Song of Storm Guard-->
+			<skill id="349" level="-1"/>	<!--Song of Renewal-->
+			<skill id="363" level="-1"/>	<!--Song of Meditation-->
+			<skill id="364" level="-1"/>	<!--Song of Champion-->
+			<skill id="529" level="-1"/>	<!--Song of Elemental-->
+			<skill id="271" level="-1"/>	<!--Dance of the Warrior-->
+			<skill id="272" level="-1"/>	<!--Dance of Inspiration-->
+			<skill id="273" level="-1"/>	<!--Dance of the Mystic-->
+			<skill id="274" level="-1"/>	<!--Dance of Fire-->
+			<skill id="275" level="-1"/>	<!--Dance of Fury-->
+			<skill id="276" level="-1"/>	<!--Dance of concentration-->
+			<skill id="277" level="-1"/>	<!--Dance of Light-->
+			<skill id="307" level="-1"/>	<!--Dance of Aqua Guard-->
+			<skill id="309" level="-1"/>	<!--Dance of Earth Guard-->
+			<skill id="310" level="-1"/>	<!--Dance of the Vampire-->
+			<skill id="311" level="-1"/>	<!--Dance of Protection-->
+			<skill id="365" level="-1"/>	<!--Siren's Dance-->
+			<skill id="530" level="-1"/>	<!--Dance of Alignment-->
+			<skill id="915" level="-1"/>	<!--Dance of Berserker-->
+		</skills_group>
+	</available_skills>
+	<base_buff_sets>
+		<buff_set id="1">
+			<name>
+				<en>Defender</en>
+				<ru>Защитнику</ru>
+			</name>
+			<skills>
+				<skill id="1389"/>	<!--Greater Shield-->
+				<skill id="825"/>	<!--Sharp Edge-->
+				<skill id="828"/>	<!--Case Harden-->
+				<skill id="1035"/>	<!--Mental Shield-->
+				<skill id="1036"/>	<!--Magic Barrier-->
+				<skill id="1062"/>	<!--Berserker Spirit-->
+				<skill id="1078"/>	<!--Concentration-->
+				<skill id="1085"/>	<!--Acumen-->
+				<skill id="1182"/>	<!--Resist Aqua-->
+				<skill id="1189"/>	<!--Resist Wind-->
+				<skill id="1191"/>	<!--Resist Fire-->
+				<skill id="1240"/>	<!--Guidance-->
+				<skill id="1259"/>	<!--Resist Shock-->
+				<skill id="1352"/>	<!--Elemental Protection-->
+				<skill id="1353"/>	<!--Divine Protection-->
+				<skill id="1392"/>	<!--Holy Resistance-->
+				<skill id="1393"/>	<!--Unholy Resistance-->
+				<skill id="1499"/>	<!--Improved Combat-->
+				<skill id="1501"/>	<!--Improved Condition-->
+				<skill id="1502"/>	<!--Improved Critical Attack-->
+				<skill id="1503"/>	<!--Improved Shield Defense-->
+				<skill id="1504"/>	<!--Improved Movement-->
+				<skill id="1363"/>	<!--Chant of Victory-->
+				<skill id="1461"/>	<!--Chant of Protection-->
+				<skill id="1519"/>	<!--Chant of Blood Awakening-->
+				<skill id="1542"/>	<!--Counter Critical-->
+				<skill id="4699"/>	<!--Blessing of Queen-->
+				<skill id="4703"/>	<!--Gift of Seraphim-->
+				<skill id="1323"/>	<!--Noblesse Blessing-->
+				<skill id="271"/>	<!--Dance of the Warrior-->
+				<skill id="274"/>	<!--Dance of Fire-->
+				<skill id="275"/>	<!--Dance of Fury-->
+				<skill id="276"/>	<!--Dance of concentration-->
+				<skill id="310"/>	<!--Dance of the Vampire-->
+				<skill id="264"/>	<!--Song of Earth-->
+				<skill id="267"/>	<!--Song of Warding-->
+				<skill id="268"/>	<!--Song of Wind-->
+				<skill id="269"/>	<!--Song of Hunter-->
+				<skill id="304"/>	<!--Song of Vitality-->
+				<skill id="349"/>	<!--Song of Renewal-->
+				<skill id="363"/>	<!--Song of Meditation-->
+				<skill id="364"/>	<!--Song of Champion-->
+			</skills>
+		</buff_set>
+		<buff_set id="2">
+			<name>
+				<en>Warrior</en>
+				<ru>Воину</ru>
+			</name>
+			<skills>
+				<skill id="1388"/>	<!--Greater Might-->
+				<skill id="825"/>	<!--Sharp Edge-->
+				<skill id="829"/>	<!--Hard Tanning-->
+				<skill id="1035"/>	<!--Mental Shield-->
+				<skill id="1036"/>	<!--Magic Barrier-->
+				<skill id="1062"/>	<!--Berserker Spirit-->
+				<skill id="1078"/>	<!--Concentration-->
+				<skill id="1085"/>	<!--Acumen-->
+				<skill id="1182"/>	<!--Resist Aqua-->
+				<skill id="1189"/>	<!--Resist Wind-->
+				<skill id="1191"/>	<!--Resist Fire-->
+				<skill id="1240"/>	<!--Guidance-->
+				<skill id="1259"/>	<!--Resist Shock-->
+				<skill id="1307"/>	<!--Prayer-->
+				<skill id="1352"/>	<!--Elemental Protection-->
+				<skill id="1353"/>	<!--Divine Protection-->
+				<skill id="1392"/>	<!--Holy Resistance-->
+				<skill id="1393"/>	<!--Unholy Resistance-->
+				<skill id="1499"/>	<!--Improved Combat-->
+				<skill id="1501"/>	<!--Improved Condition-->
+				<skill id="1502"/>	<!--Improved Critical Attack-->
+				<skill id="1503"/>	<!--Improved Shield Defense-->
+				<skill id="1504"/>	<!--Improved Movement-->
+				<skill id="1363"/>	<!--Chant of Victory-->
+				<skill id="1461"/>	<!--Chant of Protection-->
+				<skill id="1519"/>	<!--Chant of Blood Awakening-->
+				<skill id="1542"/>	<!--Counter Critical-->
+				<skill id="4699"/>	<!--Blessing of Queen-->
+				<skill id="4703"/>	<!--Gift of Seraphim-->
+				<skill id="1323"/>	<!--Noblesse Blessing-->
+				<skill id="271"/>	<!--Dance of the Warrior-->
+				<skill id="272"/>	<!--Dance of Inspiration-->
+				<skill id="274"/>	<!--Dance of Fire-->
+				<skill id="275"/>	<!--Dance of Fury-->
+				<skill id="276"/>	<!--Dance of concentration-->
+				<skill id="310"/>	<!--Dance of the Vampire-->
+				<skill id="264"/>	<!--Song of Earth-->
+				<skill id="267"/>	<!--Song of Warding-->
+				<skill id="268"/>	<!--Song of Wind-->
+				<skill id="269"/>	<!--Song of Hunter-->
+				<skill id="304"/>	<!--Song of Vitality-->
+				<skill id="349"/>	<!--Song of Renewal-->
+				<skill id="364"/>	<!--Song of Champion-->
+			</skills>
+		</buff_set>
+		<buff_set id="3">
+			<name>
+				<en>Mystic</en>
+				<ru>Магу</ru>
+			</name>
+			<skills>
+				<skill id="1059"/>	<!--Empower-->
+				<skill id="826"/>	<!--Spike-->
+				<skill id="830"/>	<!--Embroider-->
+				<skill id="1035"/>	<!--Mental Shield-->
+				<skill id="1036"/>	<!--Magic Barrier-->
+				<skill id="1062"/>	<!--Berserker Spirit-->
+				<skill id="1078"/>	<!--Concentration-->
+				<skill id="1085"/>	<!--Acumen-->
+				<skill id="1182"/>	<!--Resist Aqua-->
+				<skill id="1189"/>	<!--Resist Wind-->
+				<skill id="1191"/>	<!--Resist Fire-->
+				<skill id="1259"/>	<!--Resist Shock-->
+				<skill id="1303"/>	<!--Wild Magic-->
+				<skill id="1307"/>	<!--Prayer-->
+				<skill id="1352"/>	<!--Elemental Protection-->
+				<skill id="1353"/>	<!--Divine Protection-->
+				<skill id="1357"/>	<!--Prophecy of Wind-->
+				<skill id="1389"/>	<!--Greater Shield-->
+				<skill id="1392"/>	<!--Holy Resistance-->
+				<skill id="1393"/>	<!--Unholy Resistance-->
+				<skill id="1542"/>	<!--Counter Critical-->
+				<skill id="1499"/>	<!--Improved Combat-->
+				<skill id="1501"/>	<!--Improved Condition-->
+				<skill id="1503"/>	<!--Improved Shield Defense-->
+				<skill id="1504"/>	<!--Improved Movement-->
+				<skill id="1461"/>	<!--Chant of Protection-->
+				<skill id="4703"/>	<!--Gift of Seraphim-->
+				<skill id="1323"/>	<!--Noblesse Blessing-->
+				<skill id="276"/>	<!--Dance of concentration-->
+				<skill id="273"/>	<!--Dance of the Mystic-->
+				<skill id="365"/>	<!--Siren's Dance-->
+				<skill id="264"/>	<!--Song of Earth-->
+				<skill id="267"/>	<!--Song of Warding-->
+				<skill id="268"/>	<!--Song of Wind-->
+				<skill id="270"/>	<!--Song of Invocation-->
+				<skill id="304"/>	<!--Song of Vitality-->
+				<skill id="349"/>	<!--Song of Renewal-->
+				<skill id="363"/>	<!--Song of Meditation-->
+				<skill id="364"/>	<!--Song of Champion-->
+				<skill id="265"/>	<!--Song of Life-->
+			</skills>
+		</buff_set>
+		<buff_set id="4">
+			<name>
+				<en>Resistance</en>
+				<ru>Сопротивление</ru>
+			</name>
+			<skills>
+				<skill id="1352"/>	<!--Elemental Protection-->
+				<skill id="1032"/>	<!--Invigor-->
+				<skill id="1033"/>	<!--Resist Poison-->
+				<skill id="1182"/>	<!--Resist Aqua-->
+				<skill id="1189"/>	<!--Resist Wind-->
+				<skill id="1191"/>	<!--Resist Fire-->
+				<skill id="1353"/>	<!--Divine Protection-->
+				<skill id="1354"/>	<!--Arcane Protection-->
+				<skill id="1392"/>	<!--Holy Resistance-->
+				<skill id="1393"/>	<!--Unholy Resistance-->
+				<skill id="306"/>	<!--Song of Flame Guard-->
+				<skill id="308"/>	<!--Song of Storm Guard-->
+				<skill id="529"/>	<!--Song of Elemental-->
+				<skill id="307"/>	<!--Dance of Aqua Guard-->
+				<skill id="309"/>	<!--Dance of Earth Guard-->
+				<skill id="311"/>	<!--Dance of Protection-->
+				<skill id="530"/>	<!--Dance of Alignment-->
+			</skills>
+		</buff_set>
+		<buff_set id="5">
+			<name>
+				<en>Dance's / Song's</en>
+				<ru>Песни / Танцы</ru>
+			</name>
+			<skills>
+				<skill id="264"/>	<!--Song of Earth-->
+				<skill id="265"/>	<!--Song of Life-->
+				<skill id="266"/>	<!--Song of Water-->
+				<skill id="267"/>	<!--Song of Warding-->
+				<skill id="268"/>	<!--Song of Wind-->
+				<skill id="269"/>	<!--Song of Hunter-->
+				<skill id="270"/>	<!--Song of Invocation-->
+				<skill id="304"/>	<!--Song of Vitality-->
+				<skill id="305"/>	<!--Song of Vengeance-->
+				<skill id="306"/>	<!--Song of Flame Guard-->
+				<skill id="308"/>	<!--Song of Storm Guard-->
+				<skill id="349"/>	<!--Song of Renewal-->
+				<skill id="363"/>	<!--Song of Meditation-->
+				<skill id="364"/>	<!--Song of Champion-->
+				<skill id="529"/>	<!--Song of Elemental-->
+				<skill id="271"/>	<!--Dance of the Warrior-->
+				<skill id="272"/>	<!--Dance of Inspiration-->
+				<skill id="273"/>	<!--Dance of the Mystic-->
+				<skill id="274"/>	<!--Dance of Fire-->
+				<skill id="275"/>	<!--Dance of Fury-->
+				<skill id="276"/>	<!--Dance of concentration-->
+				<skill id="277"/>	<!--Dance of Light-->
+				<skill id="307"/>	<!--Dance of Aqua Guard-->
+				<skill id="309"/>	<!--Dance of Earth Guard-->
+				<skill id="310"/>	<!--Dance of the Vampire-->
+				<skill id="311"/>	<!--Dance of Protection-->
+				<skill id="365"/>	<!--Siren's Dance-->
+				<skill id="530"/>	<!--Dance of Alignment-->
+				<skill id="915"/>	<!--Dance of Berserker-->
+			</skills>
+		</buff_set>
+		<buff_set id="6">
+			<name>
+				<en>Maximum speed</en>
+				<ru>Максимум скорости</ru>
+			</name>
+			<skills>
+				<skill id="1504"/>	<!--Improved Movement-->
+				<skill id="1257"/>	<!--Decrease Weight-->
+				<skill id="1062"/>	<!--Berserker Spirit-->
+				<skill id="268"/>	<!--Song of Wind-->
+			</skills>
+		</buff_set>
+	</base_buff_sets>
+</list>

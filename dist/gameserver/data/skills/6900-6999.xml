@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+  <skill id="6900" levels="1" name="84 level Raid Boss">
+    <!-- "In order to gather monsters that would protect its territory, Antharas created countless sacrifice victims. The Bleeding Fly was enchanted by the stench of corpses and came up above ground. This nobility of purgatory, who feeds on the blood of hatred and fear, called itself the Gatekeeper of Antharas, and it took its place on one side of the Valley where there is an endless stream of reckless challengers." -->
+    <set name="icon" value="icon.skillraid" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6901" levels="1" name="84 level Raid Boss">
+    <!-- "A Drake warrior that was once called the right wing of Antharas in battle. During the war against the gods, it lost two of its wings to injury and fell into a deep part of Purgatory. However, it was recently awakened by Antharas's call. It hold a deep grudge against the gods, especially Einhasad, and it believes that only the darkness of Shilen can bring rest to the world." -->
+    <set name="icon" value="icon.skillraid" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6902" levels="1" name="84 level Raid Boss">
+    <!-- "It was once the subordinate of the Dark Dragon Skelus. It was one of the nobility of Purgatory who resided deep inside. But it came above ground at Antharas's calling. It protects the Nest of Antharas, and it also informs Skelus about the area's developments. When it was in Purgatory, it was called ""Hell's Corpse Detonator"" because of its sinister pleasure in making its comrades explode." -->
+    <set name="icon" value="icon.skillraid" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6903" levels="1" name="84 level Raid Boss">
+    <!-- "A monsters summoned from Purgatory by the demon Maluk in exchange for one finger. As part of their agreement, Maluk presented an endless supply of hunting prey. The Spike Slasher accepted the proposal and came above ground with its subordinates in tow from Purgatory." -->
+    <set name="icon" value="icon.skillraid" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6904" levels="1" name="84 level Raid Boss">
+    <!-- The monster was created by the demon Maluk by joining a high-level demon with a dragon. It possesses the advantages of both demons and dragons. Maluk offered this exceptional creature to Antharas. Antharas fed its blood to the Muscle Bomber and appointed it as the Valley's Watcher. -->
+    <set name="icon" value="icon.skillraid" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6905" levels="1" name="85 level Raid Boss">
+    <!-- "They say that this monster was created through the fusion of a human hero's body, who opened the Gate of Purgatory, and the spitefulness of countless monsters. However, this rumor is not confirmed. In any case, it has come above ground at Shilen's command, and it watches over the dragon's dungeon as an aide of Antharas. It possess exceptional abilities, and it is uniquely rational and cold-hearted. As such, it supposedly gives good assistance to the tyrant Antharas." -->
+    <set name="icon" value="icon.skillraid" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6906" levels="1" name="85 level Raid Boss">
+    <!-- "A purgatory monster sent to Antharas by Shilen. The Behemoth Leader who came above ground was filled with uncontrollable madness as soon as it was unshackled. It killed countless monsters and eventually even tore off some of the flesh of Antharas, its master. Antharas burst into laughter at its foolish actions, and he cast a spell so that it would guard the Essence of Antharas, which maintains the dungeon's barrier." -->
+    <set name="icon" value="icon.skillraid" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6907" levels="1" name="85 level Raid Boss">
+    <!-- "A Knight of Purgatory who has long assisted Antharas, together with the Black Dagger Wing. During the war against the gods, it broke both arms and fell into a deep slumber within Purgatory. It recently awakened at Antharas's call. When the Dragon Beast appeared above ground, Antharas sliced off his own flesh in order to create its two arms. Then, he made it guard the dragon's dungeon." -->
+    <set name="icon" value="icon.skillraid" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6908" levels="1" name="Transform Master">
+		<!-- Custom skill: GM Only -->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skilltransform1" />
+		<set name="reuseDelay" value="5000" />
+		<set name="hitTime" value="500" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="TRANSFORMATION" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="addSkills" value="619;1" />
+		<set name="npcId" value="13298" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isCommon" value="true" />
+		<for>
+			<effect count="1" name="Transformation" time="80000" value="22">
+				<mul order="0x30" stat="mAtkSpd" value="1.8">
+					<or>
+						<using armor="Light" />
+						<using armor="Heavy" />
+					</or>
+				</mul>
+			</effect>
+		</for>
+	</skill>
+	<skill id="6909" levels="1" name="Charming">
+    <!-- Custom skill: GM Only -->
+    <set name="magicLevel" value="99" />
+    <set name="icon" value="icon.skilltransform1" />
+    <set name="target" value="TARGET_AURA" />
+    <set name="skillType" value="MDAM" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="skillRadius" value="500" />
+    <set name="power" value="999999" />
+    <set name="hitTime" value="500" />
+  </skill>
+  <skill id="6909" levels="1" name="Charming">
+    <!-- Shows the game master's charming actions. -->
+    <set name="icon" value="icon.skilltransform1" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6910" levels="1" name="Dance">
+    <!-- Shows the game master's dancing skills. -->
+    <set name="icon" value="icon.skilltransform2" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6911" levels="1" name="Greeting">
+    <!-- Shows the game master's greeting. -->
+    <set name="icon" value="icon.skilltransform3" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6912" levels="1" name="Stigma Aftermath">
+    <!-- "Antharas's Stigma Aftermath. For 10 seconds, decreases 500 HP and 300 MP per second." -->
+    <set name="icon" value="icon.skill5860" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6913" levels="1" name="Challenge of Faith">
+    <set name="icon" value="icon.skill0985" />
+    <set name="magicLevel" value="83" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isSaveable" value="false" />
+    <set name="isTrigger" value="true" />
+    <for>
+      <effect count="1" name="Buff" time="15" value="0">
+        <add order="0x40" stat="pDef" value="360" />
+        <add order="0x40" stat="mDef" value="270" />
+      </effect>
+    </for>
+  </skill>
+  <skill id="6914" levels="10" name="NPC Haste">
+    <!-- none -->
+    <set name="icon" value="icon.skill1086" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6915" levels="10" name="npc Acumen">
+    <!-- none -->
+		<table name="#castSpd">1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 2</table>
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0985"/>
+		<set name="magicLevel" value="83"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<for>
+			<effect count="1" name="Buff" time="600" stackOrder="4" stackType="mAtkSpeedUp" value="0">
+				<mul order="0x30" stat="mAtkSpd" value="#castSpd"/>
+			</effect>
+		</for>
+  </skill>
+  <skill id="6916" levels="1" name="Antharas's Cute Tricks">
+    <!-- You can see the summoned spirit's cute tricks. -->
+    <set name="magicType" value="SPECIAL" />
+    <set name="icon" value="icon.skill_agathion_cute" />
+    <set name="magicLevel" value="85" />
+    <set name="hitTime" value="3000" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="hitTime" value="3000" />
+    <set name="isReuseDelayPermanent" value="true" />
+    <cond msgId="2292">
+      <player agathion="16077" />
+    </cond>
+  </skill>
+  <skill id="6917" levels="1" name="Kanna's Splendor">
+    <!-- Able to see the summoned spirit's splendor. -->
+    <set name="icon" value="icon.skill_agathion_cute" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6918" levels="1" name="Kallesin's Splendor">
+    <!-- Able to see the summoned spirit's splendor. -->
+    <set name="icon" value="icon.skill_agathion_cute" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6919" levels="1" name="Challenge Acceptance">
+    <!-- none -->
+    <set name="icon" value="icon.skill0000" />
+    <set name="target" value="TARGET_NONE" />
+    <set name="skillType" value="NOTDONE" />
+    <set name="operateType" value="OP_PASSIVE" />
+  </skill>
+  <skill id="6920" levels="1" name="Collector's Fortune">
+    <!-- "A collector's luck. Increases P. Atk. by 15%, Critical Rate by 10%, Critical Damage by 10%, Atk. Spd. by 3%, and Speed by 5." -->
+    <set name="icon" value="BranchSys2.icon.skill0952" />
+    <set name="magicLevel" value="66" />
+    <set name="reuseDelay" value="15000" />
+    <set name="target" value="TARGET_SELF" />
+    <set name="skillType" value="BUFF" />
+    <set name="operateType" value="OP_ACTIVE" />
+    <set name="isTrigger" value="true" />
+    <for>
+      <effect name="Buff" count="1" time="10" value="0">
+        <mul order="0x30" stat="pAtk" value="1.15" />
+        <add order="0x40" stat="rCrit" value="10" />
+        <mul order="0x30" stat="cAtk" value="1.1" />
+        <mul order="0x30" stat="pAtkSpd" value="1.03" />
+        <add order="0x40" stat="runSpd" value="5" />
+      </effect>
+    </for>
+  </skill>
+  <skill id="6921" levels="1" name="Peircing Attack">
+    <set name="icon" value="icon.skill0122" />
+		<set name="levelModifier" value="2"/>
+		<set name="magicType" value="MAGIC"/>
+    <set name="magicLevel" value="80" />
+		<set name="mpConsume2" value="1"/>
+		<set name="activateRate" value="80"/>
+    <set name="target" value="TARGET_ONE" />
+		<set name="skillRadius" value="500"/>
+    <set name="skillType" value="DEBUFF" />
+    <set name="operateType" value="OP_ACTIVE" />
+		<set name="saveVs" value="MEN"/>
+    <for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="pd_down" time="5" value="0">
+        <mul order="0x30" stat="pDef" value="0.77" />
+      </effect>
+    </for>
+  </skill>
+</list>

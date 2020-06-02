@@ -1,0 +1,31 @@
+<html><body>
+<title>Меню навыков</title>
+<table width=260>
+<tr>
+	<td width=40><button value="Главная" action="bypass -h admin_admin" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	<td width=180><center>Меню навыков</center></td>
+	<td width=40><button value="Назад" action="bypass -h admin_show_skills" width=40 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+</table>
+<br>
+<table width=200>
+	<tr><td><a action="bypass -h admin_show_html skills/Human/human.htm">Навыки Людей</a></td></tr>
+	<tr><td><a action="bypass -h admin_show_html skills/Elf/elf.htm">Навыки Эльфов</a></td></tr>
+	<tr><td><a action="bypass -h admin_show_html skills/DarkElf/delf.htm">Навыки Темных Эльфов</a></td></tr>
+	<tr><td><a action="bypass -h admin_show_html skills/Orc/orc.htm">Навыки Орков</a></td></tr>
+	<tr><td><a action="bypass -h admin_show_html skills/Dwarf/dwarf.htm">Навыки Гномов</a></td></tr>
+	<tr><td><a action="bypass -h admin_show_html skills/Kamael/kamael.htm">Навыки Камаэлей</a></td></tr>
+	<tr><td><a action="bypass -h admin_show_html skills/Special/Common_Skills.htm">Базовые Навыки</a></td></tr>
+	<tr><td><a action="bypass -h admin_show_html skills/Special/Clan_Skills.htm">Клан Навыки</a></td></tr>
+	<tr><td><a action="bypass -h admin_show_html skills/Special/Hero_Skills.htm">Навыки Героя</a></td></tr>
+	<tr><td><a action="bypass -h admin_show_html skills/Special/Nobless_Skills.htm">Навыки Дворянина</a></td></tr>
+	<tr><td><a action="bypass -h admin_show_html skills/Special/GM_Skills.htm">ГМ Навыки</a></td></tr>
+	<tr><td><a action="bypass -h admin_show_html skills/Special/Fishing_Skills.htm">Навыки Рыбалки</a></td></tr>
+</table>
+<center><br>Добавить Скил по Скил ИД:<br>
+<table width=100>
+	<tr><td>ИД:<edit var="id" width=40></td><td>Уровень:<edit var="level" width=40></td></tr>
+	<tr><td><button value="Добавить" action="bypass -h admin_add_skill $id $level" width=40 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+</table>
+</center>
+</body></html>

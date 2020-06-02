@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<!-- Улучшения -->
+	<item>
+		<production id="22014" count="1"/>	<!-- -->
+		<ingredient id="4037" count="1"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="22016" count="1"/>	<!-- -->
+		<ingredient id="4037" count="1"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="22015" count="1"/>	<!-- -->
+		<ingredient id="4037" count="3"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="22017" count="1"/>	<!-- -->
+		<ingredient id="4037" count="2"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="20519" count="1"/>	<!-- -->
+		<ingredient id="4037" count="7"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="20520" count="1"/>	<!-- -->
+		<ingredient id="4037" count="6"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="20521" count="1"/>	<!-- Divine Weapon Enchant Crystal 100%(S-Grade) -->
+		<ingredient id="4037" count="11"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="20522" count="1"/>	<!-- Divine Armor Enchant Crystal 100%(S-Grade) -->
+		<ingredient id="4037" count="10"/>	<!--СOL -->
+	</item>
+	
+	<item>
+		<production id="16163" count="15"/>	<!-- -->
+		<ingredient id="4037" count="1"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="16167" count="25"/>	<!-- -->
+		<ingredient id="4037" count="2"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="14680" count="1"/>	<!-- -->
+		<ingredient id="4037" count="2"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="14681" count="1"/>	<!-- -->
+		<ingredient id="4037" count="3"/>	<!--Gold -->
+	</item>
+	<item>
+		<production id="14679" count="1"/>	<!-- -->
+		<ingredient id="4037" count="1"/>	<!--Gold -->
+	</item>
+	<!-- SA -->
+	<item>
+		<production id="15542" count="1"/>	<!-- -->
+		<ingredient id="4037" count="7"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="15827" count="1"/>	<!-- -->
+		<ingredient id="4037" count="10"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="15541" count="1"/>	<!-- -->
+		<ingredient id="4037" count="7"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="15826" count="1"/>	<!-- -->
+		<ingredient id="4037" count="10"/>	<!--СOL -->
+	</item>
+	<item>
+		<production id="15543" count="1"/>	<!-- -->
+		<ingredient id="4037" count="7"/>	<!--Gold -->
+	</item>
+	<item>
+		<production id="15828" count="1"/>	<!-- -->
+		<ingredient id="4037" count="10"/>	<!--Gold -->
+	</item>
+	<item>
+		<production id="9627" count="100"/>	<!-- -->
+		<ingredient id="4037" count="8"/>	<!--Gold -->
+	</item>
+</list>

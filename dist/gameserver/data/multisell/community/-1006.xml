@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<!--   Роба  -->
+	<item>
+		<production id="15574" count="1"/>	<!-- Диадема Элегии -->
+		<ingredient id="4037" count="20"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15577" count="1"/>	<!-- Туника Элегии -->
+		<ingredient id="4037" count="45"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15580" count="1"/>	<!-- Штаны Элегии -->
+		<ingredient id="4037" count="35"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15586" count="1"/>	<!-- Ботинки Элегии -->
+		<ingredient id="4037" count="15"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15583" count="1"/>	<!-- Перчатки Элегии -->
+		<ingredient id="4037" count="15"/>	<!--col-->
+	</item>
+	<!--   Легкий    -->
+	<item>
+		<production id="15573" count="1"/>	<!-- Кожаный Шлем Элегии -->
+		<ingredient id="4037" count="25"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15576" count="1"/>	<!-- Кожаная Кираса Элегии -->
+		<ingredient id="4037" count="45"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15579" count="1"/>	<!-- Кожаные Брюки Элегии -->
+		<ingredient id="4037" count="40"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15585" count="1"/>	<!-- Кожаные Сапоги Элегии -->
+		<ingredient id="4037" count="20"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15582" count="1"/>	<!-- Кожаные Перчатки Элегии -->
+		<ingredient id="4037" count="20"/>	<!--col-->
+	</item>
+	<!--  Тяжелый   -->
+	<item>
+		<production id="15572" count="1"/>	<!-- Шлем Элегии -->
+		<ingredient id="4037" count="20"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15575" count="1"/>	<!-- Кираса Элегии -->
+		<ingredient id="4037" count="45"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15578" count="1"/>	<!-- Набедренники Элегии -->
+		<ingredient id="4037" count="35"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15584" count="1"/>	<!-- Сапоги Элегии -->
+		<ingredient id="4037" count="15"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15581" count="1"/>	<!-- Рукавицы Элегии -->
+		<ingredient id="4037" count="15"/>	<!--col-->
+	</item>
+	<!--  Щиты   -->
+	<item>
+		<production id="15588" count="1"/>	<!-- Символ Элегии -->
+		<ingredient id="4037" count="20"/>	<!--col-->
+	</item>
+	<item>
+		<production id="15587" count="1"/>	<!-- Щит Элегии -->
+		<ingredient id="4037" count="20"/>	<!--col-->
+	</item>
+	
+</list>

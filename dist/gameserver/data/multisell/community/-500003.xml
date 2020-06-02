@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<!-- СА красный  -->
+	<item>
+		<production id="5577" count="1"/>	<!-- -->
+		<ingredient id="57" count="50000000"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="5580" count="1"/>	<!-- -->
+		<ingredient id="57" count="60000000"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="5908" count="1"/>	<!-- -->
+		<ingredient id="57" count="75000000"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="9570" count="1"/>	<!-- -->
+		<ingredient id="4357" count="250"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="10480" count="1"/>	<!-- -->
+		<ingredient id="4357" count="300"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="13071" count="1"/>	<!-- -->
+		<ingredient id="4357" count="350"/>	<!--Adena-->
+	</item>
+	<!--  СА зеленый  -->
+	<item>
+		<production id="5578" count="1"/>	<!-- -->
+		<ingredient id="57" count="50000000"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="5581" count="1"/>	<!-- -->
+		<ingredient id="57" count="60000000"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="5911" count="1"/>	<!-- -->
+		<ingredient id="57" count="75000000"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="9572" count="1"/>	<!-- -->
+		<ingredient id="4357" count="250"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="10482" count="1"/>	<!-- -->
+		<ingredient id="4357" count="300"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="13073" count="1"/>	<!-- -->
+		<ingredient id="4357" count="350"/>	<!--Adena-->
+	</item>
+	    <!--  СА синий   -->
+	<item>
+		<production id="5579" count="1"/>	<!-- -->
+		<ingredient id="57" count="50000000"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="5582" count="1"/>	<!-- -->
+		<ingredient id="57" count="60000000"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="5914" count="1"/>	<!-- -->
+		<ingredient id="57" count="75000000"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="9571" count="1"/>	<!-- -->
+		<ingredient id="4357" count="250"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="10481" count="1"/>	<!-- -->
+		<ingredient id="4357" count="300"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="13072" count="1"/>	<!-- -->
+		<ingredient id="4357" count="350"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="10160" count="1"/>	<!-- -->
+		<ingredient id="4357" count="500"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="10161" count="1"/>	<!-- -->
+		<ingredient id="4357" count="500"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="10162" count="1"/>	<!-- -->
+		<ingredient id="4357" count="500"/>	<!--Adena-->
+	</item>
+</list>

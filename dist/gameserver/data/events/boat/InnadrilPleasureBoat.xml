@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "events.dtd">
+<list>
+	<event id="4" name="InnadrilPleasureBoat" impl="BoatWay">
+		<parameter name="class" value="Vehicle" />
+		<parameter name="broadcast_point" value="111384 226232 -3610" />
+		<parameter name="spawn_point" value="111384 226232 -3610 32768" />
+		<parameter name="return_point" value="111553 225748 -3600" />
+		<on_time>
+			<on time="0">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_arrival_departure" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_HAS_ARRIVED"/>
+			</on>
+			<on time="300">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_5min" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_LEAVE_IN_FIVE_MINUTES"/>
+			</on>
+			<on time="540">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_1min" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_LEAVE_IN_ONE_MINUTE"/>
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THOSE_WISHING_TO_RIDE_THE_FERRY_SHOULD_MAKE_HASTE_TO_GET_ON"/>
+			</on>
+			<on time="580">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_1min" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_BE_LEAVING_SOON"/>
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THOSE_WISHING_TO_RIDE_THE_FERRY_SHOULD_MAKE_HASTE_TO_GET_ON"/>
+			</on>
+			<on time="600">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_IS_LEAVING"/>
+				<start name="event"/>
+			</on>
+			<on time="715">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_ARRIVE_IN_APPROXIMATELY_20_MINUTES"/>
+			</on>
+			<on time="1015">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_ARRIVE_IN_APPROXIMATELY_15_MINUTES"/>
+			</on>
+			<on time="1315">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_ARRIVE_IN_APPROXIMATELY_10_MINUTES"/>
+			</on>
+			<on time="1615">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_ARRIVE_IN_APPROXIMATELY_5_MINUTES"/>
+			</on>
+			<on time="1855">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_ARRIVE_IN_APPROXIMATELY_1_MINUTE"/>
+			</on>
+		</on_time>
+		<objects name="boat_points">
+			<boat_point speed1="150" speed2="800" x="105448" y="226232" z="-3610"/>
+			<boat_point speed1="150" speed2="800" x="92248" y="238200" z="-3610"/>
+			<boat_point speed1="180" speed2="800" x="75896" y="238200" z="-3610"/>
+			<boat_point speed1="180" speed2="800" x="68648" y="235576" z="-3610"/>
+			<boat_point speed1="180" speed2="800" x="63672" y="230920" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="62008" y="225208" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="62008" y="222240" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="62008" y="203608" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="59557" y="198238" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="54640" y="195466" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="41088" y="196256" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="36785" y="199386" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="35684" y="204618" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="35684" y="221994" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="36288" y="224576" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="37760" y="226442" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="42593" y="229210" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="60656" y="233594" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="74176" y="245050" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="80928" y="249866" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="101312" y="249866" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="106048" y="254666" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="111936" y="256634" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="121264" y="256634" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="125536" y="255050" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="128048" y="251354" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="128672" y="238506" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="128368" y="236634" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="127104" y="235306" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="125008" y="234730" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="122320" y="234730" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="120544" y="234426" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="119104" y="233674" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="118288" y="231466" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="117840" y="229210" z="-3610"/>
+			<boat_point speed1="150" speed2="1800" x="116320" y="226518" z="-3610"/>
+			<boat_point speed1="150" speed2="1800" x="114024" y="226232" z="-3610"/>
+			<boat_point speed1="150" speed2="800" x="111384" y="226232" z="-3610"/>
+	</objects>
+	</event>
+	<event id="5" name="InnadrilPleasureBoat" impl="BoatWay">
+		<parameter name="broadcast_point" value="111384 226232 -3610" />
+		<parameter name="return_point" value="111553 225748 -3600" />
+		<on_time>
+			<on time="0">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_arrival_departure" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_HAS_ARRIVED"/>
+			</on>
+			<on time="300">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_5min" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_LEAVE_IN_FIVE_MINUTES"/>
+			</on>
+			<on time="540">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_1min" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_LEAVE_IN_ONE_MINUTE"/>
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THOSE_WISHING_TO_RIDE_THE_FERRY_SHOULD_MAKE_HASTE_TO_GET_ON"/>
+			</on>
+			<on time="580">
+				<play_sound type="SOUND" range="-1" sound="itemsound.ship_1min" />
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_BE_LEAVING_SOON"/>
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THOSE_WISHING_TO_RIDE_THE_FERRY_SHOULD_MAKE_HASTE_TO_GET_ON"/>
+			</on>
+			<on time="600">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_IS_LEAVING"/>
+				<start name="event"/>
+			</on>
+			<on time="715">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_ARRIVE_IN_APPROXIMATELY_20_MINUTES"/>
+			</on>
+			<on time="1015">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_ARRIVE_IN_APPROXIMATELY_15_MINUTES"/>
+			</on>
+			<on time="1315">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_ARRIVE_IN_APPROXIMATELY_10_MINUTES"/>
+			</on>
+			<on time="1615">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_ARRIVE_IN_APPROXIMATELY_5_MINUTES"/>
+			</on>
+			<on time="1855">
+				<say how="PASSENGER_BOAT_INFO" chat="SYSTEM_MESSAGE" range="-1" text="THE_INNADRIL_PLEASURE_BOAT_WILL_ARRIVE_IN_APPROXIMATELY_1_MINUTE"/>
+			</on>
+		</on_time>
+		<objects name="boat_points">
+			<boat_point speed1="150" speed2="800" x="105448" y="226232" z="-3610"/>
+			<boat_point speed1="150" speed2="800" x="92248" y="238200" z="-3610"/>
+			<boat_point speed1="180" speed2="800" x="75896" y="238200" z="-3610"/>
+			<boat_point speed1="180" speed2="800" x="68648" y="235576" z="-3610"/>
+			<boat_point speed1="180" speed2="800" x="63672" y="230920" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="62008" y="225208" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="62008" y="222240" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="62008" y="203608" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="59557" y="198238" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="54640" y="195466" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="41088" y="196256" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="36785" y="199386" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="35684" y="204618" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="35684" y="221994" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="36288" y="224576" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="37760" y="226442" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="42593" y="229210" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="60656" y="233594" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="74176" y="245050" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="80928" y="249866" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="101312" y="249866" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="106048" y="254666" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="111936" y="256634" z="-3610"/>
+			<boat_point speed1="250" speed2="800" x="121264" y="256634" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="125536" y="255050" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="128048" y="251354" z="-3610"/>
+			<boat_point speed1="200" speed2="800" x="128672" y="238506" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="128368" y="236634" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="127104" y="235306" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="125008" y="234730" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="122320" y="234730" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="120544" y="234426" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="119104" y="233674" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="118288" y="231466" z="-3610"/>
+			<boat_point speed1="180" speed2="1800" x="117840" y="229210" z="-3610"/>
+			<boat_point speed1="150" speed2="1800" x="116320" y="226518" z="-3610"/>
+			<boat_point speed1="150" speed2="1800" x="114024" y="226232" z="-3610"/>
+			<boat_point speed1="150" speed2="800" x="111384" y="226232" z="-3610"/>
+	</objects>
+	</event>
+</list>

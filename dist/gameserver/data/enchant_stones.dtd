@@ -1,0 +1,22 @@
+<!ELEMENT list (default|enchant_stone)*>
+
+	<!ELEMENT default (#PCDATA)>
+	<!ATTLIST default
+		on_fail CDATA #REQUIRED
+		min_enchant_level CDATA #REQUIRED
+		min_fullbody_enchant_level CDATA #REQUIRED
+		max_enchant_level CDATA #REQUIRED>
+
+	<!ELEMENT enchant_stone (#PCDATA)>
+	<!ATTLIST enchant_stone
+		id CDATA #REQUIRED
+		chance CDATA #REQUIRED
+		grade CDATA #REQUIRED
+		type CDATA #REQUIRED
+		on_fail CDATA #IMPLIED
+		enchant_drop_count CDATA #IMPLIED
+		min_enchant_level CDATA #IMPLIED
+		min_fullbody_enchant_level CDATA #IMPLIED
+		max_enchant_level CDATA #IMPLIED
+		min_enchant_step CDATA #IMPLIED
+		max_enchant_step CDATA #IMPLIED>

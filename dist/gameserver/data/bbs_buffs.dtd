@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT list (available_skills|base_buff_sets)*>
+
+	<!ELEMENT available_skills (skills_group|premium_skills|skill)*>
+
+		<!ELEMENT skills_group (skill)*>
+		<!ATTLIST skills_group
+			time_modifier CDATA #IMPLIED
+			time_assign CDATA #IMPLIED>
+
+		<!ELEMENT premium_skills (skills_group|skill)*>
+
+			<!ELEMENT skill (#PCDATA)>
+			<!ATTLIST skill
+				id CDATA #REQUIRED
+				level CDATA #IMPLIED
+				time_modifier CDATA #IMPLIED
+				time_assign CDATA #IMPLIED>
+
+	<!ELEMENT base_buff_sets (buff_set)*>
+
+		<!ELEMENT buff_set (name|skills)*>
+		<!ATTLIST buff_set
+			id CDATA #REQUIRED>
+
+			<!ELEMENT name (ko|en|zh|th|ru|pt|es|ar|el|ka|hu|fi|uk|vi)*>
+
+				<!ELEMENT ko (#PCDATA)>
+				<!ELEMENT en (#PCDATA)>
+				<!ELEMENT zh (#PCDATA)>
+				<!ELEMENT th (#PCDATA)>
+				<!ELEMENT ru (#PCDATA)>
+				<!ELEMENT pt (#PCDATA)>
+				<!ELEMENT es (#PCDATA)>
+				<!ELEMENT ar (#PCDATA)>
+				<!ELEMENT el (#PCDATA)>
+				<!ELEMENT ka (#PCDATA)>
+				<!ELEMENT hu (#PCDATA)>
+				<!ELEMENT fi (#PCDATA)>
+				<!ELEMENT uk (#PCDATA)>
+				<!ELEMENT vi (#PCDATA)>
+
+			<!ELEMENT skills (skill)*>

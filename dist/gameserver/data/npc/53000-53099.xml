@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+<list>
+	<npc id="53000" template_id="31220" name="Cosmo" title="Beta NPC">
+		<set name="type" value="BetaNPC"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="16"/>
+		<set name="collision_radius" value="9"/>
+		<set name="level" value="70"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="2444.468"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1345.8"/>
+		<set name="baseMpReg" value="2.7"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="1303"/>
+		<set name="basePDef" value="471"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="780"/>
+		<set name="baseMDef" value="382"/>
+		<set name="baseWalkSpd" value="80"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="13"/>
+		<set name="baseAttackType" value="FIST"/>
+		<set name="basePHitModify" value="0"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<attributes>
+			<defence attribute="fire" value="150"/>
+			<defence attribute="water" value="150"/>
+			<defence attribute="wind" value="150"/>
+			<defence attribute="earth" value="150"/>
+			<defence attribute="holy" value="150"/>
+			<defence attribute="unholy" value="150"/>
+		</attributes>
+	</npc>
+	<npc id="53001" template_id="22544" name="Magic Soldier" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_height" value="34.5"/>
+		<set name="collision_radius" value="25"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="84936"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="9090"/>
+		<set name="baseHpMax" value="14093.427"/>
+		<set name="baseHpRate" value="0.5"/>
+		<set name="baseHpReg" value="114.4"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="11557"/>
+		<set name="basePDef" value="923"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="7354"/>
+		<set name="baseMDef" value="1125"/>
+		<set name="baseWalkSpd" value="110"/>
+		<set name="baseRunSpd" value="180"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="13"/>
+		<set name="baseAttackType" value="FIST"/>
+		<set name="basePHitModify" value="0"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="SOUL_BSPIRIT"/>
+		<set name="texture" value=""/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13981"/>	<!--Exclusive to Monsters (Mounted Troops Tactics)-->
+		</equip>
+		<skills>
+			<skill id="4408" level="9"/>	<!--HP Increase (1/2x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="4416" level="10"/>	<!--Dragons-->
+			<skill id="5462" level="1"/>	<!--Fire Attacks-->
+			<skill id="5312" level="5"/>	<!--NPC(party) -Magic Single Long Range DD - Fire-->
+			<skill id="5829" level="4"/>	<!--Fire Flare-->
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="100">
+				<reward item_id="6673" min="1" max="2" chance="100"/>	<!--Festival Adena-->
+			</group>
+			<group chance="100">
+				<reward item_id="6622" min="1" max="1" chance="25"/>	<!--Giant's Codex-->
+				<reward item_id="9627" min="1" max="1" chance="4"/>	<!--Giant's Codex - Mastery-->
+			</group>
+			<group chance="40">
+				<reward item_id="9546" min="1" max="2" chance="40"/>	<!--Fire Stone-->
+				<reward item_id="9547" min="1" max="2" chance="40"/>	<!--Water Stone-->
+				<reward item_id="9548" min="1" max="2" chance="40"/>	<!--Earth Stone-->
+				<reward item_id="9549" min="1" max="2" chance="40"/>	<!--Wind Stone-->
+				<reward item_id="9550" min="1" max="2" chance="40"/>	<!--Dark Stone-->
+				<reward item_id="9551" min="1" max="2" chance="40"/>	<!--Divine Stone-->
+			</group>
+			<group chance="20">
+				<reward item_id="9552" min="1" max="2" chance="20"/>	<!--Fire Crystal-->
+				<reward item_id="9553" min="1" max="2" chance="20"/>	<!--Water Crystal-->
+				<reward item_id="9554" min="1" max="2" chance="20"/>	<!--Earth Crystal-->
+				<reward item_id="9555" min="1" max="2" chance="20"/>	<!--Wind Crystal-->
+				<reward item_id="9556" min="1" max="2" chance="20"/>	<!--Dark Crystal-->
+				<reward item_id="9557" min="1" max="2" chance="20"/>	<!--Divine Crystal-->
+			</group>
+			<group chance="3">
+				<reward item_id="6578" min="1" max="1" chance="100"/>	<!--Blessed Scroll: Enchant Armor (S)-->
+			</group>
+			<group chance="1">
+				<reward item_id="6577" min="1" max="1" chance="100"/>	<!--Blessed Scroll: Enchant Weapon (S)-->
+			</group>
+			<group chance="10">
+				<reward item_id="1540" min="1" max="10" chance="100"/>	<!--Quick Healing Potion-->
+			</group>
+			<group chance="100">
+				<reward item_id="14168" min="1" max="1" chance="10"/>	<!--High-Grade Life Stone - level 84-->
+			</group>
+			<group chance="100">
+				<reward item_id="14169" min="1" max="1" chance="3"/>	<!--Top-Grade Life Stone - level 84-->
+			</group>
+			<group chance="100">
+				<reward item_id="6408" min="1" max="1" chance="0.5"/>	<!--Formal Wear-->
+			</group>
+			<group chance="100">
+				<reward item_id="21583" min="1" max="1" chance="0.3"/>	<!--Festival's Cloak - True Black-->
+				<reward item_id="21587" min="1" max="1" chance="0.3"/>	<!--Festival's Cloak - Bloody Red-->
+				<reward item_id="21588" min="1" max="1" chance="0.3"/>	<!--Festival's Cloak - Pearl White-->
+			</group>
+			<group chance="100">
+				<reward item_id="1538" min="1" max="3" chance="4"/>	<!--Blessed Scroll of Escape-->
+				<reward item_id="3936" min="1" max="3" chance="4"/>	<!--Blessed Scroll of Resurrection-->
+			</group>
+		</rewardlist>
+		<attributes>
+			<attack attribute="fire" value="130"/>
+			<defence attribute="fire" value="180"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="150"/>
+			<defence attribute="earth" value="150"/>
+			<defence attribute="holy" value="150"/>
+			<defence attribute="unholy" value="150"/>
+		</attributes>
+	</npc>
+	<npc id="53002" template_id="22537" name="Grand Magician" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_height" value="49.9"/>
+		<set name="collision_radius" value="25"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="73171"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="7447"/>
+		<set name="baseHpMax" value="16744.827"/>
+		<set name="baseHpRate" value="0.5"/>
+		<set name="baseHpReg" value="110.577"/>
+		<set name="baseMpMax" value="1812"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="12017"/>
+		<set name="basePDef" value="991"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="7827"/>
+		<set name="baseMDef" value="1207"/>
+		<set name="baseWalkSpd" value="110"/>
+		<set name="baseRunSpd" value="180"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="13"/>
+		<set name="baseAttackType" value="FIST"/>
+		<set name="basePHitModify" value="0"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="SOUL_BSPIRIT"/>
+		<set name="texture" value=""/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<skills>
+			<skill id="4408" level="9"/>	<!--HP Increase (1/2x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="12"/>	<!--Slightly Strong M. Atk.-->
+			<skill id="4412" level="11"/>	<!--Average P. Def.-->
+			<skill id="4413" level="11"/>	<!--Average M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="4416" level="10"/>	<!--Dragons-->
+			<skill id="5462" level="1"/>	<!--Fire Attacks-->
+			<skill id="5830" level="1"/>	<!--Polearm Thrust-->
+			<skill id="5827" level="5"/>	<!--Fireball-->
+			<skill id="5831" level="1"/>	<!--Polearm Swing-->
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="100">
+				<reward item_id="6673" min="1" max="2" chance="100"/>	<!--Festival Adena-->
+			</group>
+			<group chance="100">
+				<reward item_id="6622" min="1" max="1" chance="25"/>	<!--Giant's Codex-->
+				<reward item_id="9627" min="1" max="1" chance="4"/>	<!--Giant's Codex - Mastery-->
+			</group>
+			<group chance="40">
+				<reward item_id="9546" min="1" max="2" chance="40"/>	<!--Fire Stone-->
+				<reward item_id="9547" min="1" max="2" chance="40"/>	<!--Water Stone-->
+				<reward item_id="9548" min="1" max="2" chance="40"/>	<!--Earth Stone-->
+				<reward item_id="9549" min="1" max="2" chance="40"/>	<!--Wind Stone-->
+				<reward item_id="9550" min="1" max="2" chance="40"/>	<!--Dark Stone-->
+				<reward item_id="9551" min="1" max="2" chance="40"/>	<!--Divine Stone-->
+			</group>
+			<group chance="20">
+				<reward item_id="9552" min="1" max="2" chance="20"/>	<!--Fire Crystal-->
+				<reward item_id="9553" min="1" max="2" chance="20"/>	<!--Water Crystal-->
+				<reward item_id="9554" min="1" max="2" chance="20"/>	<!--Earth Crystal-->
+				<reward item_id="9555" min="1" max="2" chance="20"/>	<!--Wind Crystal-->
+				<reward item_id="9556" min="1" max="2" chance="20"/>	<!--Dark Crystal-->
+				<reward item_id="9557" min="1" max="2" chance="20"/>	<!--Divine Crystal-->
+			</group>
+			<group chance="3">
+				<reward item_id="6578" min="1" max="1" chance="100"/>	<!--Blessed Scroll: Enchant Armor (S)-->
+			</group>
+			<group chance="1">
+				<reward item_id="6577" min="1" max="1" chance="100"/>	<!--Blessed Scroll: Enchant Weapon (S)-->
+			</group>
+			<group chance="10">
+				<reward item_id="1540" min="1" max="10" chance="100"/>	<!--Quick Healing Potion-->
+			</group>
+			<group chance="100">
+				<reward item_id="14168" min="1" max="1" chance="10"/>	<!--High-Grade Life Stone - level 84-->
+			</group>
+			<group chance="100">
+				<reward item_id="14169" min="1" max="1" chance="3"/>	<!--Top-Grade Life Stone - level 84-->
+			</group>
+			<group chance="100">
+				<reward item_id="6408" min="1" max="1" chance="0.5"/>	<!--Formal Wear-->
+			</group>
+			<group chance="100">
+				<reward item_id="21583" min="1" max="1" chance="0.3"/>	<!--Festival's Cloak - True Black-->
+				<reward item_id="21587" min="1" max="1" chance="0.3"/>	<!--Festival's Cloak - Bloody Red-->
+				<reward item_id="21588" min="1" max="1" chance="0.3"/>	<!--Festival's Cloak - Pearl White-->
+			</group>
+			<group chance="100">
+				<reward item_id="1538" min="1" max="3" chance="4"/>	<!--Blessed Scroll of Escape-->
+				<reward item_id="3936" min="1" max="3" chance="4"/>	<!--Blessed Scroll of Resurrection-->
+			</group>
+		</rewardlist>
+		<attributes>
+			<attack attribute="fire" value="130"/>
+			<defence attribute="fire" value="180"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="150"/>
+			<defence attribute="earth" value="150"/>
+			<defence attribute="holy" value="150"/>
+			<defence attribute="unholy" value="150"/>
+		</attributes>
+	</npc>
+	<npc id="53003" template_id="22541" name="Troop Infantry" title="">
+		<set name="type" value="Monster"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_height" value="42"/>
+		<set name="collision_radius" value="22"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="83347"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="8955"/>
+		<set name="baseHpMax" value="16093.427"/>
+		<set name="baseHpRate" value="0.5"/>
+		<set name="baseHpReg" value="114.4"/>
+		<set name="baseMpMax" value="1674.8"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="11557"/>
+		<set name="basePDef" value="923"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="7354"/>
+		<set name="baseMDef" value="1125"/>
+		<set name="baseWalkSpd" value="110"/>
+		<set name="baseRunSpd" value="180"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="13"/>
+		<set name="baseAttackType" value="FIST"/>
+		<set name="basePHitModify" value="0"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="SOUL_BSPIRIT"/>
+		<set name="texture" value=""/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13979"/>	<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Sword)-->
+			<lhand item_id="13980"/>	<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Shield)-->
+		</equip>
+		<skills>
+			<skill id="4408" level="9"/>	<!--HP Increase (1/2x)-->
+			<skill id="4409" level="1"/>	<!--MP Increase (1x)-->
+			<skill id="4410" level="11"/>	<!--Average P. Atk.-->
+			<skill id="4411" level="11"/>	<!--Average M. Atk.-->
+			<skill id="4412" level="14"/>	<!--Strong P. Def.-->
+			<skill id="4413" level="15"/>	<!--Strong M. Def.-->
+			<skill id="4414" level="2"/>	<!--Standard Type-->
+			<skill id="4415" level="3"/>	<!--One-handed Sword-->
+			<skill id="4416" level="10"/>	<!--Dragons-->
+			<skill id="5462" level="1"/>	<!--Fire Attacks-->
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="100">
+				<reward item_id="6673" min="1" max="2" chance="100"/>	<!--Festival Adena-->
+			</group>
+			<group chance="100">
+				<reward item_id="6622" min="1" max="1" chance="25"/>	<!--Giant's Codex-->
+				<reward item_id="9627" min="1" max="1" chance="4"/>	<!--Giant's Codex - Mastery-->
+			</group>
+			<group chance="40">
+				<reward item_id="9546" min="1" max="2" chance="40"/>	<!--Fire Stone-->
+				<reward item_id="9547" min="1" max="2" chance="40"/>	<!--Water Stone-->
+				<reward item_id="9548" min="1" max="2" chance="40"/>	<!--Earth Stone-->
+				<reward item_id="9549" min="1" max="2" chance="40"/>	<!--Wind Stone-->
+				<reward item_id="9550" min="1" max="2" chance="40"/>	<!--Dark Stone-->
+				<reward item_id="9551" min="1" max="2" chance="40"/>	<!--Divine Stone-->
+			</group>
+			<group chance="20">
+				<reward item_id="9552" min="1" max="2" chance="20"/>	<!--Fire Crystal-->
+				<reward item_id="9553" min="1" max="2" chance="20"/>	<!--Water Crystal-->
+				<reward item_id="9554" min="1" max="2" chance="20"/>	<!--Earth Crystal-->
+				<reward item_id="9555" min="1" max="2" chance="20"/>	<!--Wind Crystal-->
+				<reward item_id="9556" min="1" max="2" chance="20"/>	<!--Dark Crystal-->
+				<reward item_id="9557" min="1" max="2" chance="20"/>	<!--Divine Crystal-->
+			</group>
+			<group chance="3">
+				<reward item_id="6578" min="1" max="1" chance="100"/>	<!--Blessed Scroll: Enchant Armor (S)-->
+			</group>
+			<group chance="1">
+				<reward item_id="6577" min="1" max="1" chance="100"/>	<!--Blessed Scroll: Enchant Weapon (S)-->
+			</group>
+			<group chance="10">
+				<reward item_id="1540" min="1" max="10" chance="100"/>	<!--Quick Healing Potion-->
+			</group>
+			<group chance="100">
+				<reward item_id="14168" min="1" max="1" chance="10"/>	<!--High-Grade Life Stone - level 84-->
+			</group>
+			<group chance="100">
+				<reward item_id="14169" min="1" max="1" chance="3"/>	<!--Top-Grade Life Stone - level 84-->
+			</group>
+			<group chance="100">
+				<reward item_id="6408" min="1" max="1" chance="0.5"/>	<!--Formal Wear-->
+			</group>
+			<group chance="100">
+				<reward item_id="21583" min="1" max="1" chance="0.3"/>	<!--Festival's Cloak - True Black-->
+				<reward item_id="21587" min="1" max="1" chance="0.3"/>	<!--Festival's Cloak - Bloody Red-->
+				<reward item_id="21588" min="1" max="1" chance="0.3"/>	<!--Festival's Cloak - Pearl White-->
+			</group>
+			<group chance="100">
+				<reward item_id="1538" min="1" max="3" chance="4"/>	<!--Blessed Scroll of Escape-->
+				<reward item_id="3936" min="1" max="3" chance="4"/>	<!--Blessed Scroll of Resurrection-->
+			</group>
+		</rewardlist>
+		<attributes>
+			<attack attribute="fire" value="130"/>
+			<defence attribute="fire" value="180"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="150"/>
+			<defence attribute="earth" value="150"/>
+			<defence attribute="holy" value="150"/>
+			<defence attribute="unholy" value="150"/>
+		</attributes>
+	</npc>
+	<npc id="53004" template_id="35062" name="Flag" title="">
+		<set name="type" value="fightClub.FlagToCapture"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="58"/>
+		<set name="collision_radius" value="15"/>
+		<set name="level" value="1"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="158000"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="2"/>
+		<set name="baseMpMax" value="989"/>
+		<set name="baseMpReg" value="0.9"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="9"/>
+		<set name="basePDef" value="753"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="3"/>
+		<set name="baseMDef" value="295"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="13"/>
+		<set name="baseAttackType" value="FIST"/>
+		<set name="basePHitModify" value="0"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<skills>
+			<skill id="4416" level="19"/>
+			<!--Others-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+	</npc>
+	<npc id="53005" template_id="32027" name="Flag Holder" title="">
+		<set name="type" value="fightClub.FlagHolder"/>
+		<set name="ai_type" value="NpcAI"/>
+		<set name="collision_height" value="31"/>
+		<set name="collision_radius" value="30"/>
+		<set name="level" value="78"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="baseHpMax" value="2974.357"/>
+		<set name="baseHpRate" value="10"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1607.4"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseWIT" value="20"/>
+		<set name="basePCritRate" value="40"/>
+		<set name="basePAtk" value="1770"/>
+		<set name="basePDef" value="556"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseMAtk" value="1113"/>
+		<set name="baseMDef" value="451"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseRandDam" value="13"/>
+		<set name="baseAttackType" value="FIST"/>
+		<set name="basePHitModify" value="0"/>
+		<set name="basePAvoidModify" value="0"/>
+		<set name="baseHitTimeFactor" value="0"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseSafeHeight" value="100"/>
+		<set name="aggroRange" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<skills>
+			<skill id="4416" level="19"/>
+			<!--Others-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="150"/>
+			<defence attribute="water" value="150"/>
+			<defence attribute="wind" value="150"/>
+			<defence attribute="earth" value="150"/>
+			<defence attribute="holy" value="150"/>
+			<defence attribute="unholy" value="150"/>
+		</attributes>
+	</npc>
+</list>

@@ -1,0 +1,1 @@
+ALTER TABLE olympiad_nobles DROP COLUMN `class_id`;

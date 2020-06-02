@@ -1,0 +1,3622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "../dtd/spawn.dtd">
+<list>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-51327" y="-248623" zmin="-7904" zmax="-7854" />
+			<add x="-50689" y="-248609" zmin="-7904" zmax="-7854" />
+			<add x="-50724" y="-250452" zmin="-7904" zmax="-7854" />
+			<add x="-51331" y="-250437" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-49981" y="-248628" zmin="-7904" zmax="-7854" />
+			<add x="-49373" y="-248629" zmin="-7904" zmax="-7854" />
+			<add x="-49374" y="-250435" zmin="-7904" zmax="-7854" />
+			<add x="-49990" y="-250436" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-48550" y="-250571" zmin="-7904" zmax="-7854" />
+			<add x="-48547" y="-249979" zmin="-7904" zmax="-7854" />
+			<add x="-47919" y="-249976" zmin="-7904" zmax="-7854" />
+			<add x="-47916" y="-250566" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-49201" y="-247221" zmin="-7904" zmax="-7854" />
+			<add x="-49196" y="-246601" zmin="-7904" zmax="-7854" />
+			<add x="-47877" y="-246588" zmin="-7904" zmax="-7854" />
+			<add x="-47871" y="-247227" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-48555" y="-245965" zmin="-7904" zmax="-7854" />
+			<add x="-48550" y="-245372" zmin="-7904" zmax="-7854" />
+			<add x="-47918" y="-245368" zmin="-7904" zmax="-7854" />
+			<add x="-47932" y="-245967" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-51031" y="-245623" zmin="-7904" zmax="-7854" />
+			<add x="-51024" y="-246956" zmin="-7904" zmax="-7854" />
+			<add x="-50393" y="-246958" zmin="-7904" zmax="-7854" />
+			<add x="-50389" y="-245628" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-52883" y="-247575" zmin="-7904" zmax="-7854" />
+			<add x="-52882" y="-246928" zmin="-7904" zmax="-7854" />
+			<add x="-51557" y="-246946" zmin="-7904" zmax="-7854" />
+			<add x="-51561" y="-247575" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-53159" y="-245367" zmin="-7904" zmax="-7854" />
+			<add x="-53154" y="-245965" zmin="-7904" zmax="-7854" />
+			<add x="-52531" y="-245966" zmin="-7904" zmax="-7854" />
+			<add x="-52528" y="-245364" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-53176" y="-244274" zmin="-7904" zmax="-7854" />
+			<add x="-53166" y="-244874" zmin="-7904" zmax="-7854" />
+			<add x="-52539" y="-244878" zmin="-7904" zmax="-7854" />
+			<add x="-52539" y="-244273" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-53127" y="-243006" zmin="-7904" zmax="-7854" />
+			<add x="-53123" y="-242374" zmin="-7904" zmax="-7854" />
+			<add x="-51783" y="-242381" zmin="-7904" zmax="-7854" />
+			<add x="-51795" y="-243023" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-53165" y="-240271" zmin="-7904" zmax="-7854" />
+			<add x="-53159" y="-239672" zmin="-7904" zmax="-7854" />
+			<add x="-52543" y="-239667" zmin="-7904" zmax="-7854" />
+			<add x="-52537" y="-240269" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-52202" y="-241007" zmin="-7904" zmax="-7854" />
+			<add x="-52198" y="-239720" zmin="-7904" zmax="-7854" />
+			<add x="-51564" y="-239725" zmin="-7904" zmax="-7854" />
+			<add x="-51557" y="-241003" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-51092" y="-240280" zmin="-7904" zmax="-7854" />
+			<add x="-51089" y="-239644" zmin="-7904" zmax="-7854" />
+			<add x="-49774" y="-239646" zmin="-7904" zmax="-7854" />
+			<add x="-49780" y="-240283" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-51068" y="-242181" zmin="-7904" zmax="-7854" />
+			<add x="-51059" y="-243981" zmin="-7904" zmax="-7854" />
+			<add x="-50417" y="-243974" zmin="-7904" zmax="-7854" />
+			<add x="-50409" y="-242185" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-48557" y="-244873" zmin="-7904" zmax="-7854" />
+			<add x="-48557" y="-244273" zmin="-7904" zmax="-7854" />
+			<add x="-47927" y="-244280" zmin="-7904" zmax="-7854" />
+			<add x="-47925" y="-244876" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-49293" y="-241049" zmin="-7904" zmax="-7854" />
+			<add x="-49285" y="-241676" zmin="-7904" zmax="-7854" />
+			<add x="-47980" y="-241686" zmin="-7904" zmax="-7854" />
+			<add x="-47980" y="-241055" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-48565" y="-240267" zmin="-7904" zmax="-7854" />
+			<add x="-48563" y="-239674" zmin="-7904" zmax="-7854" />
+			<add x="-47918" y="-239676" zmin="-7904" zmax="-7854" />
+			<add x="-47933" y="-240265" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-42887" y="-245944" zmin="-7904" zmax="-7852" />
+			<add x="-42226" y="-245947" zmin="-7904" zmax="-7852" />
+			<add x="-42229" y="-245372" zmin="-7904" zmax="-7852" />
+			<add x="-42859" y="-245373" zmin="-7904" zmax="-7852" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-43595" y="-247862" zmin="-7904" zmax="-7854" />
+			<add x="-43593" y="-247237" zmin="-7904" zmax="-7854" />
+			<add x="-42263" y="-247240" zmin="-7904" zmax="-7854" />
+			<add x="-42266" y="-247868" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-42866" y="-250576" zmin="-7904" zmax="-7854" />
+			<add x="-42863" y="-249969" zmin="-7904" zmax="-7854" />
+			<add x="-42225" y="-249971" zmin="-7904" zmax="-7854" />
+			<add x="-42225" y="-250568" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-43834" y="-249213" zmin="-7904" zmax="-7854" />
+			<add x="-43173" y="-249201" zmin="-7904" zmax="-7854" />
+			<add x="-43182" y="-250576" zmin="-7904" zmax="-7854" />
+			<add x="-43832" y="-250570" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-45625" y="-250597" zmin="-7904" zmax="-7852" />
+			<add x="-45630" y="-249949" zmin="-7904" zmax="-7852" />
+			<add x="-44259" y="-249944" zmin="-7904" zmax="-7852" />
+			<add x="-44266" y="-250603" zmin="-7904" zmax="-7852" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47474" y="-249963" zmin="-7904" zmax="-7854" />
+			<add x="-47473" y="-250571" zmin="-7904" zmax="-7854" />
+			<add x="-46840" y="-250563" zmin="-7904" zmax="-7854" />
+			<add x="-46837" y="-249971" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47418" y="-248559" zmin="-7904" zmax="-7852" />
+			<add x="-47417" y="-249176" zmin="-7904" zmax="-7852" />
+			<add x="-46103" y="-249176" zmin="-7904" zmax="-7852" />
+			<add x="-46102" y="-248549" zmin="-7904" zmax="-7852" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-44993" y="-248091" zmin="-7904" zmax="-7852" />
+			<add x="-44988" y="-246249" zmin="-7904" zmax="-7852" />
+			<add x="-44325" y="-246247" zmin="-7904" zmax="-7852" />
+			<add x="-44330" y="-248093" zmin="-7904" zmax="-7852" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47449" y="-245408" zmin="-7904" zmax="-7852" />
+			<add x="-47443" y="-245953" zmin="-7904" zmax="-7852" />
+			<add x="-46855" y="-245950" zmin="-7904" zmax="-7852" />
+			<add x="-46857" y="-245374" zmin="-7904" zmax="-7852" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47440" y="-239670" zmin="-7904" zmax="-7854" />
+			<add x="-47443" y="-240259" zmin="-7904" zmax="-7854" />
+			<add x="-46867" y="-240259" zmin="-7904" zmax="-7854" />
+			<add x="-46871" y="-239674" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-46026" y="-239619" zmin="-7904" zmax="-7854" />
+			<add x="-46021" y="-240251" zmin="-7904" zmax="-7854" />
+			<add x="-44694" y="-240246" zmin="-7904" zmax="-7854" />
+			<add x="-44696" y="-239624" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-43929" y="-239659" zmin="-7904" zmax="-7854" />
+			<add x="-43922" y="-240286" zmin="-7904" zmax="-7854" />
+			<add x="-43338" y="-240289" zmin="-7904" zmax="-7854" />
+			<add x="-43340" y="-239657" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-42836" y="-240269" zmin="-7904" zmax="-7854" />
+			<add x="-42254" y="-240260" zmin="-7904" zmax="-7854" />
+			<add x="-42255" y="-239668" zmin="-7904" zmax="-7854" />
+			<add x="-42830" y="-239667" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-42870" y="-241320" zmin="-7904" zmax="-7854" />
+			<add x="-42866" y="-242657" zmin="-7904" zmax="-7854" />
+			<add x="-42216" y="-242655" zmin="-7904" zmax="-7854" />
+			<add x="-42225" y="-241315" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-44952" y="-243609" zmin="-7904" zmax="-7854" />
+			<add x="-44950" y="-241786" zmin="-7904" zmax="-7854" />
+			<add x="-44291" y="-241782" zmin="-7904" zmax="-7854" />
+			<add x="-44299" y="-243613" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47468" y="-242874" zmin="-7904" zmax="-7854" />
+			<add x="-47465" y="-241553" zmin="-7904" zmax="-7854" />
+			<add x="-46840" y="-241549" zmin="-7904" zmax="-7854" />
+			<add x="-46840" y="-242878" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47322" y="-244659" zmin="-7904" zmax="-7854" />
+			<add x="-46870" y="-244866" zmin="-7904" zmax="-7854" />
+			<add x="-46863" y="-244281" zmin="-7904" zmax="-7854" />
+			<add x="-47440" y="-244284" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="2" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-45669" y="-244895" zmin="-7904" zmax="-7854" />
+			<add x="-45676" y="-244257" zmin="-7904" zmax="-7854" />
+			<add x="-44345" y="-244261" zmin="-7904" zmax="-7854" />
+			<add x="-44352" y="-244896" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="1" respawn="142" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-42829" y="-244868" zmin="-7904" zmax="-7854" />
+			<add x="-42834" y="-244286" zmin="-7904" zmax="-7854" />
+			<add x="-42250" y="-244285" zmin="-7904" zmax="-7854" />
+			<add x="-42253" y="-244872" zmin="-7904" zmax="-7854" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+		<spawn count="2" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-52257" y="82243" zmin="-4772" zmax="-4622" />
+			<add x="-52247" y="80884" zmin="-4772" zmax="-4622" />
+			<add x="-51592" y="80879" zmin="-4772" zmax="-4622" />
+			<add x="-51577" y="82248" zmin="-4772" zmax="-4622" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-52241" y="83405" zmin="-4774" zmax="-4624" />
+			<add x="-52235" y="84020" zmin="-4774" zmax="-4624" />
+			<add x="-51593" y="84004" zmin="-4774" zmax="-4624" />
+			<add x="-51603" y="83405" zmin="-4774" zmax="-4624" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-50214" y="84030" zmin="-4783" zmax="-4633" />
+			<add x="-50203" y="83372" zmin="-4783" zmax="-4633" />
+			<add x="-48882" y="83395" zmin="-4783" zmax="-4633" />
+			<add x="-48887" y="84048" zmin="-4783" zmax="-4633" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-50985" y="81507" zmin="-4777" zmax="-4627" />
+			<add x="-50977" y="80854" zmin="-4777" zmax="-4627" />
+			<add x="-49097" y="80853" zmin="-4777" zmax="-4627" />
+			<add x="-49096" y="81519" zmin="-4777" zmax="-4627" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-49992" y="79418" zmin="-4778" zmax="-4628" />
+			<add x="-49989" y="78774" zmin="-4778" zmax="-4628" />
+			<add x="-48655" y="78780" zmin="-4778" zmax="-4628" />
+			<add x="-48659" y="79435" zmin="-4778" zmax="-4628" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47635" y="78803" zmin="-4775" zmax="-4625" />
+			<add x="-47633" y="79404" zmin="-4775" zmax="-4625" />
+			<add x="-46993" y="79402" zmin="-4775" zmax="-4625" />
+			<add x="-46991" y="78804" zmin="-4775" zmax="-4625" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47619" y="80482" zmin="-4774" zmax="-4624" />
+			<add x="-47612" y="79887" zmin="-4774" zmax="-4624" />
+			<add x="-46978" y="79897" zmin="-4774" zmax="-4624" />
+			<add x="-46977" y="80481" zmin="-4774" zmax="-4624" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47608" y="82590" zmin="-4775" zmax="-4625" />
+			<add x="-47607" y="81253" zmin="-4775" zmax="-4625" />
+			<add x="-46949" y="81250" zmin="-4775" zmax="-4625" />
+			<add x="-46954" y="82593" zmin="-4775" zmax="-4625" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47622" y="83409" zmin="-4771" zmax="-4621" />
+			<add x="-47622" y="84007" zmin="-4771" zmax="-4621" />
+			<add x="-46996" y="84008" zmin="-4771" zmax="-4621" />
+			<add x="-46998" y="83409" zmin="-4771" zmax="-4621" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-46529" y="83385" zmin="-4777" zmax="-4627" />
+			<add x="-46529" y="84028" zmin="-4777" zmax="-4627" />
+			<add x="-45933" y="84029" zmin="-4777" zmax="-4627" />
+			<add x="-45926" y="83383" zmin="-4777" zmax="-4627" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="2" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-46564" y="82157" zmin="-4778" zmax="-4628" />
+			<add x="-46551" y="80831" zmin="-4778" zmax="-4628" />
+			<add x="-45880" y="80831" zmin="-4778" zmax="-4628" />
+			<add x="-45878" y="82156" zmin="-4778" zmax="-4628" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="2" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-46511" y="80388" zmin="-4776" zmax="-4626" />
+			<add x="-46503" y="79746" zmin="-4776" zmax="-4626" />
+			<add x="-45161" y="79718" zmin="-4776" zmax="-4626" />
+			<add x="-45173" y="80416" zmin="-4776" zmax="-4626" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="1" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-46523" y="79409" zmin="-4776" zmax="-4626" />
+			<add x="-46517" y="78792" zmin="-4776" zmax="-4626" />
+			<add x="-45920" y="78795" zmin="-4776" zmax="-4626" />
+			<add x="-45929" y="79416" zmin="-4776" zmax="-4626" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="2" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-43838" y="80155" zmin="-4775" zmax="-4625" />
+			<add x="-43827" y="78815" zmin="-4775" zmax="-4625" />
+			<add x="-43178" y="78819" zmin="-4775" zmax="-4625" />
+			<add x="-43174" y="80155" zmin="-4775" zmax="-4625" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="2" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-44038" y="80890" zmin="-4776" zmax="-4626" />
+			<add x="-44037" y="81532" zmin="-4776" zmax="-4626" />
+			<add x="-42186" y="81551" zmin="-4776" zmax="-4626" />
+			<add x="-42201" y="80901" zmin="-4776" zmax="-4626" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="2" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-45154" y="82652" zmin="-4782" zmax="-4632" />
+			<add x="-45146" y="84003" zmin="-4782" zmax="-4632" />
+			<add x="-44491" y="84005" zmin="-4782" zmax="-4632" />
+			<add x="-44501" y="82666" zmin="-4782" zmax="-4632" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="1" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-41924" y="78784" zmin="-4775" zmax="-4625" />
+			<add x="-41922" y="79431" zmin="-4775" zmax="-4625" />
+			<add x="-41312" y="79432" zmin="-4775" zmax="-4625" />
+			<add x="-41307" y="78782" zmin="-4775" zmax="-4625" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="1" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-41917" y="84031" zmin="-4777" zmax="-4627" />
+			<add x="-41915" y="83403" zmin="-4777" zmax="-4627" />
+			<add x="-41322" y="83401" zmin="-4777" zmax="-4627" />
+			<add x="-41312" y="84034" zmin="-4777" zmax="-4627" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="1" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-41918" y="85123" zmin="-4779" zmax="-4629" />
+			<add x="-41916" y="84486" zmin="-4779" zmax="-4629" />
+			<add x="-41313" y="84482" zmin="-4779" zmax="-4629" />
+			<add x="-41309" y="85132" zmin="-4779" zmax="-4629" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="2" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-42879" y="86939" zmin="-4777" zmax="-4627" />
+			<add x="-42873" y="87590" zmin="-4777" zmax="-4627" />
+			<add x="-41573" y="87591" zmin="-4777" zmax="-4627" />
+			<add x="-41569" y="86947" zmin="-4777" zmax="-4627" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="1" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-41913" y="89717" zmin="-4773" zmax="-4623" />
+			<add x="-41910" y="89080" zmin="-4773" zmax="-4623" />
+			<add x="-41309" y="89082" zmin="-4773" zmax="-4623" />
+			<add x="-41310" y="89721" zmin="-4773" zmax="-4623" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="2" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-43551" y="88099" zmin="-4776" zmax="-4626" />
+			<add x="-43535" y="89427" zmin="-4776" zmax="-4626" />
+			<add x="-42882" y="89427" zmin="-4776" zmax="-4626" />
+			<add x="-42868" y="88095" zmin="-4776" zmax="-4626" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="1" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-46525" y="89722" zmin="-4771" zmax="-4621" />
+			<add x="-46522" y="89076" zmin="-4771" zmax="-4621" />
+			<add x="-45912" y="89075" zmin="-4771" zmax="-4621" />
+			<add x="-45915" y="89712" zmin="-4771" zmax="-4621" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="2" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-46409" y="87915" zmin="-4775" zmax="-4625" />
+			<add x="-46404" y="87252" zmin="-4775" zmax="-4625" />
+			<add x="-44619" y="87290" zmin="-4775" zmax="-4625" />
+			<add x="-44618" y="87874" zmin="-4775" zmax="-4625" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="2" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-46381" y="85923" zmin="-4777" zmax="-4627" />
+			<add x="-46376" y="86566" zmin="-4777" zmax="-4627" />
+			<add x="-44598" y="86572" zmin="-4777" zmax="-4627" />
+			<add x="-44591" y="85934" zmin="-4777" zmax="-4627" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="1" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-46523" y="85124" zmin="-4776" zmax="-4626" />
+			<add x="-46516" y="84475" zmin="-4776" zmax="-4626" />
+			<add x="-45928" y="84477" zmin="-4776" zmax="-4626" />
+			<add x="-45928" y="85124" zmin="-4776" zmax="-4626" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="2" respawn="138" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-43190" y="85752" zmin="-4789" zmax="-4639" />
+			<add x="-43187" y="84427" zmin="-4789" zmax="-4639" />
+			<add x="-42526" y="84439" zmin="-4789" zmax="-4639" />
+			<add x="-42536" y="85753" zmin="-4789" zmax="-4639" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+		<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-43330" y="209922" zmin="-5121" zmax="-4971" />
+			<add x="-43330" y="211802" zmin="-5121" zmax="-4971" />
+			<add x="-42678" y="211805" zmin="-5121" zmax="-4971" />
+			<add x="-42679" y="209921" zmin="-5121" zmax="-4971" />
+		</territory>
+		<npc id="21187" /><!--Gigant Slave-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-42551" y="213167" zmin="-5123" zmax="-4973" />
+			<add x="-42546" y="213815" zmin="-5123" zmax="-4973" />
+			<add x="-41175" y="213832" zmin="-5123" zmax="-4973" />
+			<add x="-41176" y="213162" zmin="-5123" zmax="-4973" />
+		</territory>
+		<npc id="21187" /><!--Gigant Slave-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-41902" y="215039" zmin="-5122" zmax="-4922" />
+			<add x="-41900" y="214432" zmin="-5122" zmax="-4922" />
+			<add x="-41245" y="214436" zmin="-5122" zmax="-4922" />
+			<add x="-41248" y="215036" zmin="-5122" zmax="-4922" />
+		</territory>
+		<npc id="21187" /><!--Gigant Slave-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-44347" y="214805" zmin="-5130" zmax="-4980" />
+			<add x="-44341" y="213439" zmin="-5130" zmax="-4980" />
+			<add x="-43722" y="213439" zmin="-5130" zmax="-4980" />
+			<add x="-43719" y="214816" zmin="-5130" zmax="-4980" />
+		</territory>
+		<npc id="21187" /><!--Gigant Slave-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-44683" y="209918" zmin="-5115" zmax="-4965" />
+			<add x="-44683" y="211795" zmin="-5115" zmax="-4965" />
+			<add x="-44030" y="211793" zmin="-5115" zmax="-4965" />
+			<add x="-44020" y="209918" zmin="-5115" zmax="-4965" />
+		</territory>
+		<npc id="21187" /><!--Gigant Slave-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-46506" y="210436" zmin="-5120" zmax="-4970" />
+			<add x="-46504" y="209828" zmin="-5120" zmax="-4970" />
+			<add x="-45850" y="209831" zmin="-5120" zmax="-4970" />
+			<add x="-45848" y="210435" zmin="-5120" zmax="-4970" />
+		</territory>
+		<npc id="21187" /><!--Gigant Slave-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-46234" y="212833" zmin="-5120" zmax="-4970" />
+			<add x="-46230" y="213458" zmin="-5120" zmax="-4970" />
+			<add x="-44851" y="213440" zmin="-5120" zmax="-4970" />
+			<add x="-44847" y="212827" zmin="-5120" zmax="-4970" />
+		</territory>
+		<npc id="21187" /><!--Gigant Slave-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-46494" y="214431" zmin="-5118" zmax="-4968" />
+			<add x="-46494" y="215031" zmin="-5118" zmax="-4968" />
+			<add x="-45849" y="215037" zmin="-5118" zmax="-4968" />
+			<add x="-45856" y="214431" zmin="-5118" zmax="-4968" />
+		</territory>
+		<npc id="21187" /><!--Gigant Slave-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-46488" y="216126" zmin="-5122" zmax="-4972" />
+			<add x="-46486" y="215524" zmin="-5122" zmax="-4972" />
+			<add x="-45854" y="215517" zmin="-5122" zmax="-4972" />
+			<add x="-45858" y="216128" zmin="-5122" zmax="-4972" />
+		</territory>
+		<npc id="21188" /><!--Gigant Acolyte-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-46487" y="216906" zmin="-5119" zmax="-4969" />
+			<add x="-46483" y="217578" zmin="-5119" zmax="-4969" />
+			<add x="-45109" y="217549" zmin="-5119" zmax="-4969" />
+			<add x="-45115" y="216892" zmin="-5119" zmax="-4969" />
+		</territory>
+		<npc id="21188" /><!--Gigant Acolyte-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-44658" y="215480" zmin="-5120" zmax="-4970" />
+			<add x="-44645" y="216148" zmin="-5120" zmax="-4970" />
+			<add x="-43282" y="216153" zmin="-5120" zmax="-4970" />
+			<add x="-43282" y="215499" zmin="-5120" zmax="-4970" />
+		</territory>
+		<npc id="21188" /><!--Gigant Acolyte-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-42850" y="216889" zmin="-5119" zmax="-4969" />
+			<add x="-42844" y="215541" zmin="-5119" zmax="-4969" />
+			<add x="-42225" y="215543" zmin="-5119" zmax="-4969" />
+			<add x="-42199" y="216889" zmin="-5119" zmax="-4969" />
+		</territory>
+		<npc id="21188" /><!--Gigant Acolyte-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-41897" y="216128" zmin="-5123" zmax="-4973" />
+			<add x="-41895" y="215524" zmin="-5123" zmax="-4973" />
+			<add x="-41251" y="215529" zmin="-5123" zmax="-4973" />
+			<add x="-41248" y="216125" zmin="-5123" zmax="-4973" />
+		</territory>
+		<npc id="21188" /><!--Gigant Acolyte-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-42645" y="218212" zmin="-5121" zmax="-4971" />
+			<add x="-42640" y="218880" zmin="-5121" zmax="-4971" />
+			<add x="-41257" y="218868" zmin="-5121" zmax="-4971" />
+			<add x="-41261" y="218207" zmin="-5121" zmax="-4971" />
+		</territory>
+		<npc id="21188" /><!--Gigant Acolyte-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-41880" y="220131" zmin="-5122" zmax="-4972" />
+			<add x="-41878" y="220719" zmin="-5122" zmax="-4972" />
+			<add x="-41252" y="220717" zmin="-5122" zmax="-4972" />
+			<add x="-41250" y="220127" zmin="-5122" zmax="-4972" />
+		</territory>
+		<npc id="21188" /><!--Gigant Acolyte-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-44013" y="219791" zmin="-5122" zmax="-4972" />
+			<add x="-44012" y="218008" zmin="-5122" zmax="-4972" />
+			<add x="-43345" y="218011" zmin="-5122" zmax="-4972" />
+			<add x="-43356" y="219814" zmin="-5122" zmax="-4972" />
+		</territory>
+		<npc id="21188" /><!--Gigant Acolyte-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-46496" y="220732" zmin="-5120" zmax="-4970" />
+			<add x="-46487" y="220127" zmin="-5120" zmax="-4970" />
+			<add x="-45855" y="220133" zmin="-5120" zmax="-4970" />
+			<add x="-45849" y="220736" zmin="-5120" zmax="-4970" />
+		</territory>
+		<npc id="21188" /><!--Gigant Acolyte-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47577" y="214434" zmin="-5119" zmax="-4969" />
+			<add x="-47576" y="215038" zmin="-5119" zmax="-4969" />
+			<add x="-46955" y="215033" zmin="-5119" zmax="-4969" />
+			<add x="-46950" y="214432" zmin="-5119" zmax="-4969" />
+		</territory>
+		<npc id="21189" /><!--Gigant Overseer-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-50187" y="214392" zmin="-5132" zmax="-4982" />
+			<add x="-50181" y="215051" zmin="-5132" zmax="-4982" />
+			<add x="-48832" y="215072" zmin="-5132" zmax="-4982" />
+			<add x="-48832" y="214403" zmin="-5132" zmax="-4982" />
+		</territory>
+		<npc id="21189" /><!--Gigant Overseer-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-52188" y="215043" zmin="-5120" zmax="-4970" />
+			<add x="-52187" y="214440" zmin="-5120" zmax="-4970" />
+			<add x="-51556" y="214442" zmin="-5120" zmax="-4970" />
+			<add x="-51555" y="215047" zmin="-5120" zmax="-4970" />
+		</territory>
+		<npc id="21189" /><!--Gigant Overseer-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-52220" y="213285" zmin="-5123" zmax="-4973" />
+			<add x="-52190" y="211900" zmin="-5123" zmax="-4973" />
+			<add x="-51556" y="211910" zmin="-5123" zmax="-4973" />
+			<add x="-51525" y="213282" zmin="-5123" zmax="-4973" />
+		</territory>
+		<npc id="21189" /><!--Gigant Overseer-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-52210" y="210440" zmin="-5123" zmax="-4973" />
+			<add x="-52197" y="209822" zmin="-5123" zmax="-4973" />
+			<add x="-51554" y="209826" zmin="-5123" zmax="-4973" />
+			<add x="-51554" y="210435" zmin="-5123" zmax="-4973" />
+		</territory>
+		<npc id="21189" /><!--Gigant Overseer-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-49974" y="210453" zmin="-5119" zmax="-4969" />
+			<add x="-49970" y="209793" zmin="-5119" zmax="-4969" />
+			<add x="-48619" y="209811" zmin="-5119" zmax="-4969" />
+			<add x="-48623" y="210453" zmin="-5119" zmax="-4969" />
+		</territory>
+		<npc id="21189" /><!--Gigant Overseer-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47597" y="210429" zmin="-5121" zmax="-4971" />
+			<add x="-47595" y="209823" zmin="-5121" zmax="-4971" />
+			<add x="-46951" y="209825" zmin="-5121" zmax="-4971" />
+			<add x="-46955" y="210420" zmin="-5121" zmax="-4971" />
+		</territory>
+		<npc id="21189" /><!--Gigant Overseer-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47588" y="210923" zmin="-5125" zmax="-4975" />
+			<add x="-47574" y="211509" zmin="-5125" zmax="-4975" />
+			<add x="-46947" y="211508" zmin="-5125" zmax="-4975" />
+			<add x="-46949" y="210923" zmin="-5125" zmax="-4975" />
+		</territory>
+		<npc id="21189" /><!--Gigant Overseer-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-50908" y="212530" zmin="-5118" zmax="-4968" />
+			<add x="-50907" y="211899" zmin="-5118" zmax="-4968" />
+			<add x="-49050" y="211884" zmin="-5118" zmax="-4968" />
+			<add x="-49060" y="212536" zmin="-5118" zmax="-4968" />
+		</territory>
+		<npc id="21189" /><!--Gigant Overseer-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47565" y="213619" zmin="-5126" zmax="-4976" />
+			<add x="-47556" y="212263" zmin="-5126" zmax="-4976" />
+			<add x="-46894" y="212262" zmin="-5126" zmax="-4976" />
+			<add x="-46906" y="213615" zmin="-5126" zmax="-4976" />
+		</territory>
+		<npc id="21189" /><!--Gigant Overseer-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47589" y="220129" zmin="-5115" zmax="-4965" />
+			<add x="-47587" y="220732" zmin="-5115" zmax="-4965" />
+			<add x="-46952" y="220727" zmin="-5115" zmax="-4965" />
+			<add x="-46950" y="220133" zmin="-5115" zmax="-4965" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-50910" y="220709" zmin="-5121" zmax="-4971" />
+			<add x="-50904" y="218854" zmin="-5121" zmax="-4971" />
+			<add x="-50256" y="218854" zmin="-5121" zmax="-4971" />
+			<add x="-50265" y="220703" zmin="-5121" zmax="-4971" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-52192" y="220725" zmin="-5120" zmax="-4970" />
+			<add x="-52189" y="220137" zmin="-5120" zmax="-4970" />
+			<add x="-51553" y="220135" zmin="-5120" zmax="-4970" />
+			<add x="-51546" y="220724" zmin="-5120" zmax="-4970" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-52219" y="218203" zmin="-5116" zmax="-4966" />
+			<add x="-52200" y="216878" zmin="-5116" zmax="-4966" />
+			<add x="-51528" y="216882" zmin="-5116" zmax="-4966" />
+			<add x="-51541" y="218202" zmin="-5116" zmax="-4966" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-50929" y="217734" zmin="-5118" zmax="-4968" />
+			<add x="-50923" y="218334" zmin="-5118" zmax="-4968" />
+			<add x="-50280" y="218333" zmin="-5118" zmax="-4968" />
+			<add x="-50283" y="217737" zmin="-5118" zmax="-4968" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-49433" y="218892" zmin="-5122" zmax="-4972" />
+			<add x="-49430" y="218216" zmin="-5122" zmax="-4972" />
+			<add x="-48109" y="218222" zmin="-5122" zmax="-4972" />
+			<add x="-48116" y="218884" zmin="-5122" zmax="-4972" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-48883" y="216939" zmin="-5120" zmax="-4970" />
+			<add x="-48864" y="217596" zmin="-5120" zmax="-4970" />
+			<add x="-47028" y="217590" zmin="-5120" zmax="-4970" />
+			<add x="-47023" y="216942" zmin="-5120" zmax="-4970" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="2" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-50194" y="215802" zmin="-5127" zmax="-4977" />
+			<add x="-50194" y="216467" zmin="-5127" zmax="-4977" />
+			<add x="-48822" y="216474" zmin="-5127" zmax="-4977" />
+			<add x="-48820" y="215835" zmin="-5127" zmax="-4977" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-51029" y="216645" zmin="-5128" zmax="-4978" />
+			<add x="-51029" y="217233" zmin="-5128" zmax="-4978" />
+			<add x="-50395" y="217240" zmin="-5128" zmax="-4978" />
+			<add x="-50387" y="216637" zmin="-5128" zmax="-4978" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-52179" y="215532" zmin="-5120" zmax="-4970" />
+			<add x="-52179" y="216123" zmin="-5120" zmax="-4970" />
+			<add x="-51560" y="216123" zmin="-5120" zmax="-4970" />
+			<add x="-51556" y="215532" zmin="-5120" zmax="-4970" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+	<spawn count="1" respawn="139" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-47580" y="215523" zmin="-5115" zmax="-4965" />
+			<add x="-47577" y="216123" zmin="-5115" zmax="-4965" />
+			<add x="-46950" y="216119" zmin="-5115" zmax="-4965" />
+			<add x="-46946" y="215521" zmin="-5115" zmax="-4965" />
+		</territory>
+		<npc id="21190" /><!--Gigant Footman-->
+	</spawn>
+		<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-20505" y="-249727" zmin="-8160" zmax="-8100" />
+			<add x="-20505" y="-248376" zmin="-8160" zmax="-8100" />
+			<add x="-19878" y="-248378" zmin="-8160" zmax="-8100" />
+			<add x="-19875" y="-249726" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-20520" y="-246475" zmin="-8160" zmax="-8100" />
+			<add x="-20520" y="-245874" zmin="-8160" zmax="-8100" />
+			<add x="-19879" y="-245871" zmin="-8160" zmax="-8100" />
+			<add x="-19888" y="-246474" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-19243" y="-247741" zmin="-8160" zmax="-8100" />
+			<add x="-19240" y="-245921" zmin="-8160" zmax="-8100" />
+			<add x="-18574" y="-245916" zmin="-8160" zmax="-8100" />
+			<add x="-18574" y="-247746" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-19240" y="-248881" zmin="-8160" zmax="-8100" />
+			<add x="-19236" y="-248276" zmin="-8160" zmax="-8100" />
+			<add x="-18581" y="-248273" zmin="-8160" zmax="-8100" />
+			<add x="-18580" y="-248883" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-19371" y="-249962" zmin="-8160" zmax="-8100" />
+			<add x="-19367" y="-249370" zmin="-8160" zmax="-8100" />
+			<add x="-18719" y="-249368" zmin="-8160" zmax="-8100" />
+			<add x="-18713" y="-249958" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-18503" y="-250782" zmin="-8160" zmax="-8100" />
+			<add x="-18500" y="-250154" zmin="-8160" zmax="-8100" />
+			<add x="-17146" y="-250155" zmin="-8160" zmax="-8100" />
+			<add x="-17150" y="-250777" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-15903" y="-250491" zmin="-8160" zmax="-8100" />
+			<add x="-15902" y="-251083" zmin="-8160" zmax="-8100" />
+			<add x="-15264" y="-251087" zmin="-8160" zmax="-8100" />
+			<add x="-15263" y="-250483" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-17183" y="-249019" zmin="-8160" zmax="-8100" />
+			<add x="-17171" y="-249684" zmin="-8160" zmax="-8100" />
+			<add x="-15335" y="-249679" zmin="-8160" zmax="-8100" />
+			<add x="-15330" y="-249001" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-17761" y="-247752" zmin="-8160" zmax="-8100" />
+			<add x="-17757" y="-248379" zmin="-8160" zmax="-8100" />
+			<add x="-16408" y="-248379" zmin="-8160" zmax="-8100" />
+			<add x="-16419" y="-247748" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-15903" y="-245876" zmin="-8160" zmax="-8100" />
+			<add x="-15902" y="-246482" zmin="-8160" zmax="-8100" />
+			<add x="-15255" y="-246479" zmin="-8160" zmax="-8100" />
+			<add x="-15256" y="-245876" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-15912" y="-245394" zmin="-8160" zmax="-8100" />
+			<add x="-15911" y="-244791" zmin="-8160" zmax="-8100" />
+			<add x="-15255" y="-244788" zmin="-8160" zmax="-8100" />
+			<add x="-15263" y="-245396" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-17363" y="-243437" zmin="-8160" zmax="-8100" />
+			<add x="-17354" y="-245266" zmin="-8160" zmax="-8100" />
+			<add x="-16687" y="-245256" zmin="-8160" zmax="-8100" />
+			<add x="-16687" y="-243426" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-18711" y="-245279" zmin="-8160" zmax="-8100" />
+			<add x="-18706" y="-243430" zmin="-8160" zmax="-8100" />
+			<add x="-18032" y="-243428" zmin="-8160" zmax="-8100" />
+			<add x="-18029" y="-245275" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-20512" y="-245385" zmin="-8160" zmax="-8100" />
+			<add x="-20509" y="-244783" zmin="-8160" zmax="-8100" />
+			<add x="-19862" y="-244782" zmin="-8160" zmax="-8100" />
+			<add x="-19860" y="-245386" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-20236" y="-241771" zmin="-8160" zmax="-8100" />
+			<add x="-20235" y="-242391" zmin="-8160" zmax="-8100" />
+			<add x="-18873" y="-242388" zmin="-8160" zmax="-8100" />
+			<add x="-18878" y="-241773" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-20513" y="-240788" zmin="-8160" zmax="-8100" />
+			<add x="-20513" y="-240183" zmin="-8160" zmax="-8100" />
+			<add x="-19863" y="-240182" zmin="-8160" zmax="-8100" />
+			<add x="-19869" y="-240790" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-18366" y="-240415" zmin="-8160" zmax="-8100" />
+			<add x="-18360" y="-241770" zmin="-8160" zmax="-8100" />
+			<add x="-17739" y="-241773" zmin="-8160" zmax="-8100" />
+			<add x="-17736" y="-240414" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-16561" y="-241421" zmin="-8160" zmax="-8100" />
+			<add x="-16552" y="-242040" zmin="-8160" zmax="-8100" />
+			<add x="-15201" y="-242039" zmin="-8160" zmax="-8100" />
+			<add x="-15195" y="-241418" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-15904" y="-240777" zmin="-8160" zmax="-8100" />
+			<add x="-15900" y="-240185" zmin="-8160" zmax="-8100" />
+			<add x="-15257" y="-240185" zmin="-8160" zmax="-8100" />
+			<add x="-15267" y="-240773" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-10214" y="-246482" zmin="-8160" zmax="-8100" />
+			<add x="-10214" y="-245869" zmin="-8160" zmax="-8100" />
+			<add x="-9568" y="-245875" zmin="-8160" zmax="-8100" />
+			<add x="-9571" y="-246475" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-10858" y="-247737" zmin="-8160" zmax="-8100" />
+			<add x="-10851" y="-247117" zmin="-8160" zmax="-8100" />
+			<add x="-9496" y="-247117" zmin="-8160" zmax="-8100" />
+			<add x="-9498" y="-247735" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-10219" y="-251089" zmin="-8160" zmax="-8100" />
+			<add x="-10211" y="-250490" zmin="-8160" zmax="-8100" />
+			<add x="-9564" y="-250487" zmin="-8160" zmax="-8100" />
+			<add x="-9565" y="-251083" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-11665" y="-250964" zmin="-8160" zmax="-8100" />
+			<add x="-11665" y="-249110" zmin="-8160" zmax="-8100" />
+			<add x="-10984" y="-249104" zmin="-8160" zmax="-8100" />
+			<add x="-10994" y="-250967" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-13009" y="-249115" zmin="-8160" zmax="-8100" />
+			<add x="-13008" y="-250960" zmin="-8160" zmax="-8100" />
+			<add x="-12334" y="-250960" zmin="-8160" zmax="-8100" />
+			<add x="-12334" y="-249117" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-14814" y="-251081" zmin="-8160" zmax="-8100" />
+			<add x="-14813" y="-250481" zmin="-8160" zmax="-8100" />
+			<add x="-14187" y="-250492" zmin="-8160" zmax="-8100" />
+			<add x="-14189" y="-251080" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-14549" y="-247469" zmin="-8160" zmax="-8100" />
+			<add x="-14545" y="-248089" zmin="-8160" zmax="-8100" />
+			<add x="-13167" y="-248084" zmin="-8160" zmax="-8100" />
+			<add x="-13167" y="-247466" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-12662" y="-246105" zmin="-8160" zmax="-8100" />
+			<add x="-12659" y="-247469" zmin="-8160" zmax="-8100" />
+			<add x="-12038" y="-247468" zmin="-8160" zmax="-8100" />
+			<add x="-12045" y="-246104" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-14819" y="-245877" zmin="-8160" zmax="-8100" />
+			<add x="-14817" y="-246473" zmin="-8160" zmax="-8100" />
+			<add x="-14173" y="-246470" zmin="-8160" zmax="-8100" />
+			<add x="-14178" y="-245879" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-14802" y="-240165" zmin="-8160" zmax="-8100" />
+			<add x="-14801" y="-240794" zmin="-8160" zmax="-8100" />
+			<add x="-14201" y="-240799" zmin="-8160" zmax="-8100" />
+			<add x="-14194" y="-240164" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-11284" y="-240803" zmin="-8160" zmax="-8100" />
+			<add x="-11278" y="-240161" zmin="-8160" zmax="-8100" />
+			<add x="-10679" y="-240161" zmin="-8160" zmax="-8100" />
+			<add x="-10678" y="-240799" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-10188" y="-240160" zmin="-8160" zmax="-8100" />
+			<add x="-10186" y="-240798" zmin="-8160" zmax="-8100" />
+			<add x="-9591" y="-240808" zmin="-8160" zmax="-8100" />
+			<add x="-9591" y="-240163" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-10201" y="-241807" zmin="-8160" zmax="-8100" />
+			<add x="-10196" y="-243181" zmin="-8160" zmax="-8100" />
+			<add x="-9580" y="-243180" zmin="-8160" zmax="-8100" />
+			<add x="-9582" y="-241809" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-12300" y="-244126" zmin="-8160" zmax="-8100" />
+			<add x="-12298" y="-242293" zmin="-8160" zmax="-8100" />
+			<add x="-11635" y="-242297" zmin="-8160" zmax="-8100" />
+			<add x="-11632" y="-244123" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-14809" y="-243409" zmin="-8160" zmax="-8100" />
+			<add x="-14805" y="-242031" zmin="-8160" zmax="-8100" />
+			<add x="-14183" y="-242039" zmin="-8160" zmax="-8100" />
+			<add x="-14181" y="-243401" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-14795" y="-245410" zmin="-8160" zmax="-8100" />
+			<add x="-14791" y="-244774" zmin="-8160" zmax="-8100" />
+			<add x="-14192" y="-244774" zmin="-8160" zmax="-8100" />
+			<add x="-14194" y="-245407" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-13035" y="-245405" zmin="-8160" zmax="-8100" />
+			<add x="-13031" y="-244785" zmin="-8160" zmax="-8100" />
+			<add x="-11669" y="-244778" zmin="-8160" zmax="-8100" />
+			<add x="-11670" y="-245397" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="132" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-10177" y="-245414" zmin="-8160" zmax="-8100" />
+			<add x="-10175" y="-244631" zmin="-8160" zmax="-8100" />
+			<add x="-9585" y="-244760" zmin="-8160" zmax="-8100" />
+			<add x="-9584" y="-245413" zmin="-8160" zmax="-8100" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+		<spawn count="2" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-17420" y="13468" zmin="-4940" zmax="-4740" />
+			<add x="-17392" y="14156" zmin="-4940" zmax="-4740" />
+			<add x="-16068" y="14164" zmin="-4940" zmax="-4740" />
+			<add x="-16052" y="13500" zmin="-4940" zmax="-4740" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="1" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-14780" y="13780" zmin="-4936" zmax="-4736" />
+			<add x="-14768" y="13216" zmin="-4936" zmax="-4736" />
+			<add x="-14184" y="13216" zmin="-4936" zmax="-4736" />
+			<add x="-14188" y="13788" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="2" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-16108" y="15288" zmin="-4932" zmax="-4732" />
+			<add x="-16104" y="14604" zmin="-4932" zmax="-4732" />
+			<add x="-14184" y="14600" zmin="-4932" zmax="-4732" />
+			<add x="-14196" y="15283" zmin="-4932" zmax="-4732" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="1" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-18248" y="14324" zmin="-4936" zmax="-4736" />
+			<add x="-18244" y="14924" zmin="-4936" zmax="-4736" />
+			<add x="-17632" y="14932" zmin="-4936" zmax="-4736" />
+			<add x="-17624" y="14352" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="2" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-19420" y="14552" zmin="-4928" zmax="-4728" />
+			<add x="-19408" y="15924" zmin="-4928" zmax="-4728" />
+			<add x="-18784" y="15884" zmin="-4928" zmax="-4728" />
+			<add x="-18752" y="14568" zmin="-4928" zmax="-4728" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="1" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-19400" y="17820" zmin="-4940" zmax="-4740" />
+			<add x="-19388" y="18420" zmin="-4940" zmax="-4740" />
+			<add x="-18784" y="18408" zmin="-4940" zmax="-4740" />
+			<add x="-18768" y="17816" zmin="-4940" zmax="-4740" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="2" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-18152" y="16544" zmin="-4936" zmax="-4736" />
+			<add x="-18128" y="18424" zmin="-4936" zmax="-4736" />
+			<add x="-17488" y="18440" zmin="-4936" zmax="-4736" />
+			<add x="-17480" y="16560" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="1" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-18124" y="15412" zmin="-4940" zmax="-4740" />
+			<add x="-18104" y="16004" zmin="-4940" zmax="-4740" />
+			<add x="-17492" y="16016" zmin="-4940" zmax="-4740" />
+			<add x="-17484" y="15416" zmin="-4940" zmax="-4740" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="2" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-16676" y="15892" zmin="-4940" zmax="-4740" />
+			<add x="-16664" y="16544" zmin="-4940" zmax="-4740" />
+			<add x="-15352" y="16528" zmin="-4940" zmax="-4740" />
+			<add x="-15304" y="15900" zmin="-4940" zmax="-4740" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="1" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-14824" y="17820" zmin="-4936" zmax="-4736" />
+			<add x="-14812" y="18424" zmin="-4936" zmax="-4736" />
+			<add x="-14152" y="18420" zmin="-4936" zmax="-4736" />
+			<add x="-14148" y="17808" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="1" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-13716" y="17840" zmin="-4932" zmax="-4732" />
+			<add x="-13676" y="18408" zmin="-4932" zmax="-4732" />
+			<add x="-13088" y="18412" zmin="-4932" zmax="-4732" />
+			<add x="-13080" y="17836" zmin="-4932" zmax="-4732" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-11720" y="18412" zmin="-4932" zmax="-4732" />
+			<add x="-11708" y="17772" zmin="-4932" zmax="-4732" />
+			<add x="-10352" y="17796" zmin="-4932" zmax="-4732" />
+			<add x="-10348" y="18456" zmin="-4932" zmax="-4732" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-12448" y="15256" zmin="-4940" zmax="-4740" />
+			<add x="-12428" y="15904" zmin="-4940" zmax="-4740" />
+			<add x="-10556" y="15932" zmin="-4940" zmax="-4740" />
+			<add x="-10548" y="15252" zmin="-4940" zmax="-4740" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-13728" y="16632" zmin="-4932" zmax="-4732" />
+			<add x="-13720" y="15280" zmin="-4932" zmax="-4732" />
+			<add x="-13060" y="15288" zmin="-4932" zmax="-4732" />
+			<add x="-13052" y="16628" zmin="-4932" zmax="-4732" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-13728" y="13200" zmin="-4936" zmax="-4736" />
+			<add x="-13720" y="13808" zmin="-4936" zmax="-4736" />
+			<add x="-13072" y="13800" zmin="-4936" zmax="-4736" />
+			<add x="-13064" y="13200" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-11504" y="13160" zmin="-4944" zmax="-4744" />
+			<add x="-11484" y="13844" zmin="-4944" zmax="-4744" />
+			<add x="-10144" y="13856" zmin="-4944" zmax="-4744" />
+			<add x="-10144" y="13192" zmin="-4944" zmax="-4744" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-9112" y="14320" zmin="-4932" zmax="-4732" />
+			<add x="-9108" y="14888" zmin="-4932" zmax="-4732" />
+			<add x="-8464" y="14864" zmin="-4932" zmax="-4732" />
+			<add x="-8464" y="14292" zmin="-4932" zmax="-4732" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-9116" y="13220" zmin="-4940" zmax="-4740" />
+			<add x="-9100" y="13808" zmin="-4940" zmax="-4740" />
+			<add x="-8488" y="13788" zmin="-4940" zmax="-4740" />
+			<add x="-8440" y="13204" zmin="-4940" zmax="-4740" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-9100" y="15620" zmin="-4932" zmax="-4732" />
+			<add x="-9069" y="17019" zmin="-4932" zmax="-4732" />
+			<add x="-8429" y="17005" zmin="-4932" zmax="-4732" />
+			<add x="-8404" y="15632" zmin="-4932" zmax="-4732" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-9112" y="17828" zmin="-4932" zmax="-4732" />
+			<add x="-9108" y="18420" zmin="-4932" zmax="-4732" />
+			<add x="-8472" y="18416" zmin="-4932" zmax="-4732" />
+			<add x="-8452" y="17816" zmin="-4932" zmax="-4732" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-9084" y="18868" zmin="-4932" zmax="-4732" />
+			<add x="-9084" y="19548" zmin="-4932" zmax="-4732" />
+			<add x="-8488" y="19528" zmin="-4932" zmax="-4732" />
+			<add x="-8484" y="18892" zmin="-4932" zmax="-4732" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="2" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-10364" y="18796" zmin="-4936" zmax="-4736" />
+			<add x="-10360" y="20196" zmin="-4936" zmax="-4736" />
+			<add x="-9704" y="20164" zmin="-4936" zmax="-4736" />
+			<add x="-9684" y="18788" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="2" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-10072" y="21344" zmin="-4932" zmax="-4732" />
+			<add x="-10064" y="21992" zmin="-4932" zmax="-4732" />
+			<add x="-8716" y="22000" zmin="-4932" zmax="-4732" />
+			<add x="-8724" y="21324" zmin="-4932" zmax="-4732" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="2" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-13604" y="21640" zmin="-4944" zmax="-4744" />
+			<add x="-13588" y="22328" zmin="-4944" zmax="-4744" />
+			<add x="-11740" y="22316" zmin="-4944" zmax="-4744" />
+			<add x="-11740" y="21652" zmin="-4944" zmax="-4744" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="2" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-13608" y="20296" zmin="-4936" zmax="-4736" />
+			<add x="-13592" y="20964" zmin="-4936" zmax="-4736" />
+			<add x="-11728" y="20984" zmin="-4936" zmax="-4736" />
+			<add x="-11712" y="20324" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="1" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-13696" y="18872" zmin="-4936" zmax="-4736" />
+			<add x="-13692" y="19528" zmin="-4936" zmax="-4736" />
+			<add x="-13100" y="19520" zmin="-4936" zmax="-4736" />
+			<add x="-13108" y="18876" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="1" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-13692" y="23488" zmin="-4944" zmax="-4744" />
+			<add x="-13684" y="24136" zmin="-4944" zmax="-4744" />
+			<add x="-13080" y="24132" zmin="-4944" zmax="-4744" />
+			<add x="-13092" y="23488" zmin="-4944" zmax="-4744" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="2" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-10716" y="22476" zmin="-4932" zmax="-4732" />
+			<add x="-10716" y="23852" zmin="-4932" zmax="-4732" />
+			<add x="-10064" y="23832" zmin="-4932" zmax="-4732" />
+			<add x="-10044" y="22480" zmin="-4932" zmax="-4732" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="1" respawn="124" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-9092" y="24136" zmin="-4936" zmax="-4736" />
+			<add x="-9088" y="23488" zmin="-4936" zmax="-4736" />
+			<add x="-8492" y="23496" zmin="-4936" zmax="-4736" />
+			<add x="-8480" y="24136" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+		<spawn count="2" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-21396" y="80291" zmin="-5211" zmax="-5061" />
+			<add x="-21394" y="78949" zmin="-5211" zmax="-5061" />
+			<add x="-20744" y="78947" zmin="-5211" zmax="-5061" />
+			<add x="-20746" y="80286" zmin="-5211" zmax="-5061" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-21684" y="81663" zmin="-5205" zmax="-5055" />
+			<add x="-21682" y="82282" zmin="-5205" zmax="-5055" />
+			<add x="-21094" y="82286" zmin="-5205" zmax="-5055" />
+			<add x="-21088" y="81659" zmin="-5205" zmax="-5055" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="2" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-20335" y="81661" zmin="-5209" zmax="-5059" />
+			<add x="-20325" y="82308" zmin="-5209" zmax="-5059" />
+			<add x="-19006" y="82324" zmin="-5209" zmax="-5059" />
+			<add x="-19005" y="81656" zmin="-5209" zmax="-5059" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-20569" y="80509" zmin="-5208" zmax="-5058" />
+			<add x="-20567" y="81149" zmin="-5208" zmax="-5058" />
+			<add x="-19968" y="81150" zmin="-5208" zmax="-5058" />
+			<add x="-19968" y="80514" zmin="-5208" zmax="-5058" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-19486" y="81025" zmin="-5205" zmax="-5055" />
+			<add x="-19485" y="80383" zmin="-5205" zmax="-5055" />
+			<add x="-18884" y="80381" zmin="-5205" zmax="-5055" />
+			<add x="-18883" y="81024" zmin="-5205" zmax="-5055" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="2" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-20285" y="77154" zmin="-5210" zmax="-5060" />
+			<add x="-20282" y="78963" zmin="-5210" zmax="-5060" />
+			<add x="-19619" y="78964" zmin="-5210" zmax="-5060" />
+			<add x="-19619" y="77151" zmin="-5210" zmax="-5060" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="2" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-18994" y="78247" zmin="-5184" zmax="-5034" />
+			<add x="-18994" y="79523" zmin="-5184" zmax="-5034" />
+			<add x="-18352" y="79525" zmin="-5184" zmax="-5034" />
+			<add x="-18345" y="78250" zmin="-5184" zmax="-5034" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-17079" y="77061" zmin="-5210" zmax="-5060" />
+			<add x="-17076" y="77697" zmin="-5210" zmax="-5060" />
+			<add x="-16499" y="77702" zmin="-5210" zmax="-5060" />
+			<add x="-16501" y="77059" zmin="-5210" zmax="-5060" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="2" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-18345" y="80379" zmin="-5212" zmax="-5062" />
+			<add x="-18334" y="81015" zmin="-5212" zmax="-5062" />
+			<add x="-16544" y="81027" zmin="-5212" zmax="-5062" />
+			<add x="-16535" y="80380" zmin="-5212" zmax="-5062" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-17090" y="81663" zmin="-5207" zmax="-5057" />
+			<add x="-17088" y="82306" zmin="-5207" zmax="-5057" />
+			<add x="-16487" y="82313" zmin="-5207" zmax="-5057" />
+			<add x="-16482" y="81658" zmin="-5207" zmax="-5057" />
+		</territory>
+		<npc id="21198" /><!--Nephilim Swordsman-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-16008" y="82285" zmin="-5207" zmax="-5057" />
+			<add x="-16007" y="81688" zmin="-5207" zmax="-5057" />
+			<add x="-15386" y="81691" zmin="-5207" zmax="-5057" />
+			<add x="-15387" y="82284" zmin="-5207" zmax="-5057" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="2" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-16044" y="79747" zmin="-5207" zmax="-5057" />
+			<add x="-16019" y="78438" zmin="-5207" zmax="-5057" />
+			<add x="-15363" y="78436" zmin="-5207" zmax="-5057" />
+			<add x="-15369" y="79741" zmin="-5207" zmax="-5057" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-16013" y="77079" zmin="-5207" zmax="-5057" />
+			<add x="-16004" y="77672" zmin="-5207" zmax="-5057" />
+			<add x="-15366" y="77676" zmin="-5207" zmax="-5057" />
+			<add x="-15367" y="77080" zmin="-5207" zmax="-5057" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="2" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-13996" y="77358" zmin="-5212" zmax="-5062" />
+			<add x="-13995" y="78025" zmin="-5212" zmax="-5062" />
+			<add x="-12638" y="78024" zmin="-5212" zmax="-5062" />
+			<add x="-12640" y="77365" zmin="-5212" zmax="-5062" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-14859" y="78796" zmin="-5214" zmax="-5064" />
+			<add x="-14855" y="78190" zmin="-5214" zmax="-5064" />
+			<add x="-14222" y="78193" zmin="-5214" zmax="-5064" />
+			<add x="-14225" y="78799" zmin="-5214" zmax="-5064" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-14742" y="79877" zmin="-5206" zmax="-5056" />
+			<add x="-14733" y="79290" zmin="-5206" zmax="-5056" />
+			<add x="-14095" y="79288" zmin="-5206" zmax="-5056" />
+			<add x="-14092" y="79884" zmin="-5206" zmax="-5056" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="2" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-14747" y="82261" zmin="-5207" zmax="-5057" />
+			<add x="-14729" y="80393" zmin="-5207" zmax="-5057" />
+			<add x="-14076" y="80409" zmin="-5207" zmax="-5057" />
+			<add x="-14090" y="82254" zmin="-5207" zmax="-5057" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-11417" y="81680" zmin="-5209" zmax="-5059" />
+			<add x="-11416" y="82274" zmin="-5209" zmax="-5059" />
+			<add x="-10774" y="82277" zmin="-5209" zmax="-5059" />
+			<add x="-10771" y="81676" zmin="-5209" zmax="-5059" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="2" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-13259" y="79747" zmin="-5206" zmax="-5056" />
+			<add x="-13257" y="80425" zmin="-5206" zmax="-5056" />
+			<add x="-11926" y="80415" zmin="-5206" zmax="-5056" />
+			<add x="-11909" y="79781" zmin="-5206" zmax="-5056" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="2" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-12685" y="79134" zmin="-5210" zmax="-5060" />
+			<add x="-12680" y="78495" zmin="-5210" zmax="-5060" />
+			<add x="-10834" y="78504" zmin="-5210" zmax="-5060" />
+			<add x="-10834" y="79145" zmin="-5210" zmax="-5060" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-11386" y="77675" zmin="-5202" zmax="-5052" />
+			<add x="-11385" y="77069" zmin="-5202" zmax="-5052" />
+			<add x="-10770" y="77074" zmin="-5202" zmax="-5052" />
+			<add x="-10770" y="77672" zmin="-5202" zmax="-5052" />
+		</territory>
+		<npc id="21199" /><!--Nephilim Guard-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-21693" y="82764" zmin="-5203" zmax="-5053" />
+			<add x="-21688" y="83387" zmin="-5203" zmax="-5053" />
+			<add x="-21089" y="83387" zmin="-5203" zmax="-5053" />
+			<add x="-21093" y="82763" zmin="-5203" zmax="-5053" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-19149" y="82738" zmin="-5203" zmax="-5053" />
+			<add x="-19148" y="83393" zmin="-5203" zmax="-5053" />
+			<add x="-17832" y="83393" zmin="-5203" zmax="-5053" />
+			<add x="-17845" y="82751" zmin="-5203" zmax="-5053" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-17086" y="83399" zmin="-5208" zmax="-5058" />
+			<add x="-17085" y="82758" zmin="-5208" zmax="-5058" />
+			<add x="-16491" y="82753" zmin="-5208" zmax="-5058" />
+			<add x="-16492" y="83397" zmin="-5208" zmax="-5058" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-17438" y="86102" zmin="-5212" zmax="-5062" />
+			<add x="-17427" y="84778" zmin="-5212" zmax="-5062" />
+			<add x="-16766" y="84774" zmin="-5212" zmax="-5062" />
+			<add x="-16775" y="86105" zmin="-5212" zmax="-5062" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-17089" y="87997" zmin="-5207" zmax="-5057" />
+			<add x="-17084" y="87357" zmin="-5207" zmax="-5057" />
+			<add x="-16484" y="87357" zmin="-5207" zmax="-5057" />
+			<add x="-16486" y="87997" zmin="-5207" zmax="-5057" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-18561" y="86078" zmin="-5213" zmax="-5063" />
+			<add x="-18550" y="87876" zmin="-5213" zmax="-5063" />
+			<add x="-17896" y="87874" zmin="-5213" zmax="-5063" />
+			<add x="-17883" y="86079" zmin="-5213" zmax="-5063" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-19846" y="86836" zmin="-5214" zmax="-5064" />
+			<add x="-19828" y="85511" zmin="-5214" zmax="-5064" />
+			<add x="-19165" y="85511" zmin="-5214" zmax="-5064" />
+			<add x="-19182" y="86832" zmin="-5214" zmax="-5064" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-21691" y="87349" zmin="-5209" zmax="-5009" />
+			<add x="-21689" y="88001" zmin="-5209" zmax="-5009" />
+			<add x="-21091" y="87996" zmin="-5209" zmax="-5009" />
+			<add x="-21090" y="87349" zmin="-5209" zmax="-5009" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-21631" y="84670" zmin="-5207" zmax="-5057" />
+			<add x="-21627" y="84032" zmin="-5207" zmax="-5057" />
+			<add x="-19836" y="84025" zmin="-5207" zmax="-5057" />
+			<add x="-19834" y="84678" zmin="-5207" zmax="-5057" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-19289" y="84665" zmin="-5204" zmax="-5054" />
+			<add x="-19287" y="84039" zmin="-5204" zmax="-5054" />
+			<add x="-18695" y="84036" zmin="-5204" zmax="-5054" />
+			<add x="-18695" y="84667" zmin="-5204" zmax="-5054" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="131" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="-18197" y="84546" zmin="-5209" zmax="-5059" />
+			<add x="-18194" y="83901" zmin="-5209" zmax="-5059" />
+			<add x="-17602" y="83894" zmin="-5209" zmax="-5059" />
+			<add x="-17601" y="84548" zmin="-5209" zmax="-5059" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+		<spawn count="2" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="12732" y="-246700" zmin="-9577" zmax="-9567" />
+			<add x="12736" y="-247380" zmin="-9577" zmax="-9567" />
+			<add x="14660" y="-247368" zmin="-9577" zmax="-9567" />
+			<add x="14652" y="-246716" zmin="-9577" zmax="-9567" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="12725" y="-245348" zmin="-9577" zmax="-9567" />
+			<add x="12728" y="-246028" zmin="-9577" zmax="-9567" />
+			<add x="14652" y="-246016" zmin="-9577" zmax="-9567" />
+			<add x="14644" y="-245364" zmin="-9577" zmax="-9567" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="12660" y="-244200" zmin="-9577" zmax="-9567" />
+			<add x="12664" y="-243540" zmin="-9577" zmax="-9567" />
+			<add x="13256" y="-243552" zmin="-9577" zmax="-9567" />
+			<add x="13256" y="-244184" zmin="-9577" zmax="-9567" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="15616" y="-245208" zmin="-9581" zmax="-9571" />
+			<add x="15616" y="-243816" zmin="-9581" zmax="-9571" />
+			<add x="16334" y="-243813" zmin="-9581" zmax="-9571" />
+			<add x="16316" y="-245208" zmin="-9581" zmax="-9571" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="15983" y="-248896" zmin="-9581" zmax="-9571" />
+			<add x="15983" y="-247504" zmin="-9581" zmax="-9571" />
+			<add x="16702" y="-247501" zmin="-9581" zmax="-9571" />
+			<add x="16683" y="-248896" zmin="-9581" zmax="-9571" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="16264" y="-245672" zmin="-9577" zmax="-9567" />
+			<add x="16268" y="-246368" zmin="-9577" zmax="-9567" />
+			<add x="17648" y="-246352" zmin="-9577" zmax="-9567" />
+			<add x="17636" y="-245660" zmin="-9577" zmax="-9567" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="17284" y="-244184" zmin="-9577" zmax="-9567" />
+			<add x="17288" y="-243524" zmin="-9577" zmax="-9567" />
+			<add x="17880" y="-243536" zmin="-9577" zmax="-9567" />
+			<add x="17880" y="-244168" zmin="-9577" zmax="-9567" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="17300" y="-248806" zmin="-9577" zmax="-9567" />
+			<add x="17304" y="-248146" zmin="-9577" zmax="-9567" />
+			<add x="17896" y="-248158" zmin="-9577" zmax="-9567" />
+			<add x="17896" y="-248790" zmin="-9577" zmax="-9567" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="18353" y="-248819" zmin="-9577" zmax="-9567" />
+			<add x="18357" y="-248159" zmin="-9577" zmax="-9567" />
+			<add x="18949" y="-248171" zmin="-9577" zmax="-9567" />
+			<add x="18949" y="-248803" zmin="-9577" zmax="-9567" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="1" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="19435" y="-248832" zmin="-9577" zmax="-9567" />
+			<add x="19439" y="-248172" zmin="-9577" zmax="-9567" />
+			<add x="20031" y="-248184" zmin="-9577" zmax="-9567" />
+			<add x="20031" y="-248816" zmin="-9577" zmax="-9567" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="2" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="18304" y="-247181" zmin="-9581" zmax="-9571" />
+			<add x="18304" y="-245789" zmin="-9581" zmax="-9571" />
+			<add x="19022" y="-245786" zmin="-9581" zmax="-9571" />
+			<add x="19004" y="-247180" zmin="-9581" zmax="-9571" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="1" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="18356" y="-244207" zmin="-9577" zmax="-9567" />
+			<add x="18360" y="-243547" zmin="-9577" zmax="-9567" />
+			<add x="18952" y="-243559" zmin="-9577" zmax="-9567" />
+			<add x="18952" y="-244191" zmin="-9577" zmax="-9567" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="2" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="20400" y="-246712" zmin="-9577" zmax="-9567" />
+			<add x="20408" y="-244808" zmin="-9577" zmax="-9567" />
+			<add x="21072" y="-244816" zmin="-9577" zmax="-9567" />
+			<add x="21068" y="-246688" zmin="-9577" zmax="-9567" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="2" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="20802" y="-248191" zmin="-9577" zmax="-9567" />
+			<add x="20806" y="-248887" zmin="-9577" zmax="-9567" />
+			<add x="22186" y="-248871" zmin="-9577" zmax="-9567" />
+			<add x="22174" y="-248179" zmin="-9577" zmax="-9567" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="2" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="20472" y="-243595" zmin="-9577" zmax="-9567" />
+			<add x="20476" y="-244291" zmin="-9577" zmax="-9567" />
+			<add x="21856" y="-244275" zmin="-9577" zmax="-9567" />
+			<add x="21844" y="-243583" zmin="-9577" zmax="-9567" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="2" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="22957" y="-246963" zmin="-9581" zmax="-9571" />
+			<add x="22957" y="-245571" zmin="-9581" zmax="-9571" />
+			<add x="23676" y="-245568" zmin="-9581" zmax="-9571" />
+			<add x="23657" y="-246963" zmin="-9581" zmax="-9571" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="1" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="22952" y="-244220" zmin="-9577" zmax="-9567" />
+			<add x="22956" y="-243560" zmin="-9577" zmax="-9567" />
+			<add x="23548" y="-243572" zmin="-9577" zmax="-9567" />
+			<add x="23548" y="-244204" zmin="-9577" zmax="-9567" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="1" respawn="122" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="22997" y="-248841" zmin="-9577" zmax="-9567" />
+			<add x="23001" y="-248181" zmin="-9577" zmax="-9567" />
+			<add x="23593" y="-248193" zmin="-9577" zmax="-9567" />
+			<add x="23593" y="-248825" zmin="-9577" zmax="-9567" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+		<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="44919" y="119975" zmin="-5446" zmax="-5296" />
+			<add x="44927" y="121315" zmin="-5446" zmax="-5296" />
+			<add x="45566" y="121316" zmin="-5446" zmax="-5296" />
+			<add x="45569" y="119976" zmin="-5446" zmax="-5296" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="44931" y="118632" zmin="-5444" zmax="-5294" />
+			<add x="44933" y="119224" zmin="-5444" zmax="-5294" />
+			<add x="45573" y="119228" zmin="-5444" zmax="-5294" />
+			<add x="45573" y="118629" zmin="-5444" zmax="-5294" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="46926" y="119575" zmin="-5447" zmax="-5297" />
+			<add x="46929" y="118916" zmin="-5447" zmax="-5297" />
+			<add x="48298" y="118922" zmin="-5447" zmax="-5297" />
+			<add x="48290" y="119576" zmin="-5447" zmax="-5297" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="46087" y="119750" zmin="-5441" zmax="-5291" />
+			<add x="46088" y="120346" zmin="-5441" zmax="-5291" />
+			<add x="46725" y="120349" zmin="-5441" zmax="-5291" />
+			<add x="46725" y="119743" zmin="-5441" zmax="-5291" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="46197" y="121437" zmin="-5448" zmax="-5298" />
+			<add x="46202" y="120836" zmin="-5448" zmax="-5298" />
+			<add x="46841" y="120836" zmin="-5448" zmax="-5298" />
+			<add x="46842" y="121436" zmin="-5448" zmax="-5298" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="46202" y="123799" zmin="-5452" zmax="-5302" />
+			<add x="46207" y="121977" zmin="-5452" zmax="-5302" />
+			<add x="46858" y="121973" zmin="-5452" zmax="-5302" />
+			<add x="46860" y="123794" zmin="-5452" zmax="-5302" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="49534" y="123835" zmin="-5424" zmax="-5274" />
+			<add x="49543" y="123242" zmin="-5424" zmax="-5274" />
+			<add x="50173" y="123240" zmin="-5424" zmax="-5274" />
+			<add x="50172" y="123837" zmin="-5424" zmax="-5274" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="47659" y="121974" zmin="-5455" zmax="-5305" />
+			<add x="47660" y="121325" zmin="-5455" zmax="-5305" />
+			<add x="49020" y="121314" zmin="-5455" zmax="-5305" />
+			<add x="49008" y="121978" zmin="-5455" zmax="-5305" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="48284" y="120697" zmin="-5449" zmax="-5299" />
+			<add x="48285" y="120029" zmin="-5449" zmax="-5299" />
+			<add x="50093" y="120046" zmin="-5449" zmax="-5299" />
+			<add x="50092" y="120694" zmin="-5449" zmax="-5299" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="49539" y="119225" zmin="-5446" zmax="-5296" />
+			<add x="49540" y="118633" zmin="-5446" zmax="-5296" />
+			<add x="50167" y="118633" zmin="-5446" zmax="-5296" />
+			<add x="50172" y="119228" zmin="-5446" zmax="-5296" />
+		</territory>
+		<npc id="21191" /><!--Gigant Cleric-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="50629" y="119228" zmin="-5448" zmax="-5298" />
+			<add x="50632" y="118630" zmin="-5448" zmax="-5298" />
+			<add x="51269" y="118626" zmin="-5448" zmax="-5298" />
+			<add x="51268" y="119224" zmin="-5448" zmax="-5298" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="50646" y="121154" zmin="-5450" zmax="-5300" />
+			<add x="50656" y="120516" zmin="-5450" zmax="-5300" />
+			<add x="51988" y="120491" zmin="-5450" zmax="-5300" />
+			<add x="51978" y="121147" zmin="-5450" zmax="-5300" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="50615" y="123229" zmin="-5446" zmax="-5296" />
+			<add x="50615" y="123839" zmin="-5446" zmax="-5296" />
+			<add x="51251" y="123840" zmin="-5446" zmax="-5296" />
+			<add x="51256" y="123227" zmin="-5446" zmax="-5296" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="51584" y="122480" zmin="-5446" zmax="-5296" />
+			<add x="51594" y="123820" zmin="-5446" zmax="-5296" />
+			<add x="52213" y="123827" zmin="-5446" zmax="-5296" />
+			<add x="52229" y="122484" zmin="-5446" zmax="-5296" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="52667" y="123210" zmin="-5449" zmax="-5299" />
+			<add x="52673" y="123864" zmin="-5449" zmax="-5299" />
+			<add x="54010" y="123862" zmin="-5449" zmax="-5299" />
+			<add x="54012" y="123195" zmin="-5449" zmax="-5299" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="55240" y="123240" zmin="-5445" zmax="-5295" />
+			<add x="55242" y="123826" zmin="-5445" zmax="-5295" />
+			<add x="55866" y="123837" zmin="-5445" zmax="-5295" />
+			<add x="55867" y="123235" zmin="-5445" zmax="-5295" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="54507" y="121813" zmin="-5448" zmax="-5298" />
+			<add x="54509" y="122462" zmin="-5448" zmax="-5298" />
+			<add x="55840" y="122455" zmin="-5448" zmax="-5298" />
+			<add x="55841" y="121807" zmin="-5448" zmax="-5298" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="52731" y="121315" zmin="-5455" zmax="-5305" />
+			<add x="52739" y="119531" zmin="-5455" zmax="-5305" />
+			<add x="53388" y="119534" zmin="-5455" zmax="-5305" />
+			<add x="53370" y="121317" zmin="-5455" zmax="-5305" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="55233" y="118638" zmin="-5446" zmax="-5296" />
+			<add x="55236" y="119234" zmin="-5446" zmax="-5296" />
+			<add x="55863" y="119233" zmin="-5446" zmax="-5296" />
+			<add x="55862" y="118635" zmin="-5446" zmax="-5296" />
+		</territory>
+		<npc id="21193" /><!--Gigant Raider-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="55226" y="117544" zmin="-5442" zmax="-5292" />
+			<add x="55233" y="118133" zmin="-5442" zmax="-5292" />
+			<add x="55862" y="118132" zmin="-5442" zmax="-5292" />
+			<add x="55860" y="117538" zmin="-5442" zmax="-5292" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="55223" y="114711" zmin="-5453" zmax="-5303" />
+			<add x="55232" y="116049" zmin="-5453" zmax="-5303" />
+			<add x="55873" y="116046" zmin="-5453" zmax="-5303" />
+			<add x="55887" y="114712" zmin="-5453" zmax="-5303" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="55246" y="113532" zmin="-5447" zmax="-5297" />
+			<add x="55248" y="112934" zmin="-5447" zmax="-5297" />
+			<add x="55869" y="112927" zmin="-5447" zmax="-5297" />
+			<add x="55868" y="113531" zmin="-5447" zmax="-5297" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="52518" y="113563" zmin="-5449" zmax="-5299" />
+			<add x="52527" y="112901" zmin="-5449" zmax="-5299" />
+			<add x="53856" y="112912" zmin="-5449" zmax="-5299" />
+			<add x="53852" y="113581" zmin="-5449" zmax="-5299" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="52755" y="115453" zmin="-5454" zmax="-5304" />
+			<add x="52759" y="116088" zmin="-5454" zmax="-5304" />
+			<add x="54546" y="116087" zmin="-5454" zmax="-5304" />
+			<add x="54557" y="115438" zmin="-5454" zmax="-5304" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="52289" y="117521" zmin="-5444" zmax="-5294" />
+			<add x="52289" y="118156" zmin="-5444" zmax="-5294" />
+			<add x="53639" y="118161" zmin="-5444" zmax="-5294" />
+			<add x="53640" y="117520" zmin="-5444" zmax="-5294" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="50628" y="117546" zmin="-5452" zmax="-5302" />
+			<add x="50630" y="118140" zmin="-5452" zmax="-5302" />
+			<add x="51271" y="118139" zmin="-5452" zmax="-5302" />
+			<add x="51256" y="117549" zmin="-5452" zmax="-5302" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="50625" y="116455" zmin="-5449" zmax="-5299" />
+			<add x="50631" y="117048" zmin="-5449" zmax="-5299" />
+			<add x="51259" y="117050" zmin="-5449" zmax="-5299" />
+			<add x="51260" y="116454" zmin="-5449" zmax="-5299" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="50588" y="115688" zmin="-5448" zmax="-5298" />
+			<add x="50599" y="114371" zmin="-5448" zmax="-5298" />
+			<add x="51232" y="114374" zmin="-5448" zmax="-5298" />
+			<add x="51236" y="115688" zmin="-5448" zmax="-5298" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="50615" y="112937" zmin="-5444" zmax="-5294" />
+			<add x="50621" y="113540" zmin="-5444" zmax="-5294" />
+			<add x="51269" y="113541" zmin="-5444" zmax="-5294" />
+			<add x="51268" y="112927" zmin="-5444" zmax="-5294" />
+		</territory>
+		<npc id="21192" /><!--Gigant Officer-->
+	</spawn>
+		<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="48787" y="169989" zmin="-5013" zmax="-4863" />
+			<add x="48790" y="170616" zmin="-5013" zmax="-4863" />
+			<add x="50129" y="170612" zmin="-5013" zmax="-4863" />
+			<add x="50129" y="169992" zmin="-5013" zmax="-4863" />
+		</territory>
+		<npc id="21194" /><!--Gigant Confessor-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="50884" y="170617" zmin="-4992" zmax="-4842" />
+			<add x="50888" y="169989" zmin="-4992" zmax="-4842" />
+			<add x="51476" y="169981" zmin="-4992" zmax="-4842" />
+			<add x="51474" y="170622" zmin="-4992" zmax="-4842" />
+		</territory>
+		<npc id="21194" /><!--Gigant Confessor-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="50553" y="173340" zmin="-5012" zmax="-4862" />
+			<add x="50554" y="172009" zmin="-5012" zmax="-4862" />
+			<add x="51176" y="171998" zmin="-5012" zmax="-4862" />
+			<add x="51177" y="173345" zmin="-5012" zmax="-4862" />
+		</territory>
+		<npc id="21194" /><!--Gigant Confessor-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="49762" y="171769" zmin="-5014" zmax="-4864" />
+			<add x="49764" y="171144" zmin="-5014" zmax="-4864" />
+			<add x="50366" y="171143" zmin="-5014" zmax="-4864" />
+			<add x="50367" y="171767" zmin="-5014" zmax="-4864" />
+		</territory>
+		<npc id="21194" /><!--Gigant Confessor-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="48674" y="171271" zmin="-5014" zmax="-4864" />
+			<add x="48675" y="171906" zmin="-5014" zmax="-4864" />
+			<add x="49264" y="171897" zmin="-5014" zmax="-4864" />
+			<add x="49265" y="171277" zmin="-5014" zmax="-4864" />
+		</territory>
+		<npc id="21194" /><!--Gigant Confessor-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="46300" y="171917" zmin="-5014" zmax="-4864" />
+			<add x="46302" y="171254" zmin="-5014" zmax="-4864" />
+			<add x="48142" y="171258" zmin="-5014" zmax="-4864" />
+			<add x="48140" y="171913" zmin="-5014" zmax="-4864" />
+		</territory>
+		<npc id="21194" /><!--Gigant Confessor-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="46280" y="175232" zmin="-5013" zmax="-4863" />
+			<add x="46284" y="174601" zmin="-5013" zmax="-4863" />
+			<add x="46878" y="174603" zmin="-5013" zmax="-4863" />
+			<add x="46887" y="175227" zmin="-5013" zmax="-4863" />
+		</territory>
+		<npc id="21194" /><!--Gigant Confessor-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="48148" y="172723" zmin="-5014" zmax="-4864" />
+			<add x="48150" y="174068" zmin="-5014" zmax="-4864" />
+			<add x="48784" y="174073" zmin="-5014" zmax="-4864" />
+			<add x="48782" y="172734" zmin="-5014" zmax="-4864" />
+		</territory>
+		<npc id="21194" /><!--Gigant Confessor-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="49406" y="173314" zmin="-5013" zmax="-4863" />
+			<add x="49414" y="175146" zmin="-5013" zmax="-4863" />
+			<add x="50075" y="175152" zmin="-5013" zmax="-4863" />
+			<add x="50077" y="173309" zmin="-5013" zmax="-4863" />
+		</territory>
+		<npc id="21194" /><!--Gigant Confessor-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="50885" y="175235" zmin="-5013" zmax="-4863" />
+			<add x="50888" y="174598" zmin="-5013" zmax="-4863" />
+			<add x="51491" y="174598" zmin="-5013" zmax="-4863" />
+			<add x="51486" y="175236" zmin="-5013" zmax="-4863" />
+		</territory>
+		<npc id="21194" /><!--Gigant Confessor-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="50888" y="176311" zmin="-5016" zmax="-4866" />
+			<add x="50891" y="175684" zmin="-5016" zmax="-4866" />
+			<add x="51483" y="175683" zmin="-5016" zmax="-4866" />
+			<add x="51484" y="176316" zmin="-5016" zmax="-4866" />
+		</territory>
+		<npc id="21195" /><!--Gigant Commander-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="48983" y="175721" zmin="-5014" zmax="-4864" />
+			<add x="48986" y="177055" zmin="-5014" zmax="-4864" />
+			<add x="49605" y="177056" zmin="-5014" zmax="-4864" />
+			<add x="49606" y="175711" zmin="-5014" zmax="-4864" />
+		</territory>
+		<npc id="21195" /><!--Gigant Commander-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="46277" y="176331" zmin="-5020" zmax="-4870" />
+			<add x="46279" y="175670" zmin="-5020" zmax="-4870" />
+			<add x="46876" y="175669" zmin="-5020" zmax="-4870" />
+			<add x="46878" y="176331" zmin="-5020" zmax="-4870" />
+		</territory>
+		<npc id="21195" /><!--Gigant Commander-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="46288" y="176652" zmin="-5012" zmax="-4862" />
+			<add x="46296" y="177275" zmin="-5012" zmax="-4862" />
+			<add x="47634" y="177276" zmin="-5012" zmax="-4862" />
+			<add x="47630" y="176651" zmin="-5012" zmax="-4862" />
+		</territory>
+		<npc id="21195" /><!--Gigant Commander-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="46264" y="177731" zmin="-5011" zmax="-4861" />
+			<add x="46264" y="179074" zmin="-5011" zmax="-4861" />
+			<add x="46890" y="179080" zmin="-5011" zmax="-4861" />
+			<add x="46891" y="177730" zmin="-5011" zmax="-4861" />
+		</territory>
+		<npc id="21195" /><!--Gigant Commander-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="46275" y="180286" zmin="-5010" zmax="-4860" />
+			<add x="46275" y="180933" zmin="-5010" zmax="-4860" />
+			<add x="46881" y="180934" zmin="-5010" zmax="-4860" />
+			<add x="46879" y="180289" zmin="-5010" zmax="-4860" />
+		</territory>
+		<npc id="21195" /><!--Gigant Commander-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="47668" y="180892" zmin="-4992" zmax="-4842" />
+			<add x="47672" y="179552" zmin="-4992" zmax="-4842" />
+			<add x="48295" y="179548" zmin="-4992" zmax="-4842" />
+			<add x="48297" y="180890" zmin="-4992" zmax="-4842" />
+		</territory>
+		<npc id="21195" /><!--Gigant Commander-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="48761" y="178448" zmin="-5018" zmax="-4868" />
+			<add x="48772" y="177778" zmin="-5018" zmax="-4868" />
+			<add x="50603" y="177778" zmin="-5018" zmax="-4868" />
+			<add x="50600" y="178437" zmin="-5018" zmax="-4868" />
+		</territory>
+		<npc id="21195" /><!--Gigant Commander-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="50888" y="180921" zmin="-4992" zmax="-4842" />
+			<add x="50891" y="180292" zmin="-4992" zmax="-4842" />
+			<add x="51490" y="180292" zmin="-4992" zmax="-4842" />
+			<add x="51483" y="180923" zmin="-4992" zmax="-4842" />
+		</territory>
+		<npc id="21195" /><!--Gigant Commander-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="56577" y="175228" zmin="-5015" zmax="-4865" />
+			<add x="56579" y="174584" zmin="-5015" zmax="-4865" />
+			<add x="57180" y="174586" zmin="-5015" zmax="-4865" />
+			<add x="57179" y="175232" zmin="-5015" zmax="-4865" />
+		</territory>
+		<npc id="21196" /><!--Nephilim Sentinel-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="53360" y="173864" zmin="-5018" zmax="-4868" />
+			<add x="53366" y="175202" zmin="-5018" zmax="-4868" />
+			<add x="53986" y="175199" zmin="-5018" zmax="-4868" />
+			<add x="53977" y="173866" zmin="-5018" zmax="-4868" />
+		</territory>
+		<npc id="21196" /><!--Nephilim Sentinel-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="51972" y="174586" zmin="-5016" zmax="-4866" />
+			<add x="51973" y="175234" zmin="-5016" zmax="-4866" />
+			<add x="52569" y="175227" zmin="-5016" zmax="-4866" />
+			<add x="52562" y="174584" zmin="-5016" zmax="-4866" />
+		</territory>
+		<npc id="21196" /><!--Nephilim Sentinel-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="51944" y="173394" zmin="-5013" zmax="-4863" />
+			<add x="51959" y="172036" zmin="-5013" zmax="-4863" />
+			<add x="52570" y="172033" zmin="-5013" zmax="-4863" />
+			<add x="52575" y="173382" zmin="-5013" zmax="-4863" />
+		</territory>
+		<npc id="21196" /><!--Nephilim Sentinel-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="51975" y="170953" zmin="-5014" zmax="-4864" />
+			<add x="51980" y="171574" zmin="-5014" zmax="-4864" />
+			<add x="53324" y="171573" zmin="-5014" zmax="-4864" />
+			<add x="53322" y="170952" zmin="-5014" zmax="-4864" />
+		</territory>
+		<npc id="21196" /><!--Nephilim Sentinel-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="51965" y="170622" zmin="-5011" zmax="-4861" />
+			<add x="51969" y="169983" zmin="-5011" zmax="-4861" />
+			<add x="52574" y="169980" zmin="-5011" zmax="-4861" />
+			<add x="52571" y="170622" zmin="-5011" zmax="-4861" />
+		</territory>
+		<npc id="21196" /><!--Nephilim Sentinel-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="54677" y="170020" zmin="-5014" zmax="-4864" />
+			<add x="54680" y="171368" zmin="-5014" zmax="-4864" />
+			<add x="55301" y="171367" zmin="-5014" zmax="-4864" />
+			<add x="55307" y="170018" zmin="-5014" zmax="-4864" />
+		</territory>
+		<npc id="21196" /><!--Nephilim Sentinel-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="56577" y="170613" zmin="-5015" zmax="-4865" />
+			<add x="56582" y="169989" zmin="-5015" zmax="-4865" />
+			<add x="57176" y="169978" zmin="-5015" zmax="-4865" />
+			<add x="57174" y="170620" zmin="-5015" zmax="-4865" />
+		</territory>
+		<npc id="21196" /><!--Nephilim Sentinel-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="54448" y="172083" zmin="-5014" zmax="-4864" />
+			<add x="54449" y="172753" zmin="-5014" zmax="-4864" />
+			<add x="56293" y="172756" zmin="-5014" zmax="-4864" />
+			<add x="56298" y="172079" zmin="-5014" zmax="-4864" />
+		</territory>
+		<npc id="21196" /><!--Nephilim Sentinel-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="51942" y="180903" zmin="-5012" zmax="-4862" />
+			<add x="51944" y="180310" zmin="-5012" zmax="-4862" />
+			<add x="52602" y="180305" zmin="-5012" zmax="-4862" />
+			<add x="52597" y="180900" zmin="-5012" zmax="-4862" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="56566" y="180307" zmin="-5011" zmax="-4861" />
+			<add x="56568" y="180902" zmin="-5011" zmax="-4861" />
+			<add x="57202" y="180912" zmin="-5011" zmax="-4861" />
+			<add x="57198" y="180304" zmin="-5011" zmax="-4861" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="56568" y="179557" zmin="-5017" zmax="-4867" />
+			<add x="56570" y="178210" zmin="-5017" zmax="-4867" />
+			<add x="57190" y="178209" zmin="-5017" zmax="-4867" />
+			<add x="57191" y="179551" zmin="-5017" zmax="-4867" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="55408" y="179181" zmin="-5022" zmax="-4872" />
+			<add x="55410" y="179788" zmin="-5022" zmax="-4872" />
+			<add x="56045" y="179786" zmin="-5022" zmax="-4872" />
+			<add x="56044" y="179181" zmin="-5022" zmax="-4872" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="55276" y="178105" zmin="-5015" zmax="-4865" />
+			<add x="55284" y="178697" zmin="-5015" zmax="-4865" />
+			<add x="55916" y="178700" zmin="-5015" zmax="-4865" />
+			<add x="55919" y="178106" zmin="-5015" zmax="-4865" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="52015" y="179499" zmin="-5014" zmax="-4864" />
+			<add x="52018" y="178835" zmin="-5014" zmax="-4864" />
+			<add x="53855" y="178838" zmin="-5014" zmax="-4864" />
+			<add x="53854" y="179502" zmin="-5014" zmax="-4864" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="53110" y="178204" zmin="-5013" zmax="-4863" />
+			<add x="53114" y="177575" zmin="-5013" zmax="-4863" />
+			<add x="54452" y="177574" zmin="-5013" zmax="-4863" />
+			<add x="54458" y="178206" zmin="-5013" zmax="-4863" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="51940" y="175694" zmin="-5016" zmax="-4866" />
+			<add x="51943" y="176300" zmin="-5016" zmax="-4866" />
+			<add x="52607" y="176307" zmin="-5016" zmax="-4866" />
+			<add x="52611" y="175691" zmin="-5016" zmax="-4866" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="2" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="55270" y="175741" zmin="-5015" zmax="-4865" />
+			<add x="55271" y="177574" zmin="-5015" zmax="-4865" />
+			<add x="55938" y="177569" zmin="-5015" zmax="-4865" />
+			<add x="55934" y="175738" zmin="-5015" zmax="-4865" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+	<spawn count="1" respawn="140" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="56558" y="175707" zmin="-5001" zmax="-4851" />
+			<add x="56564" y="176292" zmin="-5001" zmax="-4851" />
+			<add x="57196" y="176289" zmin="-5001" zmax="-4851" />
+			<add x="57195" y="175701" zmin="-5001" zmax="-4851" />
+		</territory>
+		<npc id="21197" /><!--Nephilim Priest-->
+	</spawn>
+		<spawn count="1" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="84236" y="208892" zmin="-5468" zmax="-5268" />
+			<add x="84236" y="209540" zmin="-5468" zmax="-5268" />
+			<add x="84820" y="209532" zmin="-5468" zmax="-5268" />
+			<add x="84820" y="208896" zmin="-5468" zmax="-5268" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="2" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="83104" y="210548" zmin="-5472" zmax="-5272" />
+			<add x="83116" y="211924" zmin="-5472" zmax="-5272" />
+			<add x="83788" y="211920" zmin="-5472" zmax="-5272" />
+			<add x="83776" y="210552" zmin="-5472" zmax="-5272" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="2" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="85160" y="212917" zmin="-5472" zmax="-5272" />
+			<add x="85176" y="211004" zmin="-5472" zmax="-5272" />
+			<add x="85860" y="211008" zmin="-5472" zmax="-5272" />
+			<add x="85848" y="212932" zmin="-5472" zmax="-5272" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="2" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="85220" y="213467" zmin="-5468" zmax="-5268" />
+			<add x="85220" y="214156" zmin="-5468" zmax="-5268" />
+			<add x="86576" y="214164" zmin="-5468" zmax="-5268" />
+			<add x="86568" y="213444" zmin="-5468" zmax="-5268" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="1" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="83148" y="213516" zmin="-5472" zmax="-5272" />
+			<add x="83152" y="214152" zmin="-5472" zmax="-5272" />
+			<add x="83744" y="214148" zmin="-5472" zmax="-5272" />
+			<add x="83740" y="213520" zmin="-5472" zmax="-5272" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="2" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="85572" y="208848" zmin="-5484" zmax="-5284" />
+			<add x="85584" y="209516" zmin="-5484" zmax="-5284" />
+			<add x="86944" y="209528" zmin="-5484" zmax="-5284" />
+			<add x="86940" y="208856" zmin="-5484" zmax="-5284" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="2" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="87708" y="210780" zmin="-5472" zmax="-5272" />
+			<add x="87728" y="212112" zmin="-5472" zmax="-5272" />
+			<add x="88376" y="212140" zmin="-5472" zmax="-5272" />
+			<add x="88392" y="210776" zmin="-5472" zmax="-5272" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="1" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="87748" y="208892" zmin="-5472" zmax="-5272" />
+			<add x="87756" y="209552" zmin="-5472" zmax="-5272" />
+			<add x="88344" y="209560" zmin="-5472" zmax="-5272" />
+			<add x="88348" y="208908" zmin="-5472" zmax="-5272" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="1" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="87744" y="214156" zmin="-5468" zmax="-5268" />
+			<add x="87748" y="213520" zmin="-5468" zmax="-5268" />
+			<add x="88348" y="213516" zmin="-5468" zmax="-5268" />
+			<add x="88352" y="214148" zmin="-5468" zmax="-5268" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="1" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="88836" y="208888" zmin="-5484" zmax="-5284" />
+			<add x="88840" y="209540" zmin="-5484" zmax="-5284" />
+			<add x="89432" y="209548" zmin="-5484" zmax="-5284" />
+			<add x="89428" y="208896" zmin="-5484" zmax="-5284" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="2" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="88924" y="211000" zmin="-5468" zmax="-5268" />
+			<add x="88928" y="210340" zmin="-5468" zmax="-5268" />
+			<add x="90802" y="210342" zmin="-5468" zmax="-5268" />
+			<add x="90811" y="210998" zmin="-5468" zmax="-5268" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="2" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="92156" y="208836" zmin="-5472" zmax="-5272" />
+			<add x="92164" y="210200" zmin="-5472" zmax="-5272" />
+			<add x="92812" y="210196" zmin="-5472" zmax="-5272" />
+			<add x="92840" y="208840" zmin="-5472" zmax="-5272" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="1" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="93440" y="208896" zmin="-5468" zmax="-5268" />
+			<add x="93448" y="209540" zmin="-5468" zmax="-5268" />
+			<add x="94032" y="209544" zmin="-5468" zmax="-5268" />
+			<add x="94040" y="208904" zmin="-5468" zmax="-5268" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="2" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="92440" y="211332" zmin="-5472" zmax="-5272" />
+			<add x="92444" y="212012" zmin="-5472" zmax="-5272" />
+			<add x="93816" y="212016" zmin="-5472" zmax="-5272" />
+			<add x="93820" y="211336" zmin="-5472" zmax="-5272" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="2" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="88920" y="211676" zmin="-5476" zmax="-5276" />
+			<add x="88936" y="212328" zmin="-5476" zmax="-5276" />
+			<add x="90832" y="212356" zmin="-5476" zmax="-5276" />
+			<add x="90832" y="211672" zmin="-5476" zmax="-5276" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="1" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="88836" y="213488" zmin="-5472" zmax="-5272" />
+			<add x="88836" y="214144" zmin="-5472" zmax="-5272" />
+			<add x="89436" y="214168" zmin="-5472" zmax="-5272" />
+			<add x="89436" y="213508" zmin="-5472" zmax="-5272" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="2" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="91800" y="212508" zmin="-5480" zmax="-5280" />
+			<add x="91804" y="213872" zmin="-5480" zmax="-5280" />
+			<add x="92472" y="213856" zmin="-5480" zmax="-5280" />
+			<add x="92484" y="212504" zmin="-5480" zmax="-5280" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="1" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="93440" y="214156" zmin="-5472" zmax="-5272" />
+			<add x="93444" y="213488" zmin="-5472" zmax="-5272" />
+			<add x="94048" y="213492" zmin="-5472" zmax="-5272" />
+			<add x="94040" y="214144" zmin="-5472" zmax="-5272" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="1" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="93443" y="215242" zmin="-5472" zmax="-5272" />
+			<add x="93447" y="214574" zmin="-5472" zmax="-5272" />
+			<add x="94051" y="214578" zmin="-5472" zmax="-5272" />
+			<add x="94043" y="215230" zmin="-5472" zmax="-5272" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="92140" y="218560" zmin="-5472" zmax="-5272" />
+			<add x="92152" y="217908" zmin="-5472" zmax="-5272" />
+			<add x="94032" y="217936" zmin="-5472" zmax="-5272" />
+			<add x="94028" y="218560" zmin="-5472" zmax="-5272" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="93448" y="219212" zmin="-5468" zmax="-5268" />
+			<add x="93452" y="219860" zmin="-5468" zmax="-5268" />
+			<add x="94048" y="219844" zmin="-5468" zmax="-5268" />
+			<add x="94044" y="219220" zmin="-5468" zmax="-5268" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="90172" y="219844" zmin="-5476" zmax="-5276" />
+			<add x="90184" y="219180" zmin="-5476" zmax="-5276" />
+			<add x="91528" y="219200" zmin="-5476" zmax="-5276" />
+			<add x="91524" y="219860" zmin="-5476" zmax="-5276" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="91048" y="217928" zmin="-5476" zmax="-5276" />
+			<add x="91056" y="218568" zmin="-5476" zmax="-5276" />
+			<add x="91644" y="218572" zmin="-5476" zmax="-5276" />
+			<add x="91648" y="217928" zmin="-5476" zmax="-5276" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="89979" y="218036" zmin="-5476" zmax="-5276" />
+			<add x="89987" y="218676" zmin="-5476" zmax="-5276" />
+			<add x="90575" y="218680" zmin="-5476" zmax="-5276" />
+			<add x="90579" y="218036" zmin="-5476" zmax="-5276" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="88848" y="219199" zmin="-5476" zmax="-5276" />
+			<add x="88856" y="219839" zmin="-5476" zmax="-5276" />
+			<add x="89444" y="219843" zmin="-5476" zmax="-5276" />
+			<add x="89448" y="219199" zmin="-5476" zmax="-5276" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="91506" y="215777" zmin="-5480" zmax="-5280" />
+			<add x="91510" y="217141" zmin="-5480" zmax="-5280" />
+			<add x="92178" y="217125" zmin="-5480" zmax="-5280" />
+			<add x="92190" y="215773" zmin="-5480" zmax="-5280" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="89136" y="216475" zmin="-5480" zmax="-5280" />
+			<add x="89140" y="217839" zmin="-5480" zmax="-5280" />
+			<add x="89808" y="217823" zmin="-5480" zmax="-5280" />
+			<add x="89820" y="216471" zmin="-5480" zmax="-5280" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="90198" y="216543" zmin="-5472" zmax="-5272" />
+			<add x="90214" y="214630" zmin="-5472" zmax="-5272" />
+			<add x="90898" y="214634" zmin="-5472" zmax="-5272" />
+			<add x="90886" y="216558" zmin="-5472" zmax="-5272" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="123" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="88837" y="214578" zmin="-5476" zmax="-5276" />
+			<add x="88845" y="215218" zmin="-5476" zmax="-5276" />
+			<add x="89433" y="215222" zmin="-5476" zmax="-5276" />
+			<add x="89437" y="214578" zmin="-5476" zmax="-5276" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+		<spawn count="2" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="119729" y="134425" zmin="-4864" zmax="-4664" />
+			<add x="119732" y="132514" zmin="-4864" zmax="-4664" />
+			<add x="120458" y="132508" zmin="-4864" zmax="-4664" />
+			<add x="120437" y="134430" zmin="-4864" zmax="-4664" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="2" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="118608" y="134356" zmin="-4872" zmax="-4672" />
+			<add x="118620" y="135704" zmin="-4872" zmax="-4672" />
+			<add x="119280" y="135712" zmin="-4872" zmax="-4672" />
+			<add x="119320" y="134348" zmin="-4872" zmax="-4672" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="1" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="118332" y="137084" zmin="-4864" zmax="-4664" />
+			<add x="118333" y="137724" zmin="-4864" zmax="-4664" />
+			<add x="118924" y="137728" zmin="-4864" zmax="-4664" />
+			<add x="118936" y="137076" zmin="-4864" zmax="-4664" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="2" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="119676" y="137048" zmin="-4860" zmax="-4660" />
+			<add x="119688" y="137720" zmin="-4860" zmax="-4660" />
+			<add x="121052" y="137752" zmin="-4860" zmax="-4660" />
+			<add x="121036" y="137080" zmin="-4860" zmax="-4660" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="1" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="119475" y="135947" zmin="-4864" zmax="-4664" />
+			<add x="119476" y="136587" zmin="-4864" zmax="-4664" />
+			<add x="120067" y="136591" zmin="-4864" zmax="-4664" />
+			<add x="120079" y="135939" zmin="-4864" zmax="-4664" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="1" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="121006" y="133629" zmin="-4872" zmax="-4672" />
+			<add x="121018" y="134977" zmin="-4872" zmax="-4672" />
+			<add x="121678" y="134985" zmin="-4872" zmax="-4672" />
+			<add x="121718" y="133621" zmin="-4872" zmax="-4672" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="1" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="120566" y="135809" zmin="-4864" zmax="-4664" />
+			<add x="120568" y="136449" zmin="-4864" zmax="-4664" />
+			<add x="121158" y="136453" zmin="-4864" zmax="-4664" />
+			<add x="121170" y="135801" zmin="-4864" zmax="-4664" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="2" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="121665" y="136440" zmin="-4864" zmax="-4664" />
+			<add x="121680" y="135797" zmin="-4864" zmax="-4664" />
+			<add x="123554" y="135808" zmin="-4864" zmax="-4664" />
+			<add x="123546" y="136451" zmin="-4864" zmax="-4664" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="1" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="122964" y="132470" zmin="-4864" zmax="-4664" />
+			<add x="122966" y="133110" zmin="-4864" zmax="-4664" />
+			<add x="123556" y="133114" zmin="-4864" zmax="-4664" />
+			<add x="123568" y="132462" zmin="-4864" zmax="-4664" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="1" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="122955" y="137122" zmin="-4864" zmax="-4664" />
+			<add x="122956" y="137762" zmin="-4864" zmax="-4664" />
+			<add x="123547" y="137766" zmin="-4864" zmax="-4664" />
+			<add x="123559" y="137114" zmin="-4864" zmax="-4664" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="1" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="124021" y="137112" zmin="-4864" zmax="-4664" />
+			<add x="124022" y="137752" zmin="-4864" zmax="-4664" />
+			<add x="124613" y="137756" zmin="-4864" zmax="-4664" />
+			<add x="124625" y="137104" zmin="-4864" zmax="-4664" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="2" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="124046" y="133401" zmin="-4860" zmax="-4660" />
+			<add x="124058" y="134073" zmin="-4860" zmax="-4660" />
+			<add x="125422" y="134105" zmin="-4860" zmax="-4660" />
+			<add x="125406" y="133433" zmin="-4860" zmax="-4660" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="1" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="124063" y="132467" zmin="-4864" zmax="-4664" />
+			<add x="124064" y="133107" zmin="-4864" zmax="-4664" />
+			<add x="124655" y="133111" zmin="-4864" zmax="-4664" />
+			<add x="124667" y="132459" zmin="-4864" zmax="-4664" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="2" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="123993" y="134516" zmin="-4872" zmax="-4672" />
+			<add x="124005" y="135864" zmin="-4872" zmax="-4672" />
+			<add x="124665" y="135872" zmin="-4872" zmax="-4672" />
+			<add x="124705" y="134508" zmin="-4872" zmax="-4672" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="2" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="126724" y="132508" zmin="-4872" zmax="-4672" />
+			<add x="126736" y="133856" zmin="-4872" zmax="-4672" />
+			<add x="127396" y="133864" zmin="-4872" zmax="-4672" />
+			<add x="127436" y="132500" zmin="-4872" zmax="-4672" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="2" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="125382" y="136341" zmin="-4872" zmax="-4672" />
+			<add x="125394" y="137689" zmin="-4872" zmax="-4672" />
+			<add x="126054" y="137697" zmin="-4872" zmax="-4672" />
+			<add x="126094" y="136333" zmin="-4872" zmax="-4672" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="2" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="126497" y="135226" zmin="-4876" zmax="-4676" />
+			<add x="126511" y="134584" zmin="-4876" zmax="-4676" />
+			<add x="128385" y="134594" zmin="-4876" zmax="-4676" />
+			<add x="128377" y="135238" zmin="-4876" zmax="-4676" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="1" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="128647" y="137077" zmin="-4864" zmax="-4664" />
+			<add x="128649" y="137717" zmin="-4864" zmax="-4664" />
+			<add x="129239" y="137721" zmin="-4864" zmax="-4664" />
+			<add x="129251" y="137069" zmin="-4864" zmax="-4664" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="1" respawn="136" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="128638" y="132457" zmin="-4864" zmax="-4664" />
+			<add x="128639" y="133097" zmin="-4864" zmax="-4664" />
+			<add x="129230" y="133101" zmin="-4864" zmax="-4664" />
+			<add x="129242" y="132449" zmin="-4864" zmax="-4664" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+		<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="141569" y="79370" zmin="-5464" zmax="-5264" />
+			<add x="141569" y="80007" zmin="-5464" zmax="-5264" />
+			<add x="142182" y="80007" zmin="-5464" zmax="-5264" />
+			<add x="142182" y="79370" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="142874" y="79313" zmin="-5464" zmax="-5264" />
+			<add x="142874" y="79950" zmin="-5464" zmax="-5264" />
+			<add x="144345" y="79950" zmin="-5464" zmax="-5264" />
+			<add x="144345" y="79313" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="140464" y="80964" zmin="-5476" zmax="-5276" />
+			<add x="140464" y="82423" zmin="-5476" zmax="-5276" />
+			<add x="141103" y="82423" zmin="-5476" zmax="-5276" />
+			<add x="141103" y="80964" zmin="-5476" zmax="-5276" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="142524" y="81448" zmin="-5464" zmax="-5264" />
+			<add x="142524" y="83347" zmin="-5464" zmax="-5264" />
+			<add x="143203" y="83327" zmin="-5464" zmax="-5264" />
+			<add x="143203" y="81448" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="140482" y="83959" zmin="-5464" zmax="-5264" />
+			<add x="140482" y="84596" zmin="-5464" zmax="-5264" />
+			<add x="141095" y="84596" zmin="-5464" zmax="-5264" />
+			<add x="141095" y="83959" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="142515" y="83977" zmin="-5464" zmax="-5264" />
+			<add x="142515" y="84614" zmin="-5464" zmax="-5264" />
+			<add x="143986" y="84614" zmin="-5464" zmax="-5264" />
+			<add x="143986" y="83977" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21200" /><!--Nephilim Bishop-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="145102" y="79366" zmin="-5464" zmax="-5264" />
+			<add x="145102" y="80003" zmin="-5464" zmax="-5264" />
+			<add x="145715" y="80003" zmin="-5464" zmax="-5264" />
+			<add x="145715" y="79366" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="145076" y="81200" zmin="-5476" zmax="-5276" />
+			<add x="145076" y="82659" zmin="-5476" zmax="-5276" />
+			<add x="145716" y="82659" zmin="-5476" zmax="-5276" />
+			<add x="145716" y="81200" zmin="-5476" zmax="-5276" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="145094" y="83939" zmin="-5464" zmax="-5264" />
+			<add x="145094" y="84576" zmin="-5464" zmax="-5264" />
+			<add x="145707" y="84576" zmin="-5464" zmax="-5264" />
+			<add x="145707" y="83939" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="146171" y="79359" zmin="-5464" zmax="-5264" />
+			<add x="146171" y="79996" zmin="-5464" zmax="-5264" />
+			<add x="146784" y="79996" zmin="-5464" zmax="-5264" />
+			<add x="146784" y="79359" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="146125" y="80319" zmin="-5464" zmax="-5264" />
+			<add x="146125" y="80956" zmin="-5464" zmax="-5264" />
+			<add x="147596" y="80956" zmin="-5464" zmax="-5264" />
+			<add x="147596" y="80319" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="140443" y="85047" zmin="-5464" zmax="-5264" />
+			<add x="140443" y="85684" zmin="-5464" zmax="-5264" />
+			<add x="141056" y="85684" zmin="-5464" zmax="-5264" />
+			<add x="141056" y="85047" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="142248" y="85056" zmin="-5464" zmax="-5264" />
+			<add x="142248" y="85693" zmin="-5464" zmax="-5264" />
+			<add x="143719" y="85693" zmin="-5464" zmax="-5264" />
+			<add x="143719" y="85056" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21201" /><!--Nephilim Centurion-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="148876" y="79360" zmin="-5476" zmax="-5276" />
+			<add x="148876" y="80819" zmin="-5476" zmax="-5276" />
+			<add x="149515" y="80819" zmin="-5476" zmax="-5276" />
+			<add x="149515" y="79360" zmin="-5476" zmax="-5276" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="146151" y="81356" zmin="-5476" zmax="-5276" />
+			<add x="146151" y="82815" zmin="-5476" zmax="-5276" />
+			<add x="146791" y="82815" zmin="-5476" zmax="-5276" />
+			<add x="146791" y="81356" zmin="-5476" zmax="-5276" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="146177" y="83964" zmin="-5464" zmax="-5264" />
+			<add x="146177" y="84601" zmin="-5464" zmax="-5264" />
+			<add x="146789" y="84601" zmin="-5464" zmax="-5264" />
+			<add x="146789" y="83964" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="147569" y="83155" zmin="-5476" zmax="-5276" />
+			<add x="147569" y="84615" zmin="-5476" zmax="-5276" />
+			<add x="148209" y="84615" zmin="-5476" zmax="-5276" />
+			<add x="148209" y="83155" zmin="-5476" zmax="-5276" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="144097" y="85003" zmin="-5476" zmax="-5276" />
+			<add x="144097" y="86463" zmin="-5476" zmax="-5276" />
+			<add x="144736" y="86463" zmin="-5476" zmax="-5276" />
+			<add x="144736" y="85003" zmin="-5476" zmax="-5276" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="145102" y="85063" zmin="-5464" zmax="-5264" />
+			<add x="145102" y="85700" zmin="-5464" zmax="-5264" />
+			<add x="145714" y="85700" zmin="-5464" zmax="-5264" />
+			<add x="145714" y="85063" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="140432" y="86478" zmin="-5464" zmax="-5264" />
+			<add x="140432" y="87115" zmin="-5464" zmax="-5264" />
+			<add x="141903" y="87115" zmin="-5464" zmax="-5264" />
+			<add x="141903" y="86478" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21202" /><!--Nephilim Scout-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="150748" y="79393" zmin="-5464" zmax="-5264" />
+			<add x="150748" y="80030" zmin="-5464" zmax="-5264" />
+			<add x="151360" y="80030" zmin="-5464" zmax="-5264" />
+			<add x="151360" y="79393" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="148645" y="81447" zmin="-5468" zmax="-5268" />
+			<add x="148645" y="82142" zmin="-5468" zmax="-5268" />
+			<add x="150525" y="82142" zmin="-5468" zmax="-5268" />
+			<add x="150525" y="81447" zmin="-5468" zmax="-5268" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="150780" y="83948" zmin="-5464" zmax="-5264" />
+			<add x="150780" y="84585" zmin="-5464" zmax="-5264" />
+			<add x="151392" y="84585" zmin="-5464" zmax="-5264" />
+			<add x="151392" y="83948" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="142916" y="87537" zmin="-5464" zmax="-5264" />
+			<add x="142916" y="89436" zmin="-5464" zmax="-5264" />
+			<add x="143596" y="89416" zmin="-5464" zmax="-5264" />
+			<add x="143596" y="87537" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="144338" y="87774" zmin="-5464" zmax="-5264" />
+			<add x="144338" y="88411" zmin="-5464" zmax="-5264" />
+			<add x="145809" y="88411" zmin="-5464" zmax="-5264" />
+			<add x="145809" y="87774" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="140475" y="89672" zmin="-5464" zmax="-5264" />
+			<add x="140475" y="90309" zmin="-5464" zmax="-5264" />
+			<add x="141088" y="90309" zmin="-5464" zmax="-5264" />
+			<add x="141088" y="89672" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="145108" y="90275" zmin="-5464" zmax="-5264" />
+			<add x="145109" y="89637" zmin="-5464" zmax="-5264" />
+			<add x="145721" y="89637" zmin="-5464" zmax="-5264" />
+			<add x="145721" y="90275" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="146178" y="85698" zmin="-5464" zmax="-5264" />
+			<add x="146179" y="85061" zmin="-5464" zmax="-5264" />
+			<add x="146791" y="85061" zmin="-5464" zmax="-5264" />
+			<add x="146791" y="85698" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="150787" y="85027" zmin="-5464" zmax="-5264" />
+			<add x="150787" y="85664" zmin="-5464" zmax="-5264" />
+			<add x="151400" y="85664" zmin="-5464" zmax="-5264" />
+			<add x="151400" y="85027" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="146167" y="89642" zmin="-5464" zmax="-5264" />
+			<add x="146167" y="90279" zmin="-5464" zmax="-5264" />
+			<add x="146780" y="90279" zmin="-5464" zmax="-5264" />
+			<add x="146780" y="89642" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21203" /><!--Nephilim Archbishop-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="149482" y="85069" zmin="-5464" zmax="-5264" />
+			<add x="149482" y="86968" zmin="-5464" zmax="-5264" />
+			<add x="150162" y="86948" zmin="-5464" zmax="-5264" />
+			<add x="150162" y="85069" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="147265" y="86936" zmin="-5464" zmax="-5264" />
+			<add x="147265" y="87573" zmin="-5464" zmax="-5264" />
+			<add x="148736" y="87573" zmin="-5464" zmax="-5264" />
+			<add x="148736" y="86936" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="149498" y="87452" zmin="-5464" zmax="-5264" />
+			<add x="149498" y="88089" zmin="-5464" zmax="-5264" />
+			<add x="150111" y="88089" zmin="-5464" zmax="-5264" />
+			<add x="150111" y="87452" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="146202" y="88214" zmin="-5468" zmax="-5268" />
+			<add x="146202" y="88909" zmin="-5468" zmax="-5268" />
+			<add x="148081" y="88909" zmin="-5468" zmax="-5268" />
+			<add x="148081" y="88214" zmin="-5468" zmax="-5268" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="149640" y="88547" zmin="-5464" zmax="-5264" />
+			<add x="149640" y="89184" zmin="-5464" zmax="-5264" />
+			<add x="150252" y="89184" zmin="-5464" zmax="-5264" />
+			<add x="150252" y="88547" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="2" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="148009" y="89336" zmin="-5464" zmax="-5264" />
+			<add x="148009" y="89974" zmin="-5464" zmax="-5264" />
+			<add x="149480" y="89974" zmin="-5464" zmax="-5264" />
+			<add x="149480" y="89336" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="1" respawn="146" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="150776" y="89633" zmin="-5464" zmax="-5264" />
+			<add x="150776" y="90270" zmin="-5464" zmax="-5264" />
+			<add x="151389" y="90270" zmin="-5464" zmax="-5264" />
+			<add x="151389" y="89633" zmin="-5464" zmax="-5264" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+		<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="174135" y="-17960" zmin="-4936" zmax="-4736" />
+			<add x="174135" y="-17263" zmin="-4936" zmax="-4736" />
+			<add x="175597" y="-17263" zmin="-4936" zmax="-4736" />
+			<add x="175597" y="-17960" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="172299" y="-16533" zmin="-4936" zmax="-4736" />
+			<add x="172299" y="-15836" zmin="-4936" zmax="-4736" />
+			<add x="173762" y="-15836" zmin="-4936" zmax="-4736" />
+			<add x="173762" y="-16533" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="1" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="172324" y="-13299" zmin="-4936" zmax="-4736" />
+			<add x="172324" y="-12683" zmin="-4936" zmax="-4736" />
+			<add x="172986" y="-12677" zmin="-4936" zmax="-4736" />
+			<add x="172986" y="-13293" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="174808" y="-15417" zmin="-4940" zmax="-4740" />
+			<add x="174808" y="-13583" zmin="-4940" zmax="-4740" />
+			<add x="175495" y="-13583" zmin="-4940" zmax="-4740" />
+			<add x="175495" y="-15417" zmin="-4940" zmax="-4740" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="175984" y="-17952" zmin="-4932" zmax="-4732" />
+			<add x="175984" y="-16486" zmin="-4932" zmax="-4732" />
+			<add x="176636" y="-16486" zmin="-4932" zmax="-4732" />
+			<add x="176636" y="-17952" zmin="-4932" zmax="-4732" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="176192" y="-15248" zmin="-4936" zmax="-4736" />
+			<add x="176192" y="-14551" zmin="-4936" zmax="-4736" />
+			<add x="177655" y="-14551" zmin="-4936" zmax="-4736" />
+			<add x="177655" y="-15248" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="1" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="176932" y="-13301" zmin="-4936" zmax="-4736" />
+			<add x="176932" y="-12685" zmin="-4936" zmax="-4736" />
+			<add x="177594" y="-12679" zmin="-4936" zmax="-4736" />
+			<add x="177594" y="-13295" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="1" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="176947" y="-17912" zmin="-4936" zmax="-4736" />
+			<add x="176947" y="-17296" zmin="-4936" zmax="-4736" />
+			<add x="177610" y="-17290" zmin="-4936" zmax="-4736" />
+			<add x="177610" y="-17907" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21204" /><!--Nephilim Praetorian-->
+	</spawn>
+	<spawn count="1" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="178018" y="-17932" zmin="-4936" zmax="-4736" />
+			<add x="178018" y="-17316" zmin="-4936" zmax="-4736" />
+			<add x="178680" y="-17310" zmin="-4936" zmax="-4736" />
+			<add x="178680" y="-17926" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="177994" y="-16054" zmin="-4936" zmax="-4736" />
+			<add x="177994" y="-15357" zmin="-4936" zmax="-4736" />
+			<add x="179457" y="-15357" zmin="-4936" zmax="-4736" />
+			<add x="179457" y="-16054" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="178983" y="-14113" zmin="-4932" zmax="-4732" />
+			<add x="178983" y="-12647" zmin="-4932" zmax="-4732" />
+			<add x="179636" y="-12647" zmin="-4932" zmax="-4732" />
+			<add x="179636" y="-14113" zmin="-4932" zmax="-4732" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="1" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="178019" y="-13303" zmin="-4936" zmax="-4736" />
+			<add x="178019" y="-12686" zmin="-4936" zmax="-4736" />
+			<add x="178682" y="-12681" zmin="-4936" zmax="-4736" />
+			<add x="178682" y="-13297" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="180118" y="-16999" zmin="-4940" zmax="-4740" />
+			<add x="180118" y="-15166" zmin="-4940" zmax="-4740" />
+			<add x="180805" y="-15166" zmin="-4940" zmax="-4740" />
+			<add x="180805" y="-16999" zmin="-4940" zmax="-4740" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="1" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="182628" y="-17916" zmin="-4936" zmax="-4736" />
+			<add x="182628" y="-17300" zmin="-4936" zmax="-4736" />
+			<add x="183290" y="-17294" zmin="-4936" zmax="-4736" />
+			<add x="183290" y="-17910" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="181839" y="-14740" zmin="-4936" zmax="-4736" />
+			<add x="181839" y="-14043" zmin="-4936" zmax="-4736" />
+			<add x="183302" y="-14043" zmin="-4936" zmax="-4736" />
+			<add x="183302" y="-14740" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="180024" y="-13358" zmin="-4936" zmax="-4736" />
+			<add x="180024" y="-12661" zmin="-4936" zmax="-4736" />
+			<add x="181487" y="-12661" zmin="-4936" zmax="-4736" />
+			<add x="181487" y="-13358" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="1" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="182644" y="-13338" zmin="-4936" zmax="-4736" />
+			<add x="182644" y="-12722" zmin="-4936" zmax="-4736" />
+			<add x="183306" y="-12717" zmin="-4936" zmax="-4736" />
+			<add x="183306" y="-13333" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21205" /><!--Nephilim Royal Guard-->
+	</spawn>
+	<spawn count="1" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="172340" y="-12217" zmin="-4936" zmax="-4736" />
+			<add x="172340" y="-11601" zmin="-4936" zmax="-4736" />
+			<add x="173002" y="-11596" zmin="-4936" zmax="-4736" />
+			<add x="173002" y="-12212" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="172315" y="-11289" zmin="-4936" zmax="-4736" />
+			<add x="172315" y="-10592" zmin="-4936" zmax="-4736" />
+			<add x="173778" y="-10592" zmin="-4936" zmax="-4736" />
+			<add x="173778" y="-11289" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="175034" y="-12276" zmin="-4932" zmax="-4732" />
+			<add x="175034" y="-10810" zmin="-4932" zmax="-4732" />
+			<add x="175687" y="-10810" zmin="-4932" zmax="-4732" />
+			<add x="175687" y="-12276" zmin="-4932" zmax="-4732" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="176917" y="-12235" zmin="-4936" zmax="-4736" />
+			<add x="176917" y="-11619" zmin="-4936" zmax="-4736" />
+			<add x="177580" y="-11613" zmin="-4936" zmax="-4736" />
+			<add x="177580" y="-12229" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="172320" y="-10196" zmin="-4932" zmax="-4732" />
+			<add x="172320" y="-8730" zmin="-4932" zmax="-4732" />
+			<add x="172972" y="-8730" zmin="-4932" zmax="-4732" />
+			<add x="172972" y="-10196" zmin="-4932" zmax="-4732" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="172323" y="-7640" zmin="-4936" zmax="-4736" />
+			<add x="172323" y="-7024" zmin="-4936" zmax="-4736" />
+			<add x="172985" y="-7018" zmin="-4936" zmax="-4736" />
+			<add x="172985" y="-7635" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="173752" y="-8398" zmin="-4932" zmax="-4732" />
+			<add x="173752" y="-6932" zmin="-4932" zmax="-4732" />
+			<add x="174404" y="-6932" zmin="-4932" zmax="-4732" />
+			<add x="174404" y="-8398" zmin="-4932" zmax="-4732" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="174811" y="-9466" zmin="-4912" zmax="-4712" />
+			<add x="174819" y="-10128" zmin="-4912" zmax="-4712" />
+			<add x="176718" y="-10128" zmin="-4912" zmax="-4712" />
+			<add x="176710" y="-9466" zmin="-4912" zmax="-4712" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="176933" y="-7645" zmin="-4936" zmax="-4736" />
+			<add x="176933" y="-7029" zmin="-4936" zmax="-4736" />
+			<add x="177596" y="-7024" zmin="-4936" zmax="-4736" />
+			<add x="177596" y="-7640" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21206" /><!--Nephilim Cardinal-->
+	</spawn>
+	<spawn count="1" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="178007" y="-7629" zmin="-4936" zmax="-4736" />
+			<add x="178007" y="-7013" zmin="-4936" zmax="-4736" />
+			<add x="178669" y="-7008" zmin="-4936" zmax="-4736" />
+			<add x="178669" y="-7624" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="1" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="178023" y="-12249" zmin="-4936" zmax="-4736" />
+			<add x="178023" y="-11633" zmin="-4936" zmax="-4736" />
+			<add x="178685" y="-11627" zmin="-4936" zmax="-4736" />
+			<add x="178685" y="-12244" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="178029" y="-10358" zmin="-4936" zmax="-4736" />
+			<add x="178029" y="-9661" zmin="-4936" zmax="-4736" />
+			<add x="179492" y="-9661" zmin="-4936" zmax="-4736" />
+			<add x="179492" y="-10358" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="180134" y="-11345" zmin="-4940" zmax="-4740" />
+			<add x="180134" y="-9511" zmin="-4940" zmax="-4740" />
+			<add x="180821" y="-9511" zmin="-4940" zmax="-4740" />
+			<add x="180821" y="-11345" zmin="-4940" zmax="-4740" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="180016" y="-7630" zmin="-4936" zmax="-4736" />
+			<add x="180016" y="-6933" zmin="-4936" zmax="-4736" />
+			<add x="181479" y="-6933" zmin="-4936" zmax="-4736" />
+			<add x="181479" y="-7630" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="2" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="181878" y="-9062" zmin="-4936" zmax="-4736" />
+			<add x="181878" y="-8365" zmin="-4936" zmax="-4736" />
+			<add x="183340" y="-8365" zmin="-4936" zmax="-4736" />
+			<add x="183340" y="-9062" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+	<spawn count="1" respawn="135" respawn_random="0" period_of_day="none" group="dusk_victory_spawn">
+		<territory>
+			<add x="182616" y="-7617" zmin="-4936" zmax="-4736" />
+			<add x="182616" y="-7000" zmin="-4936" zmax="-4736" />
+			<add x="183279" y="-6995" zmin="-4936" zmax="-4736" />
+			<add x="183279" y="-7611" zmin="-4936" zmax="-4736" />
+		</territory>
+		<npc id="21207" /><!--Nephilim Commander-->
+	</spawn>
+</list>

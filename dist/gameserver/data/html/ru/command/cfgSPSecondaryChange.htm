@@ -1,0 +1,25 @@
+<html><head><title>Контрольная панель</title></head><body><br>
+<center>
+<img src="L2UI.squaregray" width="280" height="1">
+<table width=280 bgcolor=222120>
+	<tr>
+		<td>
+			<center>
+			<font name="hs12" color="a22020">Ваш сервер</font>
+			</center>
+		</td>
+	</tr>
+</table>
+<img src="L2UI.squaregray" width="280" height="1">
+<br><br>
+<center>
+<font color=c1b33a>
+Напишите текущий пароль безопасности, чтобы удалить его!!<br>
+</font>
+<table width=290>
+<tr><td><font color=686764>Пароль:</font></td><td><multiedit var="pass1" width=150 height=30 /></td></tr>
+</table>
+<br><br>
+<button value="Удалить" action="bypass -h user_cp secondaryPassC | $pass1 | " width=150 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" />
+<button value="Назад" action="bypass -h user_cp back" width=150 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" /><br>
+</body></html>

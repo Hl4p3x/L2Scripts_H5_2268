@@ -1,0 +1,51 @@
+<html>
+<html noscrollbar>
+<title>Bathiat</title>
+<body>
+<table border=0 cellpadding=0 cellspacing=0 width=292 height=358 background="l2ui_ct1.Windows_DF_TooltipBG">
+	<tr>
+		<td valign="top" align="center"><br><br>
+			<center>
+				<font color="LEVEL">Информация о противнике.</font><br>
+			</center>
+			<table width=292 height=230>
+				<tr>
+					<td>
+						<table width=280 border=0 cellspacing=4 cellpadding=3>
+							<tr>
+								<td width=50 align=right valign=top>
+									<img src="icon.etc_quest_account_reward_i00" width=32 height=32>
+								</td>
+								<td width=230 align=left valign=top>
+									Ник игрока: <font color="LEVEL">%name%</a><font><br1>
+									Класс игрока: <font color="LEVEL">%class%<font><br1>
+									Уровень: <font color="LEVEL">%level%</font><br1>
+									Ставка: <font color ="LEVEL">%rate%</font><br1>
+								</td>
+							</tr>
+						</table>
+						<table width=280 border=0 cellspacing=4 cellpadding=3>
+							<tr>
+								<td width=260 align=left valign=top>
+									Учтите, что для принятия ставки у игрока,<br1>
+									создавшего предложение и у вас - должно быть<br1>
+									количество предметов больше или равное ставке.<br>
+									После окончания боя - банк (сумма ставок) переходит к победившему игроку.
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<table width=292>
+				<tr>
+					<td width="200" valign="top" align="center">
+						<button value="Принять бой" action="bypass -h npc_%objectId%_accept %storedId%" width=200 height=29 back="L2UI_CT1.OlympiadWnd_DF_Apply_Down" fore="L2UI_CT1.OlympiadWnd_DF_Apply"/>
+						<button value="Посмотреть другие заявки" action="bypass -h npc_%objectId%_openpage 1" width=200 height=29 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch"/>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+</body></html></html>

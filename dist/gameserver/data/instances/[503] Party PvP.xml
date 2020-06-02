@@ -1,0 +1,41 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+	<!-- Party PvP -->
+	<instance id="503" name="Party PvP" maxChannels="150" collapseIfEmpty="1" timelimit="60" dispelBuffs="false">
+		<level min="1" max="85"/>
+		<party min="2" max="9"/>
+		<return loc="43816 -48232 -822"/>
+		<collapse on-party-dismiss="false" timer="60"/>
+		<teleport loc="-23768 -8968 -5412"/>
+		<remove itemId="0" count="0" necessary="false"/>
+		<give itemId="0" count="0"/>
+		<quest id="0"/>
+		<reuse resetReuse="* * * * *" setUponEntry="true" sharedReuseGroup="0"/>
+		<spawns/>
+		<doors>
+			<door id="24220030" opened="true"/>
+			<door id="24220031" opened="true"/>
+			<door id="24220032" opened="true"/>
+			<door id="24220033" opened="true"/>
+			<door id="24220034" opened="true"/>
+			<door id="24220035" opened="true"/>
+			<door id="24220036" opened="true"/>
+			<door id="24220037" opened="true"/>
+			<door id="24220038" opened="true"/>
+			<door id="24220035" opened="true"/>
+			<door id="24220039" opened="true"/>
+			<door id="24220040" opened="true"/>
+			<door id="24220041" opened="true"/>
+			<door id="24220042"/>
+			<door id="24220043" opened="true"/>
+			<door id="24220044" opened="true"/>
+			<door id="24220045" opened="true"/>
+			<door id="24220046" opened="true"/>
+			<door id="24220047" opened="true"/>
+			<door id="24220048" opened="true"/>
+			<door id="24220049" opened="true"/>
+			<door id="24220050" opened="true"/>
+			<door id="24220060" opened="true"/>
+		</doors>
+	</instance>
+</list>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+
+<list>
+	<spawn count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-46200" y="246120" z="-9120" h="0" />
+		<npc id="18494" /><!--Ingenious Contraption-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-48148" y="249165" z="-9120" h="32768" />
+		<npc id="18495" /><!--Ingenious Contraption-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-51625" y="246509" z="-9984" h="-16384" />
+		<npc id="18496" /><!--Ingenious Contraption-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-49749" y="243406" z="-9984" h="0" />
+		<npc id="18497" /><!--Ingenious Contraption-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-46185" y="245905" z="-9984" h="16380" />
+		<npc id="18498" /><!--Ingenious Contraption-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-48682" y="248290" z="-9984" h="32768" />
+		<npc id="18499" /><!--Ingenious Contraption-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-51633" y="246339" z="-10848" h="-16384" />
+		<npc id="18500" /><!--Ingenious Contraption-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-49150" y="243968" z="-10848" h="0" />
+		<npc id="18501" /><!--Ingenious Contraption-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-46227" y="245908" z="-11704" h="16384" />
+		<npc id="18502" /><!--Ingenious Contraption-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-48706" y="248287" z="-11712" h="32768" />
+		<npc id="18503" /><!--Ingenious Contraption-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-51630" y="246340" z="-12568" h="-16384" />
+		<npc id="18504" /><!--Ingenious Contraption-->
+	</spawn>
+	<spawn count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="-48537" y="243648" z="-13376" h="0" />
+		<npc id="18505" /><!--Ingenious Contraption-->
+	</spawn>
+	<spawn count="1" respawn="129600" respawn_random="7200" period_of_day="none">
+		<point x="-45480" y="246824" z="-14209" h="49152" />
+		<npc id="25604" /><!--Mutated Elpy-->
+	</spawn>
+</list>

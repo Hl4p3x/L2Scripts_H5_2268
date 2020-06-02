@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<!-- Black Gem Mask - br_black_gem_mask_i00 -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="20324" count="1"/>
+	</item>
+
+	<!-- Laborer Hat - br_people_cap_i00 -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="20401" count="1"/>
+	</item>
+	<!-- Napoleon Hat - br_napoleonic_cap_i00 -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="20322" count="1"/>
+	</item>
+	<!-- Event - Refined Carnival Circlet - accessory_carnival_circlet2_i00 -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="13502" count="1"/>
+	</item>
+
+	<!-- Refined Carnival Circlet - accessory_carnival_circlet_i00 -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="13493" count="1"/>
+	</item>
+	<!-- Graduation Cap - accessory_graduation_cap_i00 -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="13492" count="1"/>
+	</item>
+	<!-- Event - Top Hat - accessory_magicial_cap_i00 -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="13518" count="1"/>
+	</item>
+	<!-- Afro Hair - br_Afro_hair_i00 -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="20017" count="1"/>
+	</item>
+
+	<!-- Assassin's Bamboo Hat - br_Bamboo_Hat_i00 -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="20021" count="1"/>
+	</item>
+
+	<!-- Eva's Circlet - br_circlet_of_eva_i00 -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="20569" count="1"/>
+	</item>
+	<!-- Plastic Hair - br_plastic_hair_f_i00 -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="20325" count="1"/>
+	</item>
+
+	<!-- Ribbon Hairband - br_Ribbon_i00 -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="20023" count="1"/>
+	</item>
+
+	<!-- Uniform Hat - br_Uniform_Hat_i00 -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="20020" count="1"/>
+	</item>
+
+	<!-- Watermelon Hat - br_watermelon_cap_a_i00 -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="20634" count="1"/>
+	</item>
+	<!-- Refined Devil Horn - accessory_devil_horn_i00 -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="13495" count="1"/>
+	</item>
+	<!-- Jack O'Lantern Mask_i00 -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="15442" count="1"/>		
+	</item>
+	<!-- Silent Scream's Mask  -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="15444" count="1"/>		
+	</item>
+	<!--  Red Flare Valakas Hair Accessory -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="15441" count="1"/>		
+	</item>
+	<!-- Wrathful Spirit's Mask  -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="15445" count="1"/>		
+	</item>
+	<!-- Unrotten Corpse's Mask  -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="15446" count="1"/>		
+	</item>
+	<!-- Planet X235 Alien's Mask  -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="15447" count="1"/>		
+	</item>
+	<!-- Refined Shark Hat  -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="16102" count="1"/>		
+	</item>
+	<!--  Refined Penguin Hat -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="16105" count="1"/>		
+	</item>
+	<!-- Soccer Ball Afro Hair - White  -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="17170" count="1"/>		
+	</item>
+	<!-- Gold Afro  -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="20275" count="1"/>		
+	</item>
+	<!-- Pink Afro  -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="20276" count="1"/>		
+	</item>
+	<!-- Valkyrie Hat  -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="20666" count="1"/>		
+	</item>
+	<!-- Gatekeeper Hat  -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="20678" count="1"/>		
+	</item>
+	<!-- Rocket Gun Hat Continuous Fireworks  -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="20789" count="1"/>		
+	</item>
+	<!-- Flavorful Cheese Hat  -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="20792" count="1"/>		
+	</item>
+	<!-- Paiwan Hat  -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="20944" count="1"/>		
+	</item>
+	<!-- Opera Mask - Liu Bei Buff of Virtue, Age of the Three Kingdoms  -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="20973" count="1"/>		
+	</item>
+	<!-- Opera Mask - Guan Yu Silence of Fidelity, Age of the Three Kingdoms  -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="20974" count="1"/>		
+	</item>
+	<!-- Opera Mask - Zhang Fei Vitality of Courage, Age of the Three Kingdoms  -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="20975" count="1"/>		
+	</item>
+	<!--  Flag Hat -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="21043" count="1"/>		
+	</item>
+	<!-- White Uniform Hat  -->
+	<item>
+		<ingredient id="4037" count="3"/>
+		<production id="21124" count="1"/>		
+	</item>
+	<!-- Warrior's Helmet  -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="21126" count="1"/>		
+	</item>
+	<!-- Rank 2 Scholar's Hat  -->
+	<item>
+		<ingredient id="4037" count="5"/>
+		<production id="21757" count="1"/>		
+	</item>
+	
+</list>

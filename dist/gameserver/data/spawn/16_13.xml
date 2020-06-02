@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114602" y="-151279" z="-6720" h="0" />
+		<npc id="32658" /><!--Guardian of Eastern Seal-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114051" y="-151873" z="-6720" h="0" />
+		<npc id="32659" /><!--Guardian of Western Seal-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115162" y="-151868" z="-6720" h="0" />
+		<npc id="32660" /><!--Guardian of Southern Seal-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115152" y="-154688" z="-6720" h="0" />
+		<npc id="32661" /><!--Guardian of Northern Seal-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114608" y="-155280" z="-6720" h="0" />
+		<npc id="32662" /><!--Guardian of Great Seal-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114048" y="-154688" z="-6720" h="0" />
+		<npc id="32663" /><!--Guardian of Tower of Seal-->
+	</spawn>
+</list>

@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+
+	<!-- Dark Crystal Breastplate - armor_t74_u_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="365" count="1"/>
+	</item>
+
+	<!-- Dark Crystal Gaiters - armor_t74_l_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="388" count="1"/>
+	</item>
+
+	<!-- Dark Crystal Helmet - armor_helmet_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="512" count="1"/>
+	</item>
+
+	<!-- Dark Crystal Gloves [Heavy Armor] - armor_t74_g_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5765" count="1"/>
+	</item>
+
+	<!-- Dark Crystal Boots [Heavy Armor] - armor_t74_b_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5777" count="1"/>
+	</item>
+
+	<!-- Dark Crystal Shield - shield_dark_crystal_shield_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="641" count="1"/>
+	</item>
+
+	<!-- Dark Crystal Leather Armor - armor_t75_u_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2385" count="1"/>
+	</item>
+
+	<!-- Dark Crystal Leggings - armor_t75_l_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2389" count="1"/>
+	</item>
+
+	<!-- Dark Crystal Gloves [Light Armor] - armor_t75_g_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5766" count="1"/>
+	</item>
+
+	<!-- Dark Crystal Boots [Light Armor] - armor_t75_b_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5778" count="1"/>
+	</item>
+
+	<!-- Dark Crystal Robe - armor_t76_ul_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2407" count="1"/>
+	</item>
+
+	<!-- Dark Crystal Gloves [Robe] - armor_t76_g_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5767" count="1"/>
+	</item>
+
+	<!-- Dark Crystal Boots [Robe] - armor_t76_b_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5779" count="1"/>
+	</item>
+
+	<!-- Tallum Plate Armor - armor_t77_ul_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2382" count="1"/>
+	</item>
+
+	<!-- Tallum Helm - armor_helmet_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="547" count="1"/>
+	</item>
+
+	<!-- Tallum Gloves [Heavy Armor] - armor_t77_g_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5768" count="1"/>
+	</item>
+
+	<!-- Tallum Boots [Heavy Armor] - armor_t77_b_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5780" count="1"/>
+	</item>
+
+	<!-- Tallum Leather Armor - armor_t78_ul_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2393" count="1"/>
+	</item>
+
+	<!-- Tallum Gloves [Light Armor] - armor_t78_g_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5769" count="1"/>
+	</item>
+
+	<!-- Tallum Boots [Light Armor] - armor_t78_b_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5781" count="1"/>
+	</item>
+
+	<!-- Tallum Tunic - armor_t79_u_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2400" count="1"/>
+	</item>
+
+	<!-- Tallum Stockings - armor_t79_l_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2405" count="1"/>
+	</item>
+
+	<!-- Tallum Gloves [Robe] - armor_t79_g_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5770" count="1"/>
+	</item>
+
+	<!-- Tallum Boots [Robe] - armor_t79_b_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5782" count="1"/>
+	</item>
+
+	<!-- Armor of Nightmare - armor_t80_ul_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="374" count="1"/>
+	</item>
+
+	<!-- Helm of Nightmare - armor_leather_helmet_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2418" count="1"/>
+	</item>
+
+	<!-- Gauntlets of Nightmare [Heavy Armor] - armor_t80_g_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5771" count="1"/>
+	</item>
+
+	<!-- Boots of Nightmare [Heavy Armor] - armor_t80_b_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5783" count="1"/>
+	</item>
+
+	<!-- Shield of Nightmare - shield_shield_of_nightmare_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2498" count="1"/>
+	</item>
+
+	<!-- Nightmarish Leather Armor - armor_t81_ul_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2394" count="1"/>
+	</item>
+
+	<!-- Gauntlets of Nightmare [Light Armor] - armor_t81_g_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5772" count="1"/>
+	</item>
+
+	<!-- Boots of Nightmare [Light Armor] - armor_t81_b_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5784" count="1"/>
+	</item>
+
+	<!-- Nightmare Robe - armor_t82_ul_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2408" count="1"/>
+	</item>
+
+	<!-- Gauntlets of Nightmare [Robe] - armor_t82_g_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5773" count="1"/>
+	</item>
+
+	<!-- Boots of Nightmare [Robe] - armor_t82_b_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5785" count="1"/>
+	</item>
+
+	<!-- Majestic Plate Armor - armor_t83_ul_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2383" count="1"/>
+	</item>
+
+	<!-- Majestic Circlet - armor_leather_helmet_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2419" count="1"/>
+	</item>
+
+	<!-- Majestic Gauntlets [Heavy Armor] - armor_t83_g_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5774" count="1"/>
+	</item>
+
+	<!-- Majestic Boots [Heavy Armor] - armor_t83_b_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5786" count="1"/>
+	</item>
+
+	<!-- Majestic Leather Armor - armor_t84_ul_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2395" count="1"/>
+	</item>
+
+	<!-- Majestic Gauntlets [Light Armor] - armor_t84_g_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5775" count="1"/>
+	</item>
+
+	<!-- Majestic Boots [Light Armor] - armor_t84_b_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5787" count="1"/>
+	</item>
+
+	<!-- Majestic Robe - armor_t85_ul_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="2409" count="1"/>
+	</item>
+
+	<!-- Majestic Gauntlets [Robe] - armor_t85_g_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5776" count="1"/>
+	</item>
+
+	<!-- Majestic Boots [Robe] - armor_t85_b_i00 -->
+	<item>
+		<ingredient id="57" count="-1"/>
+		<production id="5788" count="1"/>
+	</item>
+
+</list>

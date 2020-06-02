@@ -1,0 +1,47 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+	<!-- Frintezza -->
+	<instance id="136" name="Final Emperial Tomb" maxChannels="5" collapseIfEmpty="10" timelimit="120" dispelBuffs="false">
+		<collapse on-party-dismiss="true" timer="60"/>
+		<level min="80" max="85"/>
+		<party min="36" max="45"/>
+		<return loc="181384 -80840 -2757"/>
+		<teleport loc="-88015 -141153 -9168"/>
+		<reuse resetReuse="30 6 * * 3,6" setUponEntry="false" sharedReuseGroup="0"/>
+		<spawns>
+			<group name="last_imperial_tomb" spawned="true"/>
+			<group name="last_imperial_tomb_teleporter" spawned="false"/>
+			<group name="last_imperial_tomb_frintezza" spawned="false"/>
+			<group name="last_imperial_tomb_halisha1" spawned="false"/>
+			<group name="last_imperial_tomb_halisha2" spawned="false"/>
+			<group name="last_imperial_tomb_evil_spirit" spawned="false"/>
+		</spawns>
+		<doors>
+			<door id="17130045"/>
+			<door id="17130051"/>
+			<door id="17130046"/>
+			<door id="17130043"/>
+			<door id="17130042"/>
+			<door id="17130052"/>
+			<door id="17130053"/>
+			<door id="17130054"/>
+			<door id="17130055"/>
+			<door id="17130056"/>
+			<door id="17130057"/>
+			<door id="17130058"/>
+			<door id="17130068"/>
+			<door id="17130069"/>
+			<door id="17130070"/>
+			<door id="17130066"/>
+			<door id="17130067"/>
+			<door id="17130063"/>
+			<door id="17130064"/>
+			<door id="17130065"/>
+			<door id="17130062"/>
+			<door id="17130061"/>
+		</doors>
+		<zones>
+			<zone name="[Frintezza]" active="true"/>
+		</zones>
+	</instance>
+</list>

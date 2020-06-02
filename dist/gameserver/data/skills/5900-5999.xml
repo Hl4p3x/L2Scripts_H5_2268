@@ -1,0 +1,1746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="5900" levels="1" name="Burst of Oblivion" >
+		<!-- 
+		      Description: "When a blow is incurred, the target is continuously removed, and skills and magic cannot be used."
+		-->
+		<set name="levelModifier" value="1" />
+		<set name="magicType" value="MAGIC" />
+		<set name="affectLimit" value="5;15" />
+		<set name="icon" value="icon.skill1481" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="2000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="15" />
+		<set name="mpConsume2" value="60" />
+		<set name="target" value="TARGET_AURA" />
+		<set name="skillType" value="MUTE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="trait" value="DERANGEMENT" />
+		<set name="saveVs" value="MEN" />
+		<for>
+			<effect count="1" name="MuteAll" time="20" value="0" />
+		</for>
+	</skill>
+	<skill id="5901" levels="2" name="Mist of Oblivion" >
+		<!--  
+		      Description: "When a blow is incurred, the target is continuously removed, and skills and magic cannot be used."
+		-->
+		<table name="#mpConsume2">60 179</table>
+		<table name="#mpConsume1">15 45</table>
+		<table name="#hitTime">2000 22936</table>
+		<set name="levelModifier" value="1" />
+		<set name="magicType" value="MAGIC" />
+		<set name="affectLimit" value="10;10" />
+		<set name="icon" value="icon.skill1481" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="#hitTime" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="#mpConsume1" />
+		<set name="mpConsume2" value="#mpConsume2" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="MUTE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="trait" value="DERANGEMENT" />
+		<set name="saveVs" value="MEN" />
+		<for>
+			<effect count="1" name="MuteAll" time="20" value="0" />
+		</for>
+	</skill>
+	<skill id="5902" levels="1" name="NPC Trigger Target Cancel" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="85" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5903" levels="1" name="Burst of Misplace" >
+		<!--
+
+			Last modify: 18.04.2010
+			Description: Equipment are removed. Unable to use weapons while the effect lasts.
+		-->
+		<set name="levelModifier" value="1" />
+		<set name="magicType" value="MAGIC" />
+		<set name="affectLimit" value="5;15" />
+		<set name="icon" value="icon.skill0485" />
+		<set name="magicLevel" value="83" />
+		<set name="castRange" value="600" />
+		<set name="hitTime" value="2000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="15" />
+		<set name="mpConsume2" value="59" />
+		<set name="activateRate" value="70" />
+		<set name="target" value="TARGET_AURA" />
+		<set name="skillRadius" value="600" />
+		<set name="skillType" value="DEBUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="saveVs" value="STR" />
+		<for>
+			<effect abnormal="bleeding" count="1" name="Disarm" stackOrder="1" stackType="disarm" time="3" value="0" />
+		</for>
+	</skill>
+	<skill id="5904" levels="3" name="Mist of Souliter" >
+		<!--
+
+			Last modify: 18.04.2010
+		-->
+		<table name="#mpConsume2">146 150 153</table>
+		<table name="#mpConsume1">37 38 39</table>
+		<table name="#hitTime">2000 22936 22936</table>
+		<table name="#magicLevel">77 81 83</table>
+		<table name="#power">90 100 110</table>
+		<set name="magicType" value="MAGIC" />
+		<set name="affectLimit" value="10;10" />
+		<set name="icon" value="icon.skill1245" />
+		<set name="power" value="#power" />
+		<set name="magicLevel" value="#magicLevel" />
+		<set name="castRange" value="900" />
+		<set name="hitTime" value="#hitTime" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="#mpConsume1" />
+		<set name="mpConsume2" value="#mpConsume2" />
+		<set name="element" value="unholy" />
+		<set name="target" value="TARGET_AREA" />
+		<set name="skillRadius" value="200" />
+		<set name="skillType" value="MDAM" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5905" levels="1" name="Confusing Nuph" >
+		<!--
+
+			Description: Physical and magic skills are all blocked.
+			Last modify: 18.04.2010
+		-->
+		<set name="levelModifier" value="1" />
+		<set name="magicType" value="MAGIC" />
+		<set name="affectLimit" value="10;10" />
+		<set name="icon" value="icon.skill1064" />
+		<set name="magicLevel" value="83" />
+		<set name="hitTime" value="2000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="15" />
+		<set name="mpConsume2" value="58" />
+		<set name="activateRate" value="30" />
+		<set name="target" value="TARGET_AURA" />
+		<set name="skillRadius" value="200" />
+		<set name="skillType" value="MUTE" />
+		<set name="activateRate" value="80" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="trait" value="DERANGEMENT" />
+		<set name="saveVs" value="MEN" />
+		<for>
+			<effect count="1" name="MuteAll" time="30" value="0" />
+		</for>
+	</skill>
+	<skill id="5906" levels="1" name="Ritual of Revive" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="600" />
+		<set name="hitTime" value="3000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5907" levels="2" name="Ritual of Entombment" >
+		<table name="#hitTime">3000 34404</table>
+		<set name="levelModifier" value="1" />
+		<set name="magicType" value="MAGIC" />
+		<set name="affectLimit" value="10;10" />
+		<set name="icon" value="icon.skill1201" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="600" />
+		<set name="hitTime" value="#hitTime" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="15" />
+		<set name="mpConsume2" value="60" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="DEBUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="saveVs" value="MEN" />
+		<for>
+			<effect count="1" name="Root" stackOrder="-1" stackType="Root" time="20" value="0" />
+		</for>
+	</skill>
+	<skill id="5908" levels="2" name="Ritual of Entombment" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: Temporarily inflicts Hold on the enemy. Additional Hold is not available while effects last.
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<table name="#hitTime">3000 34404</table>
+		<set name="levelModifier" value="1" />
+		<set name="magicType" value="MAGIC" />
+		<set name="affectLimit" value="10;10" />
+		<set name="icon" value="icon.skill1201" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="600" />
+		<set name="hitTime" value="#hitTime" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="15" />
+		<set name="mpConsume2" value="60" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="saveVs" value="MEN" />
+	</skill>
+	<skill id="5909" levels="1" name="Stronghold Attack" >
+		<!--
+
+			Last modify: 18.04.2010
+			Comment: Эффект с потолка
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1000" />
+		<set name="power" value="3557" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="1000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="PDAM" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5910" levels="1" name="Stronghold Attack" >
+		<!--
+
+			Last modify: 18.04.2010
+			Comment: Эффект с потолка
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1000" />
+		<set name="power" value="3557" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="300" />
+		<set name="hitTime" value="1000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="PDAM" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5911" levels="1" name="Pestilence Cleanse" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="83" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_PASSIVE" />
+	</skill>
+	<skill id="5912" levels="1" name="Pestilence Cleanse" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: "P. Atk., M. Atk., Atk. Spd., Accuracy, Critical Rate, and Critical Impact are increased. Skill Re-use time is increased."
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="levelModifier" value="1" />
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill1337" />
+		<set name="magicLevel" value="83" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="trait" value="DERANGEMENT" />
+		<set name="saveVs" value="MEN" />
+	</skill>
+	<skill id="5913" levels="1" name="Putrifection Cleanse" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="83" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_PASSIVE" />
+	</skill>
+	<skill id="5914" levels="1" name="Putrifection Cleanse" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: "P. Def., M. Def., Evasion, and Speed are decreased."
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="levelModifier" value="1" />
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill1337" />
+		<set name="magicLevel" value="83" />
+		<set name="castRange" value="600" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="trait" value="DERANGEMENT" />
+		<set name="saveVs" value="MEN" />
+	</skill>
+	<skill id="5915" levels="9" name="Mummifying Aura" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5916" levels="9" name="Cruising Aura" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5917" levels="9" name="Shrouding Aura" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5918" levels="10" name="Physical Root Weakness" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: Physical Root Weakness
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<table name="#magicLevel">10 20 30 40 50 60 70 80 90 95</table>
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="#magicLevel" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_PASSIVE" />
+	</skill>
+	<skill id="5919" levels="1" name="Obey" >
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill5919" />
+		<set name="castRange" value="300" />
+		<set name="hitTime" value="12610" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="15" />
+		<set name="mpConsume2" value="60" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="DEBUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Debuff" time="60" value="0" />
+		</for>
+	</skill>
+	<skill id="5920" levels="1" name="Tentacle of Agony" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="coolTime" value="2000" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="91740" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="60" />
+		<set name="mpConsume2" value="239" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5921" levels="1" name="Inhale" >
+		<!--  Description: "P. Atk., Atk. Spd., M. Atk., accuracy, critical attack rate and critical damage are decreased."
+		-->
+		<set name="levelModifier" value="1" />
+		<set name="magicType" value="MAGIC" />
+		<set name="affectLimit" value="5;15" />
+		<set name="icon" value="icon.skill1337" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="600" />
+		<set name="hitTime" value="26950" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="45" />
+		<set name="mpConsume2" value="179" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="DEBUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="saveVs" value="MEN" />
+		<for>
+			<effect count="1" name="Debuff" time="60" stackOrder="-1" value="0">
+				<mul order="0x30" stat="pAtk" value="0.85" />
+				<mul order="0x30" stat="pAtkSpd" value="0.8" />
+				<mul order="0x30" stat="mAtk" value="0.85" />
+				<mul order="0x30" stat="accCombat" value="0.8" />
+				<mul order="0x30" stat="cAtk" value="0.7" />
+				<mul order="0x30" stat="rCrit" value="0.7" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5922" levels="1" name="Exhale" >
+		<!--  
+		      Description: "Evasion, P. Def., M. Def. and speed are decreased."
+		-->
+		<set name="levelModifier" value="1" />
+		<set name="magicType" value="MAGIC" />
+		<set name="affectLimit" value="5;15" />
+		<set name="icon" value="icon.skill1263" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="600" />
+		<set name="hitTime" value="22700" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="45" />
+		<set name="mpConsume2" value="179" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="DEBUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="saveVs" value="MEN" />
+		<for>
+			<effect count="1" name="Debuff" time="60" stackOrder="-1" value="0">
+				<sub order="0x40" stat="rEvas" value="3" />
+				<mul order="0x30" stat="pDef" value="0.5" />
+				<mul order="0x30" stat="mDef" value="0.5" />
+				<mul order="0x30" stat="runSpd" value="0.5" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5923" levels="1" name="Soul Retain" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1000" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="1000" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5924" levels="1" name="Devour Soul" >
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="power" value="130" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="300" />
+		<set name="hitTime" value="5000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="83" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="MDAM" />
+		<set name="element" value="unholy" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5925" levels="1" name="Goring Charge" >
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="300" />
+		<set name="hitTime" value="800" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="83" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5926" levels="1" name="Breath Corruption" >
+		<set name="magicType" value="SPECIAL" />
+		<set name="affectLimit" value="5;15" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="power" value="110" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="300" />
+		<set name="hitTime" value="2000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="83" />
+		<set name="skillRadius" value="200" />
+		<set name="target" value="TARGET_AREA" />
+		<set name="skillType" value="MDAM" />
+		<set name="element" value="unholy" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5927" levels="4" name="Immortal Frenzy" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="85" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5928" levels="4" name="Immortal Resilience" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="85" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5929" levels="1" name="Pairing of the Lost" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="85" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5930" levels="1" name="Shielding of the Lost" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="85" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5931" levels="1" name="Ultimate Shield" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="85" />
+		<set name="mpConsume1" value="1" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_TOGGLE" />
+	</skill>
+	<skill id="5932" levels="1" name="Dark Blade" >
+		<!--
+		      Last modify: 19.04.2010
+		-->
+		<set name="affectLimit" value="5;15" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1000" />
+		<set name="power" value="8000" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="900" />
+		<set name="hitTime" value="1500" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="1" />
+		<set name="element" value="unholy" />
+		<set name="target" value="TARGET_MULTIFACE" />
+		<set name="skillRadius" value="900" />
+		<set name="skillType" value="PDAM" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5933" levels="1" name="Dark Blade" >
+		<!--
+		      Last modify: 19.04.2010
+		-->
+		<set name="affectLimit" value="5;15" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1000" />
+		<set name="power" value="8000" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="900" />
+		<set name="hitTime" value="1500" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="1" />
+		<set name="element" value="earth" />
+		<set name="target" value="TARGET_MULTIFACE" />
+		<set name="skillRadius" value="900" />
+		<set name="skillType" value="PDAM" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5934" levels="1" name="Meet the soul of darkness and fight against it." >
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill5934" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="900" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<for>
+			<effect name="Buff" stackOrder="1" stackType="armor_earth" count="1" time="30" value="0">
+				<add order="0x40" stat="defenceUnholy" value="180" />
+				<add order="0x40" stat="defenceEarth" value="180" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5935" levels="1" name="Dark Ring" >
+		<!--
+		      Last modify: 19.04.2010
+		-->
+		<set name="affectLimit" value="5;15" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1000" />
+		<set name="power" value="300" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="900" />
+		<set name="hitTime" value="1500" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="1" />
+		<set name="element" value="unholy" />
+		<set name="target" value="TARGET_AREA" />
+		<set name="skillRadius" value="200" />
+		<set name="skillType" value="MDAM" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5936" levels="1" name="Earth Ring" >
+		<!--
+		      Last modify: 19.04.2010
+		-->
+		<set name="affectLimit" value="5;15" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1000" />
+		<set name="power" value="300" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="900" />
+		<set name="hitTime" value="1500" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="1" />
+		<set name="element" value="earth" />
+		<set name="target" value="TARGET_AREA" />
+		<set name="skillRadius" value="200" />
+		<set name="skillType" value="MDAM" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5937" levels="1" name="Self Stun" >
+		<!--
+		      Last modify: 19.04.2010
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="power" value="10000" />
+		<set name="magicLevel" value="85" />
+		<set name="activateRate" value="80" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="PDAM" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="shieldignore" value="true" />
+		<set name="criticalRate" value="10" />
+		<for>
+			<effect applyOnCaster="true" count="1" name="Stun" time="3" value="0" />
+		</for>
+	</skill>
+	<skill id="5938" levels="5" name="Attack Ability Up" >
+		<table name="#pAtk">1.2 1.4 1.6 1.8 2</table>
+		<table name="#mAtk">1.2 1.4 1.6 1.8 2</table>
+		<table name="#pAtkSpd">1.2 1.4 1.6 1.8 2</table>
+		<table name="#accCombat">1.2 1.4 1.6 1.8 2</table>
+		<table name="#rCrit">1.2 1.4 1.6 1.8 2</table>
+		<table name="#cAtk">1.2 1.4 1.6 1.8 2</table>
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="85" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="60" value="0">
+				<mul order="0x30" stat="pAtk" value="#pAtk" />
+				<mul order="0x30" stat="mAtk" value="#mAtk" />
+				<mul order="0x30" stat="pAtkSpd" value="#pAtkSpd" />
+				<mul order="0x30" stat="accCombat" value="#accCombat" />
+				<mul order="0x30" stat="rCrit" value="#rCrit" />
+				<mul order="0x30" stat="cAtk" value="#cAtk" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5939" levels="5" name="Defense Ability Up" >
+		<table name="#stat">1.25 1.5 1.75 2 2.25</table>
+		<table name="#mDef">1.2 1.4 1.6 1.8 2</table>
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="85" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="60" value="0">
+				<mul order="0x30" stat="pDef" value="#stat" />
+				<mul order="0x30" stat="mDef" value="#mDef" />
+				<mul order="0x30" stat="regHp" value="#stat" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5940" levels="12" name="Energy of Generation" >
+		<table name="#magicLevel">10 20 30 40 50 60 70 75 80 85 90 95</table>
+		<table name="#regen">1.2 1.3 1.4 1.5 1.75 2 3 4 5 6 8.5 10</table>
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill1044" />
+		<set name="magicLevel" value="#magicLevel" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<for>
+			<effect name="Buff" count="1" time="300" value="0">
+				<mul order="0x40" stat="regHp" value="#regen" />
+				<mul order="0x40" stat="regMp" value="#regen" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5941" levels="1" name="Energy of Erosion" >
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0060" />
+		<set name="magicLevel" value="10" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="DEBUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<for>
+			<effect name="Debuff" count="1" time="300" value="0">
+				<mul order="0x30" stat="maxHp" value="0.7" />
+				<mul order="0x30" stat="maxMp" value="0.7" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5942" levels="1" name="Energy of Pollution" >
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0052" />
+		<set name="magicLevel" value="10" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="DEBUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<for>
+			<effect name="Debuff" count="1" stackOrder="1" stackType="heal_effect_down" time="300" value="0">
+				<mul order="0x30" stat="hpEff" value="0.5" />
+				<mul order="0x30" stat="mpEff" value="0.5" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5943" levels="1" name="Energy of Contamination" >
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0103" />
+		<set name="magicLevel" value="10" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="DEBUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<for>
+			<effect name="Debuff" count="1" time="300" value="0">
+				<mul order="0x30" stat="pDef" value="0.5" />
+				<mul order="0x30" stat="mpConsum" value="1.5" />
+				<mul order="0x30" stat="mpConsumePhysical" value="1.5" />
+				<mul order="0x30" stat="mpDanceConsume" value="1.5" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5944" levels="1" name="Energy of Oblivion" >
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0107" />
+		<set name="magicLevel" value="10" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="DEBUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<for>
+			<effect name="Debuff" count="1" time="300" value="0">
+				<mul order="0x30" stat="accCombat" value="0.5" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5945" levels="1" name="Region2 Rotation5" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: Resurrection is decreased.
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="10" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5946" levels="1" name="Large Firework" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="3000" />
+		<set name="magicLevel" value="1" />
+		<set name="castRange" value="900" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5947" levels="1" name="Large Firework" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="3000" />
+		<set name="magicLevel" value="1" />
+		<set name="castRange" value="900" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5948" levels="1" name="Large Firework" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="3000" />
+		<set name="magicLevel" value="1" />
+		<set name="castRange" value="900" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5949" levels="1" name="Large Firework" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="3000" />
+		<set name="magicLevel" value="1" />
+		<set name="castRange" value="900" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5950" levels="1" name="Birthday Cake" >
+		<!--
+
+			Last modify:	29.07.2009
+
+			Birthday cake received once a year. Recovers vitality through the acquisition of Exp.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill5950" />
+		<set name="reuseDelay" value="1000" />
+		<set name="castRange" value="900" />
+		<set name="hitCancelTime" value="500" />
+		<set name="itemConsumeId" value="20320" />
+		<set name="itemConsumeCount" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="EFFECTS_FROM_SKILLS" />
+		<set name="addSkills" value="22035;1" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isHandler" value="true" />
+		<set name="altUse" value="true" />
+	</skill>
+	<skill id="5951" levels="1" name="Agathion's Blessing" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: The summoned sprite uses a blessing.
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill_agathion_cute" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5952" levels="1" name="Agathion's Blessing" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: The summoned sprite uses a blessing.
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill_agathion_cute" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5953" levels="1" name="Agathion's Blessing" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: The summoned sprite uses a blessing.
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill_agathion_cute" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5954" levels="1" name="Agathion Cute Trick - Tin Plate Golem" >
+		<!--
+		      Last modify: 30.12.2009
+		      Description: Able to see the summoned spirit perform cute tricks.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill_agathion_cute" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="hitTime" value="3000" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<cond msgId="2292">
+			<player agathion="16062"/>
+		</cond>
+	</skill>
+	<skill id="5955" levels="1" name="Agathion Cute Trick - Joy" >
+		<!--
+		      Last modify: 30.12.2009
+		      Description: Able to see the summoned spirit perform cute tricks.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill_agathion_cute" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="hitTime" value="3000" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<cond msgId="2292">
+			<player agathion="16056"/>
+		</cond>
+	</skill>
+	<skill id="5956" levels="1" name="Agathion Cute Trick - Anger" >
+		<!--
+		      Last modify: 30.12.2009
+		      Description: Able to see the summoned spirit perform cute tricks.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill_agathion_cute" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="hitTime" value="3000" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<cond msgId="2292">
+			<player agathion="16058"/>
+		</cond>
+	</skill>
+	<skill id="5957" levels="1" name="Agathion Cute Trick - Sorrow" >
+		<!--
+		      Last modify: 30.12.2009
+		      Description: Able to see the summoned spirit perform cute tricks.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill_agathion_cute" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="hitTime" value="3000" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<cond msgId="2292">
+			<player agathion="16057"/>
+		</cond>
+	</skill>
+	<skill id="5958" levels="1" name="Agathion Cute Trick - Teddy Bear Boy" >
+		<!--
+		      Last modify: 30.12.2009
+		      Description: Able to see the summoned spirit perform cute tricks.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill_agathion_cute" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="hitTime" value="3000" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<cond msgId="2292">
+			<player agathion="16059"/>
+		</cond>
+	</skill>
+	<skill id="5959" levels="1" name="Agathion Cute Trick - Teddy Bear Girl" >
+		<!--
+		      Last modify: 30.12.2009
+		      Description: Able to see the summoned spirit perform cute tricks.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill_agathion_cute" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="hitTime" value="3000" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<cond msgId="2292">
+			<player agathion="16060"/>
+		</cond>
+	</skill>
+	<skill id="5960" levels="1" name="Stronghold Reactivate" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: Wrapped in flames and HP is decreased.
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="levelModifier" value="1" />
+		<set name="icon" value="icon.skill4036" />
+		<set name="magicLevel" value="99" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="trait" value="POISON" />
+		<set name="saveVs" value="CON" />
+	</skill>
+	<skill id="5961" levels="1" name="Barrier Thunder Storm" >
+		<!--  Done by n0nam3
+		      Description: A state of instant paralysis caused by the shock
+		-->
+		<set name="levelModifier" value="1" />
+		<set name="affectLimit" value="6;12" />
+		<set name="icon" value="icon.skill0100" />
+		<set name="power" value="1000" />
+		<set name="magicLevel" value="99" />
+		<set name="castRange" value="600" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="52" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="PARALYZE" />
+		<set name="isDebuff" value="true" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="effectRange" value="200" />
+		<set name="trait" value="SHOCK" />
+		<set name="saveVs" value="CON" />
+		<for>
+			<effect count="1" name="Paralyze" stackOrder="-1" stackType="paralyze" time="120" value="0">
+				<set order="0x80" stat="regHp" value="0" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5962" levels="1" name="Air Defense Cannon" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="99" />
+		<set name="castRange" value="600" />
+		<set name="hitTime" value="7000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="85" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5963" levels="1" name="Emery Conversion" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="99" />
+		<set name="castRange" value="600" />
+		<set name="hitTime" value="1000" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5964" levels="1" name="Fairy Flame" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="700" />
+		<set name="magicLevel" value="1" />
+		<set name="castRange" value="900" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5965" levels="1" name="Firework" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1500" />
+		<set name="magicLevel" value="1" />
+		<set name="castRange" value="900" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5966" levels="1" name="Large Firework" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="3000" />
+		<set name="magicLevel" value="1" />
+		<set name="castRange" value="900" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5967" levels="2" name="Hate Aura" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="levelModifier" value="2" />
+		<set name="affectLimit" value="10;10" />
+		<set name="icon" value="icon.skill0018" />
+		<set name="reuseDelay" value="40000" />
+		<set name="magicLevel" value="99" />
+		<set name="hitCancelTime" value="500" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="saveVs" value="MEN" />
+	</skill>
+	<skill id="5968" levels="2" name="Rapid Shot" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: Temporarily increases your own bow Atk. Spd. Effect 1.
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<table name="#mpConsume2">14 25</table>
+		<table name="#magicLevel">32 55</table>
+		<set name="icon" value="icon.skill0099" />
+		<set name="reuseDelay" value="10000" />
+		<set name="magicLevel" value="#magicLevel" />
+		<set name="hitTime" value="1500" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="#mpConsume2" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5969" levels="2" name="Punch of Doom" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: Becomes shocked momentarily while propelling a powerful iron-fist to enemy that gives significant damage. Requires a hand-to-hand combat weapon. Ignores shield defense. Over-hit is possible. Power 10331.
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<table name="#hpConsume">513 526</table>
+		<table name="#magicLevel">64 74</table>
+		<table name="#power">10331 12288</table>
+		<set name="levelModifier" value="2" />
+		<set name="icon" value="icon.skill005969" />
+		<set name="coolTime" value="440" />
+		<set name="reuseDelay" value="120000" />
+		<set name="power" value="#power" />
+		<set name="magicLevel" value="#magicLevel" />
+		<set name="hitTime" value="1360" />
+		<set name="hitCancelTime" value="500" />
+		<set name="hpConsume" value="#hpConsume" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="saveVs" value="CON" />
+	</skill>
+	<skill id="5970" levels="1" name="Seduced Knight's Help" >
+		<!--
+		      Last modify: 11.01.2010
+		      Description: Increases Max HP.
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill5970" />
+		<set name="reuseDelay" value="6000" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="75" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="14" />
+		<set name="mpConsume2" value="54" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="300" stackType="SeducedBuff" value="0">
+				<mul order="0x30" stat="maxHp" value="1.2" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5971" levels="1" name="Seduced Ranger's Help" >
+		<!--
+		      Last modify: 11.01.2010
+		      Description: Increases HP regeneration.
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill5970" />
+		<set name="reuseDelay" value="6000" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="75" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="14" />
+		<set name="mpConsume2" value="54" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="300" stackType="SeducedBuff" value="0">
+				<mul order="0x30" stat="regHp" value="1.2" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5972" levels="1" name="Seduced Wizard's Help" >
+		<!--
+		      Last modify: 11.01.2010
+		      Description: Increases Max MP.
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill5970" />
+		<set name="reuseDelay" value="6000" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="75" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="14" />
+		<set name="mpConsume2" value="54" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="300" stackType="SeducedBuff" value="0">
+				<mul order="0x30" stat="maxMp" value="1.2" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5973" levels="1" name="Seduced Warrior's Help" >
+		<!--
+		      Last modify: 11.01.2010
+		      Description: Increases MP regeneration.
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill5970" />
+		<set name="reuseDelay" value="6000" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="75" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="14" />
+		<set name="mpConsume2" value="54" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="300" stackType="SeducedBuff" value="0">
+				<mul order="0x30" stat="regMp" value="1.2" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5974" levels="1" name="Tiat Transformation" >
+		<!--
+
+			Last modify: 14.02.2010
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1000" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="7900" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="cancelable" value="false" />
+		<for>
+			<effect count="1" name="Buff" time="7800" value="0">
+				<mul order="0x30" stat="maxHp" value="1.5" />
+				<mul order="0x30" stat="pAtk" value="1.5" />
+				<mul order="0x30" stat="mAtk" value="1.5" />
+				<mul order="0x30" stat="pDef" value="1.5" />
+				<mul order="0x30" stat="mDef" value="1.5" />
+				<mul order="0x30" stat="runSpd" value="1.2" />
+				<mul order="0x30" stat="pAtkSpd" value="1.2" />
+			</effect>
+			<effect count="1" name="HealPercent" time="0" value="100" />
+			<effect count="1" name="ManaHealPercent" time="0" value="100" />
+		</for>
+	</skill>
+	<skill id="5975" levels="3" name="Dark Attack" >
+		<table name="#mpConsume2">50 61 75</table>
+		<table name="#magicLevel">51 61 79</table>
+		<table name="#power">1515 2365 6059</table>
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1000" />
+		<set name="power" value="#power" />
+		<set name="magicLevel" value="#magicLevel" />
+		<set name="hitTime" value="1000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="#mpConsume2" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="PDAM" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="element" value="unholy" />
+	</skill>
+	<skill id="5976" levels="3" name="Dark Storm" >
+		<table name="#mpConsume2">50 61 75</table>
+		<table name="#magicLevel">51 61 79</table>
+		<table name="#power">757 1182 4039</table>
+		<set name="affectLimit" value="10;10" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1000" />
+		<set name="power" value="#power" />
+		<set name="magicLevel" value="#magicLevel" />
+		<set name="hitTime" value="2500" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="#mpConsume2" />
+		<set name="target" value="TARGET_AURA" />
+		<set name="skillType" value="PDAM" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="element" value="unholy" />
+	</skill>
+	<skill id="5977" levels="3" name="Dark Strike" >
+		<table name="#mpConsume2">50 61 75</table>
+		<table name="#magicLevel">51 61 79</table>
+		<table name="#power">2273 3547 5478</table>
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1000" />
+		<set name="power" value="#power" />
+		<set name="magicLevel" value="#magicLevel" />
+		<set name="hitTime" value="1000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="#mpConsume2" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="PDAM" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="element" value="unholy" />
+	</skill>
+	<skill id="5978" levels="1" name="Death Strike" >
+		<!--  SSQ skill -->
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1000" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="500" />
+		<set name="hitTime" value="2000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="75" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="PDAM" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5979" levels="1" name="Forced Move" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="2500" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="900" />
+		<set name="hitTime" value="2500" />
+		<set name="hitCancelTime" value="500" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5980" levels="3" name="Seal Isolation" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<table name="#mpConsume2">50 61 75</table>
+		<table name="#magicLevel">51 61 79</table>
+		<set name="affectLimit" value="10;10" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1000" />
+		<set name="magicLevel" value="#magicLevel" />
+		<set name="hitTime" value="2500" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume2" value="#mpConsume2" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5981" levels="3" name="Lilith's Curse" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: Max HP and Speed are decreased.
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<table name="#magicLevel">51 51 79</table>
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="#magicLevel" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5982" levels="1" name="Aura Bird - Falcon" >
+		<!--
+
+			Last modify:	03.08.2009
+
+			Description:	Mounts the Aura Bird - Falcon.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0841" />
+		<set name="reuseDelay" value="7200000" />
+		<set name="castRange" value="900" />
+		<set name="hitTime" value="2500" />
+		<set name="mpConsume2" value="75" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="TRANSFORMATION" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="addSkills" value="884;-2;886;-2;888;-2;891;-2;911;-2;885;1;932;0;619;1;5491;1" />
+		<set name="npcId" value="13144" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isCommon" value="true" />
+		<for>
+			<effect count="1" name="Transformation" time="18000" value="8">
+				<set order="0x40" stat="STR" value="41" />
+				<set order="0x40" stat="DEX" value="33" />
+				<set order="0x40" stat="CON" value="31" />
+				<set order="0x40" stat="INT" value="29" />
+				<set order="0x40" stat="WIT" value="11" />
+				<set order="0x40" stat="MEN" value="25" />
+				<add order="0x40" stat="runSpd" value="57" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5983" levels="1" name="Aura Bird - Owl" >
+		<!--
+
+			Last modify:	03.08.2009
+
+			Description:	Mounts the Aura Bird - Owl.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0842" />
+		<set name="reuseDelay" value="7200000" />
+		<set name="castRange" value="900" />
+		<set name="hitTime" value="2500" />
+		<set name="mpConsume2" value="75" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="TRANSFORMATION" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="addSkills" value="884;-2;887;-2;889;-2;892;-2;911;-2;885;1;932;0;619;1;5491;1" />
+		<set name="npcId" value="13145" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isCommon" value="true" />
+		<for>
+			<effect count="1" name="Transformation" time="18000" value="9">
+				<set order="0x40" stat="STR" value="41" />
+				<set order="0x40" stat="DEX" value="33" />
+				<set order="0x40" stat="CON" value="31" />
+				<set order="0x40" stat="INT" value="29" />
+				<set order="0x40" stat="WIT" value="11" />
+				<set order="0x40" stat="MEN" value="25" />
+				<add order="0x40" stat="runSpd" value="25" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5984" levels="1" name="Hand of Death" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: "P. Def., M. Def., and speed are greatly decreased."
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="levelModifier" value="1" />
+		<set name="icon" value="icon.skill0122" />
+		<set name="magicLevel" value="85" />
+		<set name="castRange" value="1500" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="saveVs" value="MEN" />
+	</skill>
+	<skill id="5985" levels="9" name="Decaying Aura" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5986" levels="9" name="Vampiric Aura" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5987" levels="1" name="Weapon Maintenance" >
+		<!-- Confirmed CT2.5 -->
+		<set name="aggroPoints" value="467" />
+		<set name="coolTime" value="500" />
+		<set name="hitTime" value="1000" />
+		<set name="magicLvl" value="85" />
+		<set name="mpConsume" value="41" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="reuseDelay" value="6000" />
+		<set name="skillRadius" value="300" />
+		<set name="icon" value="icon.skill0825" />
+		<set name="hitCancelTime" value="500" />
+		<set name="skillType" value="BUFF" />
+		<set name="target" value="TARGET_PARTY" />
+		<for>
+			<effect name="Buff" time="600" value="0" stackOrder="1" stackType="dwarf_attack_buff">
+				<mul order="0x30" stat="pAtk" value="1.05">
+					<using kind="Sword,Big Sword,Dagger,Dual Dagger,Pole,Rapier,Ancient Sword,Dual Sword,Dual Fist,Blunt,Big Blunt,Bow,Crossbow" />
+				</mul>
+				<basemul order="0x30" stat="rCrit" value="0.2">
+					<using kind="Sword,Big Sword,Dagger,Dual Dagger,Pole,Rapier,Ancient Sword,Dual Sword,Dual Fist" />
+				</basemul>
+				<add order="0x40" stat="pAtkRange" value="100">
+					<using kind="Bow,Crossbow" />
+				</add>
+				<add order="0x40" stat="stunPower" value="8" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="5988" levels="1" name="Armor Maintenance" >
+		<!-- Confirmed CT2.5 -->
+		<set name="aggroPoints" value="438" />
+		<set name="coolTime" value="500" />
+		<set name="hitTime" value="1000" />
+		<set name="magicLvl" value="85" />
+		<set name="mpConsume" value="41" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="reuseDelay" value="6000" />
+		<set name="skillRadius" value="300" />
+		<set name="icon" value="icon.skill0828" />
+		<set name="hitCancelTime" value="500" />
+		<set name="skillType" value="BUFF" />
+		<set name="target" value="TARGET_PARTY" />
+		<for>
+			<effect name="Buff" time="600" value="0" stackOrder="1" stackType="dwarf_defence_buff">
+				<mul order="0x30" stat="pDef" value="1.1">
+					<using armor="Heavy" />
+				</mul>
+				<mul order="0x30" stat="pDef" value="1.05">
+					<using armor="Light" />
+				</mul>
+				<add order="0x40" stat="rEvas" value="2">
+					<using armor="Light" />
+				</add>
+				<mul order="0x30" stat="pDef" value="1.05">
+					<using armor="Magic" />
+				</mul>
+				<add order="0x40" stat="regMp" value="2.0">
+					<using armor="Magic" />
+				</add>
+			</effect>
+		</for>
+	</skill>
+	<skill id="5989" levels="1" name="Invincible" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: "Renders caster invincible against standard targets, skills, and buffs/de-buffs."
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="6000" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3500" />
+		<set name="hitCancelTime" value="500" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5990" levels="3" name="Lesser Heal" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: Quickly restores HP. Power 817.
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<table name="#mpConsume2">68 70 73</table>
+		<table name="#mpConsume1">17 18 19</table>
+		<table name="#magicLevel">70 72 74</table>
+		<table name="#power">817 839 867</table>
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="3000" />
+		<set name="power" value="#power" />
+		<set name="magicLevel" value="#magicLevel" />
+		<set name="hitTime" value="2000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="#mpConsume1" />
+		<set name="mpConsume2" value="#mpConsume2" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5991" levels="1" name="Presentation - Summon Tiat" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="11760" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="5992" levels="12" name="NPC Hate" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<table name="#magicLevel">10 20 30 40 50 60 70 75 80 85 90 95</table>
+		<set name="levelModifier" value="2" />
+		<set name="icon" value="icon.skill0028" />
+		<set name="magicLevel" value="#magicLevel" />
+		<set name="castRange" value="900" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="saveVs" value="MEN" />
+	</skill>
+	<skill id="5993" levels="1" name="Command of Anger" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: "When a blow is incurred, an opponent loses their target and cannot use skills and magic."
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="levelModifier" value="1" />
+		<set name="magicType" value="MAGIC" />
+		<set name="affectLimit" value="10;10" />
+		<set name="icon" value="icon.skill1481" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="2000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="15" />
+		<set name="mpConsume2" value="60" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="trait" value="DERANGEMENT" />
+		<set name="saveVs" value="MEN" />
+	</skill>
+	<skill id="5994" levels="1" name="Effect of Doubt" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: The target's head is enlarged.
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill2513" />
+		<set name="magicLevel" value="1" />
+		<set name="castRange" value="900" />
+		<set name="target" value="TARGET_ONE" />
+		<set name="skillType" value="DEBUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="trait" value="ETC" />
+		<for>
+			<effect abnormal="bighead" count="1" name="Buff" stackType="BigHead" time="1800" value="0" />
+		</for>
+	</skill>
+	<skill id="5995" levels="1" name="not_used" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="83" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_PASSIVE" />
+	</skill>
+	<skill id="5996" levels="1" name="not_used" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="83" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_PASSIVE" />
+	</skill>
+	<skill id="5997" levels="1" name="not_used" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="83" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_PASSIVE" />
+	</skill>
+	<skill id="5998" levels="1" name="not_used" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="83" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_PASSIVE" />
+	</skill>
+	<skill id="5999" levels="1" name="not_used" >
+		<!--  Automatically generated from The Gracia Final client files.
+		      Description: none
+		      Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		      created 16-4-2009  22:35
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="83" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_PASSIVE" />
+	</skill>
+</list>

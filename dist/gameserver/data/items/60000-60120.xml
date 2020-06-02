@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<etcitem id="60000" name="Reborn Skill Book" add_name="Reborn Event">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_rbracelet_aga_agit_i00"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="false"/>
+		<set name="destroyable" value="false"/>
+		<set name="storeable" value="false"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="150"/>
+	</etcitem>
+</list>

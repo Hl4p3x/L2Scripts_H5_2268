@@ -1,0 +1,64 @@
+<html><body>
+<table width=260><tr>
+<td width=40><button value="Главная" action="bypass -h admin_admin" width=60 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td width=180><center>Территориальные войны</center></td>
+<td width=40><button value="Назад" action="bypass -h admin_residence_list" width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr></table><br>
+Резиденция: %residence%<br>
+<table>
+	<tr>
+		<td width="60">Хозяин:</td>
+		<td width="100">%owner%</td>
+		<td><edit var="owner" width=100></td>
+		<td><button value="Установить" action="bypass -h admin_set_owner %id% $owner" width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	</tr>
+</table><br>
+<table>
+<tr>
+	<td>Час</td>
+	<td>Минута</td>
+	<td>День</td>
+	<td>Месяц</td>
+	<td>Год</td>
+</tr>
+<tr>
+	<td>%hour%</td>
+	<td>%minute%</td>
+	<td>%day%</td>
+	<td>%month%</td>
+	<td>%year%</td>
+</tr>
+<tr>
+	<td><edit var="hour" width=40></td>
+	<td><edit var="minute" width=40></td>
+	<td><edit var="day" width=40></td>
+	<td><edit var="month" width=40></td>
+	<td><edit var="year" width=50></td>
+</tr>
+</table><br>
+<button value="Установить время" action="bypass -h admin_set_dominion_time %id% $hour $minute $day $month $year" width=80 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"><br>
+<table>
+	<tr>
+		<td><edit var="q_sec" width=40></td>
+		<td width="30">Секунда</td>
+		<td><button value="Быстрый старт" action="bypass -h admin_start_dominion_war $q_sec" width=80 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+		<td><button value="Быстрая остановка" action="bypass -h admin_stop_dominion_war $q_sec" width=80 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	</tr>
+</table><br>
+<table>
+	<tr>
+		<td width="100">Имя клана</td>
+		<td width="100">Имя лидера</td>
+		<td width="100">Тип</td>
+	</tr>
+	%clans%
+</table><br>
+<table>
+	<tr>
+		<td width="100">Обжект ИД</td>
+		<td width="60">Имя</td>
+		<td width="140">Тип</td>
+	</tr>
+	%players%
+</table>
+</body></html>

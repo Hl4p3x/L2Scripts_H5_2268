@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<item>
+		<production id="14739" count="1" />
+		<ingredient id="-100" count="200"/>
+	</item>
+	<item>
+		<production id="20336" count="1" />
+		<ingredient id="-100" count="600"/>
+	</item>
+	<item>
+		<production id="20338" count="1" />
+		<ingredient id="-100" count="1000"/>
+	</item>
+	<item>
+		<production id="20342" count="1" />
+		<ingredient id="-100" count="600"/>
+	</item>
+	<item>
+		<production id="20344" count="1" />
+		<ingredient id="-100" count="1000"/>
+	</item>
+	<item>
+		<production id="14066" count="1" />
+		<ingredient id="-100" count="1000"/>
+	</item>
+	<item>
+		<production id="14067" count="1" />
+		<ingredient id="-100" count="1000"/>
+	</item>
+	<item>
+		<production id="20938" count="1" />
+		<ingredient id="-100" count="1000"/>
+	</item>
+	<item>
+		<production id="10649" count="1" />
+		<ingredient id="-100" count="500"/>
+	</item>
+	<item>
+		<production id="13297" count="1" />
+		<ingredient id="-100" count="1500"/>
+	</item>
+	<item>
+		<production id="13298" count="1" />
+		<ingredient id="-100" count="1500"/>
+	</item>
+	<item>
+		<production id="13299" count="1" />
+		<ingredient id="-100" count="1500"/>
+	</item>
+	<item>
+		<production id="14737" count="1" />
+		<ingredient id="-100" count="400"/>
+	</item>
+	<item>
+		<production id="14733" count="1" />
+		<ingredient id="-100" count="200"/>
+	</item>
+	<item>
+		<production id="9156" count="1" />
+		<ingredient id="-100" count="200"/>
+	</item>
+	<item>
+		<production id="9157" count="1" />
+		<ingredient id="-100" count="100"/>
+	</item>
+	<item>
+		<production id="5591" count="1" />
+		<ingredient id="-100" count="10"/>
+	</item>
+	<item>
+		<production id="5592" count="1" />
+		<ingredient id="-100" count="30"/>
+	</item>
+	<item>
+		<production id="13021" count="1" />
+		<ingredient id="-100" count="10000"/>
+	</item>	
+	<item>
+		<production id="6673" count="1" />
+		<ingredient id="-100" count="5000"/>
+	</item>
+</list>

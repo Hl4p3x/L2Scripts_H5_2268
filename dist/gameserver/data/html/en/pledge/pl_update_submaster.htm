@@ -1,0 +1,16 @@
+<html>
+  <body>Enter the first name of the Captain of the Royal Guard you wish to change:
+    <br>
+    <edit var="master_name1" width=110>
+      <br>
+      <button value="Submit" action="bypass -h npc_%objectId%_change_leader 100 $master_name1"width=80 height=27 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+      </button>
+      <br>
+      <br>Enter the second name of the Captain of the Royal Guard you wish to change:
+      <br>
+      <edit var="master_name2" width=110>
+        <br>
+        <button value="Submit" action="bypass -h npc_%objectId%_change_leader 200 $master_name2"width=80 height=27 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+          <button value="Cancel" action="bypass -h npc_%objectId%_Link pledge/pl001.htm"width=80 height=27 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+  </body>
+</html>

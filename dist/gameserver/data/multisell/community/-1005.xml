@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<item>
+		<production id="21588" count="1"/>	<!--Праздничный Плащ - Белый-->
+		<ingredient id="4037" count="3"/>	<!--col-->
+	</item>
+	<item>
+		<production id="21587" count="1"/>	<!--Праздничный Плащ - Кроваво-Красный-->
+		<ingredient id="4037" count="3"/>	<!--col-->
+	</item>
+	<item>
+		<production id="21583" count="1"/>	<!--Праздничный Плащ - Черный-->
+		<ingredient id="4037" count="3"/>	<!--col-->
+	</item>
+	<item>
+		<production id="21719" count="1"/>	<!--Плащ Духа Закена-->
+		<ingredient id="4037" count="5"/>	<!--col-->
+	</item>
+	<item>
+		<production id="21721" count="1"/>	<!--Плащ Духа Фринтезы  - -->
+		<ingredient id="4037" count="5"/>	<!--col-->
+	</item>
+	<item>
+		<production id="21720" count="1"/>	<!--Плащ Духа Фреи  - -->
+		<ingredient id="4037" count="5"/>	<!--col-->
+	</item>
+</list>

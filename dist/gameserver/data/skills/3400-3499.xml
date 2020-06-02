@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="3400" levels="1" name="Traits Strengthen Earring">
+		<!-- 
+			Description: Increases the power of abnormal mental state attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mentalPower" value="6" />
+		</for>
+	</skill>
+	<skill id="3401" levels="1" name="Dynasty Resistance Necklace">
+		<!--
+			Description: Increases resistance to abnormal mental state attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mentalResist" value="9" />
+		</for>
+	</skill>
+	<skill id="3402" levels="1" name="Dynasty Resistance Ring">
+		<!--
+			Description: Increases resistance to abnormal mental state attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mentalResist" value="4" />
+		</for>
+	</skill>
+	<skill id="3403" levels="1" name="Dynasty Resistance Earring">
+		<!--
+			Description: Increases resistance to abnormal mental state attacks.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mentalResist" value="6" />
+		</for>
+	</skill>
+	<skill id="3404" levels="1" name="Mystery Effect">
+		<!--
+			Description: Enlarges the user's head.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1800000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="trait" value="ETC" />
+	</skill>
+	<skill id="3405" levels="1" name="Large Firecracker Effect">
+		<!--
+			Description: Shoots out large firecrackers.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="1200000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="3406" levels="1" name="Weight Decrease Ring">
+		<!--
+			Description: Decreases weight penalty.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="3407" levels="1" name="Stealth Ring">
+		<!--
+			Description: Decreases the sound of your own steps to avoid receiving the first strike.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="600000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="3408" levels="1" name="Blessed Ring of Escape">
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="60000" />
+		<set name="magicLevel" value="1" />
+		<set name="hitTime" value="200" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="3409" levels="1" name="Blessed Ring of Resurrection">
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="300000" />
+		<set name="magicLevel" value="1" />
+		<set name="castRange" value="400" />
+		<set name="hitTime" value="3000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="3410" levels="1" name="Blue Talisman of Reflection">
+		<!--
+			Description: This Talisman redirects part of the damage received back onto the enemy.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_talisman_i01" />
+		<set name="reuseDelay" value="360000" />
+		<set name="magicLevel" value="55" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="9919" />
+		<set name="referenceItemMpConsume" value="6" />
+		<for>
+			<effect count="1" name="Buff" stackType="Talisman" time="120" value="0">
+				<add order="0x40" stat="reflectDam" value="10" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3411" levels="1" name="Special Ability: Focus">
+		<!--
+			Increases Max HP by 10%, and critical rate. Increases damage inflicted during PvP.
+		-->
+		<set name="icon" value="icon.skill1077" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="baseCrit" value="109.2" />
+			<mul order="0x30" stat="maxHp" value="1.1" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+		</for>
+	</skill>
+	<skill id="3412" levels="1" name="Dynasty Breast Plate">
+		<!--
+			Type Armor: Dynasty Breast Plate
+			Con-1, Str+1, P. Def +4.6%, MaxHP +418. Darkness Resistance +6
+		-->
+		<set name="icon" value="icon.armor_t91_u_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="CON" value="1" />
+			<add order="0x40" stat="STR" value="1" />
+			<mul order="0x30" stat="pDef" value="1.046" />
+			<add order="0x40" stat="maxHp" value="418" />
+			<add order="0x40" stat="defenceUnholy" value="6" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3413" levels="1" name="Dynasty Leather Armor">
+		<!--
+			Type Armor: Dynasty Leather Armor
+			Con-1, Dex+1, Accuracy +1.72, Evasion +1.72, MaxHP +418. Darkness Resistance +6
+		-->
+		<set name="icon" value="icon.armor_t92_u_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="CON" value="1" />
+			<add order="0x40" stat="DEX" value="1" />
+			<add order="0x40" stat="accCombat" value="1.72" />
+			<add order="0x40" stat="rEvas" value="1.72" />
+			<add order="0x40" stat="maxHp" value="418" />
+			<add order="0x40" stat="defenceUnholy" value="6" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3414" levels="1" name="Dynasty Leather Armor">
+		<!--
+			Type Armor: Dynasty Leather Armor - Force Master
+			Str+1, Dex+1,Con-2, P. Atk. +5.4%, Max HP +492 Effect. Dark resistance +8. Decreased MP consumption for active skill
+		-->
+		<set name="icon" value="icon.armor_t92_ud_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="STR" value="1" />
+			<add order="0x40" stat="DEX" value="1" />
+			<sub order="0x40" stat="CON" value="2" />
+			<mul order="0x30" stat="pAtk" value="1.054" />
+			<add order="0x40" stat="maxHp" value="492" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<mul order="0x30" stat="mpConsumePhysical" value="0.95" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3415" levels="1" name="Dynasty Leather Armor">
+		<!--
+			Type Armor: Dynasty Leather Armor - Weapon Master
+			Con-2, Str+1, DEX +1, P. Atk +5.4%, MaxHP +492. Dark Resistance +8, Critical Damage Chance.
+		-->
+		<set name="icon" value="icon.armor_t92_ub_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="CON" value="2" />
+			<add order="0x40" stat="STR" value="1" />
+			<add order="0x40" stat="DEX" value="1" />
+			<mul order="0x30" stat="pAtk" value="1.054" />
+			<add order="0x40" stat="maxHp" value="492" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<add order="0x40" stat="cAtkStatic" value="234" />
+			<add order="0x40" stat="baseCrit" value="24.6" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3416" levels="1" name="Dynasty Tunic">
+		<!--
+			Type Armor: Dynasty Tunic
+			Int-1, Men+1, Casting Spd. +12%, Max MP +257. Darkness Resistance +6
+		-->
+		<set name="icon" value="icon.armor_t93_u_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="INT" value="1" />
+			<add order="0x40" stat="MEN" value="1" />
+			<mul order="0x30" stat="mAtkSpd" value="1.12" />
+			<add order="0x40" stat="maxMp" value="257" />
+			<add order="0x40" stat="defenceUnholy" value="6" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3417" levels="1" name="Equipped with Shield">
+		<set name="icon" value="icon.shield_dynasty_shield_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="rShld" value="1.05" />
+		</for>
+	</skill>
+	<skill id="3418" levels="1" name="Active Skill: Transform Pig">
+		<!--
+			Description: Transform into a cute pig for 5 minutes.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="reuseDelay" value="600000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="3419" levels="1" name="Magic Immunity">
+		<!--
+			Description: Increases M. Def. when equipped with a shirt
+		-->
+		<set name="icon" value="icon.etc_stripe_shirts_s_i05" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="PASSIVE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<for>
+			<add order="0x40" stat="mDef" value="50" />
+		</for>
+	</skill>
+	<skill id="3420" levels="1" name="Dynasty Leather Armor">
+		<!--
+			Type Armor: Dynasty Leather Armor - Summoner
+			Str-2, Con+2, increase Atk. Spd., MaxHP +492. Dark Resistance +8, increase P. Atk., P. Def.
+		-->
+		<set name="icon" value="icon.armor_t92_u_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="STR" value="2" />
+			<add order="0x40" stat="CON" value="2" />
+			<mul order="0x30" stat="pAtkSpd" value="1.054" />
+			<mul order="0x30" stat="pAtk" value="1.0266" />
+			<mul order="0x30" stat="pDef" value="1.0266" />
+			<add order="0x40" stat="maxHp" value="492" />
+			<add order="0x40" stat="defenceUnholy" value="8" />
+			<add order="0x10" stat="openCloakSlot" value="1" />
+		</for>
+	</skill>
+	<skill id="3421" levels="1" name="Wolf Mount">
+		<!--
+			Description: Climb onto your Wolf's back.
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0083" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="RIDE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="npcId" value="16041" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="3422" levels="1" name="Wolf Dismount">
+		<!--
+			Description: Climb off of your Wolf's back.
+		-->
+		<set name="magicType" value="MAGIC" />
+		<set name="icon" value="icon.skill0083" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="RIDE" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="npcId" value="0" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="3423" levels="1" name="Little Angel Agathion - Summon (or Release)">
+		<!--			Last modify:	25.05.2008
+			Description: Summon an Agathion.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_summon_aga_agit_i00" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="SUMMON" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="useSS" value="false" />
+		<set name="npcId" value="16031" />
+		<set name="summonType" value="agathion" />
+	</skill>
+	<skill id="3424" levels="1" name="Little Devil Agathion - Summon (or Release)">
+		<!--			Last modify:	25.05.2008
+			Description: Summon an Agathion.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_summon_aga_agit_i00" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="SUMMON" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="useSS" value="false" />
+		<set name="npcId" value="16032" />
+		<set name="summonType" value="agathion" />
+	</skill>
+	<skill id="3425" levels="1" name="Rudolph Agathion - Summon (or Release)">
+		<!--			Last modify:	25.05.2008
+			Description: Summon an Agathion.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_summon_aga_agit_i00" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="SUMMON" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="useSS" value="false" />
+		<set name="npcId" value="16033" />
+		<set name="summonType" value="agathion" />
+	</skill>
+	<skill id="3426" levels="1" name="Maximum Ability">
+		<!--
+			Description: A critical attack will have a chance to increase P. Atk., M. Atk., and healing power, and decrease MP consumption during skill use, for you and your party members.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_PARTY" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<triggers>
+			<trigger id="5547" level="1" type="CRIT" chance="5" />
+		</triggers>
+	</skill>
+	<skill id="3427" levels="1" name="Special Ability: Infinity Rapier">
+		<!--
+			Description: Decreases the enemy's P. Def. on a critical attack. Increases Max HP, Max MP, Max CP, and damage inflicted during PvP. Reflects some of the damage received back to the enemy (does not include damage from skill or ranged attacks). In addition, when a critical hit occurs during a general attack, there is a chance that the capacity of a party member's skills will be maximized.
+		-->
+		<set name="icon" value="icon.weapon_infinity_rapier_i00" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<triggers>
+			<trigger id="5547" level="1" type="ATTACK" chance="5" />
+		</triggers>
+		<for>
+			<mul order="0x30" stat="maxHp" value="1.25" />
+			<mul order="0x30" stat="maxMp" value="1.30" />
+			<mul order="0x30" stat="maxCp" value="1.50" />
+			<add order="0x40" stat="reflectDam" value="9" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.2" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.2" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.2" />
+		</for>
+	</skill>
+	<skill id="3428" levels="1" name="Blue Talisman - Explosion">
+		<!--
+			Description: Increases the attacking power/speed momentarily with power of Talisman.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_talisman_i01" />
+		<set name="reuseDelay" value="600000" />
+		<set name="magicLevel" value="75" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="10416" />
+		<set name="referenceItemMpConsume" value="6" />
+		<for>
+			<effect count="1" name="Buff" time="10" stackType="Talisman" value="0">
+				<mul order="0x30" stat="pAtk" value="1.2" />
+				<mul order="0x30" stat="pAtkSpd" value="1.1" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3429" levels="1" name="Red Talisman - Life Force">
+		<!--
+			Description: Regenerate HP and MP completely with power of Talisman.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_talisman_i00" />
+		<set name="reuseDelay" value="1800000" />
+		<set name="magicLevel" value="75" />
+		<set name="hitTime" value="3000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="10518" />
+		<set name="referenceItemMpConsume" value="30" />
+		<for>
+			<effect count="1" name="HealPercent" time="0" value="100" />
+			<effect count="1" name="ManaHealPercent" time="0" value="100" />
+		</for>
+	</skill>
+	<skill id="3430" levels="1" name="White Talisman - Darkness">
+		<!--
+			Description: Greatly increases the tolerance to darkness attribute with power of Talisman.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_talisman_i06" />
+		<set name="reuseDelay" value="600000" />
+		<set name="magicLevel" value="75" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="10419" />
+		<set name="referenceItemMpConsume" value="6" />
+		<for>
+			<effect count="1" name="Buff" stackType="Talisman" time="10" value="0">
+				<add order="0x40" stat="defenceUnholy" value="50" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3431" levels="1" name="White Talisman - Storm">
+		<!--
+			Description: Greatly increases the tolerance to wind attribute with power of Talisman.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_talisman_i06" />
+		<set name="reuseDelay" value="600000" />
+		<set name="magicLevel" value="75" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="10418" />
+		<set name="referenceItemMpConsume" value="6" />
+		<for>
+			<effect count="1" name="Buff" stackType="Talisman" time="10" value="0">
+				<add order="0x40" stat="defenceWind" value="50" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3432" levels="1" name="White Talisman - Water">
+		<!--
+			Description: Greatly increases the tolerance to the water attribute with power of Talisman.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_talisman_i06" />
+		<set name="reuseDelay" value="600000" />
+		<set name="magicLevel" value="75" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="10420" />
+		<set name="referenceItemMpConsume" value="6" />
+		<for>
+			<effect count="1" name="Buff" stackType="Talisman" time="10" value="0">
+				<add order="0x40" stat="defenceWater" value="50" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3433" levels="1" name="White Talisman - Fire">
+		<!--
+			Description: Greatly increases the tolerance to fire attribute with power of Talisman.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_talisman_i06" />
+		<set name="reuseDelay" value="600000" />
+		<set name="magicLevel" value="75" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="10421" />
+		<set name="referenceItemMpConsume" value="6" />
+		<for>
+			<effect count="1" name="Buff" stackType="Talisman" time="10" value="0">
+				<add order="0x40" stat="defenceFire" value="50" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3434" levels="1" name="White Talisman - Earth">
+		<!--
+			Description: Greatly increases the tolerance to the earth attribute with power of Talisman.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_talisman_i06" />
+		<set name="reuseDelay" value="600000" />
+		<set name="magicLevel" value="75" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="10519" />
+		<set name="referenceItemMpConsume" value="10" />
+		<for>
+			<effect count="1" name="Buff" stackType="Talisman" time="10" value="0">
+				<add order="0x40" stat="defenceEarth" value="50" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3435" levels="1" name="White Talisman - Light">
+		<!--
+			Description: Greatly increases the tolerance to the holy attribute with power of Talisman.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_talisman_i06" />
+		<set name="reuseDelay" value="600000" />
+		<set name="magicLevel" value="75" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="10422" />
+		<set name="referenceItemMpConsume" value="6" />
+		<for>
+			<effect count="1" name="Buff" stackType="Talisman" time="10" value="0">
+				<add order="0x40" stat="defenceHoly" value="50" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3436" levels="1" name="Blue Talisman - Self destruction">
+		<!--
+			Description: Greatly damage the environment exploding the power of Talisman.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="affectLimit" value="6;12" />
+		<set name="icon" value="icon.etc_talisman_i01" />
+		<set name="power" value="200" />
+		<set name="magicLevel" value="75" />
+		<set name="hitTime" value="3000" />
+		<set name="hpConsume" value="800" />
+		<set name="target" value="TARGET_AURA" />
+		<set name="skillRadius" value="200" />
+		<set name="skillType" value="MDAM" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="10423" />
+		<set name="referenceItemMpConsume" value="1" />
+	</skill>
+	<skill id="3437" levels="1" name="Blue Talisman - Magic Explosive Power">
+		<!--
+			Description: Magic attacking attribute/magic critical probability is increased momentarily by talisman's power.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_talisman_i01" />
+		<set name="reuseDelay" value="600000" />
+		<set name="magicLevel" value="75" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="10417" />
+		<set name="referenceItemMpConsume" value="6" />
+		<for>
+			<effect count="1" name="Buff" stackType="Talisman" time="10" value="0">
+				<mul order="0x30" stat="mAtk" value="1.55" />
+				<add order="0x40" stat="mCritRate" value="4" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3438" levels="1" name="Blue Talisman - Great Healing">
+		<!--
+			Description: Increases the power of HP regeneration magic with power of Talisman.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_talisman_i01" />
+		<set name="reuseDelay" value="600000" />
+		<set name="magicLevel" value="75" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="10424" />
+		<set name="referenceItemMpConsume" value="6" />
+		<for>
+			<effect count="1" name="Buff" stackType="Talisman" time="10" value="0">
+				<add order="0x40" stat="hpEff" value="1000" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3439" levels="1" name="Silk Shirt">
+		<!--
+			Description: Increases maximum HP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="49" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="118" />
+		</for>
+	</skill>
+	<skill id="3440" levels="1" name="Silk Shirt">
+		<!--
+			Description: Increases Maximum MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="49" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="51" />
+		</for>
+	</skill>
+	<skill id="3441" levels="1" name="Silk Shirt">
+		<!--
+			Description: The maximum CP is increased.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="49" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxCp" value="354" />
+		</for>
+	</skill>
+	<skill id="3442" levels="1" name="Silk Shirt">
+		<!--
+			Description: Increases maximum HP/MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="49" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="59" />
+			<add order="0x40" stat="maxMp" value="26" />
+		</for>
+	</skill>
+	<skill id="3443" levels="1" name="Silk Shirt">
+		<!--
+			Description: Increases maximum HP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="49" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="59" />
+			<add order="0x40" stat="maxCp" value="117" />
+		</for>
+	</skill>
+	<skill id="3444" levels="1" name="Silk Shirt">
+		<!--
+			Description: Increases maximum MP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="49" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="26" />
+			<add order="0x40" stat="maxCp" value="117" />
+		</for>
+	</skill>
+	<skill id="3445" levels="1" name="Thin Leather Shirt">
+		<!--
+			Description: Increases maximum HP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="58" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="147" />
+		</for>
+	</skill>
+	<skill id="3446" levels="1" name="Thin Leather Shirt">
+		<!--
+			Description: Increases Maximum MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="58" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="72" />
+		</for>
+	</skill>
+	<skill id="3447" levels="1" name="Thin Leather Shirt">
+		<!--
+			Description: The maximum CP is increased.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="58" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxCp" value="441" />
+		</for>
+	</skill>
+	<skill id="3448" levels="1" name="Thin Leather Shirt">
+		<!--
+			Description: Increases maximum HP/MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="58" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="74" />
+			<add order="0x40" stat="maxMp" value="36" />
+		</for>
+	</skill>
+	<skill id="3449" levels="1" name="Thin Leather Shirt">
+		<!--
+			Description: Increases maximum HP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="58" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="74" />
+			<add order="0x40" stat="maxCp" value="222" />
+		</for>
+	</skill>
+	<skill id="3450" levels="1" name="Thin Leather Shirt">
+		<!--
+			Description: Increases maximum MP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="58" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="36" />
+			<add order="0x40" stat="maxCp" value="222" />
+		</for>
+	</skill>
+	<skill id="3451" levels="1" name="Scale Shirt">
+		<!--
+			Description: Increases maximum HP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="64" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="172" />
+		</for>
+	</skill>
+	<skill id="3452" levels="1" name="Scale Shirt">
+		<!--
+			Description: Increases Maximum MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="64" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="85" />
+		</for>
+	</skill>
+	<skill id="3453" levels="1" name="Scale Shirt">
+		<!--
+			Description: The maximum CP is increased.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="64" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxCp" value="516" />
+		</for>
+	</skill>
+	<skill id="3454" levels="1" name="Scale Shirt">
+		<!--
+			Description: Increases maximum HP/MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="64" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="86" />
+			<add order="0x40" stat="maxMp" value="43" />
+		</for>
+	</skill>
+	<skill id="3455" levels="1" name="Scale Shirt">
+		<!--
+			Description: Increases maximum HP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="64" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="86" />
+			<add order="0x40" stat="maxCp" value="258" />
+		</for>
+	</skill>
+	<skill id="3456" levels="1" name="Scale Shirt">
+		<!--
+			Description: Increases maximum MP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="64" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="43" />
+			<add order="0x40" stat="maxCp" value="258" />
+		</for>
+	</skill>
+	<skill id="3457" levels="1" name="Mithril Shirt">
+		<!--
+			Description: Increases maximum HP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="75" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="224" />
+		</for>
+	</skill>
+	<skill id="3458" levels="1" name="Mithril Shirt">
+		<!--
+			Description: Increases Maximum MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="75" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="111" />
+		</for>
+	</skill>
+	<skill id="3459" levels="1" name="Mithril Shirt">
+		<!--
+			Description: The maximum CP is increased.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="75" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxCp" value="672" />
+		</for>
+	</skill>
+	<skill id="3460" levels="1" name="Mithril Shirt">
+		<!--
+			Description: Increases maximum HP/MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="75" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="112" />
+			<add order="0x40" stat="maxMp" value="56" />
+		</for>
+	</skill>
+	<skill id="3461" levels="1" name="Mithril Shirt">
+		<!--
+			Description: Increases maximum HP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="75" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="112" />
+			<add order="0x40" stat="maxCp" value="336" />
+		</for>
+	</skill>
+	<skill id="3462" levels="1" name="Mithril Shirt">
+		<!--
+			Description: Increases maximum MP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="75" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="56" />
+			<add order="0x40" stat="maxCp" value="336" />
+		</for>
+	</skill>
+	<skill id="3463" levels="1" name="Striped Silk Shirt">
+		<!--
+			Description: Increases maximum HP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="135" />
+		</for>
+	</skill>
+	<skill id="3464" levels="1" name="Striped Silk Shirt">
+		<!--
+			Description: Increases Maximum MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="66" />
+		</for>
+	</skill>
+	<skill id="3465" levels="1" name="Striped Silk Shirt">
+		<!--
+			Description: The maximum CP is increased.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxCp" value="405" />
+		</for>
+	</skill>
+	<skill id="3466" levels="1" name="Striped Silk Shirt">
+		<!--
+			Description: Increases maximum HP/MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="68" />
+			<add order="0x40" stat="maxMp" value="33" />
+		</for>
+	</skill>
+	<skill id="3467" levels="1" name="Striped Silk Shirt">
+		<!--
+			Description: Increases maximum HP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="68" />
+			<add order="0x40" stat="maxCp" value="203" />
+		</for>
+	</skill>
+	<skill id="3468" levels="1" name="Striped Silk Shirt">
+		<!--
+			Description: Increases maximum MP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="33" />
+			<add order="0x40" stat="maxCp" value="203" />
+		</for>
+	</skill>
+	<skill id="3469" levels="1" name="Thin Stripe Leather Shirt">
+		<!--
+			Description: Increases maximum HP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="61" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="160" />
+		</for>
+	</skill>
+	<skill id="3470" levels="1" name="Thin Stripe Leather Shirt">
+		<!--
+			Description: Increases Maximum MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="61" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="78" />
+		</for>
+	</skill>
+	<skill id="3471" levels="1" name="Thin Stripe Leather Shirt">
+		<!--
+			Description: The maximum CP is increased.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="61" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxCp" value="480" />
+		</for>
+	</skill>
+	<skill id="3472" levels="1" name="Thin Stripe Leather Shirt">
+		<!--
+			Description: Increases maximum HP/MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="61" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="80" />
+			<add order="0x40" stat="maxMp" value="39" />
+		</for>
+	</skill>
+	<skill id="3473" levels="1" name="Thin Stripe Leather Shirt">
+		<!--
+			Description: Increases maximum HP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="61" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="80" />
+			<add order="0x40" stat="maxCp" value="240" />
+		</for>
+	</skill>
+	<skill id="3474" levels="1" name="Thin Stripe Leather Shirt">
+		<!--
+			Description: Increases maximum MP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="61" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="39" />
+			<add order="0x40" stat="maxCp" value="240" />
+		</for>
+	</skill>
+	<skill id="3475" levels="1" name="Striped Scale Shirt">
+		<!--
+			Description: Increases maximum HP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="67" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="186" />
+		</for>
+	</skill>
+	<skill id="3476" levels="1" name="Striped Scale Shirt">
+		<!--
+			Description: Increases Maximum MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="67" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="92" />
+		</for>
+	</skill>
+	<skill id="3477" levels="1" name="Striped Scale Shirt">
+		<!--
+			Description: The maximum CP is increased.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="67" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxCp" value="564" />
+		</for>
+	</skill>
+	<skill id="3478" levels="1" name="Striped Scale Shirt">
+		<!--
+			Description: Increases maximum HP/MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="67" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="93" />
+			<add order="0x40" stat="maxMp" value="46" />
+		</for>
+	</skill>
+	<skill id="3479" levels="1" name="Striped Scale Shirt">
+		<!--
+			Description: Increases maximum HP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="67" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="93" />
+			<add order="0x40" stat="maxCp" value="282" />
+		</for>
+	</skill>
+	<skill id="3480" levels="1" name="Striped Scale Shirt">
+		<!--
+			Description: Increases maximum MP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="67" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="46" />
+			<add order="0x40" stat="maxCp" value="282" />
+		</for>
+	</skill>
+	<skill id="3481" levels="1" name="Striped Mithril Shirt">
+		<!--
+			Description: Increases maximum HP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="246" />
+		</for>
+	</skill>
+	<skill id="3482" levels="1" name="Striped Mithril Shirt">
+		<!--
+			Description: Increases Maximum MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="122" />
+		</for>
+	</skill>
+	<skill id="3483" levels="1" name="Striped Mithril Shirt">
+		<!--
+			Description: The maximum CP is increased.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxCp" value="744" />
+		</for>
+	</skill>
+	<skill id="3484" levels="1" name="Striped Mithril Shirt">
+		<!--
+			Description: Increases maximum HP/MP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="123" />
+			<add order="0x40" stat="maxMp" value="61" />
+		</for>
+	</skill>
+	<skill id="3485" levels="1" name="Striped Mithril Shirt">
+		<!--
+			Description: Increases maximum HP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" value="123" />
+			<add order="0x40" stat="maxCp" value="372" />
+		</for>
+	</skill>
+	<skill id="3486" levels="1" name="Striped Mithril Shirt">
+		<!--
+			Description: Increases maximum MP/CP.
+		-->
+		<set name="icon" value="icon.skill0000" />
+		<set name="magicLevel" value="80" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" value="61" />
+			<add order="0x40" stat="maxCp" value="372" />
+		</for>
+	</skill>
+	<skill id="3487" levels="1" name="Blue Talisman of Power">
+		<!--
+			Last modify:	28.03.2009
+			Need correct:	pAtk
+
+			Description: Increase P. Atk with power of Talisman.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_talisman_i01" />
+		<set name="reuseDelay" value="360000" />
+		<set name="magicLevel" value="55" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="10533" />
+		<set name="referenceItemMpConsume" value="6" />
+		<for>
+			<effect count="1" name="Buff" time="120" stackType="Talisman" value="0">
+				<add order="0x40" stat="pAtk" value="9.4" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3488" levels="1" name="Blue Talisman of Protection">
+		<!--
+			Last modify:	28.03.2009
+			Need correct:	sDef
+
+			Description: Increase Shield P. Def with power of Talisman.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_talisman_i01" />
+		<set name="reuseDelay" value="360000" />
+		<set name="magicLevel" value="55" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="10534" />
+		<set name="referenceItemMpConsume" value="6" />
+		<for>
+			<effect count="1" name="Buff" time="120" stackType="Talisman" value="0">
+				<add order="0x40" stat="sDef" value="63" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3489" levels="1" name="Yellow Talisman of Arcane Power">
+		<!--
+			Last modify:	28.03.2009
+			Need correct:	mAtk
+
+			Description: Increase M. Atk power when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mAtk" value="11.7" />
+		</for>
+	</skill>
+	<skill id="3490" levels="1" name="Yellow Talisman of Defense">
+		<!--
+			Last modify:	28.03.2009
+			Need correct:	pDef
+
+			Description: Increase P. Def when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="pDef" value="18.3" />
+		</for>
+	</skill>
+	<skill id="3491" levels="1" name="Yellow Talisman of Evasion">
+		<!--
+			Last modify:	28.03.2009
+
+			Description: Increase Evasion when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="rEvas" value="1.1" />
+		</for>
+	</skill>
+	<skill id="3492" levels="1" name="Yellow Talisman of Speed">
+		<!--
+			Description: Increases the Speed when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="runSpd" value="3" />
+		</for>
+	</skill>
+	<skill id="3493" levels="1" name="Yellow Talisman of Regeneration">
+		<!--
+			Need correct:	regHp
+			Last modify:	28.03.2009
+
+			Description: Increases HP regeneration when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="regHp" value="1.01" />
+		</for>
+	</skill>
+	<skill id="3494" levels="1" name="Yellow Talisman of CP Regeneration">
+		<!--
+			Need correct:	regCp
+			Last modify:	28.03.2009
+
+			Description: Increases CP regeneration when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="regCp" value="1.01" />
+		</for>
+	</skill>
+	<skill id="3495" levels="1" name="Yellow Talisman of Healing">
+		<!--
+			Need correct:	healPower
+			Last modify:	28.03.2009
+
+			Description: Increases power of HP regeneration magic when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="healPower" value="8" />
+		</for>
+	</skill>
+	<skill id="3496" levels="1" name="Red Talisman of Recovery">
+		<!--
+			Last modify:	28.03.2009
+
+			Description: Recover HP/CP with power of Talisman.
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_talisman_i00" />
+		<set name="reuseDelay" value="300000" />
+		<set name="power" value="100" />
+		<set name="magicLevel" value="55" />
+		<set name="hitTime" value="4000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="mpConsume1" value="10" />
+		<set name="mpConsume2" value="40" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="COMBATPOINTHEAL" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="referenceItemId" value="10542" />
+		<set name="referenceItemMpConsume" value="5" />
+		<for>
+			<effect count="1" name="Heal" time="0" value="100" />
+		</for>
+	</skill>
+	<skill id="3497" levels="1" name="Yellow Talisman of MP Regeneration">
+		<!--
+			Description: Increases MP regeneration when equipped with Talisman.
+		-->
+		<set name="icon" value="icon.etc_talisman_i02" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="regMp" value="1.01" />
+		</for>
+	</skill>
+	<skill id="3498" levels="1" name="Special Ability Light">
+		<!--
+			Description: Weight Gauge is increased.
+		-->
+		<set name="icon" value="icon.skill0150" />
+		<set name="magicLevel" value="46" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="maxLoad" value="1.2" />
+		</for>
+	</skill>
+	<skill id="3499" levels="1" name="Transform Dispel">
+		<!--
+			Description: Cancels transformation.
+		-->
+		<set name="icon" value="icon.skilltransform2" />
+		<set name="magicLevel" value="56" />
+		<set name="hitTime" value="2500" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+</list>

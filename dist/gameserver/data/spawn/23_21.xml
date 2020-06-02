@@ -1,0 +1,2037 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="110104" y="125496" z="-3680" h="0" />
+		<npc id="32871" /><!--Dragon Vortex-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="108904" y="111976" z="-3040" h="0" />
+		<npc id="32871" /><!--Dragon Vortex-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="121160" y="113336" z="-3792" h="0" />
+		<npc id="32871" /><!--Dragon Vortex-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115593" y="109626" zmin="-3093" zmax="-2693" />
+			<add x="116226" y="109562" zmin="-3093" zmax="-2693" />
+			<add x="116682" y="110825" zmin="-3093" zmax="-2693" />
+			<add x="115805" y="110842" zmin="-3093" zmax="-2693" />
+			<add x="115383" y="110502" zmin="-3093" zmax="-2693" />
+		</territory>
+		<npc id="22862" /><!--Drakos Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="108605" y="113335" zmin="-3125" zmax="-2725" />
+			<add x="109525" y="113145" zmin="-3125" zmax="-2725" />
+			<add x="110154" y="112827" zmin="-3125" zmax="-2725" />
+			<add x="109743" y="114513" zmin="-3125" zmax="-2725" />
+			<add x="109427" y="114655" zmin="-3125" zmax="-2725" />
+			<add x="108384" y="113562" zmin="-3125" zmax="-2725" />
+		</territory>
+		<npc id="22862" /><!--Drakos Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="109209" y="115082" zmin="-3154" zmax="-2754" />
+			<add x="109725" y="115214" zmin="-3154" zmax="-2754" />
+			<add x="109805" y="115926" zmin="-3154" zmax="-2754" />
+			<add x="109394" y="116515" zmin="-3154" zmax="-2754" />
+			<add x="108495" y="116149" zmin="-3154" zmax="-2754" />
+			<add x="108429" y="115823" zmin="-3154" zmax="-2754" />
+		</territory>
+		<npc id="22862" /><!--Drakos Hunter-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="108462" y="116182" zmin="-3293" zmax="-2893" />
+			<add x="109407" y="116575" zmin="-3293" zmax="-2893" />
+			<add x="109514" y="116945" zmin="-3293" zmax="-2893" />
+			<add x="109009" y="118463" zmin="-3293" zmax="-2893" />
+			<add x="108175" y="117863" zmin="-3293" zmax="-2893" />
+		</territory>
+		<npc id="22862" /><!--Drakos Hunter-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="125363" y="110215" zmin="-3689" zmax="-2889" />
+			<add x="126935" y="112493" zmin="-3689" zmax="-2889" />
+			<add x="126402" y="113482" zmin="-3689" zmax="-2889" />
+			<add x="123975" y="112142" zmin="-3689" zmax="-2889" />
+			<add x="124023" y="111173" zmin="-3689" zmax="-2889" />
+		</territory>
+		<npc id="22862" /><!--Drakos Hunter-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115593" y="109629" zmin="-3091" zmax="-2693" />
+			<add x="116227" y="109562" zmin="-3091" zmax="-2693" />
+			<add x="116682" y="110829" zmin="-3091" zmax="-2693" />
+			<add x="115805" y="110842" zmin="-3091" zmax="-2693" />
+			<add x="115383" y="110503" zmin="-3091" zmax="-2693" />
+		</territory>
+		<npc id="22823" /><!--Drakos Assasin-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="108605" y="113337" zmin="-3125" zmax="-2725" />
+			<add x="109525" y="113145" zmin="-3125" zmax="-2725" />
+			<add x="110153" y="112827" zmin="-3125" zmax="-2725" />
+			<add x="109742" y="114513" zmin="-3125" zmax="-2725" />
+			<add x="109429" y="114655" zmin="-3125" zmax="-2725" />
+			<add x="108383" y="113562" zmin="-3125" zmax="-2725" />
+		</territory>
+		<npc id="22823" /><!--Drakos Assasin-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="109207" y="115082" zmin="-3153" zmax="-2753" />
+			<add x="109725" y="115215" zmin="-3153" zmax="-2753" />
+			<add x="109803" y="115927" zmin="-3153" zmax="-2753" />
+			<add x="109395" y="116515" zmin="-3153" zmax="-2753" />
+			<add x="108495" y="116146" zmin="-3153" zmax="-2753" />
+			<add x="108427" y="115822" zmin="-3153" zmax="-2753" />
+		</territory>
+		<npc id="22823" /><!--Drakos Assasin-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="104154" y="116709" zmin="-3193" zmax="-2693" />
+			<add x="105235" y="117543" zmin="-3193" zmax="-2693" />
+			<add x="105235" y="118002" zmin="-3193" zmax="-2693" />
+			<add x="103914" y="116955" zmin="-3193" zmax="-2693" />
+		</territory>
+		<npc id="22823" /><!--Drakos Assasin-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="103047" y="115442" zmin="-3167" zmax="-2667" />
+			<add x="103426" y="115275" zmin="-3167" zmax="-2667" />
+			<add x="104035" y="116487" zmin="-3167" zmax="-2667" />
+			<add x="103767" y="116895" zmin="-3167" zmax="-2667" />
+		</territory>
+		<npc id="22823" /><!--Drakos Assasin-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="105633" y="117869" zmin="-3265" zmax="-2765" />
+			<add x="107083" y="117749" zmin="-3265" zmax="-2765" />
+			<add x="107134" y="118089" zmin="-3265" zmax="-2765" />
+			<add x="105462" y="117927" zmin="-3265" zmax="-2765" />
+		</territory>
+		<npc id="22823" /><!--Drakos Assasin-->
+	</spawn>	
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="108462" y="116182" zmin="-3294" zmax="-2894" />
+			<add x="109407" y="116575" zmin="-3294" zmax="-2894" />
+			<add x="109513" y="116943" zmin="-3294" zmax="-2894" />
+			<add x="109007" y="118463" zmin="-3294" zmax="-2894" />
+			<add x="108175" y="117865" zmin="-3294" zmax="-2894" />
+		</territory>
+		<npc id="22823" /><!--Drakos Assasin-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="125362" y="110215" zmin="-3687" zmax="-2887" />
+			<add x="126935" y="112493" zmin="-3687" zmax="-2887" />
+			<add x="126403" y="113484" zmin="-3687" zmax="-2887" />
+			<add x="123975" y="112142" zmin="-3687" zmax="-2887" />
+			<add x="124023" y="111173" zmin="-3687" zmax="-2887" />
+		</territory>
+		<npc id="22823" /><!--Drakos Assasin-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="124043" y="109285" zmin="-3205" zmax="-2805" />
+			<add x="123933" y="107862" zmin="-3205" zmax="-2805" />
+			<add x="125135" y="108967" zmin="-3205" zmax="-2805" />
+			<add x="125373" y="110103" zmin="-3205" zmax="-2805" />
+			<add x="124714" y="110549" zmin="-3205" zmax="-2805" />
+		</territory>
+		<npc id="22823" /><!--Drakos Assasin-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="121022" y="107441" zmin="-3114" zmax="-2714" />
+			<add x="122442" y="107382" zmin="-3114" zmax="-2714" />
+			<add x="123953" y="108115" zmin="-3114" zmax="-2714" />
+			<add x="123987" y="109263" zmin="-3114" zmax="-2714" />
+			<add x="122255" y="109407" zmin="-3114" zmax="-2714" />
+		</territory>
+		<npc id="22823" /><!--Drakos Assasin-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116283" y="109582" zmin="-3162" zmax="-2762" />
+			<add x="118413" y="109562" zmin="-3162" zmax="-2762" />
+			<add x="118575" y="110895" zmin="-3162" zmax="-2762" />
+			<add x="117645" y="111645" zmin="-3162" zmax="-2762" />
+			<add x="116747" y="110857" zmin="-3162" zmax="-2762" />
+		</territory>
+		<npc id="22823" /><!--Drakos Assasin-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="112507" y="109313" zmin="-3114" zmax="-2714" />
+			<add x="113913" y="109402" zmin="-3114" zmax="-2714" />
+			<add x="113213" y="110642" zmin="-3114" zmax="-2714" />
+			<add x="111585" y="110947" zmin="-3114" zmax="-2714" />
+			<add x="111545" y="110045" zmin="-3114" zmax="-2714" />
+		</territory>
+		<npc id="22822" /><!--Drakos Warrior-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113509" y="111533" zmin="-3187" zmax="-2787" />
+			<add x="114622" y="111375" zmin="-3187" zmax="-2787" />
+			<add x="115493" y="112095" zmin="-3187" zmax="-2787" />
+			<add x="114622" y="113194" zmin="-3187" zmax="-2787" />
+			<add x="112987" y="113133" zmin="-3187" zmax="-2787" />
+			<add x="112807" y="112195" zmin="-3187" zmax="-2787" />
+		</territory>
+		<npc id="22822" /><!--Drakos Warrior-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="110265" y="110385" zmin="-3245" zmax="-2845" />
+			<add x="111483" y="109985" zmin="-3245" zmax="-2845" />
+			<add x="111533" y="110923" zmin="-3245" zmax="-2845" />
+			<add x="110351" y="112062" zmin="-3245" zmax="-2845" />
+			<add x="109891" y="110783" zmin="-3245" zmax="-2845" />
+		</territory>
+		<npc id="22822" /><!--Drakos Warrior-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="124045" y="109285" zmin="-3205" zmax="-2805" />
+			<add x="123933" y="107862" zmin="-3205" zmax="-2805" />
+			<add x="125135" y="108965" zmin="-3205" zmax="-2805" />
+			<add x="125373" y="110105" zmin="-3205" zmax="-2805" />
+			<add x="124713" y="110544" zmin="-3205" zmax="-2805" />
+		</territory>
+		<npc id="22822" /><!--Drakos Warrior-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="121021" y="107441" zmin="-3114" zmax="-2714" />
+			<add x="122441" y="107382" zmin="-3114" zmax="-2714" />
+			<add x="123953" y="108115" zmin="-3114" zmax="-2714" />
+			<add x="123987" y="109261" zmin="-3114" zmax="-2714" />
+			<add x="122255" y="109407" zmin="-3114" zmax="-2714" />
+		</territory>
+		<npc id="22822" /><!--Drakos Warrior-->
+	</spawn>
+	<spawn count="4" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="119742" y="108502" zmin="-3150" zmax="-2750" />
+			<add x="120973" y="107415" zmin="-3150" zmax="-2750" />
+			<add x="122253" y="109453" zmin="-3150" zmax="-2750" />
+			<add x="120485" y="110727" zmin="-3150" zmax="-2750" />
+		</territory>
+		<npc id="22822" /><!--Drakos Warrior-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118462" y="109567" zmin="-3122" zmax="-2722" />
+			<add x="119713" y="108497" zmin="-3122" zmax="-2722" />
+			<add x="120453" y="110785" zmin="-3122" zmax="-2722" />
+			<add x="120374" y="111473" zmin="-3122" zmax="-2722" />
+			<add x="119754" y="111535" zmin="-3122" zmax="-2722" />
+			<add x="118645" y="110849" zmin="-3122" zmax="-2722" />
+		</territory>
+		<npc id="22822" /><!--Drakos Warrior-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116285" y="109582" zmin="-3164" zmax="-2764" />
+			<add x="118413" y="109561" zmin="-3164" zmax="-2764" />
+			<add x="118575" y="110895" zmin="-3164" zmax="-2764" />
+			<add x="117645" y="111645" zmin="-3164" zmax="-2764" />
+			<add x="116747" y="110853" zmin="-3164" zmax="-2764" />
+		</territory>
+		<npc id="22822" /><!--Drakos Warrior-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114135" y="109089" zmin="-3125" zmax="-2725" />
+			<add x="115524" y="109577" zmin="-3125" zmax="-2725" />
+			<add x="115334" y="110425" zmin="-3125" zmax="-2725" />
+			<add x="113225" y="110855" zmin="-3125" zmax="-2725" />
+		</territory>
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113507" y="111533" zmin="-3186" zmax="-2786" />
+			<add x="114621" y="111375" zmin="-3186" zmax="-2786" />
+			<add x="115491" y="112095" zmin="-3186" zmax="-2786" />
+			<add x="114622" y="113197" zmin="-3186" zmax="-2786" />
+			<add x="112987" y="113133" zmin="-3186" zmax="-2786" />
+			<add x="112807" y="112194" zmin="-3186" zmax="-2786" />
+		</territory>
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="111535" y="111202" zmin="-2962" zmax="-2562" />
+			<add x="112603" y="110894" zmin="-2962" zmax="-2562" />
+			<add x="113135" y="111545" zmin="-2962" zmax="-2562" />
+			<add x="112575" y="112114" zmin="-2962" zmax="-2562" />
+			<add x="110602" y="112247" zmin="-2962" zmax="-2562" />
+		</territory>
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="110933" y="112325" zmin="-2923" zmax="-2523" />
+			<add x="112413" y="112114" zmin="-2923" zmax="-2523" />
+			<add x="112441" y="112843" zmin="-2923" zmax="-2523" />
+			<add x="110542" y="113243" zmin="-2923" zmax="-2523" />
+		</territory>
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="111773" y="117786" zmin="-3170" zmax="-2770" />
+			<add x="113893" y="116761" zmin="-3170" zmax="-2770" />
+			<add x="113881" y="117645" zmin="-3170" zmax="-2770" />
+			<add x="113329" y="118245" zmin="-3170" zmax="-2770" />
+			<add x="112133" y="118803" zmin="-3170" zmax="-2770" />
+			<add x="111746" y="118475" zmin="-3170" zmax="-2770" />
+		</territory>
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114387" y="114355" zmin="-3345" zmax="-2945" />
+			<add x="116255" y="114135" zmin="-3345" zmax="-2945" />
+			<add x="116827" y="114543" zmin="-3345" zmax="-2945" />
+			<add x="116722" y="114862" zmin="-3345" zmax="-2945" />
+			<add x="114423" y="116062" zmin="-3345" zmax="-2945" />
+			<add x="114135" y="114743" zmin="-3345" zmax="-2945" />
+		</territory>
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="114847" y="115004" z="-3192" h="0" />
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="110642" y="113101" z="-2784" h="0" />
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="110924" y="112018" z="-2800" h="0" />
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="113902" y="1149769" z="-3176" h="0" />
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="113723" y="115645" z="-3232" h="0" />
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="112754" y="115805" z="-3200" h="0" />
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="112563" y="116495" z="-3072" h="0" />
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="111907" y="116163" z="-3060" h="0" />
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="111953" y="117167" z="-2988" h="0" />
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="113053" y="115125" z="-3200" h="0" />
+		<npc id="22824" /><!--Drakos Templar-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="99822" y="110105" zmin="-3764" zmax="-3364" />
+			<add x="102245" y="110582" zmin="-3764" zmax="-3364" />
+			<add x="100907" y="112765" zmin="-3764" zmax="-3364" />
+			<add x="99382" y="110713" zmin="-3764" zmax="-3364" />
+		</territory>
+		<npc id="22826" /><!--Bone Scorpion-->
+	</spawn>
+	<spawn count="3" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="102285" y="110575" zmin="-3815" zmax="-3415" />
+			<add x="102806" y="110406" zmin="-3815" zmax="-3415" />
+			<add x="103305" y="110887" zmin="-3815" zmax="-3415" />
+			<add x="103333" y="112333" zmin="-3815" zmax="-3415" />
+			<add x="102713" y="113344" zmin="-3815" zmax="-3415" />
+			<add x="100906" y="112825" zmin="-3815" zmax="-3415" />
+		</territory>
+		<npc id="22826" /><!--Bone Scorpion-->
+	</spawn>
+	<spawn count="3" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="101057" y="112877" zmin="-3805" zmax="-3405" />
+			<add x="102733" y="113365" zmin="-3805" zmax="-3405" />
+			<add x="102725" y="114295" zmin="-3805" zmax="-3405" />
+			<add x="101777" y="115102" zmin="-3805" zmax="-3405" />
+			<add x="100909" y="115065" zmin="-3805" zmax="-3405" />
+		</territory>
+		<npc id="22826" /><!--Bone Scorpion-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="100945" y="115125" zmin="-3789" zmax="-3389" />
+			<add x="101534" y="115127" zmin="-3789" zmax="-3389" />
+			<add x="101722" y="116445" zmin="-3789" zmax="-3389" />
+			<add x="101054" y="116464" zmin="-3789" zmax="-3389" />
+			<add x="100822" y="115375" zmin="-3789" zmax="-3389" />
+		</territory>
+		<npc id="22826" /><!--Bone Scorpion-->
+	</spawn>
+	<spawn count="6" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="100933" y="116645" zmin="-3775" zmax="-3375" />
+			<add x="101765" y="116515" zmin="-3775" zmax="-3375" />
+			<add x="102313" y="116786" zmin="-3775" zmax="-3375" />
+			<add x="102555" y="118043" zmin="-3775" zmax="-3375" />
+			<add x="100455" y="118424" zmin="-3775" zmax="-3375" />
+		</territory>
+		<npc id="22826" /><!--Bone Scorpion-->
+	</spawn>
+	<spawn count="5" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="100495" y="118455" zmin="-3805" zmax="-3405" />
+			<add x="102523" y="118055" zmin="-3805" zmax="-3405" />
+			<add x="103962" y="119634" zmin="-3805" zmax="-3405" />
+			<add x="101087" y="122264" zmin="-3805" zmax="-3405" />
+		</territory>
+		<npc id="22826" /><!--Bone Scorpion-->
+	</spawn>
+	<spawn count="3" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="101149" y="122323" zmin="-3810" zmax="-3310" />
+			<add x="104025" y="119725" zmin="-3810" zmax="-3310" />
+			<add x="105766" y="119927" zmin="-3810" zmax="-3310" />
+			<add x="107585" y="123018" zmin="-3810" zmax="-3310" />
+			<add x="105013" y="124624" zmin="-3810" zmax="-3310" />
+			<add x="102407" y="124849" zmin="-3810" zmax="-3310" />
+		</territory>
+		<npc id="22826" /><!--Bone Scorpion-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="105833" y="119885" zmin="-3765" zmax="-3365" />
+			<add x="107373" y="119354" zmin="-3765" zmax="-3365" />
+			<add x="109013" y="120767" zmin="-3765" zmax="-3365" />
+			<add x="108505" y="122783" zmin="-3765" zmax="-3365" />
+			<add x="107626" y="122914" zmin="-3765" zmax="-3365" />
+		</territory>
+		<npc id="22826" /><!--Bone Scorpion-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<point x="107123" y="120074" z="-3600" h="0" />
+		<npc id="22825" /><!--Big Bone Scorpion-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<point x="106914" y="120834" z="-3600" h="0" />
+		<npc id="22825" /><!--Big Bone Scorpion-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<point x="108362" y="120914" z="-3600" h="0" />
+		<npc id="22825" /><!--Big Bone Scorpion-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<point x="108313" y="121933" z="-3600" h="0" />
+		<npc id="22825" /><!--Big Bone Scorpion-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<point x="107207" y="121946" z="-3600" h="0" />
+		<npc id="22825" /><!--Big Bone Scorpion-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<point x="104482" y="120785" z="-3616" h="0" />
+		<npc id="22825" /><!--Big Bone Scorpion-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<point x="102446" y="122367" z="-3564" h="0" />
+		<npc id="22825" /><!--Big Bone Scorpion-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<point x="104276" y="122164" z="-3732" h="0" />
+		<npc id="22825" /><!--Big Bone Scorpion-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<point x="106193" y="122737" z="-3568" h="0" />
+		<npc id="22825" /><!--Big Bone Scorpion-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<point x="103213" y="124227" z="-3664" h="0" />
+		<npc id="22825" /><!--Big Bone Scorpion-->
+	</spawn>
+	<spawn count="4" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="109013" y="120913" zmin="-3785" zmax="-3385" />
+			<add x="109845" y="120767" zmin="-3785" zmax="-3385" />
+			<add x="112042" y="123022" zmin="-3785" zmax="-3385" />
+			<add x="111406" y="123745" zmin="-3785" zmax="-3385" />
+			<add x="109213" y="123454" zmin="-3785" zmax="-3385" />
+			<add x="108525" y="122734" zmin="-3785" zmax="-3385" />
+		</territory>
+		<npc id="22861" /><!--Hard Bone Scorpion-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="101147" y="122322" zmin="-3810" zmax="-3310" />
+			<add x="104025" y="119725" zmin="-3810" zmax="-3310" />
+			<add x="105766" y="119925" zmin="-3810" zmax="-3310" />
+			<add x="107585" y="123017" zmin="-3810" zmax="-3310" />
+			<add x="105014" y="124622" zmin="-3810" zmax="-3310" />
+			<add x="102405" y="124849" zmin="-3810" zmax="-3310" />
+		</territory>
+		<npc id="22861" /><!--Hard Bone Scorpion-->
+	</spawn>
+	<spawn count="3" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="100495" y="118453" zmin="-3805" zmax="-3405" />
+			<add x="102523" y="118054" zmin="-3805" zmax="-3405" />
+			<add x="103962" y="119635" zmin="-3805" zmax="-3405" />
+			<add x="101086" y="122262" zmin="-3805" zmax="-3405" />
+		</territory>
+		<npc id="22861" /><!--Hard Bone Scorpion-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="117085" y="116085" zmin="-3808" zmax="-3408" />
+			<add x="118482" y="115973" zmin="-3808" zmax="-3408" />
+			<add x="118806" y="117607" zmin="-3808" zmax="-3408" />
+			<add x="118265" y="118193" zmin="-3808" zmax="-3408" />
+			<add x="116483" y="119055" zmin="-3808" zmax="-3408" />
+			<add x="115563" y="117625" zmin="-3808" zmax="-3408" />
+			<add x="115667" y="116965" zmin="-3808" zmax="-3408" />
+		</territory>
+		<npc id="22827" /><!--Batwing Drake-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="120553" y="114742" zmin="-3945" zmax="-3545" />
+			<add x="123115" y="113946" zmin="-3945" zmax="-3545" />
+			<add x="124613" y="114495" zmin="-3945" zmax="-3545" />
+			<add x="124725" y="115743" zmin="-3945" zmax="-3545" />
+			<add x="122813" y="117544" zmin="-3945" zmax="-3545" />
+			<add x="118762" y="117115" zmin="-3945" zmax="-3545" />
+			<add x="118594" y="116234" zmin="-3945" zmax="-3545" />
+		</territory>
+		<npc id="22827" /><!--Batwing Drake-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="119283" y="112215" zmin="-3885" zmax="-3485" />
+			<add x="122615" y="112343" zmin="-3885" zmax="-3485" />
+			<add x="122814" y="112563" zmin="-3885" zmax="-3485" />
+			<add x="119283" y="112535" zmin="-3885" zmax="-3485" />
+		</territory>
+		<npc id="22827" /><!--Batwing Drake-->
+	</spawn>
+	<spawn count="3" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="121165" y="118905" zmin="-3245" zmax="-2845" />
+			<add x="122653" y="119055" zmin="-3245" zmax="-2845" />
+			<add x="123083" y="120456" zmin="-3245" zmax="-2845" />
+			<add x="120295" y="122714" zmin="-3245" zmax="-2845" />
+			<add x="119483" y="121336" zmin="-3245" zmax="-2845" />
+		</territory>
+		<npc id="22827" /><!--Batwing Drake-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<point x="122002" y="115042" z="-3664" h="0" />
+		<npc id="22827" /><!--Batwing Drake-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<point x="120963" y="116173" z="-3584" h="0" />
+		<npc id="22827" /><!--Batwing Drake-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<point x="123443" y="115725" z="-3568" h="0" />
+		<npc id="22827" /><!--Batwing Drake-->
+	</spawn>
+	<spawn count="14" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115113" y="119645" zmin="-3793" zmax="-3293" />
+			<add x="115242" y="119645" zmin="-3793" zmax="-3293" />
+			<add x="115115" y="119813" zmin="-3793" zmax="-3293" />
+			<add x="114963" y="119844" zmin="-3793" zmax="-3293" />
+		</territory>
+		<npc id="22860" /><!--Big Bloody Leech-->
+	</spawn>
+	<spawn count="14" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="117926" y="117842" zmin="-3905" zmax="-3405" />
+			<add x="117973" y="117823" zmin="-3905" zmax="-3405" />
+			<add x="118185" y="118054" zmin="-3905" zmax="-3405" />
+			<add x="118005" y="118075" zmin="-3905" zmax="-3405" />
+		</territory>
+		<npc id="22860" /><!--Big Bloody Leech-->
+	</spawn>
+	<spawn count="14" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="122794" y="115705" zmin="-3725" zmax="-3425" />
+			<add x="122954" y="115526" zmin="-3725" zmax="-3425" />
+			<add x="122955" y="115663" zmin="-3725" zmax="-3425" />
+			<add x="122874" y="115784" zmin="-3725" zmax="-3425" />
+		</territory>
+		<npc id="22860" /><!--Big Bloody Leech-->
+	</spawn>
+	<spawn count="3" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116586" y="119122" zmin="-3910" zmax="-3510" />
+			<add x="118324" y="118243" zmin="-3910" zmax="-3510" />
+			<add x="118624" y="119586" zmin="-3910" zmax="-3510" />
+			<add x="117113" y="120907" zmin="-3910" zmax="-3510" />
+			<add x="116782" y="120803" zmin="-3910" zmax="-3510" />
+		</territory>
+		<npc id="22860" /><!--Big Bloody Leech-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="117085" y="116085" zmin="-3805" zmax="-3405" />
+			<add x="118483" y="115973" zmin="-3805" zmax="-3405" />
+			<add x="118806" y="117606" zmin="-3805" zmax="-3405" />
+			<add x="118265" y="118194" zmin="-3805" zmax="-3405" />
+			<add x="116483" y="119055" zmin="-3805" zmax="-3405" />
+			<add x="115563" y="117623" zmin="-3805" zmax="-3405" />
+			<add x="115667" y="116962" zmin="-3805" zmax="-3405" />
+		</territory>
+		<npc id="22828" /><!--Big Bloody Leech-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="120553" y="114742" zmin="-3942" zmax="-3542" />
+			<add x="123117" y="113947" zmin="-3942" zmax="-3542" />
+			<add x="124613" y="114497" zmin="-3942" zmax="-3542" />
+			<add x="124725" y="115742" zmin="-3942" zmax="-3542" />
+			<add x="122813" y="117544" zmin="-3942" zmax="-3542" />
+			<add x="118762" y="117115" zmin="-3942" zmax="-3542" />
+			<add x="118593" y="116234" zmin="-3942" zmax="-3542" />
+		</territory>
+		<npc id="22828" /><!--Big Bloody Leech-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="119285" y="112213" zmin="-3885" zmax="-3485" />
+			<add x="122613" y="112345" zmin="-3885" zmax="-3485" />
+			<add x="122814" y="112562" zmin="-3885" zmax="-3485" />
+			<add x="119285" y="112537" zmin="-3885" zmax="-3485" />
+		</territory>
+		<npc id="22828" /><!--Big Bloody Leech-->
+	</spawn>
+	<spawn count="3" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="124809" y="114445" zmin="-3815" zmax="-3415" />
+			<add x="126333" y="114397" zmin="-3815" zmax="-3415" />
+			<add x="126155" y="115603" zmin="-3815" zmax="-3415" />
+			<add x="124745" y="115595" zmin="-3815" zmax="-3415" />
+		</territory>
+		<npc id="22828" /><!--Big Bloody Leech-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115103" y="122507" zmin="-3665" zmax="-2865" />
+			<add x="116975" y="122427" zmin="-3665" zmax="-2865" />
+			<add x="118155" y="122707" zmin="-3665" zmax="-2865" />
+			<add x="118187" y="123283" zmin="-3665" zmax="-2865" />
+			<add x="117454" y="123853" zmin="-3665" zmax="-2865" />
+			<add x="116123" y="123773" zmin="-3665" zmax="-2865" />
+		</territory>
+		<npc id="22828" /><!--Big Bloody Leech-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118117" y="122687" zmin="-3150" zmax="-2750" />
+			<add x="119465" y="121354" zmin="-3150" zmax="-2750" />
+			<add x="120254" y="122715" zmin="-3150" zmax="-2750" />
+			<add x="118186" y="122943" zmin="-3150" zmax="-2750" />
+		</territory>
+		<npc id="22828" /><!--Big Bloody Leech-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="121163" y="118905" zmin="-3245" zmax="-2845" />
+			<add x="124294" y="118642" zmin="-3245" zmax="-2845" />
+			<add x="124725" y="119285" zmin="-3245" zmax="-2845" />
+			<add x="122963" y="121323" zmin="-3245" zmax="-2845" />
+			<add x="119923" y="120002" zmin="-3245" zmax="-2845" />
+		</territory>
+		<npc id="22828" /><!--Big Bloody Leech-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="102069" y="103120" z="-3506" h="6000" />
+		<npc id="30758" /><!--Athrea-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="105745" y="114255" z="-3136" h="49152" />
+		<npc id="30832" /><!--Hardin-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="104870" y="113221" z="-3190" h="4096" />
+		<npc id="30833" /><!--Kaspar-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="105792" y="114290" z="-3136" h="49000" />
+		<npc id="30834" /><!--Cema-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="106581" y="113352" z="-3193" h="28672" />
+		<npc id="30835" /><!--Icarus-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="105888" y="109808" z="-3200" h="45056" />
+		<npc id="30836" /><!--Minerva-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="106131" y="105979" z="-3482" h="28672" />
+		<npc id="30981" /><!--Black Judge-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="106608" y="113296" z="-3193" h="30000" />
+		<npc id="31580" /><!--Galadrid-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="106636" y="113392" z="-3193" h="30000" />
+		<npc id="31581" /><!--Anastia-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="104840" y="113260" z="-3190" h="0" />
+		<npc id="31582" /><!--Mordred-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="105850" y="109807" z="-3184" h="46000" />
+		<npc id="31810" /><!--Adventure Guildsman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="126208" y="120768" z="-2584" h="16384" />
+		<npc id="35768" /><!--Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="125904" y="120544" z="-2584" h="49024" />
+		<npc id="35768" /><!--Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="126186" y="122800" z="-2584" h="16384" />
+		<npc id="35770" /><!--Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="125974" y="122689" z="-2584" h="49024" />
+		<npc id="35770" /><!--Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="128133" y="122310" z="-2584" h="48972" />
+		<npc id="36460" /><!--Wyvern Manager-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="128106" y="122635" z="-2588" h="33036" />
+		<npc id="35767" /><!--Detention Camp Warden-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="126080" y="123808" z="-2424" h="48972" />
+		<npc id="35758" /><!--Foreman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="125974" y="123879" z="-2584" h="49024" />
+		<npc id="35770" /><!--Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="126177" y="124007" z="-2584" h="16384" />
+		<npc id="35770" /><!--Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="127920" y="124384" z="-2584" h="36616" />
+		<npc id="35765" /><!--Logistics Officer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="125920" y="125483" z="-2584" h="49024" />
+		<npc id="35769" /><!--Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="126208" y="125680" z="-2584" h="16384" />
+		<npc id="35769" /><!--Doorman-->
+	</spawn>
+	<spawn count="6" respawn="27" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114992" y="130704" zmin="-3628" zmax="-2128" />
+			<add x="116016" y="126984" zmin="-3628" zmax="-2128" />
+			<add x="119716" y="127592" zmin="-3628" zmax="-2128" />
+			<add x="121276" y="129412" zmin="-3628" zmax="-2128" />
+			<add x="121348" y="130652" zmin="-3628" zmax="-2128" />
+		</territory>
+		<npc id="20158" /><!--Medusa-->
+	</spawn>
+	<spawn count="4" respawn="27" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123704" y="127516" zmin="-3600" zmax="-2600" />
+			<add x="124792" y="127624" zmin="-3600" zmax="-2600" />
+			<add x="125436" y="129880" zmin="-3600" zmax="-2600" />
+			<add x="124372" y="130748" zmin="-3600" zmax="-2600" />
+			<add x="121468" y="130724" zmin="-3600" zmax="-2600" />
+			<add x="121296" y="128940" zmin="-3600" zmax="-2600" />
+		</territory>
+		<npc id="20158" /><!--Medusa-->
+	</spawn>
+	<spawn count="6" respawn="27" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114992" y="130704" zmin="-3628" zmax="-2128" />
+			<add x="116016" y="126984" zmin="-3628" zmax="-2128" />
+			<add x="119716" y="127592" zmin="-3628" zmax="-2128" />
+			<add x="121276" y="129412" zmin="-3628" zmax="-2128" />
+			<add x="121348" y="130652" zmin="-3628" zmax="-2128" />
+		</territory>
+		<npc id="20176" /><!--Wyrm-->
+	</spawn>
+	<spawn count="3" respawn="27" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123704" y="127516" zmin="-3600" zmax="-2600" />
+			<add x="124792" y="127624" zmin="-3600" zmax="-2600" />
+			<add x="125436" y="129880" zmin="-3600" zmax="-2600" />
+			<add x="124372" y="130748" zmin="-3600" zmax="-2600" />
+			<add x="121468" y="130724" zmin="-3600" zmax="-2600" />
+			<add x="121296" y="128940" zmin="-3600" zmax="-2600" />
+		</territory>
+		<npc id="20176" /><!--Wyrm-->
+	</spawn>
+	<spawn count="6" respawn="27" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114992" y="130704" zmin="-3628" zmax="-2128" />
+			<add x="116016" y="126984" zmin="-3628" zmax="-2128" />
+			<add x="119716" y="127592" zmin="-3628" zmax="-2128" />
+			<add x="121276" y="129412" zmin="-3628" zmax="-2128" />
+			<add x="121348" y="130652" zmin="-3628" zmax="-2128" />
+		</territory>
+		<npc id="20249" /><!--Turak Bugbear Warrior-->
+	</spawn>
+	<spawn count="3" respawn="27" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123704" y="127516" zmin="-3600" zmax="-2600" />
+			<add x="124792" y="127624" zmin="-3600" zmax="-2600" />
+			<add x="125436" y="129880" zmin="-3600" zmax="-2600" />
+			<add x="124372" y="130748" zmin="-3600" zmax="-2600" />
+			<add x="121468" y="130724" zmin="-3600" zmax="-2600" />
+			<add x="121296" y="128940" zmin="-3600" zmax="-2600" />
+		</territory>
+		<npc id="20249" /><!--Turak Bugbear Warrior-->
+	</spawn>
+	<spawn count="7" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="98460" y="103660" zmin="-3764" zmax="-2764" />
+			<add x="98500" y="98556" zmin="-3764" zmax="-2764" />
+			<add x="101700" y="98472" zmin="-3764" zmax="-2764" />
+			<add x="105828" y="101836" zmin="-3764" zmax="-2764" />
+			<add x="102240" y="104628" zmin="-3764" zmax="-2764" />
+		</territory>
+		<npc id="20552" /><!--Fettered Soul-->
+	</spawn>
+	<spawn count="1" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="99324" y="104012" zmin="-3520" zmax="-2520" />
+			<add x="100408" y="105904" zmin="-3520" zmax="-2520" />
+			<add x="102984" y="106976" zmin="-3520" zmax="-2520" />
+			<add x="102396" y="104764" zmin="-3520" zmax="-2520" />
+		</territory>
+		<npc id="20552" /><!--Fettered Soul-->
+	</spawn>
+	<spawn count="6" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="98460" y="103660" zmin="-3764" zmax="-2764" />
+			<add x="98500" y="98556" zmin="-3764" zmax="-2764" />
+			<add x="101700" y="98472" zmin="-3764" zmax="-2764" />
+			<add x="105828" y="101836" zmin="-3764" zmax="-2764" />
+			<add x="102240" y="104628" zmin="-3764" zmax="-2764" />
+		</territory>
+		<npc id="20553" /><!--Windsus-->
+	</spawn>
+	<spawn count="1" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="99324" y="104012" zmin="-3520" zmax="-2520" />
+			<add x="100408" y="105904" zmin="-3520" zmax="-2520" />
+			<add x="102984" y="106976" zmin="-3520" zmax="-2520" />
+			<add x="102396" y="104764" zmin="-3520" zmax="-2520" />
+		</territory>
+		<npc id="20553" /><!--Windsus-->
+	</spawn>
+	<spawn count="6" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="98460" y="103660" zmin="-3764" zmax="-2764" />
+			<add x="98500" y="98556" zmin="-3764" zmax="-2764" />
+			<add x="101700" y="98472" zmin="-3764" zmax="-2764" />
+			<add x="105828" y="101836" zmin="-3764" zmax="-2764" />
+			<add x="102240" y="104628" zmin="-3764" zmax="-2764" />
+		</territory>
+		<npc id="20554" /><!--Grandis-->
+	</spawn>
+	<spawn count="1" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="99324" y="104012" zmin="-3520" zmax="-2520" />
+			<add x="100408" y="105904" zmin="-3520" zmax="-2520" />
+			<add x="102984" y="106976" zmin="-3520" zmax="-2520" />
+			<add x="102396" y="104764" zmin="-3520" zmax="-2520" />
+		</territory>
+		<npc id="20554" /><!--Grandis-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116152" y="127176" zmin="-3460" zmax="-2260" />
+			<add x="118560" y="127056" zmin="-3460" zmax="-2260" />
+			<add x="118776" y="128632" zmin="-3460" zmax="-2260" />
+			<add x="117652" y="130068" zmin="-3460" zmax="-2260" />
+			<add x="115928" y="128716" zmin="-3460" zmax="-2260" />
+		</territory>
+		<npc id="27108" /><!--Stenoa Gorgon Queen-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<territory>
+			<add x="124420" y="103200" zmin="-3480" zmax="-2880" />
+			<add x="124992" y="101612" zmin="-3480" zmax="-2880" />
+			<add x="125676" y="102144" zmin="-3480" zmax="-2880" />
+			<add x="125824" y="103588" zmin="-3480" zmax="-2880" />
+		</territory>
+		<npc id="25137" /><!--Beleth's Seer Sephia-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<territory>
+			<add x="116704" y="103332" zmin="-3740" zmax="-3140" />
+			<add x="117488" y="101996" zmin="-3740" zmax="-3140" />
+			<add x="119064" y="102712" zmin="-3740" zmax="-3140" />
+			<add x="117992" y="103752" zmin="-3740" zmax="-3140" />
+		</territory>
+		<npc id="25401" /><!--Skyla-->
+	</spawn>
+	<spawn group="valley_fortress_peace_merchant" count="1" respawn="15000" respawn_random="0" period_of_day="none">
+		<point x="126063" y="119823" z="-2648" h="6952" />
+		<npc id="35759" /><!--Suspicious Merchant-->
+	</spawn>
+	<spawn group="valley_fortress_peace_commanders" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="124299" y="123614" z="-2555" h="-16344" />
+		<npc id="35760" /><!--Guard Captain-->
+	</spawn>
+	<spawn group="valley_fortress_peace_commanders" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="124768" y="121856" z="-2303" h="0" />
+		<npc id="35761" /><!--Archer Captain-->
+	</spawn>
+	<spawn group="valley_fortress_peace_commanders" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="124768" y="124640" z="-2555" h="-11056" />
+		<npc id="35763" /><!--Support Unit Captain-->
+	</spawn>
+	<spawn group="valley_fortress_siege_commanders" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124299" y="123614" z="-2555" h="-16344" />
+		<npc id="35782" /><!--Guard Captain-->
+	</spawn>
+	<spawn group="valley_fortress_siege_commanders" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124768" y="124640" z="-2555" h="-11056" />
+		<npc id="35785" /><!--Support Unit Captain-->
+	</spawn>
+	<spawn group="valley_fortress_siege_commanders" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124768" y="121856" z="-2303" h="0" />
+		<npc id="35788" /><!--Archer Captain-->
+	</spawn>
+	<spawn group="valley_fortress_siege_commanders" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127189" y="121806" z="-2425" h="-8664" />
+		<npc id="35776" /><!--Main Machine-->
+	</spawn>
+	<spawn group="valley_fortress_siege_commanders" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="128048" y="123344" z="-2541" h="-30508" />
+		<npc id="35790" /><!--General-->
+	</spawn>
+  <spawn group="valley_fortress_siege_minister" count="1" respawn="600" respawn_random="0" period_of_day="none">
+    <point x="128040" y="123448" z="-2536" h="32767" />
+    <npc id="35791" />
+    <!--Minister-->
+  </spawn>	
+	<spawn group="valley_fortress_mercenary" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126063" y="119823" z="-2644" h="17332" />
+		<npc id="35793" /><!--Mercenary Captain-->
+	</spawn>
+	<spawn group="valley_fortress_out_power_units" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126969" y="122128" z="-2588" h="24908" />
+		<npc id="35777" /><!--Backup Power Unit-->
+	</spawn>
+	<spawn group="valley_fortress_out_power_units" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127618" y="122121" z="-2588" h="8112" />
+		<npc id="35777" /><!--Backup Power Unit-->
+	</spawn>
+	<spawn group="valley_fortress_out_power_units" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127615" y="121481" z="-2588" h="-7996" />
+		<npc id="35777" /><!--Backup Power Unit-->
+	</spawn>
+	<spawn group="valley_fortress_out_power_units" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126969" y="121480" z="-2588" h="-23876" />
+		<npc id="35777" /><!--Backup Power Unit-->
+	</spawn>
+	<spawn group="valley_fortress_out_power_units" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126736" y="121808" z="-2588" h="-32660" />
+		<npc id="35778" /><!--Control Unit-->
+	</spawn>
+	<spawn group="valley_fortress_in_power_units" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127296" y="121360" z="-2520" h="17444" />
+		<npc id="35779" /><!--Power Control Unit-->
+	</spawn>
+	<spawn group="valley_fortress_in_power_units" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127728" y="121808" z="-2488" h="-32208" />
+		<npc id="35779" /><!--Power Control Unit-->
+	</spawn>
+	<spawn group="valley_fortress_in_power_units" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127296" y="122256" z="-2456" h="-14464" />
+		<npc id="35779" /><!--Power Control Unit-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="6" respawn="60" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_outer_shop]-->
+			<add x="126620" y="121924" zmin="-2652" zmax="-2452" />
+			<add x="127185" y="122490" zmin="-2652" zmax="-2452" />
+			<add x="127529" y="122494" zmin="-2652" zmax="-2452" />
+			<add x="127586" y="122943" zmin="-2652" zmax="-2452" />
+			<add x="126813" y="122956" zmin="-2652" zmax="-2452" />
+			<add x="126813" y="122648" zmin="-2652" zmax="-2452" />
+			<add x="126345" y="122634" zmin="-2652" zmax="-2452" />
+			<add x="126329" y="121279" zmin="-2652" zmax="-2452" />
+			<add x="126619" y="121243" zmin="-2652" zmax="-2452" />
+		</territory>
+		<npc id="35780" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126109" y="120640" z="-2588" h="-16512" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126077" y="120640" z="-2588" h="-16512" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126045" y="120640" z="-2588" h="-16512" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126013" y="120640" z="-2588" h="-16512" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126016" y="125584" z="-2588" h="16384" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126048" y="125584" z="-2588" h="16384" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126080" y="125584" z="-2588" h="16384" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126112" y="125584" z="-2588" h="16384" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126131" y="122712" z="-2588" h="-16512" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126098" y="122713" z="-2588" h="-16512" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126062" y="122713" z="-2588" h="-16512" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126027" y="122713" z="-2588" h="-16512" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126025" y="123961" z="-2588" h="16384" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126060" y="123962" z="-2588" h="16384" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126095" y="123962" z="-2588" h="16384" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126129" y="123962" z="-2588" h="16384" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="128000" y="124704" z="-2210" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127984" y="124736" z="-2210" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127056" y="125440" z="-2210" h="4964" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127024" y="125472" z="-2210" h="4964" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124832" y="125296" z="-2210" h="16292" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124800" y="125280" z="-2210" h="16292" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="123648" y="123472" z="-2210" h="26908" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="123648" y="123424" z="-2210" h="26908" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="123792" y="122096" z="-2210" h="32672" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="123808" y="122064" z="-2210" h="32672" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124192" y="121376" z="-2210" h="32728" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124208" y="121344" z="-2210" h="32728" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124944" y="120864" z="-2210" h="-26768" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124976" y="120848" z="-2210" h="-26768" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127024" y="120768" z="-2210" h="-16216" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127056" y="120784" z="-2210" h="-16216" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127984" y="121488" z="-2210" h="-8668" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="128000" y="121520" z="-2210" h="-8668" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="128464" y="123424" z="-2210" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="128464" y="123456" z="-2210" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126260" y="122073" z="-2588" h="-16512" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126204" y="122073" z="-2588" h="-16512" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126148" y="122073" z="-2588" h="-16512" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126094" y="122075" z="-2588" h="-16512" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126177" y="122005" z="-2588" h="-16512" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125984" y="124608" z="-2588" h="16384" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126032" y="124608" z="-2588" h="16384" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126080" y="124608" z="-2588" h="16384" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126126" y="124608" z="-2588" h="16384" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126056" y="124654" z="-2588" h="16384" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="3600" respawn_random="0" period_of_day="none">
+		<point x="125120" y="123360" z="-2588" h="0" />
+		<npc id="35792" /><!--Ballista-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="3600" respawn_random="0" period_of_day="none">
+		<point x="126826" y="122978" z="-2588" h="0" />
+		<npc id="35792" /><!--Ballista-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="3600" respawn_random="0" period_of_day="none">
+		<point x="127575" y="124886" z="-2588" h="0" />
+		<npc id="35792" /><!--Ballista-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="3600" respawn_random="0" period_of_day="none">
+		<point x="124111" y="122246" z="-2592" h="0" />
+		<npc id="35792" /><!--Ballista-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126372" y="120863" z="-2140" h="32728" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126368" y="120832" z="-2140" h="32728" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126368" y="120896" z="-2140" h="32728" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126416" y="120864" z="-2140" h="32728" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125728" y="120864" z="-2138" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125728" y="120832" z="-2138" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125728" y="120896" z="-2138" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125694" y="120863" z="-2138" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125744" y="125360" z="-2140" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125744" y="125328" z="-2140" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125744" y="125392" z="-2140" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125708" y="125359" z="-2140" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126384" y="125360" z="-2138" h="-32708" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126384" y="125328" z="-2138" h="-32708" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126384" y="125392" z="-2138" h="-32708" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126415" y="125360" z="-2138" h="-32708" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126928" y="124576" z="-2144" h="32376" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126928" y="124608" z="-2144" h="32376" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126928" y="124544" z="-2144" h="32376" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126960" y="124576" z="-2144" h="32376" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125760" y="122064" z="-2140" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125760" y="122032" z="-2140" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125760" y="122096" z="-2140" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125728" y="122064" z="-2140" h="0" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126368" y="121130" z="-2230" h="-16396" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126341" y="121130" z="-2230" h="-16396" />
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126368" y="121097" z="-2230" h="-16396" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126341" y="121097" z="-2230" h="-16396" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126657" y="120723" z="-2407" h="15996" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126687" y="120722" z="-2407" h="15996" />
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126658" y="120753" z="-2407" h="15996" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126688" y="120752" z="-2407" h="15996" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125760" y="121120" z="-2228" h="-16388" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125792" y="121120" z="-2228" h="-16388" />
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125760" y="121087" z="-2228" h="-16388" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125792" y="121088" z="-2228" h="-16388" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125440" y="120704" z="-2405" h="16148" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125470" y="120704" z="-2405" h="16148" />
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125440" y="120736" z="-2405" h="16148" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125471" y="120735" z="-2405" h="16148" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125760" y="125088" z="-2230" h="15912" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125792" y="125088" z="-2230" h="15912" />
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125759" y="125120" z="-2230" h="15912" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125792" y="125120" z="-2230" h="15912" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125454" y="125514" z="-2407" h="-16348" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125422" y="125514" z="-2407" h="-16348" />
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125454" y="125482" z="-2407" h="-16348" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125422" y="125482" z="-2407" h="-16348" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126352" y="125120" z="-2228" h="16080" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126320" y="125120" z="-2228" h="16080" />
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126352" y="125088" z="-2228" h="16080" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126320" y="125088" z="-2228" h="16080" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126688" y="125504" z="-2405" h="-16412" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126656" y="125504" z="-2405" h="-16412" />
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126688" y="125472" z="-2405" h="-16412" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126656" y="125472" z="-2405" h="-16412" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127216" y="124208" z="-2231" h="16348" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127184" y="124208" z="-2231" h="16348" />
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127217" y="124241" z="-2231" h="16348" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="127184" y="124241" z="-2231" h="16348" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126874" y="124627" z="-2408" h="-16468" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126842" y="124627" z="-2408" h="-16468" />
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126874" y="124595" z="-2408" h="-16468" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126842" y="124595" z="-2408" h="-16468" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125808" y="121872" z="-2230" h="16488" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125760" y="121872" z="-2230" h="16488" />
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125808" y="121915" z="-2230" h="16488" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125761" y="121915" z="-2230" h="16488" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125808" y="122288" z="-2318" h="32748" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125808" y="122258" z="-2319" h="32748" />
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125776" y="122288" z="-2319" h="32748" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125776" y="122258" z="-2318" h="32748" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124624" y="124400" z="-2555" h="13072" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124704" y="124416" z="-2555" h="17088" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124816" y="124448" z="-2555" h="19892" />
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125040" y="124544" z="-2555" h="25844" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124560" y="124624" z="-2555" h="1484" />
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124944" y="124864" z="-2555" h="-17736" />
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124528" y="121913" z="-2402" h="0" />
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124528" y="121884" z="-2402" h="0" />
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125036" y="121812" z="-2402" h="-32696" />
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125036" y="121783" z="-2402" h="-32696" />
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124768" y="121856" z="-2508" h="0" />
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125008" y="121632" z="-2508" h="0" />
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125008" y="122064" z="-2508" h="0" />
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124976" y="122112" z="-2506" h="16152" />
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124608" y="122112" z="-2506" h="16152" />
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124560" y="122064" z="-2508" h="32720" />
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124560" y="121648" z="-2508" h="32720" />
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124608" y="121584" z="-2506" h="-16384" />
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124960" y="121584" z="-2506" h="-16384" />
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124240" y="123520" z="-2555" h="16352" />
+		<npc id="35783" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124269" y="123520" z="-2554" h="16352" />
+		<npc id="35783" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124297" y="123520" z="-2554" h="16352" />
+		<npc id="35783" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124326" y="123520" z="-2554" h="16352" />
+		<npc id="35783" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124355" y="123520" z="-2554" h="16352" />
+		<npc id="35783" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124356" y="123479" z="-2555" h="16352" />
+		<npc id="35784" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124326" y="123480" z="-2554" h="16352" />
+		<npc id="35784" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124297" y="123480" z="-2554" h="16352" />
+		<npc id="35784" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124267" y="123480" z="-2554" h="16352" />
+		<npc id="35784" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_live_with_c_center" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="124239" y="123479" z="-2555" h="16352" />
+		<npc id="35784" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126079" y="123550" z="-1696" h="16248" />
+		<npc id="35771" /><!--Rebel Commander-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126035" y="123453" z="-1663" h="16248" />
+		<npc id="35772" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126125" y="123452" z="-1663" h="16248" />
+		<npc id="35772" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126065" y="123452" z="-1663" h="16248" />
+		<npc id="35772" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126094" y="123452" z="-1663" h="16248" />
+		<npc id="35772" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126124" y="123233" z="-1663" h="-16564" />
+		<npc id="35772" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126034" y="123234" z="-1663" h="-16564" />
+		<npc id="35772" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126094" y="123233" z="-1663" h="-16564" />
+		<npc id="35772" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126064" y="123234" z="-1663" h="-16564" />
+		<npc id="35772" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126106" y="123644" z="-1696" h="16248" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126138" y="123644" z="-1696" h="16248" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126170" y="123644" z="-1696" h="16248" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126202" y="123644" z="-1696" h="16248" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126234" y="123644" z="-1696" h="16248" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126266" y="123644" z="-1696" h="16248" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126298" y="123644" z="-1696" h="16248" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126330" y="123644" z="-1696" h="16248" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125504" y="123735" z="-2218" h="-32448" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125505" y="123698" z="-2217" h="-32448" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125504" y="123770" z="-2218" h="-32448" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126435" y="122951" z="-1873" h="32648" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126435" y="122979" z="-1873" h="32648" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="126435" y="122923" z="-1873" h="32648" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125624" y="123006" z="-2069" h="16384" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125592" y="123006" z="-2069" h="16384" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_noowner_flagdef" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="125560" y="123006" z="-2069" h="16384" />
+		<npc id="35773" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126035" y="123453" z="-1663" h="16248" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126125" y="123452" z="-1663" h="16248" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126065" y="123452" z="-1663" h="16248" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126094" y="123452" z="-1663" h="16248" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126124" y="123233" z="-1663" h="-16564" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126034" y="123234" z="-1663" h="-16564" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126094" y="123233" z="-1663" h="-16564" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126064" y="123234" z="-1663" h="-16564" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126106" y="123644" z="-1696" h="16248" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126138" y="123644" z="-1696" h="16248" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126170" y="123644" z="-1696" h="16248" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126202" y="123644" z="-1696" h="16248" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126234" y="123644" z="-1696" h="16248" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126266" y="123644" z="-1696" h="16248" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126298" y="123644" z="-1696" h="16248" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="126330" y="123644" z="-1696" h="16248" />
+		<npc id="35774" /><!--Court Guard-->
+	</spawn>
+	<spawn group="valley_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_gunner1]-->
+			<add x="124920" y="122208" zmin="-2664" zmax="-2464" />
+			<add x="125356" y="122244" zmin="-2664" zmax="-2464" />
+			<add x="125409" y="122920" zmin="-2664" zmax="-2464" />
+			<add x="124750" y="122889" zmin="-2664" zmax="-2464" />
+		</territory>
+		<npc id="35780" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="valley_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_gunner2]-->
+			<add x="126455" y="122441" zmin="-2660" zmax="-2460" />
+			<add x="126628" y="121981" zmin="-2660" zmax="-2460" />
+			<add x="127640" y="122871" zmin="-2660" zmax="-2460" />
+			<add x="127219" y="123157" zmin="-2660" zmax="-2460" />
+		</territory>
+		<npc id="35780" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="valley_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_gunner3]-->
+			<add x="124602" y="123927" zmin="-2644" zmax="-2444" />
+			<add x="125101" y="123462" zmin="-2644" zmax="-2444" />
+			<add x="125542" y="124351" zmin="-2644" zmax="-2444" />
+			<add x="125275" y="124534" zmin="-2644" zmax="-2444" />
+		</territory>
+		<npc id="35780" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="valley_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_gunner4]-->
+			<add x="126806" y="123586" zmin="-2624" zmax="-2424" />
+			<add x="127459" y="123729" zmin="-2624" zmax="-2424" />
+			<add x="127726" y="124165" zmin="-2624" zmax="-2424" />
+			<add x="126719" y="124178" zmin="-2624" zmax="-2424" />
+		</territory>
+		<npc id="35780" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="valley_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_gunner5]-->
+			<add x="126622" y="124709" zmin="-2620" zmax="-2420" />
+			<add x="127665" y="124626" zmin="-2620" zmax="-2420" />
+			<add x="127610" y="124780" zmin="-2620" zmax="-2420" />
+			<add x="126576" y="124964" zmin="-2620" zmax="-2420" />
+		</territory>
+		<npc id="35780" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="valley_fortress_envoy" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="126111" y="123738" z="-2432" h="16248" />
+		<npc id="36396" /><!--Special Envoy-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="126094" y="122139" z="-2588" h="-16512" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="126150" y="122138" z="-2588" h="-16512" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="126204" y="122138" z="-2588" h="-16512" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="126261" y="122138" z="-2588" h="-16512" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="125984" y="124544" z="-2588" h="16384" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="126032" y="124544" z="-2588" h="16384" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="126080" y="124544" z="-2588" h="16384" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="126128" y="124544" z="-2588" h="16384" />
+		<npc id="35775" /><!--Guard-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_reinforce_b1]-->
+			<add x="124920" y="122208" zmin="-2664" zmax="-2464" />
+			<add x="125356" y="122244" zmin="-2664" zmax="-2464" />
+			<add x="125409" y="122920" zmin="-2664" zmax="-2464" />
+			<add x="124750" y="122889" zmin="-2664" zmax="-2464" />
+		</territory>
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_reinforce_b1]-->
+			<add x="124920" y="122208" zmin="-2664" zmax="-2464" />
+			<add x="125356" y="122244" zmin="-2664" zmax="-2464" />
+			<add x="125409" y="122920" zmin="-2664" zmax="-2464" />
+			<add x="124750" y="122889" zmin="-2664" zmax="-2464" />
+		</territory>
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_reinforce_b1]-->
+			<add x="124920" y="122208" zmin="-2664" zmax="-2464" />
+			<add x="125356" y="122244" zmin="-2664" zmax="-2464" />
+			<add x="125409" y="122920" zmin="-2664" zmax="-2464" />
+			<add x="124750" y="122889" zmin="-2664" zmax="-2464" />
+		</territory>
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_reinforce_b2]-->
+			<add x="126455" y="122441" zmin="-2660" zmax="-2460" />
+			<add x="126628" y="121981" zmin="-2660" zmax="-2460" />
+			<add x="127640" y="122871" zmin="-2660" zmax="-2460" />
+			<add x="127219" y="123157" zmin="-2660" zmax="-2460" />
+		</territory>
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_reinforce_b2]-->
+			<add x="126455" y="122441" zmin="-2660" zmax="-2460" />
+			<add x="126628" y="121981" zmin="-2660" zmax="-2460" />
+			<add x="127640" y="122871" zmin="-2660" zmax="-2460" />
+			<add x="127219" y="123157" zmin="-2660" zmax="-2460" />
+		</territory>
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_reinforce_b2]-->
+			<add x="126455" y="122441" zmin="-2660" zmax="-2460" />
+			<add x="126628" y="121981" zmin="-2660" zmax="-2460" />
+			<add x="127640" y="122871" zmin="-2660" zmax="-2460" />
+			<add x="127219" y="123157" zmin="-2660" zmax="-2460" />
+		</territory>
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_reinforce_b3]-->
+			<add x="124602" y="123927" zmin="-2644" zmax="-2444" />
+			<add x="125101" y="123462" zmin="-2644" zmax="-2444" />
+			<add x="125542" y="124351" zmin="-2644" zmax="-2444" />
+			<add x="125275" y="124534" zmin="-2644" zmax="-2444" />
+		</territory>
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_reinforce_b3]-->
+			<add x="124602" y="123927" zmin="-2644" zmax="-2444" />
+			<add x="125101" y="123462" zmin="-2644" zmax="-2444" />
+			<add x="125542" y="124351" zmin="-2644" zmax="-2444" />
+			<add x="125275" y="124534" zmin="-2644" zmax="-2444" />
+		</territory>
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_reinforce_b3]-->
+			<add x="124602" y="123927" zmin="-2644" zmax="-2444" />
+			<add x="125101" y="123462" zmin="-2644" zmax="-2444" />
+			<add x="125542" y="124351" zmin="-2644" zmax="-2444" />
+			<add x="125275" y="124534" zmin="-2644" zmax="-2444" />
+		</territory>
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_reinforce_b4]-->
+			<add x="126806" y="123586" zmin="-2624" zmax="-2424" />
+			<add x="127459" y="123729" zmin="-2624" zmax="-2424" />
+			<add x="127726" y="124165" zmin="-2624" zmax="-2424" />
+			<add x="126719" y="124178" zmin="-2624" zmax="-2424" />
+		</territory>
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_reinforce_b4]-->
+			<add x="126806" y="123586" zmin="-2624" zmax="-2424" />
+			<add x="127459" y="123729" zmin="-2624" zmax="-2424" />
+			<add x="127726" y="124165" zmin="-2624" zmax="-2424" />
+			<add x="126719" y="124178" zmin="-2624" zmax="-2424" />
+		</territory>
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_reinforce_b4]-->
+			<add x="126806" y="123586" zmin="-2624" zmax="-2424" />
+			<add x="127459" y="123729" zmin="-2624" zmax="-2424" />
+			<add x="127726" y="124165" zmin="-2624" zmax="-2424" />
+			<add x="126719" y="124178" zmin="-2624" zmax="-2424" />
+		</territory>
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_reinforce_b5]-->
+			<add x="126622" y="124709" zmin="-2620" zmax="-2420" />
+			<add x="127665" y="124626" zmin="-2620" zmax="-2420" />
+			<add x="127610" y="124780" zmin="-2620" zmax="-2420" />
+			<add x="126576" y="124964" zmin="-2620" zmax="-2420" />
+		</territory>
+		<npc id="35789" /><!--Archer-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_reinforce_b5]-->
+			<add x="126622" y="124709" zmin="-2620" zmax="-2420" />
+			<add x="127665" y="124626" zmin="-2620" zmax="-2420" />
+			<add x="127610" y="124780" zmin="-2620" zmax="-2420" />
+			<add x="126576" y="124964" zmin="-2620" zmax="-2420" />
+		</territory>
+		<npc id="35786" /><!--Wizard-->
+	</spawn>
+	<spawn group="valley_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort104_2321_reinforce_b5]-->
+			<add x="126622" y="124709" zmin="-2620" zmax="-2420" />
+			<add x="127665" y="124626" zmin="-2620" zmax="-2420" />
+			<add x="127610" y="124780" zmin="-2620" zmax="-2420" />
+			<add x="126576" y="124964" zmin="-2620" zmax="-2420" />
+		</territory>
+		<npc id="35787" /><!--Healer-->
+	</spawn>
+	<spawn group="giran_dominion_siege" count="1" respawn="10800" respawn_random="0" period_of_day="none">
+		<point x="126018" y="121392" z="-2592" h="49151" />
+		<npc id="36522" /><!--Religious Association Leader-->
+	</spawn>
+	<spawn group="giran_dominion_siege" count="1" respawn="10800" respawn_random="0" period_of_day="none">
+		<point x="126098" y="121392" z="-2592" h="49151" />
+		<npc id="36525" /><!--Economic Association Leader-->
+	</spawn>
+	<spawn group="giran_dominion_siege" count="1" respawn="10800" respawn_random="0" period_of_day="none">
+		<point x="125893" y="121488" z="-2592" h="49151" />
+		<npc id="36524" /><!--Territory Border Guard-->
+	</spawn>
+	<spawn group="giran_dominion_siege" count="1" respawn="10800" respawn_random="0" period_of_day="none">
+		<point x="125792" y="121632" z="-2592" h="49151" />
+		<npc id="36524" /><!--Territory Border Guard-->
+	</spawn>
+	<spawn group="giran_dominion_siege" count="1" respawn="10800" respawn_random="0" period_of_day="none">
+		<point x="126210" y="121488" z="-2592" h="49151" />
+		<npc id="36524" /><!--Territory Border Guard-->
+	</spawn>
+	<spawn group="giran_dominion_siege" count="1" respawn="10800" respawn_random="0" period_of_day="none">
+		<point x="126304" y="121616" z="-2592" h="49151" />
+		<npc id="36524" /><!--Territory Border Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="99032" y="110328" z="-3696" h="57343" />
+		<npc id="32865" /><!--Separated Soul-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116888" y="113464" z="-3056" h="8191" />
+		<npc id="32866" /><!--Separated Soul-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="113128" y="120920" z="-3704" h="4836" />
+		<npc id="32867" /><!--Separated Soul-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="99368" y="109880" z="-3680" h="21220" />
+		<npc id="31045" /><!--Kitzka-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="99432" y="109928" z="-3680" h="24575" />
+		<npc id="32890" /><!--Ruiman-->
+	</spawn>
+</list>

@@ -1,0 +1,31 @@
+<html><title>Олимпиада</title><body>
+<table width=260>
+<tr>
+<td width=40><button value="Главная" action="bypass -h admin_admin" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td width=180><center>Управление Олимпиадой</center></td>
+<td width=40><button value="Назад" action="bypass -h admin_admin" width=40 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+</table><br><br>
+<center>
+<table width=270>
+<tr><td><center>Команда: <edit var="command" width=150 height=11></center></td></tr>
+</table>
+<br><br>
+</center>
+<center>
+<table>
+<tr>
+<td>
+<center>
+<button value="Сохранить Статус Оли" action="bypass -h admin_oly_save" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Добавить оли очки (Арг:<name> <points>)" action="bypass -h admin_add_oly_points $command" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Начать Оли" action="bypass -h admin_oly_start" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Закончить Оли" action="bypass -h admin_oly_stop" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Добавить героя (Арг:<char_name>)" action="bypass -h admin_add_hero $command" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Исправить имя дворянина (target:noble)" action="bypass -h admin_fix_noble_name" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+</center>
+</td>
+</tr>
+</table>
+</center>
+</body></html>

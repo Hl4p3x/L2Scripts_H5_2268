@@ -1,0 +1,18 @@
+<html><title>Settings security</title><body>
+<font color="00ff66">Account lockout options:</font><br1>
+- Lock IP <font color="LEVEL">(%ip_block%)</font><br1>
+- Lock HWID <font color="LEVEL">(%hwid_block%)</font>
+<br>
+<font color="00ff66">Attention!:</font><br1>
+- IP periodically changes<br1>
+- HWid - this ID: <font color="LEVEL">%hwid_val%</font><br1>
+- HWid Change during PC upgrade
+<br>
+<font color="00ff66">Status:</font><br1>
+Your IP: <font color="LEVEL">%curIP%</font>
+<br>
+<button value="Lock IP" action="bypass -h user_lockIp" width=280 height=22 back="L2UI_CT1.Button_DF" fore="L2UI_CT1.Button_DF"/><br1>
+<button value="Lock Hwid" action="bypass -h user_lockHwid" width=280 height=22 back="L2UI_CT1.Button_DF" fore="L2UI_CT1.Button_DF"/><br1>
+<button value="Unlock IP" action="bypass -h user_unlockIp" width=280 height=22 back="L2UI_CT1.Button_DF" fore="L2UI_CT1.Button_DF"/><br1>
+<button value="Unlock Hwid" action="bypass -h user_unlockHwid" width=280 height=22 back="L2UI_CT1.Button_DF" fore="L2UI_CT1.Button_DF"/>
+</body></html>

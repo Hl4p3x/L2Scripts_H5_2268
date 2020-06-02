@@ -1,0 +1,73 @@
+<html><body>
+<title>ГМ Панель</title>
+<center><table width=260>
+<tr>
+<td><button value="Главная" action="bypass -h admin_admin" width=65 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Ивенты" action="bypass -h admin_events" width=65 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Персонажи" action="bypass -h admin_char_manage" width=72 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Сервер" action="bypass -h admin_server admserver.htm" width=65 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr></table></center><br>
+<center>Выберите ответы на опрос(оставьте пустым, если не хотите их использоват. Не используйте | char):</center><br1>
+<table width=280>
+	<tr>
+		<td width=30 height=35>
+			1.
+		</td>
+		<td width=250 height=35>
+			<multiedit var="answer1" width=200 height=35>
+		</td>
+	</tr>
+	<tr>
+		<td width=30 height=35>
+			2.
+		</td>
+		<td width=250 height=35>
+			<multiedit var="answer2" width=200 height=35>
+		</td>
+	</tr>
+	<tr>
+		<td width=30 height=35>
+			3.
+		</td>
+		<td width=250 height=35>
+			<multiedit var="answer3" width=200 height=35>
+		</td>
+	</tr>
+	<tr>
+		<td width=30 height=35>
+			4.
+		</td>
+		<td width=250 height=35>
+			<multiedit var="answer4" width=200 height=35>
+		</td>
+	</tr>
+	<tr>
+		<td width=30 height=35>
+			5.
+		</td>
+		<td width=250 height=35>
+			<multiedit var="answer5" width=200 height=35>
+		</td>
+	</tr>
+	<tr>
+		<td width=30 height=35>
+			6.
+		</td>
+		<td width=250 height=35>
+			<multiedit var="answer6" width=200 height=35>
+		</td>
+	</tr>
+	<tr>
+		<td width=30 height=35>
+			7.
+		</td>
+		<td width=250 height=35>
+			<multiedit var="answer7" width=200 height=35>
+		</td>
+	</tr>
+</table>
+<br><br>
+<center>
+<button value="Добавить ответы" action="bypass -h admin_poll_set_answers $answer1 | $answer2 | $answer3 | $answer4 | $answer5 | $answer6 | $answer7" width=120 height=30 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+</center>
+</body></html>

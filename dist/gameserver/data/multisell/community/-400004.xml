@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<item>
+		<production id="10131" count="10"/>	<!--Transformation Scroll: Onyx Beast-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="10132" count="10"/>	<!--Transformation Scroll: Death Blader-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="10133" count="10"/>	<!--Transformation Scroll: Grail Apostle-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="10134" count="10"/>	<!--Transformation Scroll: Unicorn-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="10135" count="10"/>	<!--Transformation Scroll: Lilim Knight-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="10136" count="10"/>	<!--Transformation Scroll: Golem Guardian-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="10137" count="10"/>	<!--Transformation Scroll: Inferno Drake-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="10138" count="10"/>	<!--Transformation Scroll: Dragon Bomber-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="9897" count="10"/>	<!--Scroll of Transformation - Pig-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+</list>

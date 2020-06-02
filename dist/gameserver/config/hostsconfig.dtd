@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!ELEMENT list (authserver|gameserver)*>
+
+	<!ELEMENT authserver (#PCDATA)>
+	<!ATTLIST authserver
+		address CDATA #REQUIRED
+		port CDATA #REQUIRED>
+
+	<!ELEMENT gameserver (host)*>
+
+		<!ELEMENT host (advanced)*>
+		<!ATTLIST host
+			id CDATA #REQUIRED
+			address CDATA #REQUIRED
+			port CDATA #REQUIRED
+			key CDATA #IMPLIED>
+
+			<!ELEMENT advanced (#PCDATA)>
+			<!ATTLIST advanced
+				address CDATA #REQUIRED
+				subnet CDATA #REQUIRED>

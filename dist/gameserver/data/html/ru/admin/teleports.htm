@@ -1,0 +1,81 @@
+<html><body>
+<title>Админ телепорт</title>
+<center>
+<table width=260>
+<tr><td width=45><button value="Главная" action="bypass -h admin_admin" width=60 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td width=180><center>Админ Телепорт Меню</center></td>
+<td width=45><button value="Назад" action="bypass -h admin_admin" width=45 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr></table>
+</center>
+<br>
+<br>
+<center>
+<table width=276>
+<tr>
+<td align=center><button action="bypass -h admin_show_html teleports/town.htm" value="Города" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td align=center><button action="bypass -h admin_show_html teleports/townarea.htm" value="Округа Городов" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+<tr>
+<td align=center><button action="bypass -h admin_show_html teleports/castle.htm" value="Замки" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td align=center><button action="bypass -h admin_show_html teleports/fort.htm" value="Крепости" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+<tr>
+<td align=center><button action="bypass -h admin_show_html teleports/sevensigns.htm" value="Семь Печатей" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td align=center><button action="bypass -h admin_show_html teleports/instance.htm" value="Инстанты" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+<tr>
+<td align=center><button action="bypass -h admin_show_html teleports/raid.htm" value="Рейд Боссы" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td align=center><button action="bypass -h admin_show_html teleports/arena.htm" value="Арены" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+<tr>
+<td align=center><button action="bypass -h admin_show_html teleports/location/primeval.htm" value="Первобытный Округ" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td align=center><button action="bypass -h admin_show_html teleports/clanhall/clanhall.htm" value="Комбат КХ" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+<tr>
+<td align=center><button action="bypass -h admin_show_html teleports/location/hellbound.htm" value="Округ Хелбоунд" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td align=center><button action="bypass -h admin_show_html teleports/location/gracia.htm" value="Округ Грация" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+<tr>
+<td align=center><button action="bypass -h admin_show_html teleports/others.htm" value="Другие Телепорты" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td align=center><button action="bypass -h admin_show_html teleports/epilogue.htm" value="Эпилог" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+<tr>
+<td align=center><button action="bypass -h admin_show_html teleports/freya.htm" value="Фрея" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td align=center><button action="bypass -h admin_show_html teleports/hf.htm" value="Хай-Файв" width=120 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td align=center></td>
+</tr>
+</table>
+</center>
+<br>
+<br>
+<br>
+<center><button value="Доп. Функции Перемещения" action="bypass -h admin_tele" width=200 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"><br>
+<br1>
+Двигатся к НПЦ/Персонажу<br1>
+<table width=260>
+<tr>
+<td width=32>НПЦ:</td>
+<td><edit var="npc_id" width=55></td>
+<td><button value="GO" action="bypass -h admin_tonpc $npc_id" width=35 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td width=45>Игрок:</td>
+<td><edit var="charname" width=55></td>
+<td><button value="GO" action="bypass -h admin_goto_char_menu $charname" width=35 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+</table>
+<br>
+<br1>
+Двигаться по Координатам<br1>
+<table width=260>
+<tr>
+<td width=15>X:</td>
+<td><edit var="char_cord_x" width=55></td>
+<td width=15>Y:</td>
+<td><edit var="char_cord_y" width=55></td>
+<td width=15>Z:</td>
+<td><edit var="char_cord_z" width=55></td>
+<td><button value="GO" action="bypass -h admin_move_to $char_cord_x $char_cord_y $char_cord_z" width=35 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+</table>
+<br>
+</center>
+</body></html>

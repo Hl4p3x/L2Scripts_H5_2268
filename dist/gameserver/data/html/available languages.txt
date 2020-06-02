@@ -1,0 +1,23 @@
+Korean - ko
+English - en
+Japanese - ja
+Taiwanese - zh-tw
+Chinese - zh
+Thai - th
+Philippine - tl
+Indonesian - id
+Russian - ru
+English (EU) - en-eu
+German - de
+French - fr
+Polish - pl
+Turkish - tr
+Portuguese - pt
+Spanish - es
+Arabic - ar
+Greek - el
+Georgian - ka
+Hungarian - hu
+Finnish - fi
+Ukrainian - uk
+Vietnamese - vi

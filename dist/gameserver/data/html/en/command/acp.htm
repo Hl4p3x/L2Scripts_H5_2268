@@ -1,0 +1,82 @@
+<html>
+<title>ACP</title>
+<body>
+<br><br>
+<center>
+<font color="LEVEL">The system automatically uses potions<br1>HP / MP / CP.</font><br1>
+#if ($acp_enabled)
+	<button width=180 height=35 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_acp disable" value="Deactivate">
+#else
+	<button width=180 height=35 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_acp enable" value="Activate">
+#end
+<br1>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+<table width=260 border=0 cellspacing=0 cellpadding=0>
+<tr>
+	<td width=90>
+		<table bgcolor="FFFF00">
+			<tr>
+				<td width=20>CP</td>
+				#if ($auto_cp_percent > 0)
+					<td width=70 align=center>$auto_cp_percent</td>
+				#else
+					<td width=70 align=center>Disabled</td>
+				#end
+			</tr>
+		</table>
+	</td>
+	<td width=35 align="center"><edit var="cpvalue" width=30 type="number" length="3"></td>
+	<td width=65 align="center"><button width=65 height=22 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_acp cp $cpvalue" value="Set"></td>
+	#if ($auto_cp_percent > 0)
+		<td width=65 align="center"><button width=65 height=22 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_acp cp 0" value="Remove"></td>
+	#else
+		<td width=60 align=center background="L2UI_ct1.button_df_disable"><font color=DDD3B6>Remove</font></td>
+	#end
+</tr>
+<tr>
+	<td width=90>
+		<table bgcolor="FF0000">
+			<tr>
+				<td width=20>HP</td>
+				#if ($auto_hp_percent > 0)
+					<td width=70 align=center>$auto_hp_percent</td>
+				#else
+					<td width=70 align=center>Disabled</td>
+				#end
+			</tr>
+		</table>
+	</td>
+	<td width=35 align="center"><edit var="hpvalue" width=30 type="number" length="3"></td>
+	<td width=65 align="center"><button width=65 height=22 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_acp hp $hpvalue" value="Set"></td>
+	#if ($auto_hp_percent > 0)
+		<td width=65 align="center"><button width=65 height=22 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_acp hp 0" value="Remove"></td>
+	#else
+		<td width=60 align=center background="L2UI_ct1.button_df_disable"><font color=DDD3B6>Remove</font></td>
+	#end
+</tr>
+<tr>
+	<td width=90>
+		<table bgcolor="0000FF">
+			<tr>
+				<td width=20>MP</td>
+				#if ($auto_mp_percent > 0)
+					<td width=70 align=center>$auto_mp_percent</td>
+				#else
+					<td width=70 align=center>Disabled</td>
+				#end
+			</tr>
+		</table>
+	</td>
+	<td width=35 align="center"><edit var="mpvalue" width=30 type="number" length="3"></td>
+	<td width=65 align="center"><button width=65 height=22 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_acp mp $mpvalue" value="Set"></td>
+	#if ($auto_mp_percent > 0)
+		<td width=65 align="center"><button width=65 height=22 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_acp mp 0" value="Remove"></td>
+	#else
+		<td width=60 align=center background="L2UI_ct1.button_df_disable"><font color=DDD3B6>Remove</font></td>
+	#end
+</tr>
+</table>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+</center>
+</body>
+</html>

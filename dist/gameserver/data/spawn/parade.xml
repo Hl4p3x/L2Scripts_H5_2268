@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+		<spawn group="fantasy_parad_ms" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<point x="-56698" y="-56430" z="-2008" h="32768"/>
+			<npc id="32433" />
+		</spawn>
+		<spawn group="fantasy_parad_other" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<point x="-56672" y="-56406" z="-2006" h="32768"/>
+			<npc id="32424" />
+		</spawn>
+		<spawn group="fantasy_parad_other" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<point x="-56648" y="-56368" z="-2009" h="32768"/>
+			<npc id="32425" />
+		</spawn>
+		<spawn group="fantasy_parad_other" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<point x="-56608" y="-56338" z="-2007" h="32768"/>
+			<npc id="32426" />
+		</spawn>
+		<spawn group="fantasy_parad_other" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<point x="-56652" y="-56307" z="-2006" h="32768"/>
+			<npc id="32427" />
+		</spawn>
+		<spawn group="fantasy_parad_other" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<point x="-56672" y="-56272" z="-2006" h="32768"/>
+			<npc id="32428" />
+		</spawn>
+		<spawn group="fantasy_parad_Leyla" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<point x="-56344" y="-56328" z="-2006" h="32768"/>
+			<npc id="32431" />
+		</spawn>
+		<spawn group="fantasy_parad_Leyla" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<point x="-56594" y="-56516" z="-2007" h="28672"/>
+			<point x="-56546" y="-56426" z="-2006" h="28672"/>
+			<point x="-56552" y="-56245" z="-2008" h="36863"/>
+			<point x="-56570" y="-56473" z="-2006" h="28672"/>
+			<point x="-56580" y="-56203" z="-2004" h="36863"/>
+			<point x="-56606" y="-56157" z="-2008" h="36863"/>
+			<npc id="32432" />
+		</spawn>
+		<spawn group="fantasy_parad_individual_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32439"/>
+			<point x="-56700" y="-56385" z="-2007" h="32768"/>
+		</spawn>
+		<spawn group="fantasy_parad_individual_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32440"/>
+			<point x="-56700" y="-56340" z="-2008" h="32768"/>
+		</spawn>
+		<spawn group="fantasy_parad_individual_3" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32441"/>
+			<point x="-56703" y="-56296" z="-2007" h="32768"/>
+		</spawn>
+		<spawn group="fantasy_parad_circus" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32442"/>
+			<point x="-56495" y="-56375" z="-2008" h="32768" super_point="show_skillteam_a1"/>
+			<point x="-56491" y="-56289" z="-2008" h="32768" super_point="show_skillteam_a2"/>
+		</spawn>
+		<spawn group="fantasy_parad_circus" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32443"/>
+			<point x="-56496" y="-56429" z="-2008" h="32768" super_point="show_skillteam_b1"/>
+			<point x="-56502" y="-56246" z="-2008" h="32768" super_point="show_skillteam_b2"/>
+		</spawn>
+		<spawn group="fantasy_parad_circus" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32444"/>
+			<point x="-56505" y="-56334" z="-2008" h="32768" super_point="show_skillteam_c1"/>
+		</spawn>
+		<spawn group="fantasy_parad_circus" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32445"/>
+			<point x="-56545" y="-56427" z="-2008" h="32768" super_point="show_skillteam_d1"/>
+			<point x="-56552" y="-56248" z="-2008" h="32768" super_point="show_skillteam_d2"/>
+		</spawn>
+		<spawn group="fantasy_parad_circus" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32446"/>
+			<point x="-56493" y="-56473" z="-2008" h="32768" super_point="show_skillteam_e1"/>
+			<point x="-56504" y="-56201" z="-2008" h="32768" super_point="show_skillteam_e2"/>
+		</spawn>
+		<spawn group="fantasy_parad_music" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32437"/>
+			<point x="-56005" y="-58506" z="-2044" h="32768"/>
+			<point x="-61961" y="-57577" z="-2040" h="32768"/>
+			<point x="-60672" y="-52736" z="-2142" h="32768"/>
+			<point x="-57472" y="-53920" z="-2062" h="32768"/>
+			<point x="-54560" y="-56944" z="-2053" h="32768"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32379"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_4" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32379"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_6" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32379"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_12" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32380"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_14" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32380"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_14" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32381"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_16" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32380"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_18" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32380"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_18" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32381"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_24" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32382"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_25" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32382"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a2"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a6"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b2"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b6"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c2"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c6"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d2"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d6"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e2"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e6"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_26" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32383"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_26" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32384"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_28" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32383"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_28" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32384"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_32" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32471"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_34" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32385"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_34_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32404"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a2"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a6"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b2"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b6"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c2"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c6"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d2"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d6"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e2"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e6"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_36" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32385"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_36_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32408"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_38" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32385"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_38_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32389"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a2"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a6"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b2"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b6"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c2"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c6"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d2"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d6"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e2"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e6"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_40_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32399"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_42_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32393"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_44" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32410"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_44_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32386"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a2"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a6"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b2"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b6"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c2"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c6"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d2"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d6"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e2"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e6"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_46" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32411"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_46" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32412"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_46_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32451"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_50_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32447"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_52" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32409"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_52" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32421"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_52_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32448"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_54" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32422"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_54" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32423"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_54_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32449"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_56_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32450"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_60" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32417"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_60" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32419"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_60" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32420"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_62" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32416"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_62" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32418"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_62_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32456"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_66_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32452"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_68" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32414"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a2"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a6"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b2"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b6"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c2"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c6"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d2"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d6"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e2"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e6"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_70" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32414"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a2"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a6"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b2"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b6"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c2"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c6"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d2"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d6"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e2"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e6"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_70" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32413"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_72_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32453"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_74_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32455"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_76" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32394"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_76" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32395"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_76" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32393"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_76_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32454"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_78" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32391"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_78" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32392"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_82_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32383"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_82_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32384"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_84" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32404"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_84_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32383"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_84_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32384"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_86" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32401"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_86" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32403"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_86" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32402"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_86_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32382"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_88_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32382"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_92" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32407"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_92" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32408"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_92" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32406"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_94" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32405"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_94_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32380"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_96_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32380"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_96_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32381"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_98_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32380"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_100" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32387"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a2"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b2"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c2"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d2"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e2"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_100" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32389"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_100" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32390"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a6"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b6"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c6"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d6"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e6"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_100_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32380"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_100_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32381"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_102" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32386"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_102" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32388"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_106_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32379"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_108" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32398"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_108" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32399"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_108" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32400"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_108_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32379"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_110" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32396"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_110" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32397"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_110_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32379"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_116" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32471"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_116_nigh" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32415"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_118" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32472"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a2"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b2"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c2"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d2"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e2"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_118" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32473"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a6"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b6"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c6"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d6"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e6"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_120" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32474"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_128" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32383"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_128" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32384"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_130" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32383"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_130" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32384"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_132" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32382"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_134" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32382"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_140" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32380"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_142" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32380"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_142" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32381"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_144" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32380"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_146" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32380"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_146" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32381"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_150" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32379"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_152" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32379"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_154" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32379"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a3"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a5"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b3"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b5"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c3"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c5"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d3"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d5"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e3"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e5"/>
+		</spawn>
+		<spawn group="fantasy_parad_Sec_160" count="1" respawn="0" respawn_random="0" period_of_day="none">
+			<npc id="32415"/>
+			<point x="-55745" y="-58844" z="-2037" h="32768" super_point="parade_a4"/>
+			<point x="-61718" y="-57952" z="-2037" h="16384" super_point="parade_b4"/>
+			<point x="-60831" y="-53069" z="-2129" h="0" super_point="parade_c4"/>
+			<point x="-57263" y="-53648" z="-2037" h="57344" super_point="parade_d4"/>
+			<point x="-54865" y="-56854" z="-2036" h="49152" super_point="parade_e4"/>
+		</spawn>
+</list>

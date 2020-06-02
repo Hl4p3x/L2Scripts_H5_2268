@@ -1,0 +1,69 @@
+<html><head><title>%bufferName% Магазин</title>
+<body>
+	<img src=L2UI.SquareGray width=275 height=1>
+	<table width=275 height=30 bgcolor=7d9399>
+		<tr>
+			<td height=10></td>
+		</tr>
+		<tr>
+			<td fixwidth=275 align=center>
+				<font name=hs12>%bufferClass% Lvl %bufferLvl%+</font>
+			</td>
+		</tr>
+		<tr>
+			<td height=10></td>
+		</tr>
+	</table>
+	<img src=L2UI.SquareGray width=275 height=1>
+	<table width=275 height=30 bgcolor=444a45>
+		<tr>
+			<td height=10></td>
+		</tr>
+		<tr>
+			<td fixwidth=275 align=center>
+				Цена баффа: <font color=f3ef8e>%buffPrice%</font>
+			</td>
+		</tr>
+		<tr>
+			<td height=10></td>
+		</tr>
+	</table>
+	<img src=L2UI.SquareGray width=275 height=1>
+	<table cellpadding=0>
+		<tr>
+			<td height=10></td>
+		</tr>
+		%buffs%
+	</table>
+	<img src=L2UI.SquareGray width=270 height=1>	
+	<table fixwidth=270 height=30 bgcolor=171612>
+		<tr>
+			<td height=5></td>
+		</tr>
+		<tr>
+			<td width=110 align=right>
+				%previousPageButton%
+			</td>
+			<td width=50 align=center>
+				%pageCount%
+			</td>
+			<td width=105>
+				%nextPageButton%
+			</td>
+		</tr>
+	</table>
+	<img src=L2UI.SquareGray width=270 height=1>
+	<br>
+	<table width=250>
+		<tr>
+			<td width=150>
+				<button value="Для игрока" action="bypass -h BuffStore bufflist %bufferId% player %page%" width=120 height=22 back=L2UI_ct1.button_df fore=L2UI_ct1.button_df>
+			</td>
+			<td>
+				<button value="Для самона" action="bypass -h BuffStore bufflist %bufferId% summon %page%" width=120 height=22 back=L2UI_ct1.button_df fore=L2UI_ct1.button_df>
+			</td>
+		</tr>
+	</table>
+	<br>
+</body>
+</html>

@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+
+<list>
+	<spawn count="4" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="7843" y="-21468" zmin="-3334" zmax="-3334" />
+			<add x="8280" y="-20280" zmin="-3467" zmax="-3467" />
+			<add x="6515" y="-18989" zmin="-3716" zmax="-3716" />
+			<add x="6632" y="-21199" zmin="-3458" zmax="-3458" />
+		</territory>
+		<npc id="22226" /><!--Pachycephalosaurus-->
+	</spawn>
+	<spawn count="4" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="7843" y="-21468" zmin="-3334" zmax="-3334" />
+			<add x="8280" y="-20280" zmin="-3467" zmax="-3467" />
+			<add x="6515" y="-18989" zmin="-3716" zmax="-3716" />
+			<add x="6632" y="-21199" zmin="-3458" zmax="-3458" />
+		</territory>
+		<npc id="22227" /><!--Wild Strider-->
+	</spawn>
+	<spawn count="2" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="7843" y="-21468" zmin="-3334" zmax="-3334" />
+			<add x="8280" y="-20280" zmin="-3467" zmax="-3467" />
+			<add x="6515" y="-18989" zmin="-3716" zmax="-3716" />
+			<add x="6632" y="-21199" zmin="-3458" zmax="-3458" />
+		</territory>
+		<npc id="22742" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="2" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="7843" y="-21468" zmin="-3334" zmax="-3334" />
+			<add x="8280" y="-20280" zmin="-3467" zmax="-3467" />
+			<add x="6515" y="-18989" zmin="-3716" zmax="-3716" />
+			<add x="6632" y="-21199" zmin="-3458" zmax="-3458" />
+		</territory>
+		<npc id="22743" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="2" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="7843" y="-21468" zmin="-3334" zmax="-3334" />
+			<add x="8280" y="-20280" zmin="-3467" zmax="-3467" />
+			<add x="6515" y="-18989" zmin="-3716" zmax="-3716" />
+			<add x="6632" y="-21199" zmin="-3458" zmax="-3458" />
+		</territory>
+		<npc id="22744" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="2" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="7843" y="-21468" zmin="-3334" zmax="-3334" />
+			<add x="8280" y="-20280" zmin="-3467" zmax="-3467" />
+			<add x="6515" y="-18989" zmin="-3716" zmax="-3716" />
+			<add x="6632" y="-21199" zmin="-3458" zmax="-3458" />
+		</territory>
+		<npc id="22745" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="4" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="6190" y="-21920" zmin="-3330" zmax="-3330" />
+			<add x="5160" y="-21655" zmin="-3308" zmax="-3308" />
+			<add x="3829" y="-20082" zmin="-3403" zmax="-3403" />
+			<add x="5446" y="-19246" zmin="-3623" zmax="-3623" />
+		</territory>
+		<npc id="22226" /><!--Pachycephalosaurus-->
+	</spawn>
+	<spawn count="4" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="6190" y="-21920" zmin="-3330" zmax="-3330" />
+			<add x="5160" y="-21655" zmin="-3308" zmax="-3308" />
+			<add x="3829" y="-20082" zmin="-3403" zmax="-3403" />
+			<add x="5446" y="-19246" zmin="-3623" zmax="-3623" />
+		</territory>
+		<npc id="22227" /><!--Wild Strider-->
+	</spawn>
+	<spawn count="2" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="6190" y="-21920" zmin="-3330" zmax="-3330" />
+			<add x="5160" y="-21655" zmin="-3308" zmax="-3308" />
+			<add x="3829" y="-20082" zmin="-3403" zmax="-3403" />
+			<add x="5446" y="-19246" zmin="-3623" zmax="-3623" />
+		</territory>
+		<npc id="22742" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="2" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="6190" y="-21920" zmin="-3330" zmax="-3330" />
+			<add x="5160" y="-21655" zmin="-3308" zmax="-3308" />
+			<add x="3829" y="-20082" zmin="-3403" zmax="-3403" />
+			<add x="5446" y="-19246" zmin="-3623" zmax="-3623" />
+		</territory>
+		<npc id="22743" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="2" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="6190" y="-21920" zmin="-3330" zmax="-3330" />
+			<add x="5160" y="-21655" zmin="-3308" zmax="-3308" />
+			<add x="3829" y="-20082" zmin="-3403" zmax="-3403" />
+			<add x="5446" y="-19246" zmin="-3623" zmax="-3623" />
+		</territory>
+		<npc id="22744" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="2" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="6190" y="-21920" zmin="-3330" zmax="-3330" />
+			<add x="5160" y="-21655" zmin="-3308" zmax="-3308" />
+			<add x="3829" y="-20082" zmin="-3403" zmax="-3403" />
+			<add x="5446" y="-19246" zmin="-3623" zmax="-3623" />
+		</territory>
+		<npc id="22745" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="9" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="3608" y="-19040" zmin="-3496" zmax="-3496" />
+			<add x="2990" y="-18632" zmin="-3419" zmax="-3419" />
+			<add x="2241" y="-16860" zmin="-3363" zmax="-3363" />
+			<add x="7986" y="-15855" zmin="-3646" zmax="-3646" />
+			<add x="8057" y="-18041" zmin="-3474" zmax="-3474" />
+		</territory>
+		<npc id="22226" /><!--Pachycephalosaurus-->
+	</spawn>
+	<spawn count="9" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="3608" y="-19040" zmin="-3496" zmax="-3496" />
+			<add x="2990" y="-18632" zmin="-3419" zmax="-3419" />
+			<add x="2241" y="-16860" zmin="-3363" zmax="-3363" />
+			<add x="7986" y="-15855" zmin="-3646" zmax="-3646" />
+			<add x="8057" y="-18041" zmin="-3474" zmax="-3474" />
+		</territory>
+		<npc id="22227" /><!--Wild Strider-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="3608" y="-19040" zmin="-3496" zmax="-3496" />
+			<add x="2990" y="-18632" zmin="-3419" zmax="-3419" />
+			<add x="2241" y="-16860" zmin="-3363" zmax="-3363" />
+			<add x="7986" y="-15855" zmin="-3646" zmax="-3646" />
+			<add x="8057" y="-18041" zmin="-3474" zmax="-3474" />
+		</territory>
+		<npc id="22742" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="3608" y="-19040" zmin="-3496" zmax="-3496" />
+			<add x="2990" y="-18632" zmin="-3419" zmax="-3419" />
+			<add x="2241" y="-16860" zmin="-3363" zmax="-3363" />
+			<add x="7986" y="-15855" zmin="-3646" zmax="-3646" />
+			<add x="8057" y="-18041" zmin="-3474" zmax="-3474" />
+		</territory>
+		<npc id="22743" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="3608" y="-19040" zmin="-3496" zmax="-3496" />
+			<add x="2990" y="-18632" zmin="-3419" zmax="-3419" />
+			<add x="2241" y="-16860" zmin="-3363" zmax="-3363" />
+			<add x="7986" y="-15855" zmin="-3646" zmax="-3646" />
+			<add x="8057" y="-18041" zmin="-3474" zmax="-3474" />
+		</territory>
+		<npc id="22744" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="3608" y="-19040" zmin="-3496" zmax="-3496" />
+			<add x="2990" y="-18632" zmin="-3419" zmax="-3419" />
+			<add x="2241" y="-16860" zmin="-3363" zmax="-3363" />
+			<add x="7986" y="-15855" zmin="-3646" zmax="-3646" />
+			<add x="8057" y="-18041" zmin="-3474" zmax="-3474" />
+		</territory>
+		<npc id="22745" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="8233" y="-16245" zmin="-3600" zmax="-3600" />
+			<add x="7888" y="-15059" zmin="-3697" zmax="-3697" />
+			<add x="6774" y="-12815" zmin="-3658" zmax="-3658" />
+			<add x="4835" y="-13014" zmin="-3658" zmax="-3658" />
+			<add x="2189" y="-13872" zmin="-3345" zmax="-3345" />
+			<add x="2391" y="-17642" zmin="-3443" zmax="-3443" />
+		</territory>
+		<npc id="22226" /><!--Pachycephalosaurus-->
+	</spawn>
+	<spawn count="9" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="8233" y="-16245" zmin="-3600" zmax="-3600" />
+			<add x="7888" y="-15059" zmin="-3697" zmax="-3697" />
+			<add x="6774" y="-12815" zmin="-3658" zmax="-3658" />
+			<add x="4835" y="-13014" zmin="-3658" zmax="-3658" />
+			<add x="2189" y="-13872" zmin="-3345" zmax="-3345" />
+			<add x="2391" y="-17642" zmin="-3443" zmax="-3443" />
+		</territory>
+		<npc id="22227" /><!--Wild Strider-->
+	</spawn>
+	<spawn count="9" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="8233" y="-16245" zmin="-3600" zmax="-3600" />
+			<add x="7888" y="-15059" zmin="-3697" zmax="-3697" />
+			<add x="6774" y="-12815" zmin="-3658" zmax="-3658" />
+			<add x="4835" y="-13014" zmin="-3658" zmax="-3658" />
+			<add x="2189" y="-13872" zmin="-3345" zmax="-3345" />
+			<add x="2391" y="-17642" zmin="-3443" zmax="-3443" />
+		</territory>
+		<npc id="22742" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="8233" y="-16245" zmin="-3600" zmax="-3600" />
+			<add x="7888" y="-15059" zmin="-3697" zmax="-3697" />
+			<add x="6774" y="-12815" zmin="-3658" zmax="-3658" />
+			<add x="4835" y="-13014" zmin="-3658" zmax="-3658" />
+			<add x="2189" y="-13872" zmin="-3345" zmax="-3345" />
+			<add x="2391" y="-17642" zmin="-3443" zmax="-3443" />
+		</territory>
+		<npc id="22743" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="8233" y="-16245" zmin="-3600" zmax="-3600" />
+			<add x="7888" y="-15059" zmin="-3697" zmax="-3697" />
+			<add x="6774" y="-12815" zmin="-3658" zmax="-3658" />
+			<add x="4835" y="-13014" zmin="-3658" zmax="-3658" />
+			<add x="2189" y="-13872" zmin="-3345" zmax="-3345" />
+			<add x="2391" y="-17642" zmin="-3443" zmax="-3443" />
+		</territory>
+		<npc id="22744" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="8233" y="-16245" zmin="-3600" zmax="-3600" />
+			<add x="7888" y="-15059" zmin="-3697" zmax="-3697" />
+			<add x="6774" y="-12815" zmin="-3658" zmax="-3658" />
+			<add x="4835" y="-13014" zmin="-3658" zmax="-3658" />
+			<add x="2189" y="-13872" zmin="-3345" zmax="-3345" />
+			<add x="2391" y="-17642" zmin="-3443" zmax="-3443" />
+		</territory>
+		<npc id="22745" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="9" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="2206" y="-14322" zmin="-3293" zmax="-3293" />
+			<add x="2832" y="-7304" zmin="-3299" zmax="-3299" />
+			<add x="4499" y="-7421" zmin="-3474" zmax="-3474" />
+			<add x="7377" y="-6263" zmin="-3447" zmax="-3447" />
+			<add x="7549" y="-7838" zmin="-3626" zmax="-3626" />
+			<add x="6427" y="-11694" zmin="-3648" zmax="3648" />
+		</territory>
+		<npc id="22226" /><!--Pachycephalosaurus-->
+	</spawn>
+	<spawn count="9" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="2206" y="-14322" zmin="-3293" zmax="-3293" />
+			<add x="2832" y="-7304" zmin="-3299" zmax="-3299" />
+			<add x="4499" y="-7421" zmin="-3474" zmax="-3474" />
+			<add x="7377" y="-6263" zmin="-3447" zmax="-3447" />
+			<add x="7549" y="-7838" zmin="-3626" zmax="-3626" />
+			<add x="6427" y="-11694" zmin="-3648" zmax="3648" />
+		</territory>
+		<npc id="22227" /><!--Wild Strider-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="2206" y="-14322" zmin="-3293" zmax="-3293" />
+			<add x="2832" y="-7304" zmin="-3299" zmax="-3299" />
+			<add x="4499" y="-7421" zmin="-3474" zmax="-3474" />
+			<add x="7377" y="-6263" zmin="-3447" zmax="-3447" />
+			<add x="7549" y="-7838" zmin="-3626" zmax="-3626" />
+			<add x="6427" y="-11694" zmin="-3648" zmax="3648" />
+		</territory>
+		<npc id="22742" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="2206" y="-14322" zmin="-3293" zmax="-3293" />
+			<add x="2832" y="-7304" zmin="-3299" zmax="-3299" />
+			<add x="4499" y="-7421" zmin="-3474" zmax="-3474" />
+			<add x="7377" y="-6263" zmin="-3447" zmax="-3447" />
+			<add x="7549" y="-7838" zmin="-3626" zmax="-3626" />
+			<add x="6427" y="-11694" zmin="-3648" zmax="3648" />
+		</territory>
+		<npc id="22743" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="2206" y="-14322" zmin="-3293" zmax="-3293" />
+			<add x="2832" y="-7304" zmin="-3299" zmax="-3299" />
+			<add x="4499" y="-7421" zmin="-3474" zmax="-3474" />
+			<add x="7377" y="-6263" zmin="-3447" zmax="-3447" />
+			<add x="7549" y="-7838" zmin="-3626" zmax="-3626" />
+			<add x="6427" y="-11694" zmin="-3648" zmax="3648" />
+		</territory>
+		<npc id="22744" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="2206" y="-14322" zmin="-3293" zmax="-3293" />
+			<add x="2832" y="-7304" zmin="-3299" zmax="-3299" />
+			<add x="4499" y="-7421" zmin="-3474" zmax="-3474" />
+			<add x="7377" y="-6263" zmin="-3447" zmax="-3447" />
+			<add x="7549" y="-7838" zmin="-3626" zmax="-3626" />
+			<add x="6427" y="-11694" zmin="-3648" zmax="3648" />
+		</territory>
+		<npc id="22745" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14080" y="-17024" zmin="-4688" zmax="2424" />
+			<add x="14848" y="-16704" zmin="-4688" zmax="2424" />
+			<add x="14976" y="-16192" zmin="-4688" zmax="2424" />
+			<add x="20032" y="-14080" zmin="-4688" zmax="2424" />
+			<add x="22400" y="-13312" zmin="-4688" zmax="2424" />
+			<add x="23680" y="-14208" zmin="-4688" zmax="2424" />
+			<add x="23744" y="-15168" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-16960" zmin="-4688" zmax="2424" />
+			<add x="17920" y="-18880" zmin="-4688" zmax="2424" />
+			<add x="16768" y="-18304" zmin="-4688" zmax="2424" />
+			<add x="16320" y="-19008" zmin="-4688" zmax="2424" />
+			<add x="16704" y="-19584" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="18345" /><!--Sprigant-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14080" y="-17024" zmin="-4688" zmax="2424" />
+			<add x="14848" y="-16704" zmin="-4688" zmax="2424" />
+			<add x="14976" y="-16192" zmin="-4688" zmax="2424" />
+			<add x="20032" y="-14080" zmin="-4688" zmax="2424" />
+			<add x="22400" y="-13312" zmin="-4688" zmax="2424" />
+			<add x="23680" y="-14208" zmin="-4688" zmax="2424" />
+			<add x="23744" y="-15168" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-16960" zmin="-4688" zmax="2424" />
+			<add x="17920" y="-18880" zmin="-4688" zmax="2424" />
+			<add x="16768" y="-18304" zmin="-4688" zmax="2424" />
+			<add x="16320" y="-19008" zmin="-4688" zmax="2424" />
+			<add x="16704" y="-19584" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="18346" /><!--Sprigant-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14080" y="-17024" zmin="-4688" zmax="2424" />
+			<add x="14848" y="-16704" zmin="-4688" zmax="2424" />
+			<add x="14976" y="-16192" zmin="-4688" zmax="2424" />
+			<add x="20032" y="-14080" zmin="-4688" zmax="2424" />
+			<add x="22400" y="-13312" zmin="-4688" zmax="2424" />
+			<add x="23680" y="-14208" zmin="-4688" zmax="2424" />
+			<add x="23744" y="-15168" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-16960" zmin="-4688" zmax="2424" />
+			<add x="17920" y="-18880" zmin="-4688" zmax="2424" />
+			<add x="16768" y="-18304" zmin="-4688" zmax="2424" />
+			<add x="16320" y="-19008" zmin="-4688" zmax="2424" />
+			<add x="16704" y="-19584" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22196" /><!--Velociraptor-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14080" y="-17024" zmin="-4688" zmax="2424" />
+			<add x="14848" y="-16704" zmin="-4688" zmax="2424" />
+			<add x="14976" y="-16192" zmin="-4688" zmax="2424" />
+			<add x="20032" y="-14080" zmin="-4688" zmax="2424" />
+			<add x="22400" y="-13312" zmin="-4688" zmax="2424" />
+			<add x="23680" y="-14208" zmin="-4688" zmax="2424" />
+			<add x="23744" y="-15168" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-16960" zmin="-4688" zmax="2424" />
+			<add x="17920" y="-18880" zmin="-4688" zmax="2424" />
+			<add x="16768" y="-18304" zmin="-4688" zmax="2424" />
+			<add x="16320" y="-19008" zmin="-4688" zmax="2424" />
+			<add x="16704" y="-19584" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22199" /><!--Pterosaur-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14080" y="-17024" zmin="-4688" zmax="2424" />
+			<add x="14848" y="-16704" zmin="-4688" zmax="2424" />
+			<add x="14976" y="-16192" zmin="-4688" zmax="2424" />
+			<add x="20032" y="-14080" zmin="-4688" zmax="2424" />
+			<add x="22400" y="-13312" zmin="-4688" zmax="2424" />
+			<add x="23680" y="-14208" zmin="-4688" zmax="2424" />
+			<add x="23744" y="-15168" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-16960" zmin="-4688" zmax="2424" />
+			<add x="17920" y="-18880" zmin="-4688" zmax="2424" />
+			<add x="16768" y="-18304" zmin="-4688" zmax="2424" />
+			<add x="16320" y="-19008" zmin="-4688" zmax="2424" />
+			<add x="16704" y="-19584" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22200" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14080" y="-17024" zmin="-4688" zmax="2424" />
+			<add x="14848" y="-16704" zmin="-4688" zmax="2424" />
+			<add x="14976" y="-16192" zmin="-4688" zmax="2424" />
+			<add x="20032" y="-14080" zmin="-4688" zmax="2424" />
+			<add x="22400" y="-13312" zmin="-4688" zmax="2424" />
+			<add x="23680" y="-14208" zmin="-4688" zmax="2424" />
+			<add x="23744" y="-15168" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-16960" zmin="-4688" zmax="2424" />
+			<add x="17920" y="-18880" zmin="-4688" zmax="2424" />
+			<add x="16768" y="-18304" zmin="-4688" zmax="2424" />
+			<add x="16320" y="-19008" zmin="-4688" zmax="2424" />
+			<add x="16704" y="-19584" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22203" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="16896" y="-19840" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-19328" zmin="-4688" zmax="2424" />
+			<add x="22208" y="-17472" zmin="-4688" zmax="2424" />
+			<add x="21888" y="-19520" zmin="-4688" zmax="2424" />
+			<add x="21888" y="-21056" zmin="-4688" zmax="2424" />
+			<add x="20800" y="-21440" zmin="-4688" zmax="2424" />
+			<add x="19200" y="-20480" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-20544" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="18345" /><!--Sprigant-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="16896" y="-19840" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-19328" zmin="-4688" zmax="2424" />
+			<add x="22208" y="-17472" zmin="-4688" zmax="2424" />
+			<add x="21888" y="-19520" zmin="-4688" zmax="2424" />
+			<add x="21888" y="-21056" zmin="-4688" zmax="2424" />
+			<add x="20800" y="-21440" zmin="-4688" zmax="2424" />
+			<add x="19200" y="-20480" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-20544" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="18346" /><!--Sprigant-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="16896" y="-19840" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-19328" zmin="-4688" zmax="2424" />
+			<add x="22208" y="-17472" zmin="-4688" zmax="2424" />
+			<add x="21888" y="-19520" zmin="-4688" zmax="2424" />
+			<add x="21888" y="-21056" zmin="-4688" zmax="2424" />
+			<add x="20800" y="-21440" zmin="-4688" zmax="2424" />
+			<add x="19200" y="-20480" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-20544" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22198" /><!--Velociraptor-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="16896" y="-19840" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-19328" zmin="-4688" zmax="2424" />
+			<add x="22208" y="-17472" zmin="-4688" zmax="2424" />
+			<add x="21888" y="-19520" zmin="-4688" zmax="2424" />
+			<add x="21888" y="-21056" zmin="-4688" zmax="2424" />
+			<add x="20800" y="-21440" zmin="-4688" zmax="2424" />
+			<add x="19200" y="-20480" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-20544" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22200" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="16896" y="-19840" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-19328" zmin="-4688" zmax="2424" />
+			<add x="22208" y="-17472" zmin="-4688" zmax="2424" />
+			<add x="21888" y="-19520" zmin="-4688" zmax="2424" />
+			<add x="21888" y="-21056" zmin="-4688" zmax="2424" />
+			<add x="20800" y="-21440" zmin="-4688" zmax="2424" />
+			<add x="19200" y="-20480" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-20544" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22203" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="22976" y="-21504" zmin="-4688" zmax="2424" />
+			<add x="24192" y="-21440" zmin="-4688" zmax="2424" />
+			<add x="25600" y="-19456" zmin="-4688" zmax="2424" />
+			<add x="26752" y="-19840" zmin="-4688" zmax="2424" />
+			<add x="27776" y="-19520" zmin="-4688" zmax="2424" />
+			<add x="28032" y="-18112" zmin="-4688" zmax="2424" />
+			<add x="28864" y="-17536" zmin="-4688" zmax="2424" />
+			<add x="28864" y="-15488" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-15168" zmin="-4688" zmax="2424" />
+			<add x="27072" y="-15808" zmin="-4688" zmax="2424" />
+			<add x="26432" y="-15552" zmin="-4688" zmax="2424" />
+			<add x="24256" y="-15552" zmin="-4688" zmax="2424" />
+			<add x="23168" y="-17600" zmin="-4688" zmax="2424" />
+			<add x="23680" y="-18880" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-19456" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="18345" /><!--Sprigant-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="22976" y="-21504" zmin="-4688" zmax="2424" />
+			<add x="24192" y="-21440" zmin="-4688" zmax="2424" />
+			<add x="25600" y="-19456" zmin="-4688" zmax="2424" />
+			<add x="26752" y="-19840" zmin="-4688" zmax="2424" />
+			<add x="27776" y="-19520" zmin="-4688" zmax="2424" />
+			<add x="28032" y="-18112" zmin="-4688" zmax="2424" />
+			<add x="28864" y="-17536" zmin="-4688" zmax="2424" />
+			<add x="28864" y="-15488" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-15168" zmin="-4688" zmax="2424" />
+			<add x="27072" y="-15808" zmin="-4688" zmax="2424" />
+			<add x="26432" y="-15552" zmin="-4688" zmax="2424" />
+			<add x="24256" y="-15552" zmin="-4688" zmax="2424" />
+			<add x="23168" y="-17600" zmin="-4688" zmax="2424" />
+			<add x="23680" y="-18880" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-19456" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="18346" /><!--Sprigant-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="22976" y="-21504" zmin="-4688" zmax="2424" />
+			<add x="24192" y="-21440" zmin="-4688" zmax="2424" />
+			<add x="25600" y="-19456" zmin="-4688" zmax="2424" />
+			<add x="26752" y="-19840" zmin="-4688" zmax="2424" />
+			<add x="27776" y="-19520" zmin="-4688" zmax="2424" />
+			<add x="28032" y="-18112" zmin="-4688" zmax="2424" />
+			<add x="28864" y="-17536" zmin="-4688" zmax="2424" />
+			<add x="28864" y="-15488" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-15168" zmin="-4688" zmax="2424" />
+			<add x="27072" y="-15808" zmin="-4688" zmax="2424" />
+			<add x="26432" y="-15552" zmin="-4688" zmax="2424" />
+			<add x="24256" y="-15552" zmin="-4688" zmax="2424" />
+			<add x="23168" y="-17600" zmin="-4688" zmax="2424" />
+			<add x="23680" y="-18880" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-19456" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22196" /><!--Velociraptor-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="22976" y="-21504" zmin="-4688" zmax="2424" />
+			<add x="24192" y="-21440" zmin="-4688" zmax="2424" />
+			<add x="25600" y="-19456" zmin="-4688" zmax="2424" />
+			<add x="26752" y="-19840" zmin="-4688" zmax="2424" />
+			<add x="27776" y="-19520" zmin="-4688" zmax="2424" />
+			<add x="28032" y="-18112" zmin="-4688" zmax="2424" />
+			<add x="28864" y="-17536" zmin="-4688" zmax="2424" />
+			<add x="28864" y="-15488" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-15168" zmin="-4688" zmax="2424" />
+			<add x="27072" y="-15808" zmin="-4688" zmax="2424" />
+			<add x="26432" y="-15552" zmin="-4688" zmax="2424" />
+			<add x="24256" y="-15552" zmin="-4688" zmax="2424" />
+			<add x="23168" y="-17600" zmin="-4688" zmax="2424" />
+			<add x="23680" y="-18880" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-19456" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22199" /><!--Pterosaur-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="22976" y="-21504" zmin="-4688" zmax="2424" />
+			<add x="24192" y="-21440" zmin="-4688" zmax="2424" />
+			<add x="25600" y="-19456" zmin="-4688" zmax="2424" />
+			<add x="26752" y="-19840" zmin="-4688" zmax="2424" />
+			<add x="27776" y="-19520" zmin="-4688" zmax="2424" />
+			<add x="28032" y="-18112" zmin="-4688" zmax="2424" />
+			<add x="28864" y="-17536" zmin="-4688" zmax="2424" />
+			<add x="28864" y="-15488" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-15168" zmin="-4688" zmax="2424" />
+			<add x="27072" y="-15808" zmin="-4688" zmax="2424" />
+			<add x="26432" y="-15552" zmin="-4688" zmax="2424" />
+			<add x="24256" y="-15552" zmin="-4688" zmax="2424" />
+			<add x="23168" y="-17600" zmin="-4688" zmax="2424" />
+			<add x="23680" y="-18880" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-19456" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22200" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="22976" y="-21504" zmin="-4688" zmax="2424" />
+			<add x="24192" y="-21440" zmin="-4688" zmax="2424" />
+			<add x="25600" y="-19456" zmin="-4688" zmax="2424" />
+			<add x="26752" y="-19840" zmin="-4688" zmax="2424" />
+			<add x="27776" y="-19520" zmin="-4688" zmax="2424" />
+			<add x="28032" y="-18112" zmin="-4688" zmax="2424" />
+			<add x="28864" y="-17536" zmin="-4688" zmax="2424" />
+			<add x="28864" y="-15488" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-15168" zmin="-4688" zmax="2424" />
+			<add x="27072" y="-15808" zmin="-4688" zmax="2424" />
+			<add x="26432" y="-15552" zmin="-4688" zmax="2424" />
+			<add x="24256" y="-15552" zmin="-4688" zmax="2424" />
+			<add x="23168" y="-17600" zmin="-4688" zmax="2424" />
+			<add x="23680" y="-18880" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-19456" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22203" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="24448" y="-14784" zmin="-4688" zmax="2424" />
+			<add x="26368" y="-14784" zmin="-4688" zmax="2424" />
+			<add x="26816" y="-14336" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-14656" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-11648" zmin="-4688" zmax="2424" />
+			<add x="28416" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="25984" y="-9536" zmin="-4688" zmax="2424" />
+			<add x="23104" y="-8960" zmin="-4688" zmax="2424" />
+			<add x="24576" y="-11264" zmin="-4688" zmax="2424" />
+			<add x="24320" y="-12352" zmin="-4688" zmax="2424" />
+			<add x="23872" y="-13248" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="18345" /><!--Sprigant-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="24448" y="-14784" zmin="-4688" zmax="2424" />
+			<add x="26368" y="-14784" zmin="-4688" zmax="2424" />
+			<add x="26816" y="-14336" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-14656" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-11648" zmin="-4688" zmax="2424" />
+			<add x="28416" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="25984" y="-9536" zmin="-4688" zmax="2424" />
+			<add x="23104" y="-8960" zmin="-4688" zmax="2424" />
+			<add x="24576" y="-11264" zmin="-4688" zmax="2424" />
+			<add x="24320" y="-12352" zmin="-4688" zmax="2424" />
+			<add x="23872" y="-13248" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="18346" /><!--Sprigant-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="24448" y="-14784" zmin="-4688" zmax="2424" />
+			<add x="26368" y="-14784" zmin="-4688" zmax="2424" />
+			<add x="26816" y="-14336" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-14656" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-11648" zmin="-4688" zmax="2424" />
+			<add x="28416" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="25984" y="-9536" zmin="-4688" zmax="2424" />
+			<add x="23104" y="-8960" zmin="-4688" zmax="2424" />
+			<add x="24576" y="-11264" zmin="-4688" zmax="2424" />
+			<add x="24320" y="-12352" zmin="-4688" zmax="2424" />
+			<add x="23872" y="-13248" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22198" /><!--Velociraptor-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="24448" y="-14784" zmin="-4688" zmax="2424" />
+			<add x="26368" y="-14784" zmin="-4688" zmax="2424" />
+			<add x="26816" y="-14336" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-14656" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-11648" zmin="-4688" zmax="2424" />
+			<add x="28416" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="25984" y="-9536" zmin="-4688" zmax="2424" />
+			<add x="23104" y="-8960" zmin="-4688" zmax="2424" />
+			<add x="24576" y="-11264" zmin="-4688" zmax="2424" />
+			<add x="24320" y="-12352" zmin="-4688" zmax="2424" />
+			<add x="23872" y="-13248" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22199" /><!--Pterosaur-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="24448" y="-14784" zmin="-4688" zmax="2424" />
+			<add x="26368" y="-14784" zmin="-4688" zmax="2424" />
+			<add x="26816" y="-14336" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-14656" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-11648" zmin="-4688" zmax="2424" />
+			<add x="28416" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="25984" y="-9536" zmin="-4688" zmax="2424" />
+			<add x="23104" y="-8960" zmin="-4688" zmax="2424" />
+			<add x="24576" y="-11264" zmin="-4688" zmax="2424" />
+			<add x="24320" y="-12352" zmin="-4688" zmax="2424" />
+			<add x="23872" y="-13248" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22200" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="24448" y="-14784" zmin="-4688" zmax="2424" />
+			<add x="26368" y="-14784" zmin="-4688" zmax="2424" />
+			<add x="26816" y="-14336" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-14656" zmin="-4688" zmax="2424" />
+			<add x="28096" y="-11648" zmin="-4688" zmax="2424" />
+			<add x="28416" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="25984" y="-9536" zmin="-4688" zmax="2424" />
+			<add x="23104" y="-8960" zmin="-4688" zmax="2424" />
+			<add x="24576" y="-11264" zmin="-4688" zmax="2424" />
+			<add x="24320" y="-12352" zmin="-4688" zmax="2424" />
+			<add x="23872" y="-13248" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22203" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="22016" y="-6336" zmin="-4688" zmax="2424" />
+			<add x="20352" y="-7936" zmin="-4688" zmax="2424" />
+			<add x="18688" y="-8192" zmin="-4688" zmax="2424" />
+			<add x="18432" y="-9280" zmin="-4688" zmax="2424" />
+			<add x="18944" y="-10112" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="18688" y="-12096" zmin="-4688" zmax="2424" />
+			<add x="20096" y="-13184" zmin="-4688" zmax="2424" />
+			<add x="23232" y="-13120" zmin="-4688" zmax="2424" />
+			<add x="23232" y="-11584" zmin="-4688" zmax="2424" />
+			<add x="24256" y="-11328" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-8960" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="18345" /><!--Sprigant-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="22016" y="-6336" zmin="-4688" zmax="2424" />
+			<add x="20352" y="-7936" zmin="-4688" zmax="2424" />
+			<add x="18688" y="-8192" zmin="-4688" zmax="2424" />
+			<add x="18432" y="-9280" zmin="-4688" zmax="2424" />
+			<add x="18944" y="-10112" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="18688" y="-12096" zmin="-4688" zmax="2424" />
+			<add x="20096" y="-13184" zmin="-4688" zmax="2424" />
+			<add x="23232" y="-13120" zmin="-4688" zmax="2424" />
+			<add x="23232" y="-11584" zmin="-4688" zmax="2424" />
+			<add x="24256" y="-11328" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-8960" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="18346" /><!--Sprigant-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="22016" y="-6336" zmin="-4688" zmax="2424" />
+			<add x="20352" y="-7936" zmin="-4688" zmax="2424" />
+			<add x="18688" y="-8192" zmin="-4688" zmax="2424" />
+			<add x="18432" y="-9280" zmin="-4688" zmax="2424" />
+			<add x="18944" y="-10112" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="18688" y="-12096" zmin="-4688" zmax="2424" />
+			<add x="20096" y="-13184" zmin="-4688" zmax="2424" />
+			<add x="23232" y="-13120" zmin="-4688" zmax="2424" />
+			<add x="23232" y="-11584" zmin="-4688" zmax="2424" />
+			<add x="24256" y="-11328" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-8960" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22196" /><!--Velociraptor-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="22016" y="-6336" zmin="-4688" zmax="2424" />
+			<add x="20352" y="-7936" zmin="-4688" zmax="2424" />
+			<add x="18688" y="-8192" zmin="-4688" zmax="2424" />
+			<add x="18432" y="-9280" zmin="-4688" zmax="2424" />
+			<add x="18944" y="-10112" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="18688" y="-12096" zmin="-4688" zmax="2424" />
+			<add x="20096" y="-13184" zmin="-4688" zmax="2424" />
+			<add x="23232" y="-13120" zmin="-4688" zmax="2424" />
+			<add x="23232" y="-11584" zmin="-4688" zmax="2424" />
+			<add x="24256" y="-11328" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-8960" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22199" /><!--Pterosaur-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="22016" y="-6336" zmin="-4688" zmax="2424" />
+			<add x="20352" y="-7936" zmin="-4688" zmax="2424" />
+			<add x="18688" y="-8192" zmin="-4688" zmax="2424" />
+			<add x="18432" y="-9280" zmin="-4688" zmax="2424" />
+			<add x="18944" y="-10112" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="18688" y="-12096" zmin="-4688" zmax="2424" />
+			<add x="20096" y="-13184" zmin="-4688" zmax="2424" />
+			<add x="23232" y="-13120" zmin="-4688" zmax="2424" />
+			<add x="23232" y="-11584" zmin="-4688" zmax="2424" />
+			<add x="24256" y="-11328" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-8960" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22200" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="22016" y="-6336" zmin="-4688" zmax="2424" />
+			<add x="20352" y="-7936" zmin="-4688" zmax="2424" />
+			<add x="18688" y="-8192" zmin="-4688" zmax="2424" />
+			<add x="18432" y="-9280" zmin="-4688" zmax="2424" />
+			<add x="18944" y="-10112" zmin="-4688" zmax="2424" />
+			<add x="17984" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="18688" y="-12096" zmin="-4688" zmax="2424" />
+			<add x="20096" y="-13184" zmin="-4688" zmax="2424" />
+			<add x="23232" y="-13120" zmin="-4688" zmax="2424" />
+			<add x="23232" y="-11584" zmin="-4688" zmax="2424" />
+			<add x="24256" y="-11328" zmin="-4688" zmax="2424" />
+			<add x="22464" y="-8960" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22203" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14336" y="-8640" zmin="-4688" zmax="2424" />
+			<add x="17344" y="-10048" zmin="-4688" zmax="2424" />
+			<add x="18112" y="-7488" zmin="-4688" zmax="2424" />
+			<add x="16768" y="-6272" zmin="-4688" zmax="2424" />
+			<add x="15424" y="-6528" zmin="-4688" zmax="2424" />
+			<add x="14912" y="-8128" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="18345" /><!--Sprigant-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14336" y="-8640" zmin="-4688" zmax="2424" />
+			<add x="17344" y="-10048" zmin="-4688" zmax="2424" />
+			<add x="18112" y="-7488" zmin="-4688" zmax="2424" />
+			<add x="16768" y="-6272" zmin="-4688" zmax="2424" />
+			<add x="15424" y="-6528" zmin="-4688" zmax="2424" />
+			<add x="14912" y="-8128" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="18346" /><!--Sprigant-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14336" y="-8640" zmin="-4688" zmax="2424" />
+			<add x="17344" y="-10048" zmin="-4688" zmax="2424" />
+			<add x="18112" y="-7488" zmin="-4688" zmax="2424" />
+			<add x="16768" y="-6272" zmin="-4688" zmax="2424" />
+			<add x="15424" y="-6528" zmin="-4688" zmax="2424" />
+			<add x="14912" y="-8128" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22198" /><!--Velociraptor-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14336" y="-8640" zmin="-4688" zmax="2424" />
+			<add x="17344" y="-10048" zmin="-4688" zmax="2424" />
+			<add x="18112" y="-7488" zmin="-4688" zmax="2424" />
+			<add x="16768" y="-6272" zmin="-4688" zmax="2424" />
+			<add x="15424" y="-6528" zmin="-4688" zmax="2424" />
+			<add x="14912" y="-8128" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22200" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14336" y="-8640" zmin="-4688" zmax="2424" />
+			<add x="17344" y="-10048" zmin="-4688" zmax="2424" />
+			<add x="18112" y="-7488" zmin="-4688" zmax="2424" />
+			<add x="16768" y="-6272" zmin="-4688" zmax="2424" />
+			<add x="15424" y="-6528" zmin="-4688" zmax="2424" />
+			<add x="14912" y="-8128" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22203" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="13888" y="-15488" zmin="-4688" zmax="2424" />
+			<add x="15296" y="-15360" zmin="-4688" zmax="2424" />
+			<add x="19840" y="-13312" zmin="-4688" zmax="2424" />
+			<add x="18368" y="-12480" zmin="-4688" zmax="2424" />
+			<add x="17408" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="14464" y="-9216" zmin="-4688" zmax="2424" />
+			<add x="13888" y="-11392" zmin="-4688" zmax="2424" />
+			<add x="13632" y="-14784" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="18345" /><!--Sprigant-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="13888" y="-15488" zmin="-4688" zmax="2424" />
+			<add x="15296" y="-15360" zmin="-4688" zmax="2424" />
+			<add x="19840" y="-13312" zmin="-4688" zmax="2424" />
+			<add x="18368" y="-12480" zmin="-4688" zmax="2424" />
+			<add x="17408" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="14464" y="-9216" zmin="-4688" zmax="2424" />
+			<add x="13888" y="-11392" zmin="-4688" zmax="2424" />
+			<add x="13632" y="-14784" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="18346" /><!--Sprigant-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="13888" y="-15488" zmin="-4688" zmax="2424" />
+			<add x="15296" y="-15360" zmin="-4688" zmax="2424" />
+			<add x="19840" y="-13312" zmin="-4688" zmax="2424" />
+			<add x="18368" y="-12480" zmin="-4688" zmax="2424" />
+			<add x="17408" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="14464" y="-9216" zmin="-4688" zmax="2424" />
+			<add x="13888" y="-11392" zmin="-4688" zmax="2424" />
+			<add x="13632" y="-14784" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22196" /><!--Velociraptor-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="13888" y="-15488" zmin="-4688" zmax="2424" />
+			<add x="15296" y="-15360" zmin="-4688" zmax="2424" />
+			<add x="19840" y="-13312" zmin="-4688" zmax="2424" />
+			<add x="18368" y="-12480" zmin="-4688" zmax="2424" />
+			<add x="17408" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="14464" y="-9216" zmin="-4688" zmax="2424" />
+			<add x="13888" y="-11392" zmin="-4688" zmax="2424" />
+			<add x="13632" y="-14784" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22199" /><!--Pterosaur-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="13888" y="-15488" zmin="-4688" zmax="2424" />
+			<add x="15296" y="-15360" zmin="-4688" zmax="2424" />
+			<add x="19840" y="-13312" zmin="-4688" zmax="2424" />
+			<add x="18368" y="-12480" zmin="-4688" zmax="2424" />
+			<add x="17408" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="14464" y="-9216" zmin="-4688" zmax="2424" />
+			<add x="13888" y="-11392" zmin="-4688" zmax="2424" />
+			<add x="13632" y="-14784" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22200" /><!--Ornithomimus-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="13888" y="-15488" zmin="-4688" zmax="2424" />
+			<add x="15296" y="-15360" zmin="-4688" zmax="2424" />
+			<add x="19840" y="-13312" zmin="-4688" zmax="2424" />
+			<add x="18368" y="-12480" zmin="-4688" zmax="2424" />
+			<add x="17408" y="-10304" zmin="-4688" zmax="2424" />
+			<add x="14464" y="-9216" zmin="-4688" zmax="2424" />
+			<add x="13888" y="-11392" zmin="-4688" zmax="2424" />
+			<add x="13632" y="-14784" zmin="-4688" zmax="2424" />
+		</territory>
+		<npc id="22203" /><!--Deinonychus-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="13856" y="-18041" z="-3084" h="14873" />
+		<npc id="18344" /><!--Ancient Egg-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="16705" y="-10693" z="-3256" h="16322" />
+		<npc id="18344" /><!--Ancient Egg-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="27434" y="-16969" z="-2684" h="27490" />
+		<npc id="18344" /><!--Ancient Egg-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="26440" y="-19193" z="-2436" h="39975" />
+		<npc id="18344" /><!--Ancient Egg-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="23494" y="-19750" z="-2768" h="33024" />
+		<npc id="18344" /><!--Ancient Egg-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="21023" y="-19780" z="-3291" h="20822" />
+		<npc id="18344" /><!--Ancient Egg-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="18244" y="-19661" z="-3268" h="30880" />
+		<npc id="18344" /><!--Ancient Egg-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="17347" y="-17214" z="-3210" h="22418" />
+		<npc id="18344" /><!--Ancient Egg-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="15651" y="-18428" z="-3176" h="37306" />
+		<npc id="18344" /><!--Ancient Egg-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="16602" y="-15343" z="-3189" h="17384" />
+		<npc id="18344" /><!--Ancient Egg-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="17319" y="-13008" z="-3126" h="5605" />
+		<npc id="18344" /><!--Ancient Egg-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="20041" y="-9136" z="-2792" h="17359" />
+		<npc id="18344" /><!--Ancient Egg-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="21009" y="-14388" z="-3100" h="46465" />
+		<npc id="18344" /><!--Ancient Egg-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="6038" y="-17401" z="-3724" h="43831" />
+		<npc id="22214" /><!--Elroki-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="5950" y="-8682" z="-3643" h="55411" />
+		<npc id="22214" /><!--Elroki-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="5996" y="-8285" z="-3649" h="48744" />
+		<npc id="22214" /><!--Elroki-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="3059" y="-10939" z="-3642" h="56598" />
+		<npc id="22214" /><!--Elroki-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="5203" y="-8446" z="-3585" h="59155" />
+		<npc id="22214" /><!--Elroki-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="4759" y="-7135" z="-3464" h="26944" />
+		<npc id="22214" /><!--Elroki-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="5613" y="-14345" z="-3712" h="48634" />
+		<npc id="22214" /><!--Elroki-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="5135" y="-11339" z="-3641" h="48544" />
+		<npc id="22214" /><!--Elroki-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="7379" y="-14714" z="-3711" h="38907" />
+		<npc id="22214" /><!--Elroki-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="3368" y="-15608" z="-3547" h="2412" />
+		<npc id="22214" /><!--Elroki-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="4265" y="-15184" z="-3589" h="15488" />
+		<npc id="22214" /><!--Elroki-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="5505" y="-19683" z="-3618" h="3661" />
+		<npc id="22214" /><!--Elroki-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="6563" y="-19978" z="-3604" h="63942" />
+		<npc id="22214" /><!--Elroki-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="3736" y="-17799" z="-3633" h="64130" />
+		<npc id="22214" /><!--Elroki-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="24767" y="-12441" z="-2532" h="15314" />
+		<npc id="22215" /><!--Tyrannosaurus-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="28263" y="-17486" z="-2539" h="50052" />
+		<npc id="22215" /><!--Tyrannosaurus-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="18229" y="-17975" z="-3219" h="65140" />
+		<npc id="22215" /><!--Tyrannosaurus-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="19897" y="-9087" z="-2781" h="2686" />
+		<npc id="22216" /><!--Tyrannosaurus-->
+	</spawn>
+	<spawn count="1" respawn="300" respawn_random="0" period_of_day="none">
+		<point x="22827" y="-14698" z="-3080" h="53946" />
+		<npc id="22217" /><!--Tyrannosaurus-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="11965" y="-23989" z="-3644" h="30964" />
+		<npc id="32105" /><!--Dinn-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="10297" y="-24997" z="-3686" h="8408" />
+		<npc id="32106" /><!--Singsing-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="23763" y="-7329" z="-1195" h="38200" />
+		<npc id="32109" /><!--Shilen's Stone Statue-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="7320" y="-5432" z="-3224" h="57729" />
+		<npc id="32111" /><!--Orahochin-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="5395" y="-2922" z="-3161" h="15524" />
+		<npc id="32112" /><!--Gariachin-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="11717" y="-23628" z="-3644" h="38271" />
+		<npc id="32113" /><!--Marquez-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="6643" y="-2577" z="-2938" h="40315" />
+		<npc id="32114" /><!--Mushika-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="6458" y="-2427" z="-2938" h="39083" />
+		<npc id="32115" /><!--Asamah-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="12733" y="-14459" z="-3180" h="45998" />
+		<npc id="32116" /><!--Kirikachin-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="6334" y="-2185" z="-2964" h="34674" />
+		<npc id="32117" /><!--Karakawei-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="15386" y="-19586" z="-3134" h="26907" />
+		<npc id="32118" /><!--Mantarasa Egg-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="23707" y="-19108" z="-2820" h="16264" />
+		<npc id="32119" /><!--Ulu Kaimu-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="27723" y="-11684" z="-2302" h="16264" />
+		<npc id="32120" /><!--Balu Kaimu-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="18714" y="-9635" z="-2795" h="16264" />
+		<npc id="32121" /><!--Chuta Kaimu-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="13122" y="-8897" z="-3096" h="61707" />
+		<npc id="32122" /><!--Warrior's Grave-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="5072" y="-6438" z="-3381" h="16264" />
+		<npc id="32108" /><!--A9E89C-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="2667" y="-10918" z="-3647" h="16264" />
+		<npc id="32108" /><!--A9E89C-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="7050" y="-13874" z="-3755" h="61707" />
+		<npc id="32108" /><!--A9E89C-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<point x="3776" y="-6768" z="-3288" h="43200" />
+		<npc id="25527" /><!--Uruka-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="11504" y="-23344" z="-3640" h="39000" />
+		<npc id="32714" /><!--Asher -->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="10840" y="-24184" z="-3640" h="40959" />
+		<npc id="4324" /><!--Worshipper-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="10968" y="-24248" z="-3640" h="45796" />
+		<npc id="4325" /><!--Altar Guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="10824" y="-24024" z="-3640" h="29412" />
+		<npc id="4325" /><!--Altar Guard-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="10840" y="-24184" z="-3640" h="40959" />
+		<npc id="4327" /><!--Dead Worshipper-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="10968" y="-24248" z="-3640" h="45796" />
+		<npc id="4328" /><!--Dead Altar Guard-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="10824" y="-24024" z="-3640" h="29412" />
+		<npc id="4328" /><!--Dead Altar Guard-->
+	</spawn>
+</list>

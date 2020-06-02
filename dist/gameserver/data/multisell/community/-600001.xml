@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />	
+	<item>
+		<ingredient id="4357" count="1"/>
+		<production id="9625" count="1"/>
+	</item>
+	<item>
+		<ingredient id="4357" count="1"/>
+		<production id="9626" count="1"/>
+	</item>	
+</list>

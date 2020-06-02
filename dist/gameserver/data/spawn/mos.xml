@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<territory name="monastyre_silence_furnface_1_1">
+		<add x="113171" y="-73828" zmin="-685" zmax="-335" />
+		<add x="114833" y="-73824" zmin="-685" zmax="-335" />
+		<add x="114834" y="-72868" zmin="-685" zmax="-335" />
+		<add x="113167" y="-72868" zmin="-685" zmax="-335" />
+	</territory>
+	<territory name="monastyre_silence_furnface_1_2">
+		<add x="111658" y="-73829" zmin="-685" zmax="-335" />
+		<add x="113173" y="-73831" zmin="-685" zmax="-335" />
+		<add x="113177" y="-72866" zmin="-685" zmax="-335" />
+		<add x="111654" y="-72869" zmin="-685" zmax="-335" />
+	</territory>
+
+	<territory name="monastyre_silence_furnface_2_1">
+		<add x="113175" y="-72539" zmin="-685" zmax="-335" />
+		<add x="114837" y="-72535" zmin="-685" zmax="-335" />
+		<add x="114838" y="-71579" zmin="-685" zmax="-335" />
+		<add x="113172" y="-71579" zmin="-685" zmax="-335" />
+	</territory>
+	<territory name="monastyre_silence_furnface_2_2">
+		<add x="111655" y="-72543" zmin="-685" zmax="-335" />
+		<add x="113170" y="-72546" zmin="-685" zmax="-335" />
+		<add x="113175" y="-71580" zmin="-685" zmax="-335" />
+		<add x="111651" y="-71584" zmin="-685" zmax="-335" />
+	</territory>
+
+	<territory name="monastyre_silence_furnface_3_1">
+		<add x="110712" y="-81447" zmin="-1695" zmax="-1345" />
+		<add x="112333" y="-81452" zmin="-1695" zmax="-1345" />
+		<add x="112337" y="-80486" zmin="-1695" zmax="-1345" />
+		<add x="110708" y="-80490" zmin="-1695" zmax="-1345" />
+	</territory>
+	<territory name="monastyre_silence_furnface_3_2">
+		<add x="112335" y="-81456" zmin="-1695" zmax="-1345" />
+		<add x="113850" y="-81458" zmin="-1695" zmax="-1345" />
+		<add x="113855" y="-80492" zmin="-1695" zmax="-1345" />
+		<add x="112331" y="-80496" zmin="-1695" zmax="-1345" />
+	</territory>
+
+	<territory name="monastyre_silence_furnface_4_1">
+		<add x="112428" y="-80145" zmin="-1695" zmax="-1345" />
+		<add x="113943" y="-80147" zmin="-1695" zmax="-1345" />
+		<add x="113947" y="-79182" zmin="-1695" zmax="-1345" />
+		<add x="112424" y="-79185" zmin="-1695" zmax="-1345" />
+	</territory>
+	<territory name="monastyre_silence_furnface_4_2">
+		<add x="110734" y="-80141" zmin="-1695" zmax="-1345" />
+		<add x="112419" y="-80146" zmin="-1695" zmax="-1345" />
+		<add x="112423" y="-79181" zmin="-1695" zmax="-1345" />
+		<add x="110740" y="-79194" zmin="-1695" zmax="-1345" />
+	</territory>
+
+	<territory name="monastyre_silence_furnface_5_1">
+		<add x="107883" y="-76050" zmin="-1184" zmax="-834" />
+		<add x="108813" y="-76068" zmin="-1184" zmax="-834" />
+		<add x="108813" y="-74441" zmin="-1184" zmax="-834" />
+		<add x="107889" y="-74443" zmin="-1184" zmax="-834" />
+	</territory>
+	<territory name="monastyre_silence_furnface_5_2">
+		<add x="107882" y="-77664" zmin="-1184" zmax="-834" />
+		<add x="108811" y="-77683" zmin="-1184" zmax="-834" />
+		<add x="108812" y="-76055" zmin="-1184" zmax="-834" />
+		<add x="107888" y="-76058" zmin="-1184" zmax="-834" />
+	</territory>
+
+	<territory name="monastyre_silence_furnface_6_1">
+		<add x="109157" y="-76045" zmin="-1184" zmax="-834" />
+		<add x="110086" y="-76064" zmin="-1184" zmax="-834" />
+		<add x="110087" y="-74436" zmin="-1184" zmax="-834" />
+		<add x="109163" y="-74439" zmin="-1184" zmax="-834" />
+	</territory>
+	<territory name="monastyre_silence_furnface_6_2">
+		<add x="109156" y="-77663" zmin="-1184" zmax="-834" />
+		<add x="110085" y="-77682" zmin="-1184" zmax="-834" />
+		<add x="110086" y="-76054" zmin="-1184" zmax="-834" />
+		<add x="109162" y="-76057" zmin="-1184" zmax="-834" />
+	</territory>
+
+	<territory name="monastyre_silence_furnface_7_1">
+		<add x="115499" y="-78595" zmin="-144" zmax="206" />
+		<add x="116428" y="-78613" zmin="-144" zmax="206" />
+		<add x="116429" y="-76985" zmin="-144" zmax="206" />
+		<add x="115505" y="-76988" zmin="-144" zmax="206" />
+	</territory>
+	<territory name="monastyre_silence_furnface_7_2">
+		<add x="115500" y="-76978" zmin="-144" zmax="206" />
+		<add x="116430" y="-76996" zmin="-144" zmax="206" />
+		<add x="116430" y="-75368" zmin="-144" zmax="206" />
+		<add x="115506" y="-75371" zmin="-144" zmax="206" />
+	</territory>
+
+	<territory name="monastyre_silence_furnface_8_1">
+		<add x="116780" y="-78560" zmin="-144" zmax="206" />
+		<add x="117710" y="-78578" zmin="-144" zmax="206" />
+		<add x="117710" y="-76950" zmin="-144" zmax="206" />
+		<add x="116786" y="-76953" zmin="-144" zmax="206" />
+	</territory>
+	<territory name="monastyre_silence_furnface_8_2">
+		<add x="116782" y="-76943" zmin="-144" zmax="206" />
+		<add x="117711" y="-76961" zmin="-144" zmax="206" />
+		<add x="117711" y="-75333" zmin="-144" zmax="206" />
+		<add x="116788" y="-75336" zmin="-144" zmax="206" />
+	</territory>
+
+	<spawn group="Divinity_Monster1" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_1"/>
+		<npc id="22798" ai_param="10021"/>
+	</spawn>
+	<spawn group="Divinity_Monster1" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_1"/>
+		<npc id="22799" ai_param="10021"/>
+	</spawn>
+	<spawn group="Divinity_Monster1" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_1"/>
+		<npc id="22800" ai_param="10021"/>
+	</spawn>
+	<spawn group="Divinity_Monster1" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_2"/>
+		<npc id="22798" ai_param="10021"/>
+	</spawn>
+	<spawn group="Divinity_Monster1" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_2"/>
+		<npc id="22799" ai_param="10021"/>
+	</spawn>
+	<spawn group="Divinity_Monster1" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_2"/>
+		<npc id="22800" ai_param="10021"/>
+	</spawn>
+
+	<spawn group="Divinity_Monster2" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_1"/>
+		<npc id="22798" ai_param="10022"/>
+	</spawn>
+	<spawn group="Divinity_Monster2" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_1"/>
+		<npc id="22799" ai_param="10022"/>
+	</spawn>
+	<spawn group="Divinity_Monster2" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_1"/>
+		<npc id="22800" ai_param="10022"/>
+	</spawn>
+	<spawn group="Divinity_Monster2" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_2"/>
+		<npc id="22798" ai_param="10022"/>
+	</spawn>
+	<spawn group="Divinity_Monster2" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_2"/>
+		<npc id="22799" ai_param="10022"/>
+	</spawn>
+	<spawn group="Divinity_Monster2" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_2"/>
+		<npc id="22800" ai_param="10022"/>
+	</spawn>
+	
+	<spawn group="Divinity_Monster3" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_1"/>
+		<npc id="22798" ai_param="10023"/>
+	</spawn>
+	<spawn group="Divinity_Monster3" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_1"/>
+		<npc id="22799" ai_param="10023"/>
+	</spawn>
+	<spawn group="Divinity_Monster3" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_1"/>
+		<npc id="22800" ai_param="10023"/>
+	</spawn>
+	<spawn group="Divinity_Monster3" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_2"/>
+		<npc id="22798" ai_param="10023"/>
+	</spawn>
+	<spawn group="Divinity_Monster3" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_2"/>
+		<npc id="22799" ai_param="10023"/>
+	</spawn>
+	<spawn group="Divinity_Monster3" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_2"/>
+		<npc id="22800" ai_param="10023"/>
+	</spawn>
+
+	<spawn group="Divinity_Monster4" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_1"/>
+		<npc id="22798" ai_param="10024"/>
+	</spawn>
+	<spawn group="Divinity_Monster4" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_1"/>
+		<npc id="22799" ai_param="10024"/>
+	</spawn>
+	<spawn group="Divinity_Monster4" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_1"/>
+		<npc id="22800" ai_param="10024"/>
+	</spawn>
+	<spawn group="Divinity_Monster4" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_2"/>
+		<npc id="22798" ai_param="10024"/>
+	</spawn>
+	<spawn group="Divinity_Monster4" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_2"/>
+		<npc id="22799" ai_param="10024"/>
+	</spawn>
+	<spawn group="Divinity_Monster4" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_2"/>
+		<npc id="22800" ai_param="10024"/>
+	</spawn>
+	
+	<spawn group="Divinity_Monster5" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_1"/>
+		<npc id="22798" ai_param="10025"/>
+	</spawn>
+	<spawn group="Divinity_Monster5" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_1"/>
+		<npc id="22799" ai_param="10025"/>
+	</spawn>
+	<spawn group="Divinity_Monster5" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_1"/>
+		<npc id="22800" ai_param="10025"/>
+	</spawn>
+	<spawn group="Divinity_Monster5" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_2"/>
+		<npc id="22798" ai_param="10025"/>
+	</spawn>
+	<spawn group="Divinity_Monster5" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_2"/>
+		<npc id="22799" ai_param="10025"/>
+	</spawn>
+	<spawn group="Divinity_Monster5" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_2"/>
+		<npc id="22800" ai_param="10025"/>
+	</spawn>
+	
+	<spawn group="Divinity_Monster6" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_1"/>
+		<npc id="22798" ai_param="10026"/>
+	</spawn>
+	<spawn group="Divinity_Monster6" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_1"/>
+		<npc id="22799" ai_param="10026"/>
+	</spawn>
+	<spawn group="Divinity_Monster6" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_1"/>
+		<npc id="22800" ai_param="10026"/>
+	</spawn>
+	<spawn group="Divinity_Monster6" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_2"/>
+		<npc id="22798" ai_param="10026"/>
+	</spawn>
+	<spawn group="Divinity_Monster6" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_2"/>
+		<npc id="22799" ai_param="10026"/>
+	</spawn>
+	<spawn group="Divinity_Monster6" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_2"/>
+		<npc id="22800" ai_param="10026"/>
+	</spawn>
+	
+	<spawn group="Divinity_Monster7" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_1"/>
+		<npc id="22798" ai_param="10027"/>
+	</spawn>
+	<spawn group="Divinity_Monster7" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_1"/>
+		<npc id="22799" ai_param="10027"/>
+	</spawn>
+	<spawn group="Divinity_Monster7" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_1"/>
+		<npc id="22800" ai_param="10027"/>
+	</spawn>
+	<spawn group="Divinity_Monster7" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_2"/>
+		<npc id="22798" ai_param="10027"/>
+	</spawn>
+	<spawn group="Divinity_Monster7" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_2"/>
+		<npc id="22799" ai_param="10027"/>
+	</spawn>
+	<spawn group="Divinity_Monster7" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_2"/>
+		<npc id="22800" ai_param="10027"/>
+	</spawn>
+	
+	<spawn group="Divinity_Monster8" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_1"/>
+		<npc id="22798" ai_param="10028"/>
+	</spawn>
+	<spawn group="Divinity_Monster8" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_1"/>
+		<npc id="22799" ai_param="10028"/>
+	</spawn>
+	<spawn group="Divinity_Monster8" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_1"/>
+		<npc id="22800" ai_param="10028"/>
+	</spawn>
+	<spawn group="Divinity_Monster8" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_2"/>
+		<npc id="22798" ai_param="10028"/>
+	</spawn>
+	<spawn group="Divinity_Monster8" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_2"/>
+		<npc id="22799" ai_param="10028"/>
+	</spawn>
+	<spawn group="Divinity_Monster8" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_2"/>
+		<npc id="22800" ai_param="10028"/>
+	</spawn>
+
+	<spawn group="Standart_Monster1" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_1"/>
+		<npc id="22798" ai_param="10021"/>
+	</spawn>
+	<spawn group="Standart_Monster1" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_1"/>
+		<npc id="22799" ai_param="10021"/>
+	</spawn>
+	<spawn group="Standart_Monster1" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_1"/>
+		<npc id="22800" ai_param="10021"/>
+	</spawn>
+	<spawn group="Standart_Monster1" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_2"/>
+		<npc id="22798" ai_param="10021"/>
+	</spawn>
+	<spawn group="Standart_Monster1" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_2"/>
+		<npc id="22799" ai_param="10021"/>
+	</spawn>
+	<spawn group="Standart_Monster1" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_2"/>
+		<npc id="22800" ai_param="10021"/>
+	</spawn>
+
+	<spawn group="Standart_Monster2" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_1"/>
+		<npc id="22798" ai_param="10022"/>
+	</spawn>
+	<spawn group="Standart_Monster2" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_1"/>
+		<npc id="22799" ai_param="10022"/>
+	</spawn>
+	<spawn group="Standart_Monster2" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_1"/>
+		<npc id="22800" ai_param="10022"/>
+	</spawn>
+	<spawn group="Standart_Monster2" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_2"/>
+		<npc id="22798" ai_param="10022"/>
+	</spawn>
+	<spawn group="Standart_Monster2" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_2"/>
+		<npc id="22799" ai_param="10022"/>
+	</spawn>
+	<spawn group="Standart_Monster2" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_2"/>
+		<npc id="22800" ai_param="10022"/>
+	</spawn>
+	
+	<spawn group="Standart_Monster3" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_1"/>
+		<npc id="22798" ai_param="10023"/>
+	</spawn>
+	<spawn group="Standart_Monster3" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_1"/>
+		<npc id="22799" ai_param="10023"/>
+	</spawn>
+	<spawn group="Standart_Monster3" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_1"/>
+		<npc id="22800" ai_param="10023"/>
+	</spawn>
+	<spawn group="Standart_Monster3" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_2"/>
+		<npc id="22798" ai_param="10023"/>
+	</spawn>
+	<spawn group="Standart_Monster3" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_2"/>
+		<npc id="22799" ai_param="10023"/>
+	</spawn>
+	<spawn group="Standart_Monster3" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_2"/>
+		<npc id="22800" ai_param="10023"/>
+	</spawn>
+
+	<spawn group="Standart_Monster4" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_1"/>
+		<npc id="22798" ai_param="10024"/>
+	</spawn>
+	<spawn group="Standart_Monster4" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_1"/>
+		<npc id="22799" ai_param="10024"/>
+	</spawn>
+	<spawn group="Standart_Monster4" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_1"/>
+		<npc id="22800" ai_param="10024"/>
+	</spawn>
+	<spawn group="Standart_Monster4" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_2"/>
+		<npc id="22798" ai_param="10024"/>
+	</spawn>
+	<spawn group="Standart_Monster4" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_2"/>
+		<npc id="22799" ai_param="10024"/>
+	</spawn>
+	<spawn group="Standart_Monster4" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_2"/>
+		<npc id="22800" ai_param="10024"/>
+	</spawn>
+	
+	<spawn group="Standart_Monster5" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_1"/>
+		<npc id="22798" ai_param="10025"/>
+	</spawn>
+	<spawn group="Standart_Monster5" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_1"/>
+		<npc id="22799" ai_param="10025"/>
+	</spawn>
+	<spawn group="Standart_Monster5" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_1"/>
+		<npc id="22800" ai_param="10025"/>
+	</spawn>
+	<spawn group="Standart_Monster5" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_2"/>
+		<npc id="22798" ai_param="10025"/>
+	</spawn>
+	<spawn group="Standart_Monster5" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_2"/>
+		<npc id="22799" ai_param="10025"/>
+	</spawn>
+	<spawn group="Standart_Monster5" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_2"/>
+		<npc id="22800" ai_param="10025"/>
+	</spawn>
+	
+	<spawn group="Standart_Monster6" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_1"/>
+		<npc id="22798" ai_param="10026"/>
+	</spawn>
+	<spawn group="Standart_Monster6" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_1"/>
+		<npc id="22799" ai_param="10026"/>
+	</spawn>
+	<spawn group="Standart_Monster6" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_1"/>
+		<npc id="22800" ai_param="10026"/>
+	</spawn>
+	<spawn group="Standart_Monster6" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_2"/>
+		<npc id="22798" ai_param="10026"/>
+	</spawn>
+	<spawn group="Standart_Monster6" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_2"/>
+		<npc id="22799" ai_param="10026"/>
+	</spawn>
+	<spawn group="Standart_Monster6" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_2"/>
+		<npc id="22800" ai_param="10026"/>
+	</spawn>
+	
+	<spawn group="Standart_Monster7" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_1"/>
+		<npc id="22798" ai_param="10027"/>
+	</spawn>
+	<spawn group="Standart_Monster7" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_1"/>
+		<npc id="22799" ai_param="10027"/>
+	</spawn>
+	<spawn group="Standart_Monster7" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_1"/>
+		<npc id="22800" ai_param="10027"/>
+	</spawn>
+	<spawn group="Standart_Monster7" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_2"/>
+		<npc id="22798" ai_param="10027"/>
+	</spawn>
+	<spawn group="Standart_Monster7" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_2"/>
+		<npc id="22799" ai_param="10027"/>
+	</spawn>
+	<spawn group="Standart_Monster7" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_2"/>
+		<npc id="22800" ai_param="10027"/>
+	</spawn>
+	
+	<spawn group="Standart_Monster8" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_1"/>
+		<npc id="22798" ai_param="10028"/>
+	</spawn>
+	<spawn group="Standart_Monster8" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_1"/>
+		<npc id="22799" ai_param="10028"/>
+	</spawn>
+	<spawn group="Standart_Monster8" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_1"/>
+		<npc id="22800" ai_param="10028"/>
+	</spawn>
+	<spawn group="Standart_Monster8" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_2"/>
+		<npc id="22798" ai_param="10028"/>
+	</spawn>
+	<spawn group="Standart_Monster8" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_2"/>
+		<npc id="22799" ai_param="10028"/>
+	</spawn>
+	<spawn group="Standart_Monster8" count="2" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_2"/>
+		<npc id="22800" ai_param="10028"/>
+	</spawn>
+	
+	<spawn group="Protector_Room1" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_1"/>
+		<npc id="22798" ai_param="10021"/>
+	</spawn>
+	<spawn group="Protector_Room1" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_1"/>
+		<npc id="22799" ai_param="10021"/>
+	</spawn>
+	<spawn group="Protector_Room1" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_1"/>
+		<npc id="22800" ai_param="10021"/>
+	</spawn>
+	<spawn group="Protector_Room1" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_2"/>
+		<npc id="22798" ai_param="10021"/>
+	</spawn>
+	<spawn group="Protector_Room1" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_2"/>
+		<npc id="22799" ai_param="10021"/>
+	</spawn>
+	<spawn group="Protector_Room1" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_2"/>
+		<npc id="22800" ai_param="10021"/>
+	</spawn>
+	
+	<spawn group="Protector_Room2" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_1"/>
+		<npc id="22798" ai_param="10022"/>
+	</spawn>
+	<spawn group="Protector_Room2" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_1"/>
+		<npc id="22799" ai_param="10022"/>
+	</spawn>
+	<spawn group="Protector_Room2" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_1"/>
+		<npc id="22800" ai_param="10022"/>
+	</spawn>
+	<spawn group="Protector_Room2" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_2"/>
+		<npc id="22798" ai_param="10022"/>
+	</spawn>
+	<spawn group="Protector_Room2" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_2"/>
+		<npc id="22799" ai_param="10022"/>
+	</spawn>
+	<spawn group="Protector_Room2" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_2"/>
+		<npc id="22800" ai_param="10022"/>
+	</spawn>
+	
+	<spawn group="Protector_Room3" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_1"/>
+		<npc id="22798" ai_param="10023"/>
+	</spawn>
+	<spawn group="Protector_Room3" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_1"/>
+		<npc id="22799" ai_param="10023"/>
+	</spawn>
+	<spawn group="Protector_Room3" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_1"/>
+		<npc id="22800" ai_param="10023"/>
+	</spawn>
+	<spawn group="Protector_Room3" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_2"/>
+		<npc id="22798" ai_param="10023"/>
+	</spawn>
+	<spawn group="Protector_Room3" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_2"/>
+		<npc id="22799" ai_param="10023"/>
+	</spawn>
+	<spawn group="Protector_Room3" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_2"/>
+		<npc id="22800" ai_param="10023"/>
+	</spawn>
+	
+	<spawn group="Protector_Room4" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_1"/>
+		<npc id="22798" ai_param="10024"/>
+	</spawn>
+	<spawn group="Protector_Room4" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_1"/>
+		<npc id="22799" ai_param="10024"/>
+	</spawn>
+	<spawn group="Protector_Room4" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_1"/>
+		<npc id="22800" ai_param="10024"/>
+	</spawn>
+	<spawn group="Protector_Room4" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_2"/>
+		<npc id="22798" ai_param="10024"/>
+	</spawn>
+	<spawn group="Protector_Room4" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_2"/>
+		<npc id="22799" ai_param="10024"/>
+	</spawn>
+	<spawn group="Protector_Room4" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_2"/>
+		<npc id="22800" ai_param="10024"/>
+	</spawn>
+	
+	<spawn group="Protector_Room5" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_1"/>
+		<npc id="22798" ai_param="10025"/>
+	</spawn>
+	<spawn group="Protector_Room5" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_1"/>
+		<npc id="22799" ai_param="10025"/>
+	</spawn>
+	<spawn group="Protector_Room5" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_1"/>
+		<npc id="22800" ai_param="10025"/>
+	</spawn>
+	<spawn group="Protector_Room5" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_2"/>
+		<npc id="22798" ai_param="10025"/>
+	</spawn>
+	<spawn group="Protector_Room5" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_2"/>
+		<npc id="22799" ai_param="10025"/>
+	</spawn>
+	<spawn group="Protector_Room5" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_2"/>
+		<npc id="22800" ai_param="10025"/>
+	</spawn>
+	
+	<spawn group="Protector_Room6" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_1"/>
+		<npc id="22798" ai_param="10026"/>
+	</spawn>
+	<spawn group="Protector_Room6" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_1"/>
+		<npc id="22799" ai_param="10026"/>
+	</spawn>
+	<spawn group="Protector_Room6" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_1"/>
+		<npc id="22800" ai_param="10026"/>
+	</spawn>
+	<spawn group="Protector_Room6" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_2"/>
+		<npc id="22798" ai_param="10026"/>
+	</spawn>
+	<spawn group="Protector_Room6" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_2"/>
+		<npc id="22799" ai_param="10026"/>
+	</spawn>
+	<spawn group="Protector_Room6" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_2"/>
+		<npc id="22800" ai_param="10026"/>
+	</spawn>
+	
+	<spawn group="Protector_Room7" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_1"/>
+		<npc id="22798" ai_param="10027"/>
+	</spawn>
+	<spawn group="Protector_Room7" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_1"/>
+		<npc id="22799" ai_param="10027"/>
+	</spawn>
+	<spawn group="Protector_Room7" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_1"/>
+		<npc id="22800" ai_param="10027"/>
+	</spawn>
+	<spawn group="Protector_Room7" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_2"/>
+		<npc id="22798" ai_param="10027"/>
+	</spawn>
+	<spawn group="Protector_Room7" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_2"/>
+		<npc id="22799" ai_param="10027"/>
+	</spawn>
+	<spawn group="Protector_Room7" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_2"/>
+		<npc id="22800" ai_param="10027"/>
+	</spawn>
+	
+	<spawn group="Protector_Room8" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_1"/>
+		<npc id="22798" ai_param="10028"/>
+	</spawn>
+	<spawn group="Protector_Room8" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_1"/>
+		<npc id="22799" ai_param="10028"/>
+	</spawn>
+	<spawn group="Protector_Room8" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_1"/>
+		<npc id="22800" ai_param="10028"/>
+	</spawn>
+	<spawn group="Protector_Room8" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_2"/>
+		<npc id="22798" ai_param="10028"/>
+	</spawn>
+	<spawn group="Protector_Room8" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_2"/>
+		<npc id="22799" ai_param="10028"/>
+	</spawn>
+	<spawn group="Protector_Room8" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_2"/>
+		<npc id="22800" ai_param="10028"/>
+	</spawn>
+
+	<spawn group="Fighter_Room1" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_1"/>
+		<npc id="22798" ai_param="10021"/>
+	</spawn>
+	<spawn group="Fighter_Room1" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_1"/>
+		<npc id="22799" ai_param="10021"/>
+	</spawn>
+	<spawn group="Fighter_Room1" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_1"/>
+		<npc id="22800" ai_param="10021"/>
+	</spawn>
+	<spawn group="Fighter_Room1" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_2"/>
+		<npc id="22798" ai_param="10021"/>
+	</spawn>
+	<spawn group="Fighter_Room1" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_2"/>
+		<npc id="22799" ai_param="10021"/>
+	</spawn>
+	<spawn group="Fighter_Room1" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_2"/>
+		<npc id="22800" ai_param="10021"/>
+	</spawn>
+	
+	<spawn group="Fighter_Room2" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_1"/>
+		<npc id="22798" ai_param="10022"/>
+	</spawn>
+	<spawn group="Fighter_Room2" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_1"/>
+		<npc id="22799" ai_param="10022"/>
+	</spawn>
+	<spawn group="Fighter_Room2" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_1"/>
+		<npc id="22800" ai_param="10022"/>
+	</spawn>
+	<spawn group="Fighter_Room2" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_2"/>
+		<npc id="22798" ai_param="10022"/>
+	</spawn>
+	<spawn group="Fighter_Room2" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_2"/>
+		<npc id="22799" ai_param="10022"/>
+	</spawn>
+	<spawn group="Fighter_Room2" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_2"/>
+		<npc id="22800" ai_param="10022"/>
+	</spawn>
+	
+	<spawn group="Fighter_Room3" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_1"/>
+		<npc id="22798" ai_param="10023"/>
+	</spawn>
+	<spawn group="Fighter_Room3" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_1"/>
+		<npc id="22799" ai_param="10023"/>
+	</spawn>
+	<spawn group="Fighter_Room3" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_1"/>
+		<npc id="22800" ai_param="10023"/>
+	</spawn>
+	<spawn group="Fighter_Room3" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_2"/>
+		<npc id="22798" ai_param="10023"/>
+	</spawn>
+	<spawn group="Fighter_Room3" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_2"/>
+		<npc id="22799" ai_param="10023"/>
+	</spawn>
+	<spawn group="Fighter_Room3" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_2"/>
+		<npc id="22800" ai_param="10023"/>
+	</spawn>
+	
+	<spawn group="Fighter_Room4" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_1"/>
+		<npc id="22798" ai_param="10024"/>
+	</spawn>
+	<spawn group="Fighter_Room4" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_1"/>
+		<npc id="22799" ai_param="10024"/>
+	</spawn>
+	<spawn group="Fighter_Room4" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_1"/>
+		<npc id="22800" ai_param="10024"/>
+	</spawn>
+	<spawn group="Fighter_Room4" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_2"/>
+		<npc id="22798" ai_param="10024"/>
+	</spawn>
+	<spawn group="Fighter_Room4" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_2"/>
+		<npc id="22799" ai_param="10024"/>
+	</spawn>
+	<spawn group="Fighter_Room4" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_2"/>
+		<npc id="22800" ai_param="10024"/>
+	</spawn>
+	
+	<spawn group="Fighter_Room5" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_1"/>
+		<npc id="22798" ai_param="10025"/>
+	</spawn>
+	<spawn group="Fighter_Room5" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_1"/>
+		<npc id="22799" ai_param="10025"/>
+	</spawn>
+	<spawn group="Fighter_Room5" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_1"/>
+		<npc id="22800" ai_param="10025"/>
+	</spawn>
+	<spawn group="Fighter_Room5" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_2"/>
+		<npc id="22798" ai_param="10025"/>
+	</spawn>
+	<spawn group="Fighter_Room5" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_2"/>
+		<npc id="22799" ai_param="10025"/>
+	</spawn>
+	<spawn group="Fighter_Room5" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_2"/>
+		<npc id="22800" ai_param="10025"/>
+	</spawn>
+	
+	<spawn group="Fighter_Room6" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_1"/>
+		<npc id="22798" ai_param="10026"/>
+	</spawn>
+	<spawn group="Fighter_Room6" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_1"/>
+		<npc id="22799" ai_param="10026"/>
+	</spawn>
+	<spawn group="Fighter_Room6" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_1"/>
+		<npc id="22800" ai_param="10026"/>
+	</spawn>
+	<spawn group="Fighter_Room6" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_2"/>
+		<npc id="22798" ai_param="10026"/>
+	</spawn>
+	<spawn group="Fighter_Room6" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_2"/>
+		<npc id="22799" ai_param="10026"/>
+	</spawn>
+	<spawn group="Fighter_Room6" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_2"/>
+		<npc id="22800" ai_param="10026"/>
+	</spawn>
+	
+	<spawn group="Fighter_Room7" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_1"/>
+		<npc id="22798" ai_param="10027"/>
+	</spawn>
+	<spawn group="Fighter_Room7" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_1"/>
+		<npc id="22799" ai_param="10027"/>
+	</spawn>
+	<spawn group="Fighter_Room7" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_1"/>
+		<npc id="22800" ai_param="10027"/>
+	</spawn>
+	<spawn group="Fighter_Room7" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_2"/>
+		<npc id="22798" ai_param="10027"/>
+	</spawn>
+	<spawn group="Fighter_Room7" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_2"/>
+		<npc id="22799" ai_param="10027"/>
+	</spawn>
+	<spawn group="Fighter_Room7" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_2"/>
+		<npc id="22800" ai_param="10027"/>
+	</spawn>
+	
+	<spawn group="Fighter_Room8" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_1"/>
+		<npc id="22798" ai_param="10028"/>
+	</spawn>
+	<spawn group="Fighter_Room8" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_1"/>
+		<npc id="22799" ai_param="10028"/>
+	</spawn>
+	<spawn group="Fighter_Room8" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_1"/>
+		<npc id="22800" ai_param="10028"/>
+	</spawn>
+	<spawn group="Fighter_Room8" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_2"/>
+		<npc id="22798" ai_param="10028"/>
+	</spawn>
+	<spawn group="Fighter_Room8" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_2"/>
+		<npc id="22799" ai_param="10028"/>
+	</spawn>
+	<spawn group="Fighter_Room8" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_2"/>
+		<npc id="22800" ai_param="10028"/>
+	</spawn>
+
+	<spawn group="Mystic_Room1" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_1"/>
+		<npc id="22798" ai_param="10021"/>
+	</spawn>
+	<spawn group="Mystic_Room1" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_1"/>
+		<npc id="22799" ai_param="10021"/>
+	</spawn>
+	<spawn group="Mystic_Room1" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_1"/>
+		<npc id="22800" ai_param="10021"/>
+	</spawn>
+	<spawn group="Mystic_Room1" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_2"/>
+		<npc id="22798" ai_param="10021"/>
+	</spawn>
+	<spawn group="Mystic_Room1" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_2"/>
+		<npc id="22799" ai_param="10021"/>
+	</spawn>
+	<spawn group="Mystic_Room1" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_1_2"/>
+		<npc id="22800" ai_param="10021"/>
+	</spawn>
+	
+	<spawn group="Mystic_Room2" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_1"/>
+		<npc id="22798" ai_param="10022"/>
+	</spawn>
+	<spawn group="Mystic_Room2" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_1"/>
+		<npc id="22799" ai_param="10022"/>
+	</spawn>
+	<spawn group="Mystic_Room2" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_1"/>
+		<npc id="22800" ai_param="10022"/>
+	</spawn>
+	<spawn group="Mystic_Room2" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_2"/>
+		<npc id="22798" ai_param="10022"/>
+	</spawn>
+	<spawn group="Mystic_Room2" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_2"/>
+		<npc id="22799" ai_param="10022"/>
+	</spawn>
+	<spawn group="Mystic_Room2" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_2_2"/>
+		<npc id="22800" ai_param="10022"/>
+	</spawn>
+	
+	<spawn group="Mystic_Room3" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_1"/>
+		<npc id="22798" ai_param="10023"/>
+	</spawn>
+	<spawn group="Mystic_Room3" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_1"/>
+		<npc id="22799" ai_param="10023"/>
+	</spawn>
+	<spawn group="Mystic_Room3" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_1"/>
+		<npc id="22800" ai_param="10023"/>
+	</spawn>
+	<spawn group="Mystic_Room3" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_2"/>
+		<npc id="22798" ai_param="10023"/>
+	</spawn>
+	<spawn group="Mystic_Room3" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_2"/>
+		<npc id="22799" ai_param="10023"/>
+	</spawn>
+	<spawn group="Mystic_Room3" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_3_2"/>
+		<npc id="22800" ai_param="10023"/>
+	</spawn>
+	
+	<spawn group="Mystic_Room4" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_1"/>
+		<npc id="22798" ai_param="10024"/>
+	</spawn>
+	<spawn group="Mystic_Room4" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_1"/>
+		<npc id="22799" ai_param="10024"/>
+	</spawn>
+	<spawn group="Mystic_Room4" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_1"/>
+		<npc id="22800" ai_param="10024"/>
+	</spawn>
+	<spawn group="Mystic_Room4" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_2"/>
+		<npc id="22798" ai_param="10024"/>
+	</spawn>
+	<spawn group="Mystic_Room4" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_2"/>
+		<npc id="22799" ai_param="10024"/>
+	</spawn>
+	<spawn group="Mystic_Room4" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_4_2"/>
+		<npc id="22800" ai_param="10024"/>
+	</spawn>
+	
+	<spawn group="Mystic_Room5" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_1"/>
+		<npc id="22798" ai_param="10025"/>
+	</spawn>
+	<spawn group="Mystic_Room5" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_1"/>
+		<npc id="22799" ai_param="10025"/>
+	</spawn>
+	<spawn group="Mystic_Room5" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_1"/>
+		<npc id="22800" ai_param="10025"/>
+	</spawn>
+	<spawn group="Mystic_Room5" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_2"/>
+		<npc id="22798" ai_param="10025"/>
+	</spawn>
+	<spawn group="Mystic_Room5" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_2"/>
+		<npc id="22799" ai_param="10025"/>
+	</spawn>
+	<spawn group="Mystic_Room5" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_5_2"/>
+		<npc id="22800" ai_param="10025"/>
+	</spawn>
+	
+	<spawn group="Mystic_Room6" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_1"/>
+		<npc id="22798" ai_param="10026"/>
+	</spawn>
+	<spawn group="Mystic_Room6" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_1"/>
+		<npc id="22799" ai_param="10026"/>
+	</spawn>
+	<spawn group="Mystic_Room6" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_1"/>
+		<npc id="22800" ai_param="10026"/>
+	</spawn>
+	<spawn group="Mystic_Room6" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_2"/>
+		<npc id="22798" ai_param="10026"/>
+	</spawn>
+	<spawn group="Mystic_Room6" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_2"/>
+		<npc id="22799" ai_param="10026"/>
+	</spawn>
+	<spawn group="Mystic_Room6" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_6_2"/>
+		<npc id="22800" ai_param="10026"/>
+	</spawn>
+	
+	<spawn group="Mystic_Room7" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_1"/>
+		<npc id="22798" ai_param="10027"/>
+	</spawn>
+	<spawn group="Mystic_Room7" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_1"/>
+		<npc id="22799" ai_param="10027"/>
+	</spawn>
+	<spawn group="Mystic_Room7" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_1"/>
+		<npc id="22800" ai_param="10027"/>
+	</spawn>
+	<spawn group="Mystic_Room7" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_2"/>
+		<npc id="22798" ai_param="10027"/>
+	</spawn>
+	<spawn group="Mystic_Room7" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_2"/>
+		<npc id="22799" ai_param="10027"/>
+	</spawn>
+	<spawn group="Mystic_Room7" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_7_2"/>
+		<npc id="22800" ai_param="10027"/>
+	</spawn>
+	
+	<spawn group="Mystic_Room8" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_1"/>
+		<npc id="22798" ai_param="10028"/>
+	</spawn>
+	<spawn group="Mystic_Room8" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_1"/>
+		<npc id="22799" ai_param="10028"/>
+	</spawn>
+	<spawn group="Mystic_Room8" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_1"/>
+		<npc id="22800" ai_param="10028"/>
+	</spawn>
+	<spawn group="Mystic_Room8" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_2"/>
+		<npc id="22798" ai_param="10028"/>
+	</spawn>
+	<spawn group="Mystic_Room8" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_2"/>
+		<npc id="22799" ai_param="10028"/>
+	</spawn>
+	<spawn group="Mystic_Room8" count="7" respawn="100" respawn_random="20" period_of_day="none">
+		<territory name="monastyre_silence_furnface_8_2"/>
+		<npc id="22800" ai_param="10028"/>
+	</spawn>
+	
+	<spawn group="furnace_room1" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<point x="113125" y="-73174" z="-598" ai="-FurnaceBalance" />
+		<point x="113126" y="-73289" z="-598" ai="-FurnaceProtection" />
+		<point x="113126" y="-73403" z="-598" ai="-FurnaceWill" />
+		<point x="113126" y="-73517" z="-598" ai="-FurnaceMagic" />
+		<npc id="18914" ai_param="10021" />
+	</spawn>
+	<spawn group="furnace_room2" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<point x="113122" y="-71873" z="-600" ai="-FurnaceBalance" />
+		<point x="113121" y="-72011" z="-600" ai="-FurnaceProtection" />
+		<point x="113120" y="-72125" z="-600" ai="-FurnaceWill" />
+		<point x="113120" y="-72243" z="-600" ai="-FurnaceMagic" />
+		<npc id="18914" ai_param="10022" />
+	</spawn>
+	<spawn group="furnace_room3" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<point x="112385" y="-80802" z="-1639" ai="-FurnaceBalance" />
+		<point x="112383" y="-80913" z="-1639" ai="-FurnaceProtection" />
+		<point x="112384" y="-81024" z="-1639" ai="-FurnaceWill" />
+		<point x="112383" y="-81131" z="-1639" ai="-FurnaceMagic" />
+		<npc id="18914" ai_param="10023" />
+	</spawn>
+	<spawn group="furnace_room4" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<point x="112384" y="-79512" z="-1639" ai="-FurnaceBalance" />
+		<point x="112383" y="-79628" z="-1638" ai="-FurnaceProtection" />
+		<point x="112383" y="-79734" z="-1638" ai="-FurnaceWill" />
+		<point x="112383" y="-79841" z="-1638" ai="-FurnaceMagic" />
+		<npc id="18914" ai_param="10024" />
+	</spawn>
+	<spawn group="furnace_room5" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<point x="108528" y="-76098" z="-1120" ai="-FurnaceBalance" />
+		<point x="108408" y="-76096" z="-1120" ai="-FurnaceProtection" />
+		<point x="108300" y="-76097" z="-1120" ai="-FurnaceWill" />
+		<point x="108178" y="-76095" z="-1120" ai="-FurnaceMagic" />
+		<npc id="18914" ai_param="10025" />
+	</spawn>
+	<spawn group="furnace_room6" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<point x="109468" y="-76098" z="-1119" ai="-FurnaceBalance" />
+		<point x="109574" y="-76094" z="-1119" ai="-FurnaceProtection" />
+		<point x="109682" y="-76095" z="-1119" ai="-FurnaceWill" />
+		<point x="109803" y="-76093" z="-1119" ai="-FurnaceMagic" />
+		<npc id="18914" ai_param="10026" />
+	</spawn>
+	<spawn group="furnace_room7" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<point x="115798" y="-76943" z="-79" ai="-FurnaceBalance" />
+		<point x="115898" y="-76943" z="-79" ai="-FurnaceProtection" />
+		<point x="116024" y="-76946" z="-80" ai="-FurnaceWill" />
+		<point x="116130" y="-76944" z="-79" ai="-FurnaceMagic" />
+		<npc id="18914" ai_param="10027" />
+	</spawn>
+	<spawn group="furnace_room8" count="1" respawn="100" respawn_random="20" period_of_day="none">
+		<point x="117074" y="-76909" z="-80" ai="-FurnaceBalance" />
+		<point x="117181" y="-76913" z="-81" ai="-FurnaceProtection" />
+		<point x="117313" y="-76913" z="-80" ai="-FurnaceWill" />
+		<point x="117406" y="-76914" z="-81" ai="-FurnaceMagic" />
+		<npc id="18914" ai_param="10028" />
+	</spawn>
+</list>

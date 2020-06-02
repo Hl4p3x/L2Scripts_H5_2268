@@ -1,0 +1,641 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "fishdata.dtd">
+<list>
+	<distribution id="1">
+		<for_lure type="NORMAL">
+			<chance type="EASY_WIDE" value="10" />
+			<chance type="EASY_SWIFT" value="10" />
+			<chance type="EASY_UGLY" value="10" />
+			<chance type="WIDE" value="10" />
+			<chance type="SWIFT" value="10" />
+			<chance type="UGLY" value="10" />
+			<chance type="BOX" value="1" />
+		</for_lure>
+		<for_lure type="NIGHT">
+			<chance type="EASY_WIDE" value="10" />
+			<chance type="EASY_SWIFT" value="10" />
+			<chance type="EASY_UGLY" value="10" />
+			<chance type="WIDE" value="10" />
+			<chance type="SWIFT" value="10" />
+			<chance type="UGLY" value="10" />
+			<chance type="HARD_WIDE" value="10" />
+			<chance type="HARD_SWIFT" value="10" />
+			<chance type="HARD_UGLY" value="10" />
+			<chance type="BOX" value="5" />
+		</for_lure>
+	</distribution>
+	<distribution id="2">
+		<for_lure type="NORMAL">
+			<chance type="EASY_WIDE" value="15" />
+			<chance type="EASY_SWIFT" value="15" />
+			<chance type="EASY_UGLY" value="15" />
+			<chance type="WIDE" value="15" />
+			<chance type="SWIFT" value="15" />
+			<chance type="UGLY" value="15" />
+			<chance type="BOX" value="5" />
+		</for_lure>
+		<for_lure type="NIGHT">
+			<chance type="EASY_WIDE" value="10" />
+			<chance type="EASY_SWIFT" value="10" />
+			<chance type="EASY_UGLY" value="10" />
+			<chance type="WIDE" value="10" />
+			<chance type="SWIFT" value="10" />
+			<chance type="UGLY" value="10" />
+			<chance type="HARD_WIDE" value="10" />
+			<chance type="HARD_SWIFT" value="10" />
+			<chance type="HARD_UGLY" value="10" />
+			<chance type="BOX" value="5" />
+		</for_lure>
+	</distribution>
+	<distribution id="3">
+		<for_lure type="NORMAL">
+			<chance type="EASY_WIDE" value="15" />
+			<chance type="EASY_SWIFT" value="15" />
+			<chance type="EASY_UGLY" value="15" />
+			<chance type="WIDE" value="15" />
+			<chance type="SWIFT" value="15" />
+			<chance type="UGLY" value="15" />
+			<chance type="BOX" value="5" />
+		</for_lure>
+		<for_lure type="NIGHT">
+			<chance type="EASY_WIDE" value="10" />
+			<chance type="EASY_SWIFT" value="10" />
+			<chance type="EASY_UGLY" value="10" />
+			<chance type="WIDE" value="10" />
+			<chance type="SWIFT" value="10" />
+			<chance type="UGLY" value="10" />
+			<chance type="HARD_WIDE" value="10" />
+			<chance type="HARD_SWIFT" value="10" />
+			<chance type="HARD_UGLY" value="10" />
+			<chance type="BOX" value="5" />
+		</for_lure>
+	</distribution>
+	<distribution id="4">
+		<for_lure type="NORMAL">
+			<chance type="EASY_WIDE" value="14" />
+			<chance type="EASY_SWIFT" value="14" />
+			<chance type="EASY_UGLY" value="14" />
+			<chance type="WIDE" value="14" />
+			<chance type="SWIFT" value="14" />
+			<chance type="UGLY" value="14" />
+			<chance type="BOX" value="5" />
+			<chance type="HS" value="5" />
+		</for_lure>
+		<for_lure type="NIGHT">
+			<chance type="EASY_WIDE" value="9" />
+			<chance type="EASY_SWIFT" value="9" />
+			<chance type="EASY_UGLY" value="9" />
+			<chance type="WIDE" value="9" />
+			<chance type="SWIFT" value="9" />
+			<chance type="UGLY" value="9" />
+			<chance type="HARD_WIDE" value="9" />
+			<chance type="HARD_SWIFT" value="9" />
+			<chance type="HARD_UGLY" value="9" />
+			<chance type="HS" value="9" />
+			<chance type="BOX" value="5" />
+		</for_lure>
+	</distribution>
+	<lure item_id="6519" revision_number="1.1" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="SWIFT" value="155" />
+		<chance type="UGLY" value="130" />
+		<chance type="WIDE" value="114" />
+		<chance type="BOX" value="101" />
+	</lure>
+	<lure item_id="6520" revision_number="1.3" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="SWIFT" value="155" />
+		<chance type="UGLY" value="130" />
+		<chance type="WIDE" value="114" />
+		<chance type="BOX" value="101" />
+	</lure>
+	<lure item_id="6521" revision_number="1.5" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="SWIFT" value="155" />
+		<chance type="UGLY" value="130" />
+		<chance type="WIDE" value="114" />
+		<chance type="BOX" value="101" />
+	</lure>
+	<lure item_id="6522" revision_number="1.1" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="SWIFT" value="130" />
+		<chance type="UGLY" value="114" />
+		<chance type="WIDE" value="155" />
+		<chance type="BOX" value="101" />
+	</lure>
+	<lure item_id="6523" revision_number="1.3" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="SWIFT" value="130" />
+		<chance type="UGLY" value="114" />
+		<chance type="WIDE" value="155" />
+		<chance type="BOX" value="101" />
+	</lure>
+	<lure item_id="6524" revision_number="1.5" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="SWIFT" value="130" />
+		<chance type="UGLY" value="114" />
+		<chance type="WIDE" value="155" />
+		<chance type="BOX" value="101" />
+	</lure>
+	<lure item_id="6525" revision_number="1.1" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="SWIFT" value="114" />
+		<chance type="UGLY" value="155" />
+		<chance type="WIDE" value="130" />
+		<chance type="BOX" value="101" />
+	</lure>
+	<lure item_id="6526" revision_number="1.3" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="SWIFT" value="114" />
+		<chance type="UGLY" value="155" />
+		<chance type="WIDE" value="130" />
+		<chance type="BOX" value="101" />
+	</lure>
+	<lure item_id="6527" revision_number="1.5" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="SWIFT" value="114" />
+		<chance type="UGLY" value="155" />
+		<chance type="WIDE" value="130" />
+		<chance type="BOX" value="101" />
+	</lure>
+	<lure item_id="6528" revision_number="1.0" length_bonus="3000" rate_bonus="20.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="SWIFT" value="133" />
+		<chance type="UGLY" value="133" />
+		<chance type="WIDE" value="133" />
+		<chance type="BOX" value="101" />
+	</lure>
+	<lure item_id="7610" revision_number="1.0" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="SWIFT" value="0" />
+		<chance type="UGLY" value="0" />
+		<chance type="WIDE" value="0" />
+		<chance type="BOX" value="100" />
+	</lure>
+	<lure item_id="7611" revision_number="1.0" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="SWIFT" value="0" />
+		<chance type="UGLY" value="0" />
+		<chance type="WIDE" value="0" />
+		<chance type="BOX" value="100" />
+	</lure>
+	<lure item_id="7612" revision_number="1.0" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="SWIFT" value="0" />
+		<chance type="UGLY" value="0" />
+		<chance type="WIDE" value="0" />
+		<chance type="BOX" value="100" />
+	</lure>
+	<lure item_id="7613" revision_number="1.0" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="SWIFT" value="0" />
+		<chance type="UGLY" value="0" />
+		<chance type="WIDE" value="0" />
+		<chance type="BOX" value="100" />
+	</lure>
+	<lure item_id="7807" revision_number="1.1" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="114" />
+		<chance type="EASY_SWIFT" value="155" />
+		<chance type="EASY_UGLY" value="130" />
+		<chance type="SWIFT" value="0" />
+		<chance type="UGLY" value="0" />
+		<chance type="WIDE" value="0" />
+		<chance type="BOX" value="0" />
+	</lure>
+	<lure item_id="7808" revision_number="1.1" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="155" />
+		<chance type="EASY_SWIFT" value="130" />
+		<chance type="EASY_UGLY" value="114" />
+		<chance type="SWIFT" value="0" />
+		<chance type="UGLY" value="0" />
+		<chance type="WIDE" value="0" />
+		<chance type="BOX" value="0" />
+	</lure>
+	<lure item_id="7809" revision_number="1.1" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="130" />
+		<chance type="EASY_SWIFT" value="114" />
+		<chance type="EASY_UGLY" value="155" />
+		<chance type="SWIFT" value="0" />
+		<chance type="UGLY" value="0" />
+		<chance type="WIDE" value="0" />
+		<chance type="BOX" value="0" />
+	</lure>
+	<lure item_id="8505" revision_number="1.1" length_bonus="0" rate_bonus="0.0" type="NIGHT">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="HARD_SWIFT" value="155" />
+		<chance type="HARD_UGLY" value="130" />
+		<chance type="HARD_WIDE" value="114" />
+		<chance type="BOX" value="0" />
+	</lure>
+	<lure item_id="8506" revision_number="1.3" length_bonus="0" rate_bonus="0.0" type="NIGHT">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="HARD_SWIFT" value="155" />
+		<chance type="HARD_UGLY" value="130" />
+		<chance type="HARD_WIDE" value="114" />
+		<chance type="BOX" value="0" />
+	</lure>
+	<lure item_id="8507" revision_number="1.5" length_bonus="0" rate_bonus="0.0" type="NIGHT">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="HARD_SWIFT" value="155" />
+		<chance type="HARD_UGLY" value="130" />
+		<chance type="HARD_WIDE" value="114" />
+		<chance type="BOX" value="0" />
+	</lure>
+	<lure item_id="8508" revision_number="1.1" length_bonus="0" rate_bonus="0.0" type="NIGHT">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="HARD_SWIFT" value="130" />
+		<chance type="HARD_UGLY" value="114" />
+		<chance type="HARD_WIDE" value="155" />
+		<chance type="BOX" value="0" />
+	</lure>
+	<lure item_id="8509" revision_number="1.3" length_bonus="0" rate_bonus="0.0" type="NIGHT">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="HARD_SWIFT" value="130" />
+		<chance type="HARD_UGLY" value="114" />
+		<chance type="HARD_WIDE" value="155" />
+		<chance type="BOX" value="0" />
+	</lure>
+	<lure item_id="8510" revision_number="1.5" length_bonus="0" rate_bonus="0.0" type="NIGHT">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="HARD_SWIFT" value="130" />
+		<chance type="HARD_UGLY" value="114" />
+		<chance type="HARD_WIDE" value="155" />
+		<chance type="BOX" value="0" />
+	</lure>
+	<lure item_id="8511" revision_number="1.1" length_bonus="0" rate_bonus="0.0" type="NIGHT">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="HARD_SWIFT" value="114" />
+		<chance type="HARD_UGLY" value="155" />
+		<chance type="HARD_WIDE" value="130" />
+		<chance type="BOX" value="0" />
+	</lure>
+	<lure item_id="8512" revision_number="1.3" length_bonus="0" rate_bonus="0.0" type="NIGHT">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="HARD_SWIFT" value="114" />
+		<chance type="HARD_UGLY" value="155" />
+		<chance type="HARD_WIDE" value="130" />
+		<chance type="BOX" value="0" />
+	</lure>
+	<lure item_id="8513" revision_number="1.5" length_bonus="0" rate_bonus="0.0" type="NIGHT">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="HARD_SWIFT" value="114" />
+		<chance type="HARD_UGLY" value="155" />
+		<chance type="HARD_WIDE" value="130" />
+		<chance type="BOX" value="0" />
+	</lure>
+	<lure item_id="8548" revision_number="1.5" length_bonus="0" rate_bonus="0.0" type="NORMAL">
+		<chance type="SWIFT" value="125" />
+		<chance type="UGLY" value="125" />
+		<chance type="WIDE" value="125" />
+		<chance type="HS" value="125" />
+	</lure>
+	<lure item_id="8484" revision_number="1.0" length_bonus="3000" rate_bonus="20.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="SWIFT" value="133" />
+		<chance type="UGLY" value="133" />
+		<chance type="WIDE" value="133" />
+		<chance type="BOX" value="101" />
+	</lure>
+	<lure item_id="8485" revision_number="1.0" length_bonus="3000" rate_bonus="20.0" type="NIGHT">
+		<chance type="EASY_WIDE" value="0" />
+		<chance type="EASY_SWIFT" value="0" />
+		<chance type="EASY_UGLY" value="0" />
+		<chance type="HARD_SWIFT" value="133" />
+		<chance type="HARD_UGLY" value="133" />
+		<chance type="HARD_WIDE" value="133" />
+	</lure>
+	<lure item_id="8486" revision_number="1.0" length_bonus="3000" rate_bonus="20.0" type="NORMAL">
+		<chance type="EASY_WIDE" value="133" />
+		<chance type="EASY_SWIFT" value="133" />
+		<chance type="EASY_UGLY" value="133" />
+		<chance type="HARD_SWIFT" value="0" />
+		<chance type="HARD_UGLY" value="0" />
+		<chance type="HARD_WIDE" value="0" />
+	</lure>
+	<fish item_id="6411" group="SWIFT" level="1" bite_rate="100.0" guts="50.0" hp="100" max_length="30000" length_rate="10.0" hp_regen="4.0" start_combat_time="20" combat_duration="24" guts_check_time="5" guts_check_probability="50.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6412" group="UGLY" level="1" bite_rate="100.0" guts="50.2" hp="116" max_length="30000" length_rate="10.0" hp_regen="4.0" start_combat_time="20" combat_duration="27" guts_check_time="5" guts_check_probability="50.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6413" group="WIDE" level="1" bite_rate="100.0" guts="50.4" hp="132" max_length="30000" length_rate="10.0" hp_regen="4.0" start_combat_time="20" combat_duration="31" guts_check_time="5" guts_check_probability="50.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6414" group="SWIFT" level="2" bite_rate="100.0" guts="50.6" hp="150" max_length="30000" length_rate="10.0" hp_regen="6.0" start_combat_time="20" combat_duration="25" guts_check_time="5" guts_check_probability="50.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6415" group="UGLY" level="2" bite_rate="100.0" guts="50.8" hp="168" max_length="30000" length_rate="10.0" hp_regen="6.0" start_combat_time="20" combat_duration="28" guts_check_time="5" guts_check_probability="50.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6416" group="WIDE" level="2" bite_rate="100.0" guts="51.0" hp="188" max_length="30000" length_rate="10.0" hp_regen="6.0" start_combat_time="20" combat_duration="31" guts_check_time="5" guts_check_probability="51.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6417" group="SWIFT" level="3" bite_rate="100.0" guts="51.2" hp="208" max_length="30000" length_rate="10.0" hp_regen="8.0" start_combat_time="20" combat_duration="26" guts_check_time="5" guts_check_probability="51.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6418" group="UGLY" level="3" bite_rate="100.0" guts="51.4" hp="230" max_length="30000" length_rate="10.0" hp_regen="8.0" start_combat_time="20" combat_duration="29" guts_check_time="5" guts_check_probability="51.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6419" group="WIDE" level="3" bite_rate="100.0" guts="51.6" hp="252" max_length="30000" length_rate="10.0" hp_regen="8.0" start_combat_time="20" combat_duration="32" guts_check_time="5" guts_check_probability="51.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6420" group="SWIFT" level="4" bite_rate="100.0" guts="51.8" hp="276" max_length="30000" length_rate="10.0" hp_regen="10.0" start_combat_time="20" combat_duration="28" guts_check_time="5" guts_check_probability="51.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6421" group="UGLY" level="4" bite_rate="100.0" guts="52.0" hp="300" max_length="30000" length_rate="10.0" hp_regen="10.0" start_combat_time="20" combat_duration="31" guts_check_time="5" guts_check_probability="52.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6422" group="WIDE" level="4" bite_rate="100.0" guts="52.2" hp="310" max_length="30000" length_rate="10.0" hp_regen="10.0" start_combat_time="20" combat_duration="32" guts_check_time="5" guts_check_probability="52.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6423" group="SWIFT" level="5" bite_rate="100.0" guts="52.4" hp="320" max_length="30000" length_rate="10.0" hp_regen="11.0" start_combat_time="20" combat_duration="30" guts_check_time="5" guts_check_probability="52.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6424" group="UGLY" level="5" bite_rate="100.0" guts="52.6" hp="330" max_length="30000" length_rate="10.0" hp_regen="11.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="52.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6425" group="WIDE" level="5" bite_rate="100.0" guts="52.8" hp="340" max_length="30000" length_rate="10.0" hp_regen="11.0" start_combat_time="20" combat_duration="32" guts_check_time="4" guts_check_probability="52.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6426" group="SWIFT" level="6" bite_rate="100.0" guts="53.0" hp="350" max_length="30000" length_rate="10.0" hp_regen="12.0" start_combat_time="20" combat_duration="30" guts_check_time="4" guts_check_probability="53.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6427" group="UGLY" level="6" bite_rate="100.0" guts="53.2" hp="360" max_length="30000" length_rate="10.0" hp_regen="12.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="53.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6428" group="WIDE" level="6" bite_rate="100.0" guts="53.4" hp="370" max_length="30000" length_rate="10.0" hp_regen="12.0" start_combat_time="20" combat_duration="32" guts_check_time="4" guts_check_probability="53.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6429" group="SWIFT" level="7" bite_rate="100.0" guts="53.6" hp="380" max_length="30000" length_rate="10.0" hp_regen="12.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="53.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6430" group="UGLY" level="7" bite_rate="100.0" guts="53.8" hp="390" max_length="30000" length_rate="10.0" hp_regen="13.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="53.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6431" group="WIDE" level="7" bite_rate="100.0" guts="54.0" hp="400" max_length="30000" length_rate="10.0" hp_regen="13.0" start_combat_time="20" combat_duration="32" guts_check_time="4" guts_check_probability="54.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6432" group="SWIFT" level="8" bite_rate="100.0" guts="54.2" hp="410" max_length="30000" length_rate="10.0" hp_regen="13.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="54.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6433" group="UGLY" level="8" bite_rate="100.0" guts="54.4" hp="420" max_length="30000" length_rate="10.0" hp_regen="13.0" start_combat_time="20" combat_duration="32" guts_check_time="4" guts_check_probability="54.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6434" group="WIDE" level="8" bite_rate="100.0" guts="54.6" hp="430" max_length="30000" length_rate="10.0" hp_regen="14.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="54.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6435" group="SWIFT" level="9" bite_rate="100.0" guts="54.8" hp="506" max_length="30000" length_rate="10.0" hp_regen="17.0" start_combat_time="20" combat_duration="29" guts_check_time="4" guts_check_probability="54.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6436" group="UGLY" level="9" bite_rate="100.0" guts="55.0" hp="518" max_length="30000" length_rate="10.0" hp_regen="17.0" start_combat_time="20" combat_duration="30" guts_check_time="4" guts_check_probability="55.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6437" group="WIDE" level="9" bite_rate="100.0" guts="55.2" hp="529" max_length="30000" length_rate="10.0" hp_regen="17.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="55.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6438" group="SWIFT" level="10" bite_rate="100.0" guts="55.4" hp="541" max_length="30000" length_rate="10.0" hp_regen="18.0" start_combat_time="20" combat_duration="30" guts_check_time="4" guts_check_probability="55.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6439" group="UGLY" level="10" bite_rate="100.0" guts="55.6" hp="552" max_length="30000" length_rate="10.0" hp_regen="18.0" start_combat_time="20" combat_duration="30" guts_check_time="4" guts_check_probability="55.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6440" group="WIDE" level="10" bite_rate="100.0" guts="55.8" hp="564" max_length="30000" length_rate="10.0" hp_regen="18.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="55.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6441" group="SWIFT" level="11" bite_rate="100.0" guts="56.0" hp="575" max_length="30000" length_rate="10.0" hp_regen="19.0" start_combat_time="20" combat_duration="30" guts_check_time="4" guts_check_probability="56.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6442" group="UGLY" level="11" bite_rate="100.0" guts="56.2" hp="587" max_length="30000" length_rate="10.0" hp_regen="19.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="56.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6443" group="WIDE" level="11" bite_rate="100.0" guts="56.4" hp="598" max_length="30000" length_rate="10.0" hp_regen="19.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="56.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6444" group="SWIFT" level="12" bite_rate="100.0" guts="56.6" hp="610" max_length="30000" length_rate="10.0" hp_regen="20.0" start_combat_time="20" combat_duration="30" guts_check_time="4" guts_check_probability="56.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6445" group="UGLY" level="12" bite_rate="100.0" guts="56.8" hp="621" max_length="30000" length_rate="10.0" hp_regen="20.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="56.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6446" group="WIDE" level="12" bite_rate="100.0" guts="57.0" hp="633" max_length="30000" length_rate="10.0" hp_regen="20.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="57.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6447" group="SWIFT" level="13" bite_rate="100.0" guts="57.2" hp="644" max_length="30000" length_rate="10.0" hp_regen="21.0" start_combat_time="20" combat_duration="30" guts_check_time="4" guts_check_probability="57.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6448" group="UGLY" level="13" bite_rate="100.0" guts="57.4" hp="656" max_length="30000" length_rate="10.0" hp_regen="21.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="57.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6449" group="WIDE" level="13" bite_rate="100.0" guts="57.6" hp="667" max_length="30000" length_rate="10.0" hp_regen="21.0" start_combat_time="20" combat_duration="32" guts_check_time="3" guts_check_probability="57.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6450" group="SWIFT" level="14" bite_rate="100.0" guts="57.8" hp="679" max_length="30000" length_rate="10.0" hp_regen="22.0" start_combat_time="20" combat_duration="31" guts_check_time="3" guts_check_probability="57.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6451" group="UGLY" level="14" bite_rate="100.0" guts="58.0" hp="690" max_length="30000" length_rate="10.0" hp_regen="22.0" start_combat_time="20" combat_duration="31" guts_check_time="3" guts_check_probability="58.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6452" group="WIDE" level="14" bite_rate="100.0" guts="58.2" hp="702" max_length="30000" length_rate="10.0" hp_regen="22.0" start_combat_time="20" combat_duration="32" guts_check_time="3" guts_check_probability="58.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6453" group="SWIFT" level="15" bite_rate="100.0" guts="58.4" hp="713" max_length="30000" length_rate="10.0" hp_regen="25.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="58.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6454" group="UGLY" level="15" bite_rate="100.0" guts="58.6" hp="819" max_length="30000" length_rate="10.0" hp_regen="27.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="58.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6455" group="WIDE" level="15" bite_rate="100.0" guts="58.8" hp="832" max_length="30000" length_rate="10.0" hp_regen="28.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="58.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6456" group="SWIFT" level="16" bite_rate="100.0" guts="59.0" hp="845" max_length="30000" length_rate="10.0" hp_regen="29.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="59.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6457" group="UGLY" level="16" bite_rate="100.0" guts="59.2" hp="858" max_length="30000" length_rate="10.0" hp_regen="29.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="59.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6458" group="WIDE" level="16" bite_rate="100.0" guts="59.4" hp="871" max_length="30000" length_rate="10.0" hp_regen="29.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="59.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6459" group="SWIFT" level="17" bite_rate="100.0" guts="59.6" hp="884" max_length="30000" length_rate="10.0" hp_regen="29.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="59.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6460" group="UGLY" level="17" bite_rate="100.0" guts="59.8" hp="897" max_length="30000" length_rate="10.0" hp_regen="30.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="59.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6461" group="WIDE" level="17" bite_rate="100.0" guts="60.0" hp="910" max_length="30000" length_rate="10.0" hp_regen="29.0" start_combat_time="20" combat_duration="31" guts_check_time="3" guts_check_probability="60.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6462" group="SWIFT" level="18" bite_rate="100.0" guts="60.2" hp="923" max_length="30000" length_rate="10.0" hp_regen="31.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="60.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6463" group="UGLY" level="18" bite_rate="100.0" guts="60.4" hp="936" max_length="30000" length_rate="10.0" hp_regen="31.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="60.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6464" group="WIDE" level="18" bite_rate="100.0" guts="60.6" hp="949" max_length="30000" length_rate="10.0" hp_regen="31.0" start_combat_time="20" combat_duration="31" guts_check_time="3" guts_check_probability="60.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6465" group="SWIFT" level="19" bite_rate="100.0" guts="60.8" hp="962" max_length="30000" length_rate="10.0" hp_regen="34.0" start_combat_time="20" combat_duration="28" guts_check_time="3" guts_check_probability="60.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6466" group="UGLY" level="19" bite_rate="100.0" guts="61.0" hp="1125" max_length="30000" length_rate="10.0" hp_regen="39.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="61.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6467" group="WIDE" level="19" bite_rate="100.0" guts="61.2" hp="1140" max_length="30000" length_rate="10.0" hp_regen="39.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="61.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6468" group="SWIFT" level="20" bite_rate="100.0" guts="61.4" hp="1155" max_length="30000" length_rate="10.0" hp_regen="40.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="61.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6469" group="UGLY" level="20" bite_rate="100.0" guts="61.6" hp="1170" max_length="30000" length_rate="10.0" hp_regen="40.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="61.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6470" group="WIDE" level="20" bite_rate="100.0" guts="61.8" hp="1185" max_length="30000" length_rate="10.0" hp_regen="40.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="61.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6471" group="SWIFT" level="21" bite_rate="100.0" guts="62.0" hp="1200" max_length="30000" length_rate="10.0" hp_regen="41.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="62.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6472" group="UGLY" level="21" bite_rate="100.0" guts="62.2" hp="1215" max_length="30000" length_rate="10.0" hp_regen="42.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="62.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6473" group="WIDE" level="21" bite_rate="100.0" guts="62.4" hp="1230" max_length="30000" length_rate="10.0" hp_regen="46.0" start_combat_time="20" combat_duration="27" guts_check_time="3" guts_check_probability="62.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6474" group="SWIFT" level="22" bite_rate="100.0" guts="62.6" hp="1453" max_length="30000" length_rate="10.0" hp_regen="56.0" start_combat_time="20" combat_duration="26" guts_check_time="2" guts_check_probability="62.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6475" group="UGLY" level="22" bite_rate="100.0" guts="62.8" hp="1470" max_length="30000" length_rate="10.0" hp_regen="54.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="62.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6476" group="WIDE" level="22" bite_rate="100.0" guts="63.0" hp="1488" max_length="30000" length_rate="10.0" hp_regen="55.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="63.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6477" group="SWIFT" level="23" bite_rate="100.0" guts="63.2" hp="1505" max_length="30000" length_rate="10.0" hp_regen="56.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="63.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6478" group="UGLY" level="23" bite_rate="100.0" guts="63.4" hp="1523" max_length="30000" length_rate="10.0" hp_regen="56.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="63.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6479" group="WIDE" level="23" bite_rate="100.0" guts="63.6" hp="1540" max_length="30000" length_rate="10.0" hp_regen="57.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="63.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6480" group="SWIFT" level="24" bite_rate="100.0" guts="63.8" hp="1558" max_length="30000" length_rate="10.0" hp_regen="58.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="63.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6481" group="UGLY" level="24" bite_rate="100.0" guts="64.0" hp="1575" max_length="30000" length_rate="10.0" hp_regen="58.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="64.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6482" group="WIDE" level="24" bite_rate="100.0" guts="64.2" hp="1593" max_length="30000" length_rate="10.0" hp_regen="59.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="64.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6483" group="SWIFT" level="25" bite_rate="100.0" guts="64.4" hp="1610" max_length="30000" length_rate="10.0" hp_regen="60.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="64.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6484" group="UGLY" level="25" bite_rate="100.0" guts="64.6" hp="1628" max_length="30000" length_rate="10.0" hp_regen="60.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="64.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6485" group="WIDE" level="25" bite_rate="100.0" guts="64.8" hp="1645" max_length="30000" length_rate="10.0" hp_regen="59.0" start_combat_time="20" combat_duration="28" guts_check_time="2" guts_check_probability="64.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6486" group="SWIFT" level="26" bite_rate="100.0" guts="65.0" hp="1663" max_length="30000" length_rate="10.0" hp_regen="67.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6487" group="UGLY" level="26" bite_rate="100.0" guts="65.2" hp="1872" max_length="30000" length_rate="10.0" hp_regen="75.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6488" group="WIDE" level="26" bite_rate="100.0" guts="65.4" hp="1892" max_length="30000" length_rate="10.0" hp_regen="76.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6489" group="SWIFT" level="27" bite_rate="100.0" guts="65.6" hp="1911" max_length="30000" length_rate="10.0" hp_regen="76.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6490" group="UGLY" level="27" bite_rate="100.0" guts="65.8" hp="1931" max_length="30000" length_rate="10.0" hp_regen="77.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6491" group="WIDE" level="27" bite_rate="100.0" guts="65.8" hp="1950" max_length="30000" length_rate="10.0" hp_regen="78.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6492" group="BOX" level="1" bite_rate="100.0" guts="50.4" hp="132" max_length="0" length_rate="0.0" hp_regen="4.0" start_combat_time="20" combat_duration="31" guts_check_time="5" guts_check_probability="50.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6493" group="BOX" level="2" bite_rate="100.0" guts="51.0" hp="188" max_length="0" length_rate="0.0" hp_regen="6.0" start_combat_time="20" combat_duration="31" guts_check_time="5" guts_check_probability="51.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6494" group="BOX" level="3" bite_rate="100.0" guts="51.6" hp="252" max_length="0" length_rate="0.0" hp_regen="8.0" start_combat_time="20" combat_duration="32" guts_check_time="5" guts_check_probability="51.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6495" group="BOX" level="4" bite_rate="100.0" guts="52.2" hp="310" max_length="0" length_rate="0.0" hp_regen="10.0" start_combat_time="20" combat_duration="32" guts_check_time="5" guts_check_probability="52.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6496" group="BOX" level="5" bite_rate="100.0" guts="52.8" hp="340" max_length="0" length_rate="0.0" hp_regen="11.0" start_combat_time="20" combat_duration="32" guts_check_time="4" guts_check_probability="52.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6497" group="BOX" level="6" bite_rate="100.0" guts="53.4" hp="370" max_length="0" length_rate="0.0" hp_regen="12.0" start_combat_time="20" combat_duration="32" guts_check_time="4" guts_check_probability="53.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6498" group="BOX" level="7" bite_rate="100.0" guts="54.0" hp="400" max_length="0" length_rate="0.0" hp_regen="13.0" start_combat_time="20" combat_duration="32" guts_check_time="4" guts_check_probability="54.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6499" group="BOX" level="8" bite_rate="100.0" guts="54.6" hp="430" max_length="0" length_rate="0.0" hp_regen="14.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="54.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6500" group="BOX" level="9" bite_rate="100.0" guts="55.2" hp="529" max_length="0" length_rate="0.0" hp_regen="17.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="55.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6501" group="BOX" level="10" bite_rate="100.0" guts="55.8" hp="564" max_length="0" length_rate="0.0" hp_regen="18.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="55.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6502" group="BOX" level="11" bite_rate="100.0" guts="56.4" hp="598" max_length="0" length_rate="0.0" hp_regen="19.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="56.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6503" group="BOX" level="12" bite_rate="100.0" guts="57.0" hp="633" max_length="0" length_rate="0.0" hp_regen="20.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="57.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6504" group="BOX" level="13" bite_rate="100.0" guts="57.6" hp="667" max_length="0" length_rate="0.0" hp_regen="21.0" start_combat_time="20" combat_duration="32" guts_check_time="3" guts_check_probability="57.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6505" group="BOX" level="14" bite_rate="100.0" guts="58.2" hp="702" max_length="0" length_rate="0.0" hp_regen="22.0" start_combat_time="20" combat_duration="32" guts_check_time="3" guts_check_probability="58.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6506" group="BOX" level="15" bite_rate="100.0" guts="58.8" hp="832" max_length="0" length_rate="0.0" hp_regen="28.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="58.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6507" group="BOX" level="16" bite_rate="100.0" guts="59.4" hp="871" max_length="0" length_rate="0.0" hp_regen="29.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="59.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6508" group="BOX" level="17" bite_rate="100.0" guts="60.0" hp="910" max_length="0" length_rate="0.0" hp_regen="29.0" start_combat_time="20" combat_duration="31" guts_check_time="3" guts_check_probability="60.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6509" group="BOX" level="18" bite_rate="100.0" guts="60.6" hp="949" max_length="0" length_rate="0.0" hp_regen="31.0" start_combat_time="20" combat_duration="31" guts_check_time="3" guts_check_probability="60.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6510" group="BOX" level="19" bite_rate="100.0" guts="61.2" hp="1140" max_length="0" length_rate="0.0" hp_regen="39.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="61.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6511" group="BOX" level="20" bite_rate="100.0" guts="61.8" hp="1185" max_length="0" length_rate="0.0" hp_regen="40.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="61.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6512" group="BOX" level="21" bite_rate="100.0" guts="62.4" hp="1230" max_length="0" length_rate="0.0" hp_regen="46.0" start_combat_time="20" combat_duration="27" guts_check_time="3" guts_check_probability="62.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6513" group="BOX" level="22" bite_rate="100.0" guts="63.0" hp="1488" max_length="0" length_rate="0.0" hp_regen="55.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="63.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6514" group="BOX" level="23" bite_rate="100.0" guts="63.6" hp="1540" max_length="0" length_rate="0.0" hp_regen="57.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="63.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6515" group="BOX" level="24" bite_rate="100.0" guts="64.2" hp="1593" max_length="0" length_rate="0.0" hp_regen="59.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="64.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6516" group="BOX" level="25" bite_rate="100.0" guts="64.8" hp="1645" max_length="0" length_rate="0.0" hp_regen="59.0" start_combat_time="20" combat_duration="28" guts_check_time="2" guts_check_probability="64.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6517" group="BOX" level="26" bite_rate="100.0" guts="65.4" hp="1892" max_length="0" length_rate="0.0" hp_regen="76.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="6518" group="BOX" level="27" bite_rate="100.0" guts="65.8" hp="1950" max_length="0" length_rate="0.0" hp_regen="78.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="7726" group="EASY_SWIFT" level="1" bite_rate="100.0" guts="50.0" hp="100" max_length="30000" length_rate="10.0" hp_regen="4.0" start_combat_time="20" combat_duration="35" guts_check_time="5" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7727" group="EASY_UGLY" level="1" bite_rate="100.0" guts="50.2" hp="116" max_length="30000" length_rate="10.0" hp_regen="4.0" start_combat_time="20" combat_duration="35" guts_check_time="5" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7728" group="EASY_WIDE" level="1" bite_rate="100.0" guts="50.4" hp="132" max_length="30000" length_rate="10.0" hp_regen="5.0" start_combat_time="20" combat_duration="35" guts_check_time="5" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7729" group="EASY_SWIFT" level="2" bite_rate="100.0" guts="50.6" hp="150" max_length="30000" length_rate="10.0" hp_regen="5.0" start_combat_time="20" combat_duration="35" guts_check_time="5" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7730" group="EASY_UGLY" level="2" bite_rate="100.0" guts="50.8" hp="168" max_length="30000" length_rate="10.0" hp_regen="6.0" start_combat_time="20" combat_duration="35" guts_check_time="5" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7731" group="EASY_WIDE" level="2" bite_rate="100.0" guts="51.0" hp="188" max_length="30000" length_rate="10.0" hp_regen="7.0" start_combat_time="20" combat_duration="35" guts_check_time="5" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7732" group="EASY_SWIFT" level="3" bite_rate="100.0" guts="51.2" hp="208" max_length="30000" length_rate="10.0" hp_regen="7.0" start_combat_time="20" combat_duration="35" guts_check_time="5" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7733" group="EASY_UGLY" level="3" bite_rate="100.0" guts="51.4" hp="230" max_length="30000" length_rate="10.0" hp_regen="8.0" start_combat_time="20" combat_duration="35" guts_check_time="5" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7734" group="EASY_WIDE" level="3" bite_rate="100.0" guts="51.6" hp="252" max_length="30000" length_rate="10.0" hp_regen="9.0" start_combat_time="20" combat_duration="35" guts_check_time="5" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7735" group="EASY_SWIFT" level="4" bite_rate="100.0" guts="51.8" hp="276" max_length="30000" length_rate="10.0" hp_regen="10.0" start_combat_time="20" combat_duration="35" guts_check_time="5" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7736" group="EASY_UGLY" level="4" bite_rate="100.0" guts="52.0" hp="300" max_length="30000" length_rate="10.0" hp_regen="11.0" start_combat_time="20" combat_duration="35" guts_check_time="5" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7737" group="EASY_WIDE" level="4" bite_rate="100.0" guts="52.2" hp="310" max_length="30000" length_rate="10.0" hp_regen="11.0" start_combat_time="20" combat_duration="35" guts_check_time="5" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7738" group="EASY_SWIFT" level="5" bite_rate="100.0" guts="52.4" hp="320" max_length="30000" length_rate="10.0" hp_regen="11.0" start_combat_time="20" combat_duration="35" guts_check_time="5" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7739" group="EASY_UGLY" level="5" bite_rate="100.0" guts="52.6" hp="330" max_length="30000" length_rate="10.0" hp_regen="12.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7740" group="EASY_WIDE" level="5" bite_rate="100.0" guts="52.8" hp="340" max_length="30000" length_rate="10.0" hp_regen="12.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7741" group="EASY_SWIFT" level="6" bite_rate="100.0" guts="53.0" hp="350" max_length="30000" length_rate="10.0" hp_regen="13.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7742" group="EASY_UGLY" level="6" bite_rate="100.0" guts="53.2" hp="360" max_length="30000" length_rate="10.0" hp_regen="13.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7743" group="EASY_WIDE" level="6" bite_rate="100.0" guts="53.4" hp="370" max_length="30000" length_rate="10.0" hp_regen="13.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7744" group="EASY_SWIFT" level="7" bite_rate="100.0" guts="53.6" hp="380" max_length="30000" length_rate="10.0" hp_regen="14.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7745" group="EASY_UGLY" level="7" bite_rate="100.0" guts="53.8" hp="390" max_length="30000" length_rate="10.0" hp_regen="14.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7746" group="EASY_WIDE" level="7" bite_rate="100.0" guts="54.0" hp="400" max_length="30000" length_rate="10.0" hp_regen="14.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7747" group="EASY_SWIFT" level="8" bite_rate="100.0" guts="54.2" hp="410" max_length="30000" length_rate="10.0" hp_regen="15.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7748" group="EASY_UGLY" level="8" bite_rate="100.0" guts="54.4" hp="420" max_length="30000" length_rate="10.0" hp_regen="15.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7749" group="EASY_WIDE" level="8" bite_rate="100.0" guts="54.6" hp="430" max_length="30000" length_rate="10.0" hp_regen="15.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7750" group="EASY_SWIFT" level="9" bite_rate="100.0" guts="54.8" hp="506" max_length="30000" length_rate="10.0" hp_regen="18.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7751" group="EASY_UGLY" level="9" bite_rate="100.0" guts="55.0" hp="518" max_length="30000" length_rate="10.0" hp_regen="19.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7752" group="EASY_WIDE" level="9" bite_rate="100.0" guts="55.2" hp="529" max_length="30000" length_rate="10.0" hp_regen="19.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7753" group="EASY_SWIFT" level="10" bite_rate="100.0" guts="55.4" hp="541" max_length="30000" length_rate="10.0" hp_regen="19.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7754" group="EASY_UGLY" level="10" bite_rate="100.0" guts="55.6" hp="552" max_length="30000" length_rate="10.0" hp_regen="20.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7755" group="EASY_WIDE" level="10" bite_rate="100.0" guts="55.8" hp="564" max_length="30000" length_rate="10.0" hp_regen="20.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7756" group="EASY_SWIFT" level="11" bite_rate="100.0" guts="56.0" hp="575" max_length="30000" length_rate="10.0" hp_regen="21.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7757" group="EASY_UGLY" level="11" bite_rate="100.0" guts="56.2" hp="587" max_length="30000" length_rate="10.0" hp_regen="21.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7758" group="EASY_WIDE" level="11" bite_rate="100.0" guts="56.4" hp="598" max_length="30000" length_rate="10.0" hp_regen="21.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7759" group="EASY_SWIFT" level="12" bite_rate="100.0" guts="56.6" hp="610" max_length="30000" length_rate="10.0" hp_regen="22.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7760" group="EASY_UGLY" level="12" bite_rate="100.0" guts="56.8" hp="621" max_length="30000" length_rate="10.0" hp_regen="22.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7761" group="EASY_WIDE" level="12" bite_rate="100.0" guts="57.0" hp="633" max_length="30000" length_rate="10.0" hp_regen="23.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7762" group="EASY_SWIFT" level="13" bite_rate="100.0" guts="57.2" hp="644" max_length="30000" length_rate="10.0" hp_regen="23.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7763" group="EASY_UGLY" level="13" bite_rate="100.0" guts="57.4" hp="656" max_length="30000" length_rate="10.0" hp_regen="23.0" start_combat_time="20" combat_duration="35" guts_check_time="4" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7764" group="EASY_WIDE" level="13" bite_rate="100.0" guts="57.6" hp="667" max_length="30000" length_rate="10.0" hp_regen="24.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7765" group="EASY_SWIFT" level="14" bite_rate="100.0" guts="57.8" hp="679" max_length="30000" length_rate="10.0" hp_regen="24.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7766" group="EASY_UGLY" level="14" bite_rate="100.0" guts="58.0" hp="690" max_length="30000" length_rate="10.0" hp_regen="25.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7767" group="EASY_WIDE" level="14" bite_rate="100.0" guts="58.2" hp="702" max_length="30000" length_rate="10.0" hp_regen="25.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7768" group="EASY_SWIFT" level="15" bite_rate="100.0" guts="58.4" hp="713" max_length="30000" length_rate="10.0" hp_regen="25.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7769" group="EASY_UGLY" level="15" bite_rate="100.0" guts="58.6" hp="819" max_length="30000" length_rate="10.0" hp_regen="29.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7770" group="EASY_WIDE" level="15" bite_rate="100.0" guts="58.8" hp="832" max_length="30000" length_rate="10.0" hp_regen="30.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7771" group="EASY_SWIFT" level="16" bite_rate="100.0" guts="59.0" hp="845" max_length="30000" length_rate="10.0" hp_regen="30.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7772" group="EASY_UGLY" level="16" bite_rate="100.0" guts="59.2" hp="858" max_length="30000" length_rate="10.0" hp_regen="31.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7773" group="EASY_WIDE" level="16" bite_rate="100.0" guts="59.4" hp="871" max_length="30000" length_rate="10.0" hp_regen="31.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7774" group="EASY_SWIFT" level="17" bite_rate="100.0" guts="59.6" hp="884" max_length="30000" length_rate="10.0" hp_regen="32.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7775" group="EASY_UGLY" level="17" bite_rate="100.0" guts="59.8" hp="897" max_length="30000" length_rate="10.0" hp_regen="32.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7776" group="EASY_WIDE" level="17" bite_rate="100.0" guts="60.0" hp="910" max_length="30000" length_rate="10.0" hp_regen="33.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7777" group="EASY_SWIFT" level="18" bite_rate="100.0" guts="60.2" hp="923" max_length="30000" length_rate="10.0" hp_regen="33.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7778" group="EASY_UGLY" level="18" bite_rate="100.0" guts="60.4" hp="936" max_length="30000" length_rate="10.0" hp_regen="33.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7779" group="EASY_WIDE" level="18" bite_rate="100.0" guts="60.6" hp="949" max_length="30000" length_rate="10.0" hp_regen="34.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7780" group="EASY_SWIFT" level="19" bite_rate="100.0" guts="60.8" hp="962" max_length="30000" length_rate="10.0" hp_regen="34.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7781" group="EASY_UGLY" level="19" bite_rate="100.0" guts="61.0" hp="1125" max_length="30000" length_rate="10.0" hp_regen="40.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7782" group="EASY_WIDE" level="19" bite_rate="100.0" guts="61.2" hp="1140" max_length="30000" length_rate="10.0" hp_regen="41.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7783" group="EASY_SWIFT" level="20" bite_rate="100.0" guts="61.4" hp="1155" max_length="30000" length_rate="10.0" hp_regen="41.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7784" group="EASY_UGLY" level="20" bite_rate="100.0" guts="61.6" hp="1170" max_length="30000" length_rate="10.0" hp_regen="42.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7785" group="EASY_WIDE" level="20" bite_rate="100.0" guts="61.8" hp="1185" max_length="30000" length_rate="10.0" hp_regen="42.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7786" group="EASY_SWIFT" level="21" bite_rate="100.0" guts="62.0" hp="1200" max_length="30000" length_rate="10.0" hp_regen="43.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7787" group="EASY_UGLY" level="21" bite_rate="100.0" guts="62.2" hp="1215" max_length="30000" length_rate="10.0" hp_regen="43.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7788" group="EASY_WIDE" level="21" bite_rate="100.0" guts="62.4" hp="1230" max_length="30000" length_rate="10.0" hp_regen="44.0" start_combat_time="20" combat_duration="35" guts_check_time="3" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7789" group="EASY_SWIFT" level="22" bite_rate="100.0" guts="62.6" hp="1453" max_length="30000" length_rate="10.0" hp_regen="52.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7790" group="EASY_UGLY" level="22" bite_rate="100.0" guts="62.8" hp="1470" max_length="30000" length_rate="10.0" hp_regen="53.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7791" group="EASY_WIDE" level="22" bite_rate="100.0" guts="63.0" hp="1488" max_length="30000" length_rate="10.0" hp_regen="53.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7792" group="EASY_SWIFT" level="23" bite_rate="100.0" guts="63.2" hp="1505" max_length="30000" length_rate="10.0" hp_regen="54.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7793" group="EASY_UGLY" level="23" bite_rate="100.0" guts="63.4" hp="1523" max_length="30000" length_rate="10.0" hp_regen="54.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7794" group="EASY_WIDE" level="23" bite_rate="100.0" guts="63.6" hp="1540" max_length="30000" length_rate="10.0" hp_regen="55.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7795" group="EASY_SWIFT" level="24" bite_rate="100.0" guts="63.8" hp="1558" max_length="30000" length_rate="10.0" hp_regen="56.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7796" group="EASY_UGLY" level="24" bite_rate="100.0" guts="64.0" hp="1575" max_length="30000" length_rate="10.0" hp_regen="56.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7797" group="EASY_WIDE" level="24" bite_rate="100.0" guts="64.2" hp="1593" max_length="30000" length_rate="10.0" hp_regen="57.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7798" group="EASY_SWIFT" level="25" bite_rate="100.0" guts="64.4" hp="1610" max_length="30000" length_rate="10.0" hp_regen="58.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7799" group="EASY_UGLY" level="25" bite_rate="100.0" guts="64.6" hp="1628" max_length="30000" length_rate="10.0" hp_regen="58.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7800" group="EASY_WIDE" level="25" bite_rate="100.0" guts="64.8" hp="1645" max_length="30000" length_rate="10.0" hp_regen="59.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7801" group="EASY_SWIFT" level="26" bite_rate="100.0" guts="65.0" hp="1663" max_length="30000" length_rate="10.0" hp_regen="59.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7802" group="EASY_UGLY" level="26" bite_rate="100.0" guts="65.2" hp="1872" max_length="30000" length_rate="10.0" hp_regen="67.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7803" group="EASY_WIDE" level="26" bite_rate="100.0" guts="65.4" hp="1892" max_length="30000" length_rate="10.0" hp_regen="68.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7804" group="EASY_SWIFT" level="27" bite_rate="100.0" guts="65.6" hp="1911" max_length="30000" length_rate="10.0" hp_regen="68.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7805" group="EASY_UGLY" level="27" bite_rate="100.0" guts="65.8" hp="1931" max_length="30000" length_rate="10.0" hp_regen="69.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="7806" group="EASY_WIDE" level="27" bite_rate="100.0" guts="65.8" hp="1950" max_length="30000" length_rate="10.0" hp_regen="70.0" start_combat_time="20" combat_duration="35" guts_check_time="2" guts_check_probability="40.0" cheating_prob="0.0" grade="EASY" />
+	<fish item_id="8403" group="HARD_SWIFT" level="1" bite_rate="100.0" guts="50.0" hp="100" max_length="30000" length_rate="10.0" hp_regen="4.0" start_combat_time="20" combat_duration="24" guts_check_time="5" guts_check_probability="50.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8404" group="HARD_UGLY" level="1" bite_rate="100.0" guts="50.2" hp="116" max_length="30000" length_rate="10.0" hp_regen="4.0" start_combat_time="20" combat_duration="27" guts_check_time="5" guts_check_probability="50.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8405" group="HARD_WIDE" level="1" bite_rate="100.0" guts="50.4" hp="132" max_length="30000" length_rate="10.0" hp_regen="4.0" start_combat_time="20" combat_duration="31" guts_check_time="5" guts_check_probability="50.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8406" group="HARD_SWIFT" level="2" bite_rate="100.0" guts="50.6" hp="150" max_length="30000" length_rate="10.0" hp_regen="6.0" start_combat_time="20" combat_duration="25" guts_check_time="5" guts_check_probability="50.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8407" group="HARD_UGLY" level="2" bite_rate="100.0" guts="50.8" hp="168" max_length="30000" length_rate="10.0" hp_regen="6.0" start_combat_time="20" combat_duration="28" guts_check_time="5" guts_check_probability="50.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8408" group="HARD_WIDE" level="2" bite_rate="100.0" guts="51.0" hp="188" max_length="30000" length_rate="10.0" hp_regen="6.0" start_combat_time="20" combat_duration="31" guts_check_time="5" guts_check_probability="51.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8409" group="HARD_SWIFT" level="3" bite_rate="100.0" guts="51.2" hp="208" max_length="30000" length_rate="10.0" hp_regen="8.0" start_combat_time="20" combat_duration="26" guts_check_time="5" guts_check_probability="51.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8410" group="HARD_UGLY" level="3" bite_rate="100.0" guts="51.4" hp="230" max_length="30000" length_rate="10.0" hp_regen="8.0" start_combat_time="20" combat_duration="29" guts_check_time="5" guts_check_probability="51.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8411" group="HARD_WIDE" level="3" bite_rate="100.0" guts="51.6" hp="252" max_length="30000" length_rate="10.0" hp_regen="8.0" start_combat_time="20" combat_duration="32" guts_check_time="5" guts_check_probability="51.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8412" group="HARD_SWIFT" level="4" bite_rate="100.0" guts="51.8" hp="276" max_length="30000" length_rate="10.0" hp_regen="10.0" start_combat_time="20" combat_duration="28" guts_check_time="5" guts_check_probability="51.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8413" group="HARD_UGLY" level="4" bite_rate="100.0" guts="52.0" hp="300" max_length="30000" length_rate="10.0" hp_regen="10.0" start_combat_time="20" combat_duration="31" guts_check_time="5" guts_check_probability="52.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8414" group="HARD_WIDE" level="4" bite_rate="100.0" guts="52.2" hp="310" max_length="30000" length_rate="10.0" hp_regen="10.0" start_combat_time="20" combat_duration="32" guts_check_time="5" guts_check_probability="52.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8415" group="HARD_SWIFT" level="5" bite_rate="100.0" guts="52.4" hp="320" max_length="30000" length_rate="10.0" hp_regen="11.0" start_combat_time="20" combat_duration="30" guts_check_time="5" guts_check_probability="52.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8416" group="HARD_UGLY" level="5" bite_rate="100.0" guts="52.6" hp="330" max_length="30000" length_rate="10.0" hp_regen="11.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="52.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8417" group="HARD_WIDE" level="5" bite_rate="100.0" guts="52.8" hp="340" max_length="30000" length_rate="10.0" hp_regen="11.0" start_combat_time="20" combat_duration="32" guts_check_time="4" guts_check_probability="52.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8418" group="HARD_SWIFT" level="6" bite_rate="100.0" guts="53.0" hp="350" max_length="30000" length_rate="10.0" hp_regen="12.0" start_combat_time="20" combat_duration="30" guts_check_time="4" guts_check_probability="53.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8419" group="HARD_UGLY" level="6" bite_rate="100.0" guts="53.2" hp="360" max_length="30000" length_rate="10.0" hp_regen="12.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="53.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8420" group="HARD_WIDE" level="6" bite_rate="100.0" guts="53.4" hp="370" max_length="30000" length_rate="10.0" hp_regen="12.0" start_combat_time="20" combat_duration="32" guts_check_time="4" guts_check_probability="53.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8421" group="HARD_SWIFT" level="7" bite_rate="100.0" guts="53.6" hp="380" max_length="30000" length_rate="10.0" hp_regen="12.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="53.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8422" group="HARD_UGLY" level="7" bite_rate="100.0" guts="53.8" hp="390" max_length="30000" length_rate="10.0" hp_regen="13.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="53.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8423" group="HARD_WIDE" level="7" bite_rate="100.0" guts="54.0" hp="400" max_length="30000" length_rate="10.0" hp_regen="13.0" start_combat_time="20" combat_duration="32" guts_check_time="4" guts_check_probability="54.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8424" group="HARD_SWIFT" level="8" bite_rate="100.0" guts="54.2" hp="410" max_length="30000" length_rate="10.0" hp_regen="13.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="54.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8425" group="HARD_UGLY" level="8" bite_rate="100.0" guts="54.4" hp="420" max_length="30000" length_rate="10.0" hp_regen="13.0" start_combat_time="20" combat_duration="32" guts_check_time="4" guts_check_probability="54.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8426" group="HARD_WIDE" level="8" bite_rate="100.0" guts="54.6" hp="430" max_length="30000" length_rate="10.0" hp_regen="14.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="54.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8427" group="HARD_SWIFT" level="9" bite_rate="100.0" guts="54.8" hp="506" max_length="30000" length_rate="10.0" hp_regen="17.0" start_combat_time="20" combat_duration="29" guts_check_time="4" guts_check_probability="54.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8428" group="HARD_UGLY" level="9" bite_rate="100.0" guts="55.0" hp="518" max_length="30000" length_rate="10.0" hp_regen="17.0" start_combat_time="20" combat_duration="30" guts_check_time="4" guts_check_probability="55.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8429" group="HARD_WIDE" level="9" bite_rate="100.0" guts="55.2" hp="529" max_length="30000" length_rate="10.0" hp_regen="17.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="55.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8430" group="HARD_SWIFT" level="10" bite_rate="100.0" guts="55.4" hp="541" max_length="30000" length_rate="10.0" hp_regen="18.0" start_combat_time="20" combat_duration="30" guts_check_time="4" guts_check_probability="55.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8431" group="HARD_UGLY" level="10" bite_rate="100.0" guts="55.6" hp="552" max_length="30000" length_rate="10.0" hp_regen="18.0" start_combat_time="20" combat_duration="30" guts_check_time="4" guts_check_probability="55.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8432" group="HARD_WIDE" level="10" bite_rate="100.0" guts="55.8" hp="564" max_length="30000" length_rate="10.0" hp_regen="18.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="55.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8433" group="HARD_SWIFT" level="11" bite_rate="100.0" guts="56.0" hp="575" max_length="30000" length_rate="10.0" hp_regen="19.0" start_combat_time="20" combat_duration="30" guts_check_time="4" guts_check_probability="56.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8434" group="HARD_UGLY" level="11" bite_rate="100.0" guts="56.2" hp="587" max_length="30000" length_rate="10.0" hp_regen="19.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="56.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8435" group="HARD_WIDE" level="11" bite_rate="100.0" guts="56.4" hp="598" max_length="30000" length_rate="10.0" hp_regen="19.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="56.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8436" group="HARD_SWIFT" level="12" bite_rate="100.0" guts="56.6" hp="610" max_length="30000" length_rate="10.0" hp_regen="20.0" start_combat_time="20" combat_duration="30" guts_check_time="4" guts_check_probability="56.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8437" group="HARD_UGLY" level="12" bite_rate="100.0" guts="56.8" hp="621" max_length="30000" length_rate="10.0" hp_regen="20.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="56.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8438" group="HARD_WIDE" level="12" bite_rate="100.0" guts="57.0" hp="633" max_length="30000" length_rate="10.0" hp_regen="20.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="57.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8439" group="HARD_SWIFT" level="13" bite_rate="100.0" guts="57.2" hp="644" max_length="30000" length_rate="10.0" hp_regen="21.0" start_combat_time="20" combat_duration="30" guts_check_time="4" guts_check_probability="57.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8440" group="HARD_UGLY" level="13" bite_rate="100.0" guts="57.4" hp="656" max_length="30000" length_rate="10.0" hp_regen="21.0" start_combat_time="20" combat_duration="31" guts_check_time="4" guts_check_probability="57.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8441" group="HARD_WIDE" level="13" bite_rate="100.0" guts="57.6" hp="667" max_length="30000" length_rate="10.0" hp_regen="21.0" start_combat_time="20" combat_duration="32" guts_check_time="3" guts_check_probability="57.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8442" group="HARD_SWIFT" level="14" bite_rate="100.0" guts="57.8" hp="679" max_length="30000" length_rate="10.0" hp_regen="22.0" start_combat_time="20" combat_duration="31" guts_check_time="3" guts_check_probability="57.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8443" group="HARD_UGLY" level="14" bite_rate="100.0" guts="58.0" hp="690" max_length="30000" length_rate="10.0" hp_regen="22.0" start_combat_time="20" combat_duration="31" guts_check_time="3" guts_check_probability="58.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8444" group="HARD_WIDE" level="14" bite_rate="100.0" guts="58.2" hp="702" max_length="30000" length_rate="10.0" hp_regen="22.0" start_combat_time="20" combat_duration="32" guts_check_time="3" guts_check_probability="58.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8445" group="HARD_SWIFT" level="15" bite_rate="100.0" guts="58.4" hp="713" max_length="30000" length_rate="10.0" hp_regen="25.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="58.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8446" group="HARD_UGLY" level="15" bite_rate="100.0" guts="58.6" hp="819" max_length="30000" length_rate="10.0" hp_regen="27.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="58.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8447" group="HARD_WIDE" level="15" bite_rate="100.0" guts="58.8" hp="832" max_length="30000" length_rate="10.0" hp_regen="28.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="58.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8448" group="HARD_SWIFT" level="16" bite_rate="100.0" guts="59.0" hp="845" max_length="30000" length_rate="10.0" hp_regen="29.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="59.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8449" group="HARD_UGLY" level="16" bite_rate="100.0" guts="59.2" hp="858" max_length="30000" length_rate="10.0" hp_regen="29.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="59.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8450" group="HARD_WIDE" level="16" bite_rate="100.0" guts="59.4" hp="871" max_length="30000" length_rate="10.0" hp_regen="29.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="59.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8451" group="HARD_SWIFT" level="17" bite_rate="100.0" guts="59.6" hp="884" max_length="30000" length_rate="10.0" hp_regen="29.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="59.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8452" group="HARD_UGLY" level="17" bite_rate="100.0" guts="59.8" hp="897" max_length="30000" length_rate="10.0" hp_regen="30.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="59.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8453" group="HARD_WIDE" level="17" bite_rate="100.0" guts="60.0" hp="910" max_length="30000" length_rate="10.0" hp_regen="29.0" start_combat_time="20" combat_duration="31" guts_check_time="3" guts_check_probability="60.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8454" group="HARD_SWIFT" level="18" bite_rate="100.0" guts="60.2" hp="923" max_length="30000" length_rate="10.0" hp_regen="31.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="60.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8455" group="HARD_UGLY" level="18" bite_rate="100.0" guts="60.4" hp="936" max_length="30000" length_rate="10.0" hp_regen="31.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="60.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8456" group="HARD_WIDE" level="18" bite_rate="100.0" guts="60.6" hp="949" max_length="30000" length_rate="10.0" hp_regen="31.0" start_combat_time="20" combat_duration="31" guts_check_time="3" guts_check_probability="60.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8457" group="HARD_SWIFT" level="19" bite_rate="100.0" guts="60.8" hp="962" max_length="30000" length_rate="10.0" hp_regen="34.0" start_combat_time="20" combat_duration="28" guts_check_time="3" guts_check_probability="60.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8458" group="HARD_UGLY" level="19" bite_rate="100.0" guts="61.0" hp="1125" max_length="30000" length_rate="10.0" hp_regen="39.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="61.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8459" group="HARD_WIDE" level="19" bite_rate="100.0" guts="61.2" hp="1140" max_length="30000" length_rate="10.0" hp_regen="39.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="61.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8460" group="HARD_SWIFT" level="20" bite_rate="100.0" guts="61.4" hp="1155" max_length="30000" length_rate="10.0" hp_regen="40.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="61.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8461" group="HARD_UGLY" level="20" bite_rate="100.0" guts="61.6" hp="1170" max_length="30000" length_rate="10.0" hp_regen="40.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="61.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8462" group="HARD_WIDE" level="20" bite_rate="100.0" guts="61.8" hp="1185" max_length="30000" length_rate="10.0" hp_regen="40.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="61.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8463" group="HARD_SWIFT" level="21" bite_rate="100.0" guts="62.0" hp="1200" max_length="30000" length_rate="10.0" hp_regen="41.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="62.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8464" group="HARD_UGLY" level="21" bite_rate="100.0" guts="62.2" hp="1215" max_length="30000" length_rate="10.0" hp_regen="42.0" start_combat_time="20" combat_duration="29" guts_check_time="3" guts_check_probability="62.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8465" group="HARD_WIDE" level="21" bite_rate="100.0" guts="62.4" hp="1230" max_length="30000" length_rate="10.0" hp_regen="46.0" start_combat_time="20" combat_duration="27" guts_check_time="3" guts_check_probability="62.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8466" group="HARD_SWIFT" level="22" bite_rate="100.0" guts="62.6" hp="1453" max_length="30000" length_rate="10.0" hp_regen="56.0" start_combat_time="20" combat_duration="26" guts_check_time="2" guts_check_probability="62.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8467" group="HARD_UGLY" level="22" bite_rate="100.0" guts="62.8" hp="1470" max_length="30000" length_rate="10.0" hp_regen="54.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="62.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8468" group="HARD_WIDE" level="22" bite_rate="100.0" guts="63.0" hp="1488" max_length="30000" length_rate="10.0" hp_regen="55.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="63.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8469" group="HARD_SWIFT" level="23" bite_rate="100.0" guts="63.2" hp="1505" max_length="30000" length_rate="10.0" hp_regen="56.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="63.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8470" group="HARD_UGLY" level="23" bite_rate="100.0" guts="63.4" hp="1523" max_length="30000" length_rate="10.0" hp_regen="56.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="63.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8471" group="HARD_WIDE" level="23" bite_rate="100.0" guts="63.6" hp="1540" max_length="30000" length_rate="10.0" hp_regen="57.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="63.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8472" group="HARD_SWIFT" level="24" bite_rate="100.0" guts="63.8" hp="1558" max_length="30000" length_rate="10.0" hp_regen="58.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="63.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8473" group="HARD_UGLY" level="24" bite_rate="100.0" guts="64.0" hp="1575" max_length="30000" length_rate="10.0" hp_regen="58.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="64.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8474" group="HARD_WIDE" level="24" bite_rate="100.0" guts="64.2" hp="1593" max_length="30000" length_rate="10.0" hp_regen="59.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="64.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8475" group="HARD_SWIFT" level="25" bite_rate="100.0" guts="64.4" hp="1610" max_length="30000" length_rate="10.0" hp_regen="60.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="64.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8476" group="HARD_UGLY" level="25" bite_rate="100.0" guts="64.6" hp="1628" max_length="30000" length_rate="10.0" hp_regen="60.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="64.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8477" group="HARD_WIDE" level="25" bite_rate="100.0" guts="64.8" hp="1645" max_length="30000" length_rate="10.0" hp_regen="59.0" start_combat_time="20" combat_duration="28" guts_check_time="2" guts_check_probability="64.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8478" group="HARD_SWIFT" level="26" bite_rate="100.0" guts="65.0" hp="1663" max_length="30000" length_rate="10.0" hp_regen="67.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.0" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8479" group="HARD_UGLY" level="26" bite_rate="100.0" guts="65.2" hp="1872" max_length="30000" length_rate="10.0" hp_regen="75.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.2" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8480" group="HARD_WIDE" level="26" bite_rate="100.0" guts="65.4" hp="1892" max_length="30000" length_rate="10.0" hp_regen="76.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.4" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8481" group="HARD_SWIFT" level="27" bite_rate="100.0" guts="65.6" hp="1911" max_length="30000" length_rate="10.0" hp_regen="76.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.6" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8482" group="HARD_UGLY" level="27" bite_rate="100.0" guts="65.8" hp="1931" max_length="30000" length_rate="10.0" hp_regen="77.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8483" group="HARD_WIDE" level="27" bite_rate="100.0" guts="65.8" hp="1950" max_length="30000" length_rate="10.0" hp_regen="78.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.8" cheating_prob="50.0" grade="HARD" />
+	<fish item_id="8547" group="HS" level="20" bite_rate="100.0" guts="61.8" hp="1185" max_length="0" length_rate="10.0" hp_regen="40.0" start_combat_time="20" combat_duration="30" guts_check_time="3" guts_check_probability="61.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="8547" group="HS" level="21" bite_rate="100.0" guts="62.4" hp="1230" max_length="0" length_rate="10.0" hp_regen="46.0" start_combat_time="20" combat_duration="27" guts_check_time="3" guts_check_probability="62.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="8547" group="HS" level="22" bite_rate="100.0" guts="63.0" hp="1488" max_length="0" length_rate="10.0" hp_regen="55.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="63.0" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="8547" group="HS" level="23" bite_rate="100.0" guts="63.6" hp="1540" max_length="0" length_rate="10.0" hp_regen="57.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="63.6" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="8547" group="HS" level="24" bite_rate="100.0" guts="64.2" hp="1593" max_length="0" length_rate="10.0" hp_regen="59.0" start_combat_time="20" combat_duration="27" guts_check_time="2" guts_check_probability="64.2" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="8547" group="HS" level="25" bite_rate="100.0" guts="64.8" hp="1645" max_length="0" length_rate="10.0" hp_regen="59.0" start_combat_time="20" combat_duration="28" guts_check_time="2" guts_check_probability="64.8" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="8547" group="HS" level="26" bite_rate="100.0" guts="65.4" hp="1892" max_length="0" length_rate="10.0" hp_regen="76.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.4" cheating_prob="0.0" grade="NORMAL" />
+	<fish item_id="8547" group="HS" level="27" bite_rate="100.0" guts="65.8" hp="1950" max_length="0" length_rate="10.0" hp_regen="78.0" start_combat_time="20" combat_duration="25" guts_check_time="2" guts_check_probability="65.8" cheating_prob="0.0" grade="NORMAL" />
+</list>

@@ -1,0 +1,33 @@
+<html><body>
+<html noscrollbar>
+<title>Настройка безопасности</title>
+	<body>
+		<table border=0 cellpadding=0 cellspacing=0 width=292 height=358 background="l2ui_ct1.Windows_DF_TooltipBG">
+			<tr>
+				<td valign="top" align="center"><br><br>
+					<table>
+						<tr>
+							<td width=3></td>
+							<td width=285>
+								<center> <font color="LEVEL" name="hs12">˵</font> <font color="FF0000" name="hs12">Предупреждение</font> <font color="LEVEL" name="hs12">˶</font></center><br>
+								<font color="LEVEL">»</font> Ваш IP может быть динамическим.<br1>
+								<font color="LEVEL">»</font> HWID - это идентификатор ПК: <font color="LEVEL">%hwid_val%</font> <br1>
+								<font color="LEVEL">»</font> HWID меняется во время апгрейда ПК. <br>
+							</td>
+						</tr>
+					</table>
+					<center>
+						<font color="B59A75">Выберите действие</font><br1>
+						<button value="Установить блок по IP" action="bypass -h user_lockIp" width=200 height=29 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch"/>
+						<button value="Установить блок по HWID" action="bypass -h user_lockHwid" width=200 height=29 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch"/>
+						<button value="Удалить блок по IP" action="bypass -h user_unlockIp" width=200 height=29 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch"/>
+						<button value="Удалить блок по HWID" action="bypass -h user_unlockHwid" width=200 height=29 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch"/>
+						<br1><img src="L2UI_CH3.herotower_deco" width=256 height=32><br1>
+						<font color="LEVEL" name="hs12">%curIP%</font><br1> "Ваш IP адрес"
+					</center>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
+</body></html>

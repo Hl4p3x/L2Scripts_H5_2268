@@ -1,0 +1,4205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="163964" y="65628" zmin="-3784" zmax="-3584" />
+			<add x="163984" y="66868" zmin="-3784" zmax="-3584" />
+			<add x="167916" y="66900" zmin="-3784" zmax="-3584" />
+			<add x="166260" y="65636" zmin="-3784" zmax="-3584" />
+		</territory>
+		<npc id="20640" /><!--Harit Lizardman-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="167016" y="68020" zmin="-3456" zmax="-3006" />
+			<add x="166108" y="69692" zmin="-3456" zmax="-3006" />
+			<add x="163920" y="69628" zmin="-3456" zmax="-3006" />
+			<add x="163944" y="67316" zmin="-3456" zmax="-3006" />
+			<add x="166248" y="67240" zmin="-3456" zmax="-3006" />
+		</territory>
+		<npc id="20640" /><!--Harit Lizardman-->
+	</spawn>
+	<spawn count="3" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="166604" y="72564" zmin="-3172" zmax="-2822" />
+			<add x="165796" y="73504" zmin="-3172" zmax="-2822" />
+			<add x="164032" y="73700" zmin="-3172" zmax="-2822" />
+			<add x="164036" y="69844" zmin="-3172" zmax="-2822" />
+			<add x="166152" y="70024" zmin="-3172" zmax="-2822" />
+		</territory>
+		<npc id="20640" /><!--Harit Lizardman-->
+	</spawn>
+	<spawn count="2" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="163964" y="65628" zmin="-3784" zmax="-3584" />
+			<add x="163984" y="66868" zmin="-3784" zmax="-3584" />
+			<add x="167916" y="66900" zmin="-3784" zmax="-3584" />
+			<add x="166260" y="65636" zmin="-3784" zmax="-3584" />
+		</territory>
+		<npc id="20641" /><!--Harit Lizardman Grunt-->
+	</spawn>
+	<spawn count="2" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="167016" y="68020" zmin="-3456" zmax="-3006" />
+			<add x="166108" y="69692" zmin="-3456" zmax="-3006" />
+			<add x="163920" y="69628" zmin="-3456" zmax="-3006" />
+			<add x="163944" y="67316" zmin="-3456" zmax="-3006" />
+			<add x="166248" y="67240" zmin="-3456" zmax="-3006" />
+		</territory>
+		<npc id="20641" /><!--Harit Lizardman Grunt-->
+	</spawn>
+	<spawn count="3" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="166604" y="72564" zmin="-3172" zmax="-2822" />
+			<add x="165796" y="73504" zmin="-3172" zmax="-2822" />
+			<add x="164032" y="73700" zmin="-3172" zmax="-2822" />
+			<add x="164036" y="69844" zmin="-3172" zmax="-2822" />
+			<add x="166152" y="70024" zmin="-3172" zmax="-2822" />
+		</territory>
+		<npc id="20641" /><!--Harit Lizardman Grunt-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="163964" y="65628" zmin="-3784" zmax="-3584" />
+			<add x="163984" y="66868" zmin="-3784" zmax="-3584" />
+			<add x="167916" y="66900" zmin="-3784" zmax="-3584" />
+			<add x="166260" y="65636" zmin="-3784" zmax="-3584" />
+		</territory>
+		<npc id="20642" /><!--Harit Lizardman Archer-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="167016" y="68020" zmin="-3456" zmax="-3006" />
+			<add x="166108" y="69692" zmin="-3456" zmax="-3006" />
+			<add x="163920" y="69628" zmin="-3456" zmax="-3006" />
+			<add x="163944" y="67316" zmin="-3456" zmax="-3006" />
+			<add x="166248" y="67240" zmin="-3456" zmax="-3006" />
+		</territory>
+		<npc id="20642" /><!--Harit Lizardman Archer-->
+	</spawn>
+	<spawn count="3" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="166604" y="72564" zmin="-3172" zmax="-2822" />
+			<add x="165796" y="73504" zmin="-3172" zmax="-2822" />
+			<add x="164032" y="73700" zmin="-3172" zmax="-2822" />
+			<add x="164036" y="69844" zmin="-3172" zmax="-2822" />
+			<add x="166152" y="70024" zmin="-3172" zmax="-2822" />
+		</territory>
+		<npc id="20642" /><!--Harit Lizardman Archer-->
+	</spawn>
+	<spawn count="2" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="163956" y="80052" zmin="-3164" zmax="-2064" />
+			<add x="164120" y="74116" zmin="-3164" zmax="-2064" />
+			<add x="165344" y="73908" zmin="-3164" zmax="-2064" />
+			<add x="166740" y="76632" zmin="-3164" zmax="-2064" />
+			<add x="166404" y="80164" zmin="-3164" zmax="-2064" />
+		</territory>
+		<npc id="20643" /><!--Harit Lizardman Warrior-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="165600" y="85244" zmin="-2464" zmax="-1864" />
+			<add x="164092" y="83200" zmin="-2464" zmax="-1864" />
+			<add x="164120" y="80292" zmin="-2464" zmax="-1864" />
+			<add x="165872" y="80404" zmin="-2464" zmax="-1864" />
+			<add x="167452" y="84012" zmin="-2464" zmax="-1864" />
+		</territory>
+		<npc id="20643" /><!--Harit Lizardman Warrior-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="167248" y="87112" zmin="-2456" zmax="-1456" />
+			<add x="168104" y="86360" zmin="-2456" zmax="-1456" />
+			<add x="168116" y="85428" zmin="-2456" zmax="-1456" />
+			<add x="167440" y="84144" zmin="-2456" zmax="-1456" />
+			<add x="165740" y="85248" zmin="-2456" zmax="-1456" />
+			<add x="165180" y="87152" zmin="-2456" zmax="-1456" />
+		</territory>
+		<npc id="20643" /><!--Harit Lizardman Warrior-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="166092" y="89056" zmin="-2472" zmax="-2072" />
+			<add x="164792" y="88724" zmin="-2472" zmax="-2072" />
+			<add x="165084" y="87168" zmin="-2472" zmax="-2072" />
+			<add x="166520" y="87708" zmin="-2472" zmax="-2072" />
+			<add x="166500" y="88852" zmin="-2472" zmax="-2072" />
+		</territory>
+		<npc id="20643" /><!--Harit Lizardman Warrior-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="163992" y="85836" zmin="-2472" zmax="-2072" />
+			<add x="164016" y="84076" zmin="-2472" zmax="-2072" />
+			<add x="165680" y="85860" zmin="-2472" zmax="-2072" />
+			<add x="165200" y="87056" zmin="-2472" zmax="-2072" />
+		</territory>
+		<npc id="20643" /><!--Harit Lizardman Warrior-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="163968" y="86276" zmin="-2800" zmax="-2350" />
+			<add x="163980" y="88340" zmin="-2800" zmax="-2350" />
+			<add x="164444" y="88740" zmin="-2800" zmax="-2350" />
+			<add x="164848" y="87272" zmin="-2800" zmax="-2350" />
+		</territory>
+		<npc id="20643" /><!--Harit Lizardman Warrior-->
+	</spawn>
+	<spawn count="3" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="163956" y="80052" zmin="-3164" zmax="-2064" />
+			<add x="164120" y="74116" zmin="-3164" zmax="-2064" />
+			<add x="165344" y="73908" zmin="-3164" zmax="-2064" />
+			<add x="166740" y="76632" zmin="-3164" zmax="-2064" />
+			<add x="166404" y="80164" zmin="-3164" zmax="-2064" />
+		</territory>
+		<npc id="20644" /><!--Harit Lizardman Shaman-->
+	</spawn>
+	<spawn count="2" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="165600" y="85244" zmin="-2464" zmax="-1864" />
+			<add x="164092" y="83200" zmin="-2464" zmax="-1864" />
+			<add x="164120" y="80292" zmin="-2464" zmax="-1864" />
+			<add x="165872" y="80404" zmin="-2464" zmax="-1864" />
+			<add x="167452" y="84012" zmin="-2464" zmax="-1864" />
+		</territory>
+		<npc id="20644" /><!--Harit Lizardman Shaman-->
+	</spawn>
+	<spawn count="2" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="167248" y="87112" zmin="-2456" zmax="-1456" />
+			<add x="168104" y="86360" zmin="-2456" zmax="-1456" />
+			<add x="168116" y="85428" zmin="-2456" zmax="-1456" />
+			<add x="167440" y="84144" zmin="-2456" zmax="-1456" />
+			<add x="165740" y="85248" zmin="-2456" zmax="-1456" />
+			<add x="165180" y="87152" zmin="-2456" zmax="-1456" />
+		</territory>
+		<npc id="20644" /><!--Harit Lizardman Shaman-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="166092" y="89056" zmin="-2472" zmax="-2072" />
+			<add x="164792" y="88724" zmin="-2472" zmax="-2072" />
+			<add x="165084" y="87168" zmin="-2472" zmax="-2072" />
+			<add x="166520" y="87708" zmin="-2472" zmax="-2072" />
+			<add x="166500" y="88852" zmin="-2472" zmax="-2072" />
+		</territory>
+		<npc id="20644" /><!--Harit Lizardman Shaman-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="163992" y="85836" zmin="-2472" zmax="-2072" />
+			<add x="164016" y="84076" zmin="-2472" zmax="-2072" />
+			<add x="165680" y="85860" zmin="-2472" zmax="-2072" />
+			<add x="165200" y="87056" zmin="-2472" zmax="-2072" />
+		</territory>
+		<npc id="20644" /><!--Harit Lizardman Shaman-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="163968" y="86276" zmin="-2800" zmax="-2350" />
+			<add x="163980" y="88340" zmin="-2800" zmax="-2350" />
+			<add x="164444" y="88740" zmin="-2800" zmax="-2350" />
+			<add x="164848" y="87272" zmin="-2800" zmax="-2350" />
+		</territory>
+		<npc id="20644" /><!--Harit Lizardman Shaman-->
+	</spawn>
+	<spawn count="2" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="163956" y="80052" zmin="-3164" zmax="-2064" />
+			<add x="164120" y="74116" zmin="-3164" zmax="-2064" />
+			<add x="165344" y="73908" zmin="-3164" zmax="-2064" />
+			<add x="166740" y="76632" zmin="-3164" zmax="-2064" />
+			<add x="166404" y="80164" zmin="-3164" zmax="-2064" />
+		</territory>
+		<npc id="20645" /><!--Harit Lizardman Matriarch-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="165600" y="85244" zmin="-2464" zmax="-1864" />
+			<add x="164092" y="83200" zmin="-2464" zmax="-1864" />
+			<add x="164120" y="80292" zmin="-2464" zmax="-1864" />
+			<add x="165872" y="80404" zmin="-2464" zmax="-1864" />
+			<add x="167452" y="84012" zmin="-2464" zmax="-1864" />
+		</territory>
+		<npc id="20645" /><!--Harit Lizardman Matriarch-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="167248" y="87112" zmin="-2456" zmax="-1456" />
+			<add x="168104" y="86360" zmin="-2456" zmax="-1456" />
+			<add x="168116" y="85428" zmin="-2456" zmax="-1456" />
+			<add x="167440" y="84144" zmin="-2456" zmax="-1456" />
+			<add x="165740" y="85248" zmin="-2456" zmax="-1456" />
+			<add x="165180" y="87152" zmin="-2456" zmax="-1456" />
+		</territory>
+		<npc id="20645" /><!--Harit Lizardman Matriarch-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="166092" y="89056" zmin="-2472" zmax="-2072" />
+			<add x="164792" y="88724" zmin="-2472" zmax="-2072" />
+			<add x="165084" y="87168" zmin="-2472" zmax="-2072" />
+			<add x="166520" y="87708" zmin="-2472" zmax="-2072" />
+			<add x="166500" y="88852" zmin="-2472" zmax="-2072" />
+		</territory>
+		<npc id="20645" /><!--Harit Lizardman Matriarch-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="163992" y="85836" zmin="-2472" zmax="-2072" />
+			<add x="164016" y="84076" zmin="-2472" zmax="-2072" />
+			<add x="165680" y="85860" zmin="-2472" zmax="-2072" />
+			<add x="165200" y="87056" zmin="-2472" zmax="-2072" />
+		</territory>
+		<npc id="20645" /><!--Harit Lizardman Matriarch-->
+	</spawn>
+	<spawn count="1" respawn="23" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="163968" y="86276" zmin="-2800" zmax="-2350" />
+			<add x="163980" y="88340" zmin="-2800" zmax="-2350" />
+			<add x="164444" y="88740" zmin="-2800" zmax="-2350" />
+			<add x="164848" y="87272" zmin="-2800" zmax="-2350" />
+		</territory>
+		<npc id="20645" /><!--Harit Lizardman Matriarch-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<territory>
+			<add x="164740" y="93772" zmin="-3260" zmax="-2660" />
+			<add x="165392" y="93248" zmin="-3260" zmax="-2660" />
+			<add x="166108" y="93876" zmin="-3260" zmax="-2660" />
+			<add x="165392" y="94488" zmin="-3260" zmax="-2660" />
+		</territory>
+		<npc id="25089" /><!--Soulless Wild Boar-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<territory>
+			<add x="170212" y="84744" zmin="-2052" zmax="-1452" />
+			<add x="170232" y="85392" zmin="-2052" zmax="-1452" />
+			<add x="171016" y="85976" zmin="-2052" zmax="-1452" />
+			<add x="171056" y="85260" zmin="-2052" zmax="-1452" />
+		</territory>
+		<npc id="25125" /><!--Fierce Tiger King Angel-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<territory>
+			<add x="165504" y="87576" zmin="-2464" zmax="-1864" />
+			<add x="165604" y="88784" zmin="-2464" zmax="-1864" />
+			<add x="166384" y="88744" zmin="-2464" zmax="-1864" />
+			<add x="166328" y="87704" zmin="-2464" zmax="-1864" />
+		</territory>
+		<npc id="25241" /><!--Harit Hero Tamash-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<territory>
+			<add x="165596" y="68480" zmin="-3348" zmax="-2748" />
+			<add x="166052" y="67440" zmin="-3348" zmax="-2748" />
+			<add x="166928" y="68124" zmin="-3348" zmax="-2748" />
+			<add x="166244" y="69028" zmin="-3348" zmax="-2748" />
+		</territory>
+		<npc id="25463" /><!--Harit Guardian Garangky-->
+	</spawn>
+<!-- High Five Treasure Chest -->
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-40412" y="202589" zmin="-3311" zmax="-2711" />
+			<add x="-39402" y="203021" zmin="-3311" zmax="-2711" />
+			<add x="-38451" y="204269" zmin="-3311" zmax="-2711" />
+			<add x="-38577" y="205272" zmin="-3311" zmax="-2711" />
+			<add x="-40982" y="202879" zmin="-3311" zmax="-2711" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-46821" y="198601" zmin="-3615" zmax="-3215" />
+			<add x="-46071" y="198901" zmin="-3615" zmax="-3215" />
+			<add x="-45459" y="199624" zmin="-3615" zmax="-3215" />
+			<add x="-45499" y="200826" zmin="-3615" zmax="-3215" />
+			<add x="-47312" y="198852" zmin="-3615" zmax="-3215" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-52694" y="197042" zmin="-3776" zmax="-3376" />
+			<add x="-51779" y="197104" zmin="-3776" zmax="-3376" />
+			<add x="-51266" y="198041" zmin="-3776" zmax="-3376" />
+			<add x="-51832" y="198801" zmin="-3776" zmax="-3376" />
+			<add x="-52746" y="198821" zmin="-3776" zmax="-3376" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-50751" y="200799" zmin="-3392" zmax="-2992" />
+			<add x="-50037" y="200831" zmin="-3392" zmax="-2992" />
+			<add x="-49509" y="201879" zmin="-3392" zmax="-2992" />
+			<add x="-50356" y="201929" zmin="-3392" zmax="-2992" />
+			<add x="-50991" y="201582" zmin="-3392" zmax="-2992" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-48182" y="202706" zmin="-3672" zmax="-3372" />
+			<add x="-47432" y="202759" zmin="-3672" zmax="-3372" />
+			<add x="-47536" y="203931" zmin="-3672" zmax="-3372" />
+			<add x="-48331" y="204022" zmin="-3672" zmax="-3372" />
+			<add x="-48647" y="203249" zmin="-3672" zmax="-3372" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-29567" y="157447" zmin="-3632" zmax="-2332" />
+			<add x="-27876" y="159096" zmin="-3632" zmax="-2332" />
+			<add x="-27747" y="163427" zmin="-3632" zmax="-2332" />
+			<add x="-32582" y="163487" zmin="-3632" zmax="-2332" />
+			<add x="-32636" y="159929" zmin="-3632" zmax="-2332" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-25676" y="159079" zmin="-2821" zmax="-2321" />
+			<add x="-25026" y="160681" zmin="-2821" zmax="-2321" />
+			<add x="-25714" y="161686" zmin="-2821" zmax="-2321" />
+			<add x="-27012" y="161666" zmin="-2821" zmax="-2321" />
+			<add x="-27841" y="160431" zmin="-2821" zmax="-2321" />
+			<add x="-27286" y="159149" zmin="-2821" zmax="-2321" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-27702" y="161612" zmin="-3329" zmax="-2129" />
+			<add x="-23812" y="162047" zmin="-3329" zmax="-2129" />
+			<add x="-23482" y="163627" zmin="-3329" zmax="-2129" />
+			<add x="-27632" y="163487" zmin="-3329" zmax="-2129" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-26024" y="164964" zmin="-3362" zmax="-2562" />
+			<add x="-22747" y="167241" zmin="-3362" zmax="-2562" />
+			<add x="-24806" y="168762" zmin="-3362" zmax="-2562" />
+			<add x="-27542" y="166909" zmin="-3362" zmax="-2562" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-30106" y="106947" zmin="-3905" zmax="-2105" />
+			<add x="-26282" y="107052" zmin="-3905" zmax="-2105" />
+			<add x="-25446" y="112712" zmin="-3905" zmax="-2105" />
+			<add x="-32412" y="112012" zmin="-3905" zmax="-2105" />
+			<add x="-32426" y="108876" zmin="-3905" zmax="-2105" />
+		</territory>
+		<npc id="18268" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-29186" y="108836" zmin="-3929" zmax="-3229" />
+			<add x="-28227" y="108787" zmin="-3929" zmax="-3229" />
+			<add x="-28222" y="109707" zmin="-3929" zmax="-3229" />
+			<add x="-29196" y="109646" zmin="-3929" zmax="-3229" />
+		</territory>
+		<npc id="18268" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-32322" y="112076" zmin="-3956" zmax="-2056" />
+			<add x="-28296" y="112507" zmin="-3956" zmax="-2056" />
+			<add x="-28572" y="115726" zmin="-3956" zmax="-2056" />
+			<add x="-32252" y="118106" zmin="-3956" zmax="-2056" />
+		</territory>
+		<npc id="18268" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-28247" y="112507" zmin="-3916" zmax="-3016" />
+			<add x="-25576" y="112812" zmin="-3916" zmax="-3016" />
+			<add x="-25196" y="116212" zmin="-3916" zmax="-3016" />
+			<add x="-28427" y="115706" zmin="-3916" zmax="-3016" />
+		</territory>
+		<npc id="18268" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-29262" y="120202" zmin="-3909" zmax="-3109" />
+			<add x="-26956" y="119936" zmin="-3909" zmax="-3109" />
+			<add x="-27002" y="122292" zmin="-3909" zmax="-3109" />
+			<add x="-29442" y="122336" zmin="-3909" zmax="-3109" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-29236" y="117246" zmin="-3949" zmax="-3149" />
+			<add x="-27102" y="116647" zmin="-3949" zmax="-3149" />
+			<add x="-27142" y="118882" zmin="-3949" zmax="-3149" />
+			<add x="-29096" y="118856" zmin="-3949" zmax="-3149" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-55666" y="110652" zmin="-3461" zmax="-2861" />
+			<add x="-52787" y="113302" zmin="-3461" zmax="-2861" />
+			<add x="-53407" y="116096" zmin="-3461" zmax="-2861" />
+			<add x="-55382" y="116926" zmin="-3461" zmax="-2861" />
+			<add x="-56847" y="112736" zmin="-3461" zmax="-2861" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-47006" y="118892" zmin="-3589" zmax="-2889" />
+			<add x="-48176" y="119592" zmin="-3589" zmax="-2889" />
+			<add x="-51196" y="119762" zmin="-3589" zmax="-2889" />
+			<add x="-53946" y="118722" zmin="-3589" zmax="-2889" />
+			<add x="-54516" y="117406" zmin="-3589" zmax="-2889" />
+			<add x="-51172" y="114832" zmin="-3589" zmax="-2889" />
+			<add x="-49347" y="115996" zmin="-3589" zmax="-2889" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-53136" y="107047" zmin="-3909" zmax="-3109" />
+			<add x="-53442" y="108652" zmin="-3909" zmax="-3109" />
+			<add x="-54886" y="109446" zmin="-3909" zmax="-3109" />
+			<add x="-56156" y="107887" zmin="-3909" zmax="-3109" />
+			<add x="-54966" y="106362" zmin="-3909" zmax="-3109" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-50652" y="108232" zmin="-3905" zmax="-3105" />
+			<add x="-49872" y="108766" zmin="-3905" zmax="-3105" />
+			<add x="-51067" y="110467" zmin="-3905" zmax="-3105" />
+			<add x="-53222" y="108716" zmin="-3905" zmax="-3105" />
+			<add x="-52927" y="107652" zmin="-3905" zmax="-3105" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-49036" y="107566" zmin="-3941" zmax="-3141" />
+			<add x="-47266" y="108572" zmin="-3941" zmax="-3141" />
+			<add x="-47472" y="109267" zmin="-3941" zmax="-3141" />
+			<add x="-49846" y="108692" zmin="-3941" zmax="-3141" />
+			<add x="-50486" y="107956" zmin="-3941" zmax="-3141" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-54387" y="109866" zmin="-3729" zmax="-2929" />
+			<add x="-53187" y="109056" zmin="-3729" zmax="-2929" />
+			<add x="-51142" y="110627" zmin="-3729" zmax="-2929" />
+			<add x="-52686" y="112606" zmin="-3729" zmax="-2929" />
+			<add x="-53947" y="111556" zmin="-3729" zmax="-2929" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-21769" y="139426" zmin="-4052" zmax="-3652" />
+			<add x="-19531" y="138486" zmin="-4052" zmax="-3652" />
+			<add x="-18597" y="142361" zmin="-4052" zmax="-3652" />
+			<add x="-21436" y="142836" zmin="-4052" zmax="-3652" />
+			<add x="-22467" y="141627" zmin="-4052" zmax="-3652" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-21576" y="143122" zmin="-3961" zmax="-3561" />
+			<add x="-18367" y="142672" zmin="-3961" zmax="-3561" />
+			<add x="-17992" y="146236" zmin="-3961" zmax="-3561" />
+			<add x="-20894" y="146692" zmin="-3961" zmax="-3561" />
+			<add x="-21967" y="145247" zmin="-3961" zmax="-3561" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-19084" y="138632" zmin="-3989" zmax="-3639" />
+			<add x="-15532" y="138476" zmin="-3989" zmax="-3639" />
+			<add x="-12912" y="140851" zmin="-3989" zmax="-3639" />
+			<add x="-17901" y="142301" zmin="-3989" zmax="-3639" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-18221" y="142761" zmin="-3972" zmax="-3572" />
+			<add x="-16391" y="142011" zmin="-3972" zmax="-3572" />
+			<add x="-15796" y="145966" zmin="-3972" zmax="-3572" />
+			<add x="-17651" y="146239" zmin="-3972" zmax="-3572" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-9087" y="140372" zmin="-3769" zmax="-3169" />
+			<add x="-7332" y="142732" zmin="-3769" zmax="-3169" />
+			<add x="-8612" y="144087" zmin="-3769" zmax="-3169" />
+			<add x="-10176" y="144492" zmin="-3769" zmax="-3169" />
+			<add x="-10967" y="140442" zmin="-3769" zmax="-3169" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-7059" y="142569" zmin="-3805" zmax="-3105" />
+			<add x="-2841" y="143689" zmin="-3805" zmax="-3105" />
+			<add x="-2461" y="145001" zmin="-3805" zmax="-3105" />
+			<add x="-4179" y="146949" zmin="-3805" zmax="-3105" />
+			<add x="-7527" y="146882" zmin="-3805" zmax="-3105" />
+			<add x="-8436" y="144112" zmin="-3805" zmax="-3105" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-51442" y="139106" zmin="-3069" zmax="-2469" />
+			<add x="-49456" y="138816" zmin="-3069" zmax="-2469" />
+			<add x="-49287" y="141206" zmin="-3069" zmax="-2469" />
+			<add x="-50152" y="142486" zmin="-3069" zmax="-2469" />
+			<add x="-52452" y="141672" zmin="-3069" zmax="-2469" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-56547" y="138512" zmin="-2872" zmax="-2272" />
+			<add x="-56967" y="139132" zmin="-2872" zmax="-2272" />
+			<add x="-58232" y="139602" zmin="-2872" zmax="-2272" />
+			<add x="-58596" y="138962" zmin="-2872" zmax="-2272" />
+			<add x="-58826" y="137032" zmin="-2872" zmax="-2272" />
+			<add x="-57187" y="136372" zmin="-2872" zmax="-2272" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-98222" y="100316" zmin="-3665" zmax="-2276" />
+			<add x="-93924" y="102009" zmin="-3665" zmax="-2276" />
+			<add x="-95756" y="103734" zmin="-3665" zmax="-2276" />
+			<add x="-98186" y="102776" zmin="-3665" zmax="-2276" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-95639" y="109481" zmin="-3912" zmax="-3112" />
+			<add x="-95581" y="107557" zmin="-3912" zmax="-3112" />
+			<add x="-91719" y="106862" zmin="-3912" zmax="-3112" />
+			<add x="-91112" y="107927" zmin="-3912" zmax="-3112" />
+			<add x="-93361" y="109981" zmin="-3912" zmax="-3112" />
+		</territory>
+		<npc id="18268" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-93412" y="115021" zmin="-3636" zmax="-2836" />
+			<add x="-91016" y="112672" zmin="-3636" zmax="-2836" />
+			<add x="-88716" y="115276" zmin="-3636" zmax="-2836" />
+			<add x="-88832" y="118442" zmin="-3636" zmax="-2836" />
+			<add x="-90587" y="118896" zmin="-3636" zmax="-2836" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-55964" y="180911" zmin="-4565" zmax="-4365" />
+			<add x="-55579" y="180911" zmin="-4565" zmax="-4365" />
+			<add x="-55584" y="182927" zmin="-4565" zmax="-4365" />
+			<add x="-55971" y="182927" zmin="-4565" zmax="-4365" />
+		</territory>
+		<npc id="18268" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-55162" y="180909" zmin="-4556" zmax="-4356" />
+			<add x="-54771" y="180909" zmin="-4556" zmax="-4356" />
+			<add x="-54771" y="182936" zmin="-4556" zmax="-4356" />
+			<add x="-55162" y="182936" zmin="-4556" zmax="-4356" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-55722" y="179196" zmin="-3292" zmax="-2592" />
+			<add x="-53967" y="177936" zmin="-3292" zmax="-2592" />
+			<add x="-52372" y="177862" zmin="-3292" zmax="-2592" />
+			<add x="-50046" y="180602" zmin="-3292" zmax="-2592" />
+			<add x="-51007" y="181772" zmin="-3292" zmax="-2592" />
+			<add x="-55047" y="180966" zmin="-3292" zmax="-2592" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-39444" y="190464" zmin="-3552" zmax="-2752" />
+			<add x="-39272" y="191952" zmin="-3552" zmax="-2752" />
+			<add x="-41047" y="196326" zmin="-3552" zmax="-2752" />
+			<add x="-45126" y="196376" zmin="-3552" zmax="-2752" />
+			<add x="-44186" y="190446" zmin="-3552" zmax="-2752" />
+			<add x="-42189" y="189349" zmin="-3552" zmax="-2752" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-39062" y="192527" zmin="-3465" zmax="-2276" />
+			<add x="-35782" y="194696" zmin="-3465" zmax="-2276" />
+			<add x="-35947" y="196287" zmin="-3465" zmax="-2276" />
+			<add x="-40696" y="196327" zmin="-3465" zmax="-2276" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-36227" y="199101" zmin="-3805" zmax="-2805" />
+			<add x="-35401" y="196746" zmin="-3805" zmax="-2805" />
+			<add x="-33029" y="196754" zmin="-3805" zmax="-2805" />
+			<add x="-33072" y="200369" zmin="-3805" zmax="-2805" />
+			<add x="-34137" y="201401" zmin="-3805" zmax="-2805" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-38434" y="191137" zmin="-3719" zmax="-3219" />
+			<add x="-38149" y="188652" zmin="-3719" zmax="-3219" />
+			<add x="-36469" y="187941" zmin="-3719" zmax="-3219" />
+			<add x="-35534" y="189182" zmin="-3719" zmax="-3219" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-36982" y="184651" zmin="-4201" zmax="-3601" />
+			<add x="-40949" y="183651" zmin="-4201" zmax="-3601" />
+			<add x="-40949" y="181747" zmin="-4201" zmax="-3601" />
+			<add x="-38599" y="181371" zmin="-4201" zmax="-3601" />
+			<add x="-37061" y="182699" zmin="-4201" zmax="-3601" />
+		</territory>
+		<npc id="18268" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-11426" y="176571" zmin="-4286" zmax="-3786" />
+			<add x="-9251" y="178387" zmin="-4286" zmax="-3786" />
+			<add x="-10062" y="179657" zmin="-4286" zmax="-3786" />
+			<add x="-13666" y="178179" zmin="-4286" zmax="-3786" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-13372" y="178427" zmin="-4286" zmax="-3786" />
+			<add x="-10059" y="179791" zmin="-4286" zmax="-3786" />
+			<add x="-12039" y="181146" zmin="-4286" zmax="-3786" />
+			<add x="-15621" y="180707" zmin="-4286" zmax="-3786" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-20327" y="186639" zmin="-4579" zmax="-3779" />
+			<add x="-14797" y="185782" zmin="-4579" zmax="-3779" />
+			<add x="-13019" y="187079" zmin="-4579" zmax="-3779" />
+			<add x="-14987" y="191947" zmin="-4579" zmax="-3779" />
+			<add x="-20049" y="191751" zmin="-4579" zmax="-3779" />
+		</territory>
+		<npc id="18271" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="30474" y="137104" zmin="-3281" zmax="-2681" />
+			<add x="32576" y="134727" zmin="-3281" zmax="-2681" />
+			<add x="32486" y="139814" zmin="-3281" zmax="-2681" />
+			<add x="31554" y="139891" zmin="-3281" zmax="-2681" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="17541" y="150842" zmin="-3601" zmax="-2701" />
+			<add x="18097" y="153882" zmin="-3601" zmax="-2701" />
+			<add x="12911" y="153486" zmin="-3601" zmax="-2701" />
+			<add x="13926" y="150542" zmin="-3601" zmax="-2701" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-29236" y="117246" zmin="-3949" zmax="-3149" />
+			<add x="-27102" y="116647" zmin="-3949" zmax="-3149" />
+			<add x="-27142" y="118882" zmin="-3949" zmax="-3149" />
+			<add x="-29096" y="118856" zmin="-3949" zmax="-3149" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="9546" y="168891" zmin="-3799" zmax="-3099" />
+			<add x="7319" y="164012" zmin="-3799" zmax="-3099" />
+			<add x="11817" y="163964" zmin="-3799" zmax="-3099" />
+			<add x="11851" y="166727" zmin="-3799" zmax="-3099" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="36" y="163887" zmin="-3819" zmax="-3019" />
+			<add x="2656" y="163911" zmin="-3819" zmax="-3019" />
+			<add x="3459" y="166492" zmin="-3819" zmax="-3019" />
+			<add x="2192" y="167759" zmin="-3819" zmax="-3019" />
+			<add x="42" y="167682" zmin="-3819" zmax="-3019" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="129" y="173224" zmin="-3832" zmax="-2732" />
+			<add x="5866" y="171996" zmin="-3832" zmax="-2732" />
+			<add x="9991" y="176836" zmin="-3832" zmax="-2732" />
+			<add x="191" y="177689" zmin="-3832" zmax="-2732" />
+		</territory>
+		<npc id="18268" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="50272" y="118821" zmin="-3625" zmax="-2325" />
+			<add x="54387" y="121231" zmin="-3625" zmax="-2325" />
+			<add x="53606" y="123429" zmin="-3625" zmax="-2325" />
+			<add x="51396" y="124172" zmin="-3625" zmax="-2325" />
+			<add x="49641" y="121266" zmin="-3625" zmax="-2325" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="52122" y="124066" zmin="-3821" zmax="-2921" />
+			<add x="51571" y="126307" zmin="-3821" zmax="-2921" />
+			<add x="47431" y="125979" zmin="-3821" zmax="-2921" />
+			<add x="48896" y="124782" zmin="-3821" zmax="-2921" />
+		</territory>
+		<npc id="18268" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="40021" y="101332" zmin="-1301" zmax="-1001" />
+			<add x="40947" y="101699" zmin="-1301" zmax="-1001" />
+			<add x="40976" y="102891" zmin="-1301" zmax="-1001" />
+			<add x="39979" y="102912" zmin="-1301" zmax="-1001" />
+			<add x="38969" y="102327" zmin="-1301" zmax="-1001" />
+			<add x="39177" y="101421" zmin="-1301" zmax="-1001" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="40209" y="145191" zmin="-3961" zmax="-3361" />
+			<add x="41092" y="146459" zmin="-3961" zmax="-3361" />
+			<add x="40729" y="147321" zmin="-3961" zmax="-3361" />
+			<add x="38391" y="147509" zmin="-3961" zmax="-3361" />
+			<add x="38316" y="146511" zmin="-3961" zmax="-3361" />
+			<add x="39651" y="145086" zmin="-3961" zmax="-3361" />
+		</territory>
+		<npc id="18266" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="42859" y="141842" zmin="-3382" zmax="-2782" />
+			<add x="45622" y="140341" zmin="-3382" zmax="-2782" />
+			<add x="49682" y="140639" zmin="-3382" zmax="-2782" />
+			<add x="43661" y="144491" zmin="-3382" zmax="-2782" />
+			<add x="42221" y="144692" zmin="-3382" zmax="-2782" />
+			<add x="41752" y="143114" zmin="-3382" zmax="-2782" />
+		</territory>
+		<npc id="18268" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="44746" y="145276" zmin="-3839" zmax="-3239" />
+			<add x="48911" y="142987" zmin="-3839" zmax="-3239" />
+			<add x="50806" y="145462" zmin="-3839" zmax="-3239" />
+			<add x="47162" y="146946" zmin="-3839" zmax="-3239" />
+			<add x="45026" y="146381" zmin="-3839" zmax="-3239" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="47199" y="146992" zmin="-3839" zmax="-3239" />
+			<add x="50752" y="145592" zmin="-3839" zmax="-3239" />
+			<add x="51469" y="146809" zmin="-3839" zmax="-3239" />
+			<add x="50099" y="148622" zmin="-3839" zmax="-3239" />
+			<add x="48429" y="149892" zmin="-3839" zmax="-3239" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="45699" y="151349" zmin="-2946" zmax="-2446" />
+			<add x="48309" y="150431" zmin="-2946" zmax="-2446" />
+			<add x="50402" y="154087" zmin="-2946" zmax="-2446" />
+			<add x="47521" y="155431" zmin="-2946" zmax="-2446" />
+			<add x="46012" y="154311" zmin="-2946" zmax="-2446" />
+			<add x="44994" y="152326" zmin="-2946" zmax="-2446" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="13649" y="109352" zmin="-12121" zmax="-11891" />
+			<add x="15079" y="109339" zmin="-12121" zmax="-11891" />
+			<add x="15081" y="109946" zmin="-12121" zmax="-11891" />
+			<add x="13646" y="109939" zmin="-12121" zmax="-11891" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="11609" y="109346" zmin="-12121" zmax="-11891" />
+			<add x="12871" y="109344" zmin="-12121" zmax="-11891" />
+			<add x="12871" y="109924" zmin="-12121" zmax="-11891" />
+			<add x="11607" y="109926" zmin="-12121" zmax="-11891" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="12842" y="110167" zmin="-12121" zmax="-11891" />
+			<add x="13362" y="110167" zmin="-12121" zmax="-11891" />
+			<add x="13356" y="111522" zmin="-12121" zmax="-11891" />
+			<add x="12826" y="111526" zmin="-12121" zmax="-11891" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="12834" y="107667" zmin="-12121" zmax="-11891" />
+			<add x="13346" y="107667" zmin="-12121" zmax="-11891" />
+			<add x="13349" y="109092" zmin="-12121" zmax="-11891" />
+			<add x="12819" y="109086" zmin="-12121" zmax="-11891" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="13831" y="107699" zmin="-12121" zmax="-11891" />
+			<add x="14772" y="107704" zmin="-12121" zmax="-11891" />
+			<add x="14776" y="108749" zmin="-12121" zmax="-11891" />
+			<add x="13846" y="108742" zmin="-12121" zmax="-11891" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="14799" y="108784" zmin="-9082" zmax="-8882" />
+			<add x="15421" y="108789" zmin="-9082" zmax="-8882" />
+			<add x="15422" y="110127" zmin="-9082" zmax="-8882" />
+			<add x="14794" y="110121" zmin="-9082" zmax="-8882" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="11951" y="108547" zmin="-9119" zmax="-8919" />
+			<add x="13681" y="108541" zmin="-9119" zmax="-8919" />
+			<add x="13682" y="111412" zmin="-9119" zmax="-8919" />
+			<add x="11959" y="111416" zmin="-9119" zmax="-8919" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="11757" y="116701" zmin="-9119" zmax="-8919" />
+			<add x="13424" y="116712" zmin="-9119" zmax="-8919" />
+			<add x="13422" y="119731" zmin="-9119" zmax="-8919" />
+			<add x="11721" y="119731" zmin="-9119" zmax="-8919" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="78196" y="120286" zmin="-2321" zmax="-2121" />
+			<add x="79962" y="120087" zmin="-2321" zmax="-2121" />
+			<add x="80496" y="122136" zmin="-2321" zmax="-2121" />
+			<add x="79056" y="122576" zmin="-2321" zmax="-2121" />
+			<add x="77322" y="121136" zmin="-2321" zmax="-2121" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91956" y="128667" zmin="-3681" zmax="-2681" />
+			<add x="96807" y="128186" zmin="-3681" zmax="-2681" />
+			<add x="96792" y="130726" zmin="-3681" zmax="-2681" />
+			<add x="92132" y="131682" zmin="-3681" zmax="-2681" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116176" y="126986" zmin="-3629" zmax="-2129" />
+			<add x="119716" y="127592" zmin="-3629" zmax="-2129" />
+			<add x="121276" y="129412" zmin="-3629" zmax="-2129" />
+			<add x="121347" y="131652" zmin="-3629" zmax="-2129" />
+			<add x="114992" y="130706" zmin="-3629" zmax="-2129" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123706" y="127516" zmin="-3601" zmax="-2601" />
+			<add x="124792" y="127626" zmin="-3601" zmax="-2601" />
+			<add x="125436" y="129882" zmin="-3601" zmax="-2601" />
+			<add x="124372" y="130747" zmin="-3601" zmax="-2601" />
+			<add x="121467" y="130726" zmin="-3601" zmax="-2601" />
+			<add x="121296" y="128942" zmin="-3601" zmax="-2601" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="98552" y="131282" zmin="-3685" zmax="-3085" />
+			<add x="103162" y="131267" zmin="-3685" zmax="-3085" />
+			<add x="103056" y="133876" zmin="-3685" zmax="-3085" />
+			<add x="100432" y="136046" zmin="-3685" zmax="-3085" />
+			<add x="98606" y="136436" zmin="-3685" zmax="-3085" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118567" y="131272" zmin="-3656" zmax="-3056" />
+			<add x="122612" y="131247" zmin="-3656" zmax="-3056" />
+			<add x="122702" y="134072" zmin="-3656" zmax="-3056" />
+			<add x="120167" y="133342" zmin="-3656" zmax="-3056" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65732" y="104242" zmin="-3732" zmax="-3332" />
+			<add x="66852" y="103532" zmin="-3732" zmax="-3332" />
+			<add x="67886" y="105046" zmin="-3732" zmax="-3332" />
+			<add x="66912" y="107706" zmin="-3732" zmax="-3332" />
+			<add x="65622" y="107416" zmin="-3732" zmax="-3332" />
+		</territory>
+		<npc id="18271" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="70156" y="103296" zmin="-3796" zmax="-3396" />
+			<add x="71547" y="102922" zmin="-3796" zmax="-3396" />
+			<add x="71326" y="105682" zmin="-3796" zmax="-3396" />
+			<add x="70042" y="104742" zmin="-3796" zmax="-3396" />
+		</territory>
+		<npc id="18271" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67966" y="107147" zmin="-3741" zmax="-3341" />
+			<add x="68556" y="107147" zmin="-3741" zmax="-3341" />
+			<add x="68282" y="110846" zmin="-3741" zmax="-3341" />
+			<add x="67086" y="109426" zmin="-3741" zmax="-3341" />
+			<add x="67167" y="108682" zmin="-3741" zmax="-3341" />
+		</territory>
+		<npc id="18271" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="66667" y="113836" zmin="-3781" zmax="-3381" />
+			<add x="67792" y="114592" zmin="-3781" zmax="-3381" />
+			<add x="69862" y="117767" zmin="-3781" zmax="-3381" />
+			<add x="67106" y="118326" zmin="-3781" zmax="-3381" />
+			<add x="65676" y="117356" zmin="-3781" zmax="-3381" />
+			<add x="65652" y="114186" zmin="-3781" zmax="-3381" />
+		</territory>
+		<npc id="18271" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="70922" y="122947" zmin="-3681" zmax="-3481" />
+			<add x="71746" y="122962" zmin="-3681" zmax="-3481" />
+			<add x="71816" y="124542" zmin="-3681" zmax="-3481" />
+			<add x="70886" y="124856" zmin="-3681" zmax="-3481" />
+		</territory>
+		<npc id="18271" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="70782" y="125162" zmin="-3849" zmax="-3449" />
+			<add x="71852" y="124642" zmin="-3849" zmax="-3449" />
+			<add x="72662" y="125432" zmin="-3849" zmax="-3449" />
+			<add x="71506" y="128292" zmin="-3849" zmax="-3449" />
+			<add x="70007" y="126427" zmin="-3849" zmax="-3449" />
+		</territory>
+		<npc id="18271" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="84086" y="100266" zmin="-3489" zmax="-3289" />
+			<add x="85292" y="101007" zmin="-3489" zmax="-3289" />
+			<add x="84382" y="102782" zmin="-3489" zmax="-3289" />
+			<add x="80722" y="102792" zmin="-3489" zmax="-3289" />
+			<add x="82362" y="100566" zmin="-3489" zmax="-3289" />
+		</territory>
+		<npc id="18271" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="98502" y="98556" zmin="-3765" zmax="-2765" />
+			<add x="101702" y="98472" zmin="-3765" zmax="-2765" />
+			<add x="105827" y="101836" zmin="-3765" zmax="-2765" />
+			<add x="102242" y="104627" zmin="-3765" zmax="-2765" />
+			<add x="98462" y="103662" zmin="-3765" zmax="-2765" />
+		</territory>
+		<npc id="18271" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="52861" y="205126" zmin="-3776" zmax="-3576" />
+			<add x="54067" y="205111" zmin="-3776" zmax="-3576" />
+			<add x="54229" y="205616" zmin="-3776" zmax="-3576" />
+			<add x="53856" y="205742" zmin="-3776" zmax="-3576" />
+			<add x="52841" y="205669" zmin="-3776" zmax="-3576" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="43897" y="212426" zmin="-3765" zmax="-3549" />
+			<add x="44276" y="212317" zmin="-3765" zmax="-3549" />
+			<add x="44574" y="212457" zmin="-3765" zmax="-3549" />
+			<add x="44514" y="212669" zmin="-3765" zmax="-3549" />
+			<add x="43891" y="212682" zmin="-3765" zmax="-3549" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="49127" y="209812" zmin="-2749" zmax="-2549" />
+			<add x="50506" y="209812" zmin="-2749" zmax="-2549" />
+			<add x="50506" y="210922" zmin="-2749" zmax="-2549" />
+			<add x="49127" y="210922" zmin="-2749" zmax="-2549" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="53069" y="206477" zmin="-3801" zmax="-3601" />
+			<add x="54472" y="206451" zmin="-3801" zmax="-3601" />
+			<add x="54497" y="207024" zmin="-3801" zmax="-3601" />
+			<add x="53056" y="206971" zmin="-3801" zmax="-3601" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="42014" y="213412" zmin="-3752" zmax="-3552" />
+			<add x="42327" y="213426" zmin="-3752" zmax="-3552" />
+			<add x="42467" y="214999" zmin="-3752" zmax="-3552" />
+			<add x="41831" y="214941" zmin="-3752" zmax="-3552" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="49127" y="209812" zmin="-2749" zmax="-2549" />
+			<add x="50506" y="209812" zmin="-2749" zmax="-2549" />
+			<add x="50506" y="210922" zmin="-2749" zmax="-2549" />
+			<add x="49127" y="210922" zmin="-2749" zmax="-2549" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="47212" y="211356" zmin="-3625" zmax="-3425" />
+			<add x="47601" y="211356" zmin="-3625" zmax="-3425" />
+			<add x="47581" y="211712" zmin="-3625" zmax="-3425" />
+			<add x="47521" y="211811" zmin="-3625" zmax="-3425" />
+			<add x="47269" y="211811" zmin="-3625" zmax="-3425" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="45671" y="209399" zmin="-3636" zmax="-3436" />
+			<add x="45922" y="209399" zmin="-3636" zmax="-3436" />
+			<add x="45996" y="209821" zmin="-3636" zmax="-3436" />
+			<add x="45612" y="209821" zmin="-3636" zmax="-3436" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="47262" y="213191" zmin="-3461" zmax="-3261" />
+			<add x="48664" y="213191" zmin="-3461" zmax="-3261" />
+			<add x="48664" y="214359" zmin="-3461" zmax="-3261" />
+			<add x="47262" y="214359" zmin="-3461" zmax="-3261" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="47184" y="211921" zmin="-3381" zmax="-3181" />
+			<add x="48606" y="211921" zmin="-3381" zmax="-3181" />
+			<add x="48606" y="213089" zmin="-3381" zmax="-3181" />
+			<add x="47184" y="213089" zmin="-3381" zmax="-3181" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="104627" y="176781" zmin="-3838" zmax="-3238" />
+			<add x="107991" y="178076" zmin="-3838" zmax="-3238" />
+			<add x="106604" y="179551" zmin="-3838" zmax="-3238" />
+			<add x="104969" y="180117" zmin="-3838" zmax="-3238" />
+			<add x="103399" y="178771" zmin="-3838" zmax="-3238" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="105996" y="174722" zmin="-3822" zmax="-3122" />
+			<add x="109279" y="177097" zmin="-3822" zmax="-3122" />
+			<add x="108259" y="178061" zmin="-3822" zmax="-3122" />
+			<add x="104676" y="176632" zmin="-3822" zmax="-3122" />
+			<add x="104236" y="175221" zmin="-3822" zmax="-3122" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="109549" y="185084" zmin="-3841" zmax="-3241" />
+			<add x="111424" y="185884" zmin="-3841" zmax="-3241" />
+			<add x="108076" y="190207" zmin="-3841" zmax="-3241" />
+			<add x="105992" y="187034" zmin="-3841" zmax="-3241" />
+			<add x="108121" y="184724" zmin="-3841" zmax="-3241" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113587" y="186881" zmin="-3861" zmax="-3161" />
+			<add x="113214" y="189816" zmin="-3861" zmax="-3161" />
+			<add x="111062" y="190667" zmin="-3861" zmax="-3161" />
+			<add x="108486" y="189787" zmin="-3861" zmax="-3161" />
+			<add x="111499" y="185916" zmin="-3861" zmax="-3161" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="117009" y="186532" zmin="-3849" zmax="-3149" />
+			<add x="117511" y="188441" zmin="-3849" zmax="-3149" />
+			<add x="116999" y="190909" zmin="-3849" zmax="-3149" />
+			<add x="113294" y="189842" zmin="-3849" zmax="-3149" />
+			<add x="113656" y="186897" zmin="-3849" zmax="-3149" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="120462" y="188982" zmin="-3832" zmax="-3432" />
+			<add x="119556" y="191949" zmin="-3832" zmax="-3432" />
+			<add x="117142" y="190802" zmin="-3832" zmax="-3432" />
+			<add x="117564" y="188452" zmin="-3832" zmax="-3432" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="117629" y="188364" zmin="-3845" zmax="-3345" />
+			<add x="117104" y="186532" zmin="-3845" zmax="-3345" />
+			<add x="119681" y="185071" zmin="-3845" zmax="-3345" />
+			<add x="120729" y="185792" zmin="-3845" zmax="-3345" />
+			<add x="120444" y="188822" zmin="-3845" zmax="-3345" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="117127" y="186412" zmin="-3845" zmax="-3345" />
+			<add x="114807" y="182864" zmin="-3845" zmax="-3345" />
+			<add x="116369" y="181632" zmin="-3845" zmax="-3345" />
+			<add x="118261" y="182459" zmin="-3845" zmax="-3345" />
+			<add x="119626" y="184946" zmin="-3845" zmax="-3345" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="117054" y="186456" zmin="-3859" zmax="-3159" />
+			<add x="113659" y="186779" zmin="-3859" zmax="-3159" />
+			<add x="109684" y="184976" zmin="-3859" zmax="-3159" />
+			<add x="111299" y="182576" zmin="-3859" zmax="-3159" />
+			<add x="114609" y="182719" zmin="-3859" zmax="-3159" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114464" y="182579" zmin="-3845" zmax="-3145" />
+			<add x="111626" y="182459" zmin="-3845" zmax="-3145" />
+			<add x="109676" y="179701" zmin="-3845" zmax="-3145" />
+			<add x="113391" y="179862" zmin="-3845" zmax="-3145" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83469" y="258302" zmin="-9366" zmax="-8966" />
+			<add x="83486" y="258862" zmin="-9366" zmax="-8966" />
+			<add x="81421" y="258849" zmin="-9366" zmax="-8966" />
+			<add x="81411" y="258316" zmin="-9366" zmax="-8966" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83346" y="245134" zmin="-9366" zmax="-9066" />
+			<add x="83344" y="245674" zmin="-9366" zmax="-9066" />
+			<add x="81712" y="245687" zmin="-9366" zmax="-9066" />
+			<add x="81707" y="245132" zmin="-9366" zmax="-9066" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="80897" y="246441" zmin="-9379" zmax="-9129" />
+			<add x="80849" y="246182" zmin="-9379" zmax="-9129" />
+			<add x="84441" y="246136" zmin="-9379" zmax="-9129" />
+			<add x="84431" y="246421" zmin="-9379" zmax="-9129" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87531" y="248551" zmin="-9379" zmax="-9179" />
+			<add x="87681" y="248462" zmin="-9379" zmax="-9179" />
+			<add x="88804" y="252029" zmin="-9379" zmax="-9179" />
+			<add x="88596" y="252037" zmin="-9379" zmax="-9179" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87409" y="255539" zmin="-9379" zmax="-9179" />
+			<add x="87641" y="255656" zmin="-9379" zmax="-9179" />
+			<add x="84636" y="257814" zmin="-9379" zmax="-9179" />
+			<add x="84529" y="257622" zmin="-9379" zmax="-9179" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="78742" y="251987" zmin="-10408" zmax="-10208" />
+			<add x="78272" y="251999" zmin="-10408" zmax="-10208" />
+			<add x="79152" y="249332" zmin="-10408" zmax="-10208" />
+			<add x="79556" y="249602" zmin="-10408" zmax="-10208" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79622" y="249589" zmin="-10408" zmax="-10208" />
+			<add x="79296" y="249351" zmin="-10408" zmax="-10208" />
+			<add x="81346" y="247827" zmin="-10408" zmax="-10208" />
+			<add x="81516" y="248214" zmin="-10408" zmax="-10208" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="81629" y="248207" zmin="-10408" zmax="-10208" />
+			<add x="81441" y="247736" zmin="-10408" zmax="-10208" />
+			<add x="84099" y="247731" zmin="-10408" zmax="-10208" />
+			<add x="83952" y="248206" zmin="-10408" zmax="-10208" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="84016" y="248252" zmin="-10408" zmax="-10208" />
+			<add x="84144" y="247839" zmin="-10408" zmax="-10208" />
+			<add x="86301" y="249392" zmin="-10408" zmax="-10208" />
+			<add x="85981" y="249629" zmin="-10408" zmax="-10208" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86009" y="249732" zmin="-10408" zmax="-10208" />
+			<add x="86376" y="249444" zmin="-10408" zmax="-10208" />
+			<add x="87254" y="251992" zmin="-10408" zmax="-10208" />
+			<add x="86747" y="251999" zmin="-10408" zmax="-10208" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="80541" y="254602" zmin="-10946" zmax="-10746" />
+			<add x="79872" y="254096" zmin="-10946" zmax="-10746" />
+			<add x="79491" y="253059" zmin="-10946" zmax="-10746" />
+			<add x="80739" y="252481" zmin="-10946" zmax="-10746" />
+			<add x="81302" y="253476" zmin="-10946" zmax="-10746" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="81416" y="252101" zmin="-10946" zmax="-10746" />
+			<add x="79462" y="252992" zmin="-10946" zmax="-10746" />
+			<add x="79169" y="251992" zmin="-10946" zmax="-10746" />
+			<add x="79462" y="251186" zmin="-10946" zmax="-10746" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="80867" y="251184" zmin="-10946" zmax="-10746" />
+			<add x="79571" y="250664" zmin="-10946" zmax="-10746" />
+			<add x="79894" y="249867" zmin="-10946" zmax="-10746" />
+			<add x="80651" y="249289" zmin="-10946" zmax="-10746" />
+			<add x="81837" y="250322" zmin="-10946" zmax="-10746" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="82011" y="250374" zmin="-10946" zmax="-10746" />
+			<add x="80727" y="249239" zmin="-10946" zmax="-10746" />
+			<add x="81672" y="248609" zmin="-10946" zmax="-10746" />
+			<add x="82559" y="248587" zmin="-10946" zmax="-10746" />
+			<add x="82586" y="250302" zmin="-10946" zmax="-10746" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="85941" y="250732" zmin="-10946" zmax="-10746" />
+			<add x="84236" y="251457" zmin="-10946" zmax="-10746" />
+			<add x="83859" y="250836" zmin="-10946" zmax="-10746" />
+			<add x="84851" y="249269" zmin="-10946" zmax="-10746" />
+			<add x="85649" y="249914" zmin="-10946" zmax="-10746" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83846" y="255387" zmin="-10946" zmax="-10746" />
+			<add x="83114" y="255409" zmin="-10946" zmax="-10746" />
+			<add x="83009" y="253891" zmin="-10946" zmax="-10746" />
+			<add x="83247" y="253161" zmin="-10946" zmax="-10746" />
+			<add x="84559" y="254961" zmin="-10946" zmax="-10746" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="89692" y="-19822" zmin="-2125" zmax="-1825" />
+			<add x="90856" y="-20476" zmin="-2125" zmax="-1825" />
+			<add x="91646" y="-18467" zmin="-2125" zmax="-1825" />
+			<add x="90922" y="-18227" zmin="-2125" zmax="-1825" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91772" y="-15006" zmin="-2252" zmax="-1952" />
+			<add x="92246" y="-17302" zmin="-2252" zmax="-1952" />
+			<add x="93716" y="-16046" zmin="-2252" zmax="-1952" />
+			<add x="92852" y="-15112" zmin="-2252" zmax="-1952" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91262" y="-20516" zmin="-2185" zmax="-1485" />
+			<add x="93142" y="-21467" zmin="-2185" zmax="-1485" />
+			<add x="94292" y="-18662" zmin="-2185" zmax="-1485" />
+			<add x="92736" y="-18116" zmin="-2185" zmax="-1485" />
+			<add x="91722" y="-19062" zmin="-2185" zmax="-1485" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90932" y="-18216" zmin="-2129" zmax="-1829" />
+			<add x="91662" y="-18456" zmin="-2129" zmax="-1829" />
+			<add x="92382" y="-17952" zmin="-2129" zmax="-1829" />
+			<add x="92047" y="-16452" zmin="-2129" zmax="-1829" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="92746" y="-18086" zmin="-2205" zmax="-1705" />
+			<add x="94366" y="-18652" zmin="-2205" zmax="-1705" />
+			<add x="95076" y="-16616" zmin="-2205" zmax="-1705" />
+			<add x="93716" y="-16056" zmin="-2205" zmax="-1705" />
+			<add x="92552" y="-17042" zmin="-2205" zmax="-1705" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91262" y="-20516" zmin="-2185" zmax="-1485" />
+			<add x="93142" y="-21467" zmin="-2185" zmax="-1485" />
+			<add x="94292" y="-18662" zmin="-2185" zmax="-1485" />
+			<add x="92736" y="-18116" zmin="-2185" zmax="-1485" />
+			<add x="91722" y="-19062" zmin="-2185" zmax="-1485" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91262" y="-20516" zmin="-2185" zmax="-1485" />
+			<add x="93142" y="-21467" zmin="-2185" zmax="-1485" />
+			<add x="94292" y="-18662" zmin="-2185" zmax="-1485" />
+			<add x="92736" y="-18116" zmin="-2185" zmax="-1485" />
+			<add x="91722" y="-19062" zmin="-2185" zmax="-1485" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="69452" y="36716" zmin="-3665" zmax="-3065" />
+			<add x="70752" y="36332" zmin="-3665" zmax="-3065" />
+			<add x="73856" y="39206" zmin="-3665" zmax="-3065" />
+			<add x="70762" y="40966" zmin="-3665" zmax="-3065" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65716" y="36566" zmin="-3869" zmax="-3269" />
+			<add x="69412" y="36646" zmin="-3869" zmax="-3269" />
+			<add x="70716" y="40922" zmin="-3869" zmax="-3269" />
+			<add x="65702" y="41882" zmin="-3869" zmax="-3269" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="45472" y="21882" zmin="-5292" zmax="-4592" />
+			<add x="46876" y="22656" zmin="-5292" zmax="-4592" />
+			<add x="47186" y="25162" zmin="-5292" zmax="-4592" />
+			<add x="44226" y="25536" zmin="-5292" zmax="-4592" />
+			<add x="42872" y="24352" zmin="-5292" zmax="-4592" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="45472" y="21882" zmin="-5292" zmax="-4592" />
+			<add x="46876" y="22656" zmin="-5292" zmax="-4592" />
+			<add x="47186" y="25162" zmin="-5292" zmax="-4592" />
+			<add x="44226" y="25536" zmin="-5292" zmax="-4592" />
+			<add x="42872" y="24352" zmin="-5292" zmax="-4592" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="102867" y="42182" zmin="-4672" zmax="-4422" />
+			<add x="105502" y="40367" zmin="-4672" zmax="-4422" />
+			<add x="106666" y="41172" zmin="-4672" zmax="-4422" />
+			<add x="106556" y="42386" zmin="-4672" zmax="-4422" />
+			<add x="104992" y="43622" zmin="-4672" zmax="-4422" />
+			<add x="104012" y="43836" zmin="-4672" zmax="-4422" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="102752" y="57426" zmin="-4625" zmax="-4125" />
+			<add x="103942" y="57522" zmin="-4625" zmax="-4125" />
+			<add x="107207" y="60816" zmin="-4625" zmax="-4125" />
+			<add x="107372" y="61732" zmin="-4625" zmax="-4125" />
+			<add x="105112" y="61532" zmin="-4625" zmax="-4125" />
+			<add x="102906" y="58852" zmin="-4625" zmax="-4125" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="112826" y="62462" zmin="-4625" zmax="-4196" />
+			<add x="117267" y="61747" zmin="-4625" zmax="-4196" />
+			<add x="116567" y="62892" zmin="-4625" zmax="-4196" />
+			<add x="115272" y="63376" zmin="-4625" zmax="-4196" />
+			<add x="113306" y="63312" zmin="-4625" zmax="-4196" />
+			<add x="112492" y="62807" zmin="-4625" zmax="-4196" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="124067" y="51552" zmin="-4701" zmax="-4501" />
+			<add x="126692" y="51316" zmin="-4701" zmax="-4501" />
+			<add x="127567" y="53242" zmin="-4701" zmax="-4501" />
+			<add x="126662" y="54016" zmin="-4701" zmax="-4501" />
+			<add x="125312" y="53927" zmin="-4701" zmax="-4501" />
+			<add x="124442" y="52956" zmin="-4701" zmax="-4501" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="122676" y="38892" zmin="-4681" zmax="-4281" />
+			<add x="124816" y="38192" zmin="-4681" zmax="-4281" />
+			<add x="125767" y="38272" zmin="-4681" zmax="-4281" />
+			<add x="126696" y="39667" zmin="-4681" zmax="-4281" />
+			<add x="127036" y="41936" zmin="-4681" zmax="-4281" />
+			<add x="123502" y="41642" zmin="-4681" zmax="-4281" />
+			<add x="122512" y="40446" zmin="-4681" zmax="-4281" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="106072" y="39332" zmin="-4012" zmax="-3212" />
+			<add x="108612" y="39482" zmin="-4012" zmax="-3212" />
+			<add x="109232" y="40167" zmin="-4012" zmax="-3212" />
+			<add x="108606" y="40866" zmin="-4012" zmax="-3212" />
+			<add x="106742" y="40566" zmin="-4012" zmax="-3212" />
+			<add x="105806" y="39682" zmin="-4012" zmax="-3212" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="109847" y="38212" zmin="-3876" zmax="-3276" />
+			<add x="113166" y="35616" zmin="-3876" zmax="-3276" />
+			<add x="114432" y="37616" zmin="-3876" zmax="-3276" />
+			<add x="114386" y="39202" zmin="-3876" zmax="-3276" />
+			<add x="113082" y="40247" zmin="-3876" zmax="-3276" />
+			<add x="112132" y="40242" zmin="-3876" zmax="-3276" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="104782" y="44372" zmin="-3889" zmax="-3439" />
+			<add x="107296" y="42502" zmin="-3889" zmax="-3439" />
+			<add x="110102" y="43846" zmin="-3889" zmax="-3439" />
+			<add x="110732" y="44762" zmin="-3889" zmax="-3439" />
+			<add x="109066" y="47242" zmin="-3889" zmax="-3439" />
+			<add x="106332" y="46892" zmin="-3889" zmax="-3439" />
+			<add x="104692" y="45802" zmin="-3889" zmax="-3439" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="106962" y="47492" zmin="-4129" zmax="-3479" />
+			<add x="109466" y="48096" zmin="-4129" zmax="-3479" />
+			<add x="110436" y="49242" zmin="-4129" zmax="-3479" />
+			<add x="109752" y="51247" zmin="-4129" zmax="-3479" />
+			<add x="108582" y="51382" zmin="-4129" zmax="-3479" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="111636" y="43006" zmin="-4265" zmax="-3465" />
+			<add x="113596" y="41527" zmin="-4265" zmax="-3465" />
+			<add x="115016" y="41472" zmin="-4265" zmax="-3465" />
+			<add x="115106" y="41726" zmin="-4265" zmax="-3465" />
+			<add x="113727" y="43627" zmin="-4265" zmax="-3465" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118216" y="37356" zmin="-4025" zmax="-3425" />
+			<add x="120647" y="38886" zmin="-4025" zmax="-3425" />
+			<add x="121162" y="40107" zmin="-4025" zmax="-3425" />
+			<add x="116462" y="38807" zmin="-4025" zmax="-3425" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="117147" y="43827" zmin="-4352" zmax="-3352" />
+			<add x="118582" y="42367" zmin="-4352" zmax="-3352" />
+			<add x="119722" y="42002" zmin="-4352" zmax="-3352" />
+			<add x="121306" y="44066" zmin="-4352" zmax="-3352" />
+			<add x="120062" y="45592" zmin="-4352" zmax="-3352" />
+			<add x="117212" y="44706" zmin="-4352" zmax="-3352" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="120986" y="44512" zmin="-4185" zmax="-3385" />
+			<add x="123132" y="44607" zmin="-4185" zmax="-3385" />
+			<add x="121547" y="46122" zmin="-4185" zmax="-3385" />
+			<add x="120082" y="45766" zmin="-4185" zmax="-3385" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="121746" y="45972" zmin="-3949" zmax="-3349" />
+			<add x="124406" y="43502" zmin="-3949" zmax="-3349" />
+			<add x="125662" y="45407" zmin="-3949" zmax="-3349" />
+			<add x="125296" y="47056" zmin="-3949" zmax="-3349" />
+			<add x="122342" y="47352" zmin="-3949" zmax="-3349" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="102232" y="46367" zmin="-3996" zmax="-3396" />
+			<add x="104196" y="47016" zmin="-3996" zmax="-3396" />
+			<add x="104756" y="48867" zmin="-3996" zmax="-3396" />
+			<add x="104492" y="51346" zmin="-3996" zmax="-3396" />
+			<add x="103622" y="52582" zmin="-3996" zmax="-3396" />
+			<add x="102066" y="47212" zmin="-3996" zmax="-3396" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="106367" y="58686" zmin="-3821" zmax="-3221" />
+			<add x="110426" y="58916" zmin="-3821" zmax="-3221" />
+			<add x="111072" y="59756" zmin="-3821" zmax="-3221" />
+			<add x="107722" y="60122" zmin="-3821" zmax="-3221" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="107802" y="54052" zmin="-4009" zmax="-3409" />
+			<add x="109547" y="54382" zmin="-4009" zmax="-3409" />
+			<add x="109742" y="56692" zmin="-4009" zmax="-3409" />
+			<add x="108242" y="57196" zmin="-4009" zmax="-3409" />
+			<add x="107656" y="56687" zmin="-4009" zmax="-3409" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="110316" y="53047" zmin="-3785" zmax="-3385" />
+			<add x="112716" y="52956" zmin="-3785" zmax="-3385" />
+			<add x="113626" y="54012" zmin="-3785" zmax="-3385" />
+			<add x="113276" y="55802" zmin="-3785" zmax="-3385" />
+			<add x="111552" y="56387" zmin="-3785" zmax="-3385" />
+			<add x="109792" y="55956" zmin="-3785" zmax="-3385" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="134342" y="122" zmin="-4172" zmax="-3572" />
+			<add x="136996" y="212" zmin="-4172" zmax="-3572" />
+			<add x="135356" y="2096" zmin="-4172" zmax="-3572" />
+			<add x="133882" y="1332" zmin="-4172" zmax="-3572" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="138227" y="212" zmin="-4581" zmax="-3981" />
+			<add x="141622" y="192" zmin="-4581" zmax="-3981" />
+			<add x="140402" y="2707" zmin="-4581" zmax="-3981" />
+			<add x="135687" y="2806" zmin="-4581" zmax="-3981" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="138546" y="2962" zmin="-4576" zmax="-3976" />
+			<add x="140366" y="2882" zmin="-4576" zmax="-3976" />
+			<add x="141196" y="3627" zmin="-4576" zmax="-3976" />
+			<add x="140456" y="6662" zmin="-4576" zmax="-3976" />
+			<add x="138367" y="7107" zmin="-4576" zmax="-3976" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="136742" y="3176" zmin="-4589" zmax="-4189" />
+			<add x="137666" y="3016" zmin="-4589" zmax="-4189" />
+			<add x="137847" y="7096" zmin="-4589" zmax="-4189" />
+			<add x="136027" y="7222" zmin="-4589" zmax="-4189" />
+			<add x="134516" y="5782" zmin="-4589" zmax="-4189" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="135967" y="7452" zmin="-4412" zmax="-3712" />
+			<add x="137812" y="7326" zmin="-4412" zmax="-3712" />
+			<add x="138896" y="13326" zmin="-4412" zmax="-3712" />
+			<add x="135232" y="14506" zmin="-4412" zmax="-3712" />
+			<add x="134026" y="11942" zmin="-4412" zmax="-3712" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="138212" y="7246" zmin="-4389" zmax="-3789" />
+			<add x="140256" y="6776" zmin="-4389" zmax="-3789" />
+			<add x="140887" y="10667" zmin="-4389" zmax="-3789" />
+			<add x="138846" y="11252" zmin="-4389" zmax="-3789" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="135412" y="14676" zmin="-4041" zmax="-3441" />
+			<add x="139527" y="13266" zmin="-4041" zmax="-3441" />
+			<add x="141372" y="15622" zmin="-4041" zmax="-3441" />
+			<add x="139262" y="18147" zmin="-4041" zmax="-3441" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="134376" y="21942" zmin="-3885" zmax="-3085" />
+			<add x="137167" y="22452" zmin="-3885" zmax="-3085" />
+			<add x="137007" y="26987" zmin="-3885" zmax="-3085" />
+			<add x="132482" y="27216" zmin="-3885" zmax="-3085" />
+			<add x="132006" y="24502" zmin="-3885" zmax="-3085" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="131256" y="29287" zmin="-3925" zmax="-3525" />
+			<add x="134542" y="30726" zmin="-3925" zmax="-3525" />
+			<add x="134712" y="32472" zmin="-3925" zmax="-3525" />
+			<add x="131287" y="32456" zmin="-3925" zmax="-3525" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="134756" y="30792" zmin="-3925" zmax="-3125" />
+			<add x="139312" y="31186" zmin="-3925" zmax="-3125" />
+			<add x="139467" y="32476" zmin="-3925" zmax="-3125" />
+			<add x="134856" y="32422" zmin="-3925" zmax="-3125" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="143436" y="-25857" zmin="-2356" zmax="-1856" />
+			<add x="144942" y="-25594" zmin="-2356" zmax="-1856" />
+			<add x="145867" y="-24726" zmin="-2356" zmax="-1856" />
+			<add x="145166" y="-23676" zmin="-2356" zmax="-1856" />
+			<add x="143706" y="-23776" zmin="-2356" zmax="-1856" />
+			<add x="142792" y="-25306" zmin="-2356" zmax="-1856" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="148087" y="-25056" zmin="-3525" zmax="-2825" />
+			<add x="148926" y="-26446" zmin="-3525" zmax="-2825" />
+			<add x="151596" y="-23607" zmin="-3525" zmax="-2825" />
+			<add x="149686" y="-22507" zmin="-3525" zmax="-2825" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="146642" y="-24202" zmin="-3589" zmax="-2689" />
+			<add x="147666" y="-25177" zmin="-3589" zmax="-2689" />
+			<add x="149522" y="-22512" zmin="-3589" zmax="-2689" />
+			<add x="147936" y="-20767" zmin="-3589" zmax="-2689" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="144856" y="-22686" zmin="-3485" zmax="-2585" />
+			<add x="146736" y="-23747" zmin="-3485" zmax="-2585" />
+			<add x="147926" y="-20712" zmin="-3485" zmax="-2585" />
+			<add x="146936" y="-19676" zmin="-3485" zmax="-2585" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="154026" y="-19727" zmin="-2085" zmax="-1085" />
+			<add x="155416" y="-20266" zmin="-2085" zmax="-1085" />
+			<add x="156046" y="-18472" zmin="-2085" zmax="-1085" />
+			<add x="154516" y="-17846" zmin="-2085" zmax="-1085" />
+			<add x="153182" y="-17852" zmin="-2085" zmax="-1085" />
+			<add x="152876" y="-18587" zmin="-2085" zmax="-1085" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="142502" y="-23056" zmin="-3309" zmax="-2509" />
+			<add x="144776" y="-22627" zmin="-3309" zmax="-2509" />
+			<add x="146076" y="-20747" zmin="-3309" zmax="-2509" />
+			<add x="145252" y="-20336" zmin="-3309" zmax="-2509" />
+			<add x="142592" y="-21242" zmin="-3309" zmax="-2509" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="142292" y="-21266" zmin="-3416" zmax="-2816" />
+			<add x="144936" y="-20412" zmin="-3416" zmax="-2816" />
+			<add x="144782" y="-19027" zmin="-3416" zmax="-2816" />
+			<add x="143826" y="-18252" zmin="-3416" zmax="-2816" />
+			<add x="142156" y="-17847" zmin="-3416" zmax="-2816" />
+			<add x="140892" y="-18052" zmin="-3416" zmax="-2816" />
+			<add x="140356" y="-19536" zmin="-3416" zmax="-2816" />
+			<add x="141122" y="-20786" zmin="-3416" zmax="-2816" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="148666" y="-20787" zmin="-3416" zmax="-2416" />
+			<add x="150072" y="-20792" zmin="-3416" zmax="-2416" />
+			<add x="152976" y="-16607" zmin="-3416" zmax="-2416" />
+			<add x="151066" y="-16186" zmin="-3416" zmax="-2416" />
+			<add x="147966" y="-17986" zmin="-3416" zmax="-2416" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="143147" y="-16612" zmin="-4536" zmax="-3136" />
+			<add x="144707" y="-17446" zmin="-4536" zmax="-3136" />
+			<add x="146806" y="-17076" zmin="-4536" zmax="-3136" />
+			<add x="147272" y="-14107" zmin="-4536" zmax="-3136" />
+			<add x="145352" y="-12052" zmin="-4536" zmax="-3136" />
+			<add x="142652" y="-12626" zmin="-4536" zmax="-3136" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="149036" y="-13832" zmin="-4601" zmax="-4001" />
+			<add x="152976" y="-13006" zmin="-4601" zmax="-4001" />
+			<add x="153176" y="-10236" zmin="-4601" zmax="-4001" />
+			<add x="149007" y="-10986" zmin="-4601" zmax="-4001" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="144402" y="-11432" zmin="-4792" zmax="-4192" />
+			<add x="146606" y="-10102" zmin="-4792" zmax="-4192" />
+			<add x="146426" y="-7327" zmin="-4792" zmax="-4192" />
+			<add x="143662" y="-8692" zmin="-4792" zmax="-4192" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="141192" y="-11362" zmin="-4736" zmax="-4536" />
+			<add x="144267" y="-11576" zmin="-4736" zmax="-4536" />
+			<add x="143516" y="-8666" zmin="-4736" zmax="-4536" />
+			<add x="141862" y="-7636" zmin="-4736" zmax="-4536" />
+			<add x="139762" y="-9812" zmin="-4736" zmax="-4536" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="157006" y="-11916" zmin="-3876" zmax="-2676" />
+			<add x="160032" y="-10972" zmin="-3876" zmax="-2676" />
+			<add x="160582" y="-9332" zmin="-3876" zmax="-2676" />
+			<add x="160412" y="-7466" zmin="-3876" zmax="-2676" />
+			<add x="157916" y="-7322" zmin="-3876" zmax="-2676" />
+			<add x="156547" y="-9512" zmin="-3876" zmax="-2676" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="146667" y="-10167" zmin="-4589" zmax="-3989" />
+			<add x="148952" y="-10922" zmin="-4589" zmax="-3989" />
+			<add x="150626" y="-10572" zmin="-4589" zmax="-3989" />
+			<add x="149636" y="-8056" zmin="-4589" zmax="-3989" />
+			<add x="146466" y="-7312" zmin="-4589" zmax="-3989" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="150676" y="-10687" zmin="-4596" zmax="-3996" />
+			<add x="153347" y="-10207" zmin="-4596" zmax="-3996" />
+			<add x="153556" y="-8386" zmin="-4596" zmax="-3996" />
+			<add x="150732" y="-7636" zmin="-4596" zmax="-3996" />
+			<add x="149676" y="-8192" zmin="-4596" zmax="-3996" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="141672" y="-6807" zmin="-4856" zmax="-4256" />
+			<add x="143902" y="-6406" zmin="-4856" zmax="-4256" />
+			<add x="142476" y="-4712" zmin="-4856" zmax="-4256" />
+			<add x="140486" y="-4507" zmin="-4856" zmax="-4256" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="143952" y="-6332" zmin="-4812" zmax="-3812" />
+			<add x="145586" y="-6026" zmin="-4812" zmax="-3812" />
+			<add x="145852" y="-3876" zmin="-4812" zmax="-3812" />
+			<add x="143707" y="-3886" zmin="-4812" zmax="-3812" />
+			<add x="142627" y="-4767" zmin="-4812" zmax="-3812" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="145696" y="-6006" zmin="-4672" zmax="-4072" />
+			<add x="146536" y="-7262" zmin="-4672" zmax="-4072" />
+			<add x="148356" y="-7742" zmin="-4672" zmax="-4072" />
+			<add x="148706" y="-5236" zmin="-4672" zmax="-4072" />
+			<add x="145907" y="-3836" zmin="-4672" zmax="-4072" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="148422" y="-7742" zmin="-4601" zmax="-4401" />
+			<add x="149626" y="-8056" zmin="-4601" zmax="-4401" />
+			<add x="150707" y="-7546" zmin="-4601" zmax="-4401" />
+			<add x="150852" y="-5947" zmin="-4601" zmax="-4401" />
+			<add x="148732" y="-5626" zmin="-4601" zmax="-4401" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="176142" y="-24542" zmin="-3756" zmax="-2756" />
+			<add x="178952" y="-24176" zmin="-3756" zmax="-2756" />
+			<add x="180216" y="-22556" zmin="-3756" zmax="-2756" />
+			<add x="179172" y="-21132" zmin="-3756" zmax="-2756" />
+			<add x="176132" y="-21396" zmin="-3756" zmax="-2756" />
+			<add x="175116" y="-22762" zmin="-3756" zmax="-2756" />
+		</territory>
+		<npc id="18278" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="180407" y="-22436" zmin="-3261" zmax="-2161" />
+			<add x="183146" y="-22036" zmin="-3261" zmax="-2161" />
+			<add x="181252" y="-19936" zmin="-3261" zmax="-2161" />
+			<add x="179116" y="-20682" zmin="-3261" zmax="-2161" />
+		</territory>
+		<npc id="18278" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="179912" y="-23407" zmin="-3076" zmax="-2276" />
+			<add x="182986" y="-25662" zmin="-3076" zmax="-2276" />
+			<add x="185466" y="-23036" zmin="-3076" zmax="-2276" />
+			<add x="183306" y="-22152" zmin="-3076" zmax="-2276" />
+			<add x="180656" y="-22566" zmin="-3076" zmax="-2276" />
+		</territory>
+		<npc id="18278" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="183016" y="-25796" zmin="-2701" zmax="-2001" />
+			<add x="185672" y="-27002" zmin="-2701" zmax="-2001" />
+			<add x="186312" y="-26106" zmin="-2701" zmax="-2001" />
+			<add x="185487" y="-23136" zmin="-2701" zmax="-2001" />
+		</territory>
+		<npc id="18278" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="183362" y="-21946" zmin="-2869" zmax="-1969" />
+			<add x="185422" y="-22506" zmin="-2869" zmax="-1969" />
+			<add x="186232" y="-18982" zmin="-2869" zmax="-1969" />
+			<add x="184086" y="-18076" zmin="-2869" zmax="-1969" />
+			<add x="182366" y="-20832" zmin="-2869" zmax="-1969" />
+		</territory>
+		<npc id="18278" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="180907" y="-18882" zmin="-2932" zmax="-2332" />
+			<add x="181847" y="-20487" zmin="-2932" zmax="-2332" />
+			<add x="184042" y="-17982" zmin="-2932" zmax="-2332" />
+			<add x="183427" y="-16906" zmin="-2932" zmax="-2332" />
+			<add x="181342" y="-17602" zmin="-2932" zmax="-2332" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="187212" y="-17566" zmin="-1489" zmax="-889" />
+			<add x="189026" y="-16962" zmin="-1489" zmax="-889" />
+			<add x="190196" y="-14862" zmin="-1489" zmax="-889" />
+			<add x="189636" y="-12847" zmin="-1489" zmax="-889" />
+			<add x="185707" y="-15252" zmin="-1489" zmax="-889" />
+			<add x="185747" y="-16392" zmin="-1489" zmax="-889" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="183796" y="-8752" zmin="-3001" zmax="-2001" />
+			<add x="185327" y="-9727" zmin="-3001" zmax="-2001" />
+			<add x="186847" y="-8746" zmin="-3001" zmax="-2001" />
+			<add x="185596" y="-6742" zmin="-3001" zmax="-2001" />
+			<add x="183342" y="-5002" zmin="-3001" zmax="-2001" />
+			<add x="183132" y="-5707" zmin="-3001" zmax="-2001" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="177086" y="-11056" zmin="-3649" zmax="-3049" />
+			<add x="180512" y="-11292" zmin="-3649" zmax="-3049" />
+			<add x="180492" y="-8722" zmin="-3649" zmax="-3049" />
+			<add x="179086" y="-8022" zmin="-3649" zmax="-3049" />
+			<add x="177847" y="-8666" zmin="-3649" zmax="-3049" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="170706" y="-9476" zmin="-3465" zmax="-2665" />
+			<add x="173916" y="-11526" zmin="-3465" zmax="-2665" />
+			<add x="176062" y="-9952" zmin="-3465" zmax="-2665" />
+			<add x="175702" y="-8136" zmin="-3465" zmax="-2665" />
+			<add x="173676" y="-6452" zmin="-3465" zmax="-2665" />
+			<add x="171926" y="-7276" zmin="-3465" zmax="-2665" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="164027" y="-9147" zmin="-3205" zmax="-2605" />
+			<add x="167116" y="-7087" zmin="-3205" zmax="-2605" />
+			<add x="166607" y="-4216" zmin="-3205" zmax="-2605" />
+			<add x="165407" y="-4002" zmin="-3205" zmax="-2605" />
+			<add x="164022" y="-5196" zmin="-3205" zmax="-2605" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="166866" y="-10087" zmin="-3125" zmax="-2525" />
+			<add x="170447" y="-9526" zmin="-3125" zmax="-2525" />
+			<add x="170696" y="-7402" zmin="-3125" zmax="-2525" />
+			<add x="167252" y="-7322" zmin="-3125" zmax="-2525" />
+			<add x="165202" y="-8847" zmin="-3125" zmax="-2525" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="167336" y="-12542" zmin="-3301" zmax="-2501" />
+			<add x="173982" y="-13676" zmin="-3301" zmax="-2501" />
+			<add x="173982" y="-12102" zmin="-3301" zmax="-2501" />
+			<add x="170127" y="-9826" zmin="-3301" zmax="-2501" />
+			<add x="167692" y="-10547" zmin="-3301" zmax="-2501" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="171402" y="-15746" zmin="-3529" zmax="-2529" />
+			<add x="174172" y="-17106" zmin="-3529" zmax="-2529" />
+			<add x="174527" y="-14016" zmin="-3529" zmax="-2529" />
+			<add x="171426" y="-13382" zmin="-3529" zmax="-2529" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="187602" y="-19222" zmin="-1585" zmax="-985" />
+			<add x="189242" y="-18762" zmin="-1585" zmax="-985" />
+			<add x="189122" y="-17076" zmin="-1585" zmax="-985" />
+			<add x="187126" y="-17787" zmin="-1585" zmax="-985" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="167947" y="-15807" zmin="-3232" zmax="-2232" />
+			<add x="171302" y="-15842" zmin="-3232" zmax="-2232" />
+			<add x="171367" y="-13326" zmin="-3232" zmax="-2232" />
+			<add x="167292" y="-12562" zmin="-3232" zmax="-2232" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="172512" y="-19422" zmin="-3485" zmax="-2485" />
+			<add x="174387" y="-19506" zmin="-3485" zmax="-2485" />
+			<add x="174136" y="-17186" zmin="-3485" zmax="-2485" />
+			<add x="171226" y="-15862" zmin="-3485" zmax="-2485" />
+			<add x="170112" y="-15942" zmin="-3485" zmax="-2485" />
+			<add x="170312" y="-18466" zmin="-3485" zmax="-2485" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="168782" y="-22066" zmin="-3405" zmax="-2405" />
+			<add x="172012" y="-23362" zmin="-3405" zmax="-2405" />
+			<add x="172446" y="-21662" zmin="-3405" zmax="-2405" />
+			<add x="171332" y="-20762" zmin="-3405" zmax="-2405" />
+			<add x="170222" y="-20752" zmin="-3405" zmax="-2405" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="105272" y="79442" zmin="-2749" zmax="-2149" />
+			<add x="106072" y="79687" zmin="-2749" zmax="-2149" />
+			<add x="105182" y="82122" zmin="-2749" zmax="-2149" />
+			<add x="103592" y="82082" zmin="-2749" zmax="-2149" />
+			<add x="103666" y="80726" zmin="-2749" zmax="-2149" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="103527" y="82202" zmin="-3285" zmax="-2185" />
+			<add x="106406" y="81862" zmin="-3285" zmax="-2185" />
+			<add x="109002" y="82547" zmin="-3285" zmax="-2185" />
+			<add x="109326" y="84767" zmin="-3285" zmax="-2185" />
+			<add x="104606" y="85136" zmin="-3285" zmax="-2185" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="107936" y="79612" zmin="-2852" zmax="-2552" />
+			<add x="108906" y="79876" zmin="-2852" zmax="-2552" />
+			<add x="108947" y="82532" zmin="-2852" zmax="-2552" />
+			<add x="107586" y="82127" zmin="-2852" zmax="-2552" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="105772" y="88692" zmin="-3185" zmax="-1885" />
+			<add x="108367" y="88442" zmin="-3185" zmax="-1885" />
+			<add x="109656" y="88836" zmin="-3185" zmax="-1885" />
+			<add x="108782" y="92146" zmin="-3185" zmax="-1885" />
+			<add x="106332" y="93506" zmin="-3185" zmax="-1885" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="111346" y="86352" zmin="-3236" zmax="-1936" />
+			<add x="114532" y="86832" zmin="-3236" zmax="-1936" />
+			<add x="115522" y="90967" zmin="-3236" zmax="-1936" />
+			<add x="112312" y="93286" zmin="-3236" zmax="-1936" />
+			<add x="108647" y="92502" zmin="-3236" zmax="-1936" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116546" y="89186" zmin="-3912" zmax="-2912" />
+			<add x="117867" y="87402" zmin="-3912" zmax="-2912" />
+			<add x="119327" y="87826" zmin="-3912" zmax="-2912" />
+			<add x="120767" y="89796" zmin="-3912" zmax="-2912" />
+			<add x="119942" y="92482" zmin="-3912" zmax="-2912" />
+			<add x="118592" y="92186" zmin="-3912" zmax="-2912" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="126122" y="88012" zmin="-2532" zmax="-1532" />
+			<add x="128506" y="90112" zmin="-2532" zmax="-1532" />
+			<add x="128887" y="91616" zmin="-2532" zmax="-1532" />
+			<add x="127142" y="91826" zmin="-2532" zmax="-1532" />
+			<add x="125567" y="90822" zmin="-2532" zmax="-1532" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="125552" y="78747" zmin="-2949" zmax="-1349" />
+			<add x="127676" y="79462" zmin="-2949" zmax="-1349" />
+			<add x="127162" y="82026" zmin="-2949" zmax="-1349" />
+			<add x="123926" y="82526" zmin="-2949" zmax="-1349" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="126322" y="76732" zmin="-2469" zmax="-1669" />
+			<add x="128546" y="76926" zmin="-2469" zmax="-1669" />
+			<add x="126272" y="78936" zmin="-2469" zmax="-1669" />
+			<add x="125376" y="78656" zmin="-2469" zmax="-1669" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123347" y="74692" zmin="-2896" zmax="-2296" />
+			<add x="124632" y="74846" zmin="-2896" zmax="-2296" />
+			<add x="124727" y="76272" zmin="-2896" zmax="-2296" />
+			<add x="123936" y="76667" zmin="-2896" zmax="-2296" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="122722" y="79396" zmin="-2805" zmax="-2005" />
+			<add x="123687" y="79347" zmin="-2805" zmax="-2005" />
+			<add x="123646" y="80176" zmin="-2805" zmax="-2005" />
+			<add x="122236" y="81412" zmin="-2805" zmax="-2005" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="111902" y="87452" zmin="-3056" zmax="-2456" />
+			<add x="113422" y="87907" zmin="-3056" zmax="-2456" />
+			<add x="113962" y="89886" zmin="-3056" zmax="-2456" />
+			<add x="111902" y="92027" zmin="-3056" zmax="-2456" />
+			<add x="110596" y="89786" zmin="-3056" zmax="-2456" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="169327" y="5667" zmin="-2776" zmax="-2576" />
+			<add x="170412" y="5672" zmin="-2776" zmax="-2576" />
+			<add x="170916" y="6982" zmin="-2776" zmax="-2576" />
+			<add x="170912" y="8847" zmin="-2776" zmax="-2576" />
+			<add x="170662" y="9062" zmin="-2776" zmax="-2576" />
+			<add x="168947" y="9056" zmin="-2776" zmax="-2576" />
+			<add x="168962" y="6126" zmin="-2776" zmax="-2576" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="169012" y="9472" zmin="-2769" zmax="-2469" />
+			<add x="170672" y="9472" zmin="-2769" zmax="-2469" />
+			<add x="170922" y="9716" zmin="-2769" zmax="-2469" />
+			<add x="170912" y="11787" zmin="-2769" zmax="-2469" />
+			<add x="170252" y="12906" zmin="-2769" zmax="-2469" />
+			<add x="169352" y="12902" zmin="-2769" zmax="-2469" />
+			<add x="168966" y="12446" zmin="-2769" zmax="-2469" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="170547" y="15332" zmin="-3369" zmax="-3069" />
+			<add x="172172" y="15312" zmin="-3369" zmax="-3069" />
+			<add x="172162" y="19856" zmin="-3369" zmax="-3069" />
+			<add x="171907" y="20026" zmin="-3369" zmax="-3069" />
+			<add x="167526" y="20027" zmin="-3369" zmax="-3069" />
+			<add x="167547" y="17196" zmin="-3369" zmax="-3069" />
+			<add x="168506" y="16226" zmin="-3369" zmax="-3069" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="167552" y="20596" zmin="-3472" zmax="-3172" />
+			<add x="171927" y="20567" zmin="-3472" zmax="-3172" />
+			<add x="172162" y="20836" zmin="-3472" zmax="-3172" />
+			<add x="172162" y="25312" zmin="-3472" zmax="-3172" />
+			<add x="170506" y="25316" zmin="-3472" zmax="-3172" />
+			<add x="168487" y="24446" zmin="-3472" zmax="-3172" />
+			<add x="167532" y="23482" zmin="-3472" zmax="-3172" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="172692" y="15376" zmin="-3441" zmax="-3041" />
+			<add x="175266" y="15367" zmin="-3441" zmax="-3041" />
+			<add x="175236" y="19127" zmin="-3441" zmax="-3041" />
+			<add x="172676" y="19096" zmin="-3441" zmax="-3041" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="175767" y="15466" zmin="-3376" zmax="-2976" />
+			<add x="178342" y="15456" zmin="-3376" zmax="-2976" />
+			<add x="178312" y="19216" zmin="-3376" zmax="-2976" />
+			<add x="175752" y="19186" zmin="-3376" zmax="-2976" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="172706" y="21542" zmin="-3441" zmax="-3041" />
+			<add x="175276" y="21532" zmin="-3441" zmax="-3041" />
+			<add x="175247" y="25292" zmin="-3441" zmax="-3041" />
+			<add x="172687" y="25262" zmin="-3441" zmax="-3041" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="175782" y="21627" zmin="-3376" zmax="-2976" />
+			<add x="178352" y="21622" zmin="-3376" zmax="-2976" />
+			<add x="178326" y="25382" zmin="-3376" zmax="-2976" />
+			<add x="175766" y="25347" zmin="-3376" zmax="-2976" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="178902" y="15076" zmin="-3216" zmax="-2916" />
+			<add x="182956" y="15066" zmin="-3216" zmax="-2916" />
+			<add x="183776" y="15716" zmin="-3216" zmax="-2916" />
+			<add x="183752" y="20067" zmin="-3216" zmax="-2916" />
+			<add x="181202" y="20007" zmin="-3216" zmax="-2916" />
+			<add x="178882" y="18822" zmin="-3216" zmax="-2916" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="163932" y="38342" zmin="-3832" zmax="-3232" />
+			<add x="166887" y="38216" zmin="-3832" zmax="-3232" />
+			<add x="167236" y="38952" zmin="-3832" zmax="-3232" />
+			<add x="166686" y="41752" zmin="-3832" zmax="-3232" />
+			<add x="165227" y="41806" zmin="-3832" zmax="-3232" />
+			<add x="163962" y="41567" zmin="-3832" zmax="-3232" />
+		</territory>
+		<npc id="18278" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="164072" y="42386" zmin="-3805" zmax="-3205" />
+			<add x="166586" y="42176" zmin="-3805" zmax="-3205" />
+			<add x="166687" y="44096" zmin="-3805" zmax="-3205" />
+			<add x="163982" y="45786" zmin="-3805" zmax="-3205" />
+		</territory>
+		<npc id="18278" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="163946" y="45916" zmin="-3861" zmax="-3061" />
+			<add x="166487" y="44227" zmin="-3861" zmax="-3061" />
+			<add x="168092" y="45726" zmin="-3861" zmax="-3061" />
+			<add x="167156" y="48182" zmin="-3861" zmax="-3061" />
+			<add x="163912" y="46896" zmin="-3861" zmax="-3061" />
+		</territory>
+		<npc id="18278" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="166332" y="60416" zmin="-4145" zmax="-3345" />
+			<add x="169612" y="57566" zmin="-4145" zmax="-3345" />
+			<add x="171182" y="57927" zmin="-4145" zmax="-3345" />
+			<add x="171786" y="59886" zmin="-4145" zmax="-3345" />
+			<add x="168486" y="62112" zmin="-4145" zmax="-3345" />
+		</territory>
+		<npc id="18278" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="166306" y="55067" zmin="-4269" zmax="-3669" />
+			<add x="168292" y="54176" zmin="-4269" zmax="-3669" />
+			<add x="169666" y="57392" zmin="-4269" zmax="-3669" />
+			<add x="167432" y="59436" zmin="-4269" zmax="-3669" />
+			<add x="166386" y="58907" zmin="-4269" zmax="-3669" />
+			<add x="165426" y="57252" zmin="-4269" zmax="-3669" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="166282" y="52287" zmin="-4272" zmax="-3872" />
+			<add x="167896" y="52306" zmin="-4272" zmax="-3872" />
+			<add x="168807" y="53076" zmin="-4272" zmax="-3872" />
+			<add x="168236" y="54126" zmin="-4272" zmax="-3872" />
+			<add x="166356" y="55027" zmin="-4272" zmax="-3872" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="167387" y="49296" zmin="-4216" zmax="-3716" />
+			<add x="169596" y="49387" zmin="-4216" zmax="-3716" />
+			<add x="169126" y="50246" zmin="-4216" zmax="-3716" />
+			<add x="167792" y="52146" zmin="-4216" zmax="-3716" />
+			<add x="165712" y="52016" zmin="-4216" zmax="-3716" />
+			<add x="165556" y="51392" zmin="-4216" zmax="-3716" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="182782" y="36696" zmin="-4061" zmax="-3461" />
+			<add x="184267" y="37492" zmin="-4061" zmax="-3461" />
+			<add x="184462" y="39706" zmin="-4061" zmax="-3461" />
+			<add x="181167" y="39067" zmin="-4061" zmax="-3461" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="181147" y="39136" zmin="-3885" zmax="-3485" />
+			<add x="184386" y="39796" zmin="-3885" zmax="-3485" />
+			<add x="184796" y="40692" zmin="-3885" zmax="-3485" />
+			<add x="184362" y="41686" zmin="-3885" zmax="-3485" />
+			<add x="181972" y="42142" zmin="-3885" zmax="-3485" />
+			<add x="179656" y="40762" zmin="-3885" zmax="-3485" />
+			<add x="178867" y="39556" zmin="-3885" zmax="-3485" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="131182" y="65642" zmin="-3792" zmax="-3392" />
+			<add x="135812" y="65632" zmin="-3792" zmax="-3392" />
+			<add x="136427" y="67027" zmin="-3792" zmax="-3392" />
+			<add x="132616" y="68966" zmin="-3792" zmax="-3392" />
+			<add x="131166" y="68042" zmin="-3792" zmax="-3392" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="132526" y="69022" zmin="-3732" zmax="-3332" />
+			<add x="136736" y="66912" zmin="-3732" zmax="-3332" />
+			<add x="137607" y="67746" zmin="-3732" zmax="-3332" />
+			<add x="137592" y="69462" zmin="-3732" zmax="-3332" />
+			<add x="136916" y="70502" zmin="-3732" zmax="-3332" />
+			<add x="134802" y="71126" zmin="-3732" zmax="-3332" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="134686" y="72982" zmin="-3729" zmax="-3029" />
+			<add x="135976" y="71266" zmin="-3729" zmax="-3029" />
+			<add x="137286" y="71652" zmin="-3729" zmax="-3029" />
+			<add x="138826" y="73147" zmin="-3729" zmax="-3029" />
+			<add x="135706" y="75096" zmin="-3729" zmax="-3029" />
+			<add x="134802" y="74102" zmin="-3729" zmax="-3029" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="138876" y="73236" zmin="-3732" zmax="-2832" />
+			<add x="141142" y="73287" zmin="-3732" zmax="-2832" />
+			<add x="141387" y="77766" zmin="-3732" zmax="-2832" />
+			<add x="135747" y="75136" zmin="-3732" zmax="-2832" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="142286" y="73386" zmin="-3376" zmax="-2776" />
+			<add x="145202" y="72987" zmin="-3376" zmax="-2776" />
+			<add x="146582" y="73442" zmin="-3376" zmax="-2776" />
+			<add x="146802" y="75192" zmin="-3376" zmax="-2776" />
+			<add x="145446" y="76622" zmin="-3376" zmax="-2776" />
+			<add x="142876" y="75752" zmin="-3376" zmax="-2776" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="143847" y="77292" zmin="-3689" zmax="-2489" />
+			<add x="145267" y="77782" zmin="-3689" zmax="-2489" />
+			<add x="147006" y="79847" zmin="-3689" zmax="-2489" />
+			<add x="143722" y="82567" zmin="-3689" zmax="-2489" />
+			<add x="142922" y="80272" zmin="-3689" zmax="-2489" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="138016" y="76307" zmin="-3676" zmax="-2976" />
+			<add x="141386" y="77906" zmin="-3676" zmax="-2976" />
+			<add x="142176" y="78876" zmin="-3676" zmax="-2976" />
+			<add x="141466" y="80872" zmin="-3676" zmax="-2976" />
+			<add x="139012" y="82607" zmin="-3676" zmax="-2976" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="135727" y="75256" zmin="-3772" zmax="-2872" />
+			<add x="137866" y="76282" zmin="-3772" zmax="-2872" />
+			<add x="138207" y="78196" zmin="-3772" zmax="-2872" />
+			<add x="134867" y="78376" zmin="-3772" zmax="-2872" />
+			<add x="134887" y="76542" zmin="-3772" zmax="-2872" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="134432" y="85126" zmin="-3736" zmax="-2736" />
+			<add x="136602" y="84692" zmin="-3736" zmax="-2736" />
+			<add x="137856" y="86762" zmin="-3736" zmax="-2736" />
+			<add x="138067" y="88146" zmin="-3736" zmax="-2736" />
+			<add x="137356" y="89642" zmin="-3736" zmax="-2736" />
+			<add x="134302" y="89647" zmin="-3736" zmax="-2736" />
+			<add x="133342" y="88187" zmin="-3736" zmax="-2736" />
+			<add x="133502" y="85882" zmin="-3736" zmax="-2736" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="133416" y="94356" zmin="-3776" zmax="-3076" />
+			<add x="138476" y="92486" zmin="-3776" zmax="-3076" />
+			<add x="139632" y="94327" zmin="-3776" zmax="-3076" />
+			<add x="139307" y="95062" zmin="-3776" zmax="-3076" />
+			<add x="135807" y="95352" zmin="-3776" zmax="-3076" />
+		</territory>
+		<npc id="18272" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="156112" y="88676" zmin="-3716" zmax="-3216" />
+			<add x="157147" y="87866" zmin="-3716" zmax="-3216" />
+			<add x="158356" y="88162" zmin="-3716" zmax="-3216" />
+			<add x="160687" y="90256" zmin="-3716" zmax="-3216" />
+			<add x="158622" y="91606" zmin="-3716" zmax="-3216" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="158647" y="91702" zmin="-3561" zmax="-3061" />
+			<add x="160607" y="90542" zmin="-3561" zmax="-3061" />
+			<add x="162026" y="91882" zmin="-3561" zmax="-3061" />
+			<add x="162126" y="93146" zmin="-3561" zmax="-3061" />
+			<add x="160616" y="94452" zmin="-3561" zmax="-3061" />
+			<add x="158752" y="94727" zmin="-3561" zmax="-3061" />
+			<add x="158196" y="92842" zmin="-3561" zmax="-3061" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="147867" y="86372" zmin="-3692" zmax="-2892" />
+			<add x="149666" y="86526" zmin="-3692" zmax="-2892" />
+			<add x="150676" y="88646" zmin="-3692" zmax="-2892" />
+			<add x="148642" y="90356" zmin="-3692" zmax="-2892" />
+			<add x="146012" y="89742" zmin="-3692" zmax="-2892" />
+			<add x="145026" y="88767" zmin="-3692" zmax="-2892" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="147962" y="81672" zmin="-3625" zmax="-3025" />
+			<add x="152882" y="79876" zmin="-3625" zmax="-3025" />
+			<add x="152372" y="84302" zmin="-3625" zmax="-3025" />
+			<add x="149332" y="85082" zmin="-3625" zmax="-3025" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="149882" y="85036" zmin="-3729" zmax="-2929" />
+			<add x="153236" y="84386" zmin="-3729" zmax="-2929" />
+			<add x="154167" y="86166" zmin="-3729" zmax="-2929" />
+			<add x="150787" y="88647" zmin="-3729" zmax="-2929" />
+			<add x="149687" y="86312" zmin="-3729" zmax="-2929" />
+		</territory>
+		<npc id="18275" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="153572" y="79546" zmin="-3249" zmax="-2849" />
+			<add x="156422" y="76616" zmin="-3249" zmax="-2849" />
+			<add x="159242" y="78747" zmin="-3249" zmax="-2849" />
+			<add x="154012" y="83452" zmin="-3249" zmax="-2849" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="156952" y="80946" zmin="-3181" zmax="-2581" />
+			<add x="159286" y="78827" zmin="-3181" zmax="-2581" />
+			<add x="161872" y="80342" zmin="-3181" zmax="-2581" />
+			<add x="161672" y="83186" zmin="-3181" zmax="-2581" />
+			<add x="160116" y="83416" zmin="-3181" zmax="-2581" />
+			<add x="158256" y="82587" zmin="-3181" zmax="-2581" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="159566" y="75467" zmin="-3316" zmax="-2116" />
+			<add x="163516" y="74276" zmin="-3316" zmax="-2116" />
+			<add x="163507" y="79706" zmin="-3316" zmax="-2116" />
+			<add x="161932" y="80262" zmin="-3316" zmax="-2116" />
+			<add x="159446" y="78752" zmin="-3316" zmax="-2116" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="156952" y="74627" zmin="-3761" zmax="-2961" />
+			<add x="158556" y="75596" zmin="-3761" zmax="-2961" />
+			<add x="158316" y="77996" zmin="-3761" zmax="-2961" />
+			<add x="156362" y="76476" zmin="-3761" zmax="-2961" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="159647" y="71726" zmin="-3741" zmax="-3141" />
+			<add x="162306" y="71422" zmin="-3741" zmax="-3141" />
+			<add x="162547" y="73946" zmin="-3741" zmax="-3141" />
+			<add x="158906" y="74872" zmin="-3741" zmax="-3141" />
+			<add x="157752" y="74287" zmin="-3741" zmax="-3141" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="159466" y="65646" zmin="-3805" zmax="-3405" />
+			<add x="163576" y="65636" zmin="-3805" zmax="-3405" />
+			<add x="163546" y="66347" zmin="-3805" zmax="-3405" />
+			<add x="161367" y="67532" zmin="-3805" zmax="-3405" />
+			<add x="159976" y="67616" zmin="-3805" zmax="-3405" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="151802" y="65696" zmin="-3761" zmax="-3261" />
+			<add x="155946" y="65662" zmin="-3761" zmax="-3261" />
+			<add x="156142" y="67836" zmin="-3761" zmax="-3261" />
+			<add x="154896" y="70016" zmin="-3761" zmax="-3261" />
+			<add x="151736" y="69652" zmin="-3761" zmax="-3261" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="146006" y="65752" zmin="-3809" zmax="-3309" />
+			<add x="151587" y="65676" zmin="-3809" zmax="-3309" />
+			<add x="151607" y="69612" zmin="-3809" zmax="-3309" />
+			<add x="147612" y="70302" zmin="-3809" zmax="-3309" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="164036" y="69846" zmin="-3172" zmax="-2822" />
+			<add x="166152" y="70026" zmin="-3172" zmax="-2822" />
+			<add x="166606" y="72566" zmin="-3172" zmax="-2822" />
+			<add x="165796" y="73506" zmin="-3172" zmax="-2822" />
+			<add x="164032" y="73702" zmin="-3172" zmax="-2822" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="164122" y="74116" zmin="-3165" zmax="-2065" />
+			<add x="165346" y="73907" zmin="-3165" zmax="-2065" />
+			<add x="166742" y="76632" zmin="-3165" zmax="-2065" />
+			<add x="166406" y="80166" zmin="-3165" zmax="-2065" />
+			<add x="163956" y="80052" zmin="-3165" zmax="-2065" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113426" y="14014" zmin="-5105" zmax="-4905" />
+			<add x="114042" y="13766" zmin="-5105" zmax="-4905" />
+			<add x="114264" y="14706" zmin="-5105" zmax="-4905" />
+			<add x="113316" y="15676" zmin="-5105" zmax="-4905" />
+			<add x="112379" y="15511" zmin="-5105" zmax="-4905" />
+			<add x="112636" y="14849" zmin="-5105" zmax="-4905" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115159" y="13687" zmin="-5102" zmax="-4902" />
+			<add x="116004" y="14066" zmin="-5102" zmax="-4902" />
+			<add x="116636" y="14726" zmin="-5102" zmax="-4902" />
+			<add x="116951" y="15469" zmin="-5102" zmax="-4902" />
+			<add x="115982" y="15714" zmin="-5102" zmax="-4902" />
+			<add x="115079" y="14719" zmin="-5102" zmax="-4902" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116006" y="16466" zmin="-5136" zmax="-4936" />
+			<add x="116932" y="16612" zmin="-5136" zmax="-4936" />
+			<add x="116542" y="17566" zmin="-5136" zmax="-4936" />
+			<add x="116052" y="18007" zmin="-5136" zmax="-4936" />
+			<add x="115226" y="18442" zmin="-5136" zmax="-4936" />
+			<add x="114996" y="17442" zmin="-5136" zmax="-4936" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="112326" y="16666" zmin="-5145" zmax="-4936" />
+			<add x="113236" y="16407" zmin="-5145" zmax="-4936" />
+			<add x="114282" y="17366" zmin="-5145" zmax="-4936" />
+			<add x="114156" y="18421" zmin="-5145" zmax="-4936" />
+			<add x="113336" y="18061" zmin="-5145" zmax="-4936" />
+			<add x="112657" y="17407" zmin="-5145" zmax="-4936" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113846" y="16052" zmin="-3645" zmax="-3445" />
+			<add x="114576" y="15246" zmin="-3645" zmax="-3445" />
+			<add x="115487" y="16116" zmin="-3645" zmax="-3445" />
+			<add x="114686" y="16906" zmin="-3645" zmax="-3445" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113362" y="14132" zmin="-3665" zmax="-3465" />
+			<add x="114087" y="13762" zmin="-3665" zmax="-3465" />
+			<add x="114326" y="15006" zmin="-3665" zmax="-3465" />
+			<add x="113586" y="15726" zmin="-3665" zmax="-3465" />
+			<add x="112382" y="15556" zmin="-3665" zmax="-3465" />
+			<add x="112722" y="14687" zmin="-3665" zmax="-3465" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="112381" y="16669" zmin="-3645" zmax="-3445" />
+			<add x="113602" y="16447" zmin="-3645" zmax="-3445" />
+			<add x="114306" y="17152" zmin="-3645" zmax="-3445" />
+			<add x="114072" y="18352" zmin="-3645" zmax="-3445" />
+			<add x="113269" y="17992" zmin="-3645" zmax="-3445" />
+			<add x="112729" y="17452" zmin="-3645" zmax="-3445" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115786" y="16456" zmin="-3649" zmax="-3449" />
+			<add x="116962" y="16726" zmin="-3649" zmax="-3449" />
+			<add x="116622" y="17392" zmin="-3649" zmax="-3449" />
+			<add x="115972" y="18032" zmin="-3649" zmax="-3449" />
+			<add x="115202" y="18347" zmin="-3649" zmax="-3449" />
+			<add x="115047" y="17147" zmin="-3649" zmax="-3449" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114326" y="14992" zmin="-2161" zmax="-1961" />
+			<add x="114976" y="15006" zmin="-2161" zmax="-1961" />
+			<add x="115282" y="15127" zmin="-2161" zmax="-1961" />
+			<add x="115602" y="15432" zmin="-2161" zmax="-1961" />
+			<add x="115726" y="15727" zmin="-2161" zmax="-1961" />
+			<add x="115726" y="16387" zmin="-2161" zmax="-1961" />
+			<add x="115562" y="16722" zmin="-2161" zmax="-1961" />
+			<add x="115282" y="17007" zmin="-2161" zmax="-1961" />
+			<add x="114982" y="17136" zmin="-2161" zmax="-1961" />
+			<add x="114306" y="17146" zmin="-2161" zmax="-1961" />
+			<add x="114032" y="17026" zmin="-2161" zmax="-1961" />
+			<add x="113696" y="16702" zmin="-2161" zmax="-1961" />
+			<add x="113596" y="16416" zmin="-2161" zmax="-1961" />
+			<add x="113582" y="15722" zmin="-2161" zmax="-1961" />
+			<add x="113692" y="15436" zmin="-2161" zmax="-1961" />
+			<add x="114007" y="15107" zmin="-2161" zmax="-1961" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113287" y="14126" zmin="-2156" zmax="-1956" />
+			<add x="114142" y="13766" zmin="-2156" zmax="-1956" />
+			<add x="114306" y="14672" zmin="-2156" zmax="-1956" />
+			<add x="113307" y="15716" zmin="-2156" zmax="-1956" />
+			<add x="112287" y="15496" zmin="-2156" zmax="-1956" />
+			<add x="112746" y="14672" zmin="-2156" zmax="-1956" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116614" y="14792" zmin="-2165" zmax="-1965" />
+			<add x="116979" y="15547" zmin="-2165" zmax="-1965" />
+			<add x="115949" y="15706" zmin="-2165" zmax="-1965" />
+			<add x="115027" y="14726" zmin="-2165" zmax="-1965" />
+			<add x="115189" y="13774" zmin="-2165" zmax="-1965" />
+			<add x="115989" y="14104" zmin="-2165" zmax="-1965" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115991" y="16422" zmin="-2161" zmax="-1961" />
+			<add x="116974" y="16562" zmin="-2161" zmax="-1961" />
+			<add x="116639" y="17347" zmin="-2161" zmax="-1961" />
+			<add x="116019" y="18019" zmin="-2161" zmax="-1961" />
+			<add x="115167" y="18369" zmin="-2161" zmax="-1961" />
+			<add x="115056" y="17414" zmin="-2161" zmax="-1961" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="111902" y="15636" zmin="-689" zmax="-489" />
+			<add x="113436" y="15896" zmin="-689" zmax="-489" />
+			<add x="113426" y="16202" zmin="-689" zmax="-489" />
+			<add x="111856" y="16502" zmin="-689" zmax="-489" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114972" y="17222" zmin="-676" zmax="-476" />
+			<add x="115242" y="17087" zmin="-676" zmax="-476" />
+			<add x="116506" y="17606" zmin="-676" zmax="-476" />
+			<add x="115272" y="18452" zmin="-676" zmax="-476" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115787" y="16346" zmin="-685" zmax="-485" />
+			<add x="117352" y="16726" zmin="-685" zmax="-485" />
+			<add x="117052" y="17387" zmin="-685" zmax="-485" />
+			<add x="115427" y="16992" zmin="-685" zmax="-485" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115662" y="15347" zmin="-681" zmax="-481" />
+			<add x="116322" y="14336" zmin="-681" zmax="-481" />
+			<add x="116926" y="15487" zmin="-681" zmax="-481" />
+			<add x="115816" y="15727" zmin="-681" zmax="-481" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114256" y="15312" zmin="-681" zmax="-481" />
+			<add x="115352" y="15502" zmin="-681" zmax="-481" />
+			<add x="114867" y="15706" zmin="-681" zmax="-481" />
+			<add x="114422" y="15687" zmin="-681" zmax="-481" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="112807" y="15872" zmin="889" zmax="1089" />
+			<add x="114002" y="15936" zmin="889" zmax="1089" />
+			<add x="113992" y="17812" zmin="889" zmax="1089" />
+			<add x="113556" y="17642" zmin="889" zmax="1089" />
+			<add x="113027" y="16992" zmin="889" zmax="1089" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115302" y="14426" zmin="889" zmax="1089" />
+			<add x="116262" y="15202" zmin="889" zmax="1089" />
+			<add x="116476" y="16282" zmin="889" zmax="1089" />
+			<add x="116296" y="16916" zmin="889" zmax="1089" />
+			<add x="115296" y="16512" zmin="889" zmax="1089" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116307" y="13746" zmin="889" zmax="1089" />
+			<add x="116926" y="14372" zmin="889" zmax="1089" />
+			<add x="116252" y="14872" zmin="889" zmax="1089" />
+			<add x="115852" y="14506" zmin="889" zmax="1089" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113142" y="13642" zmin="896" zmax="1096" />
+			<add x="114006" y="13282" zmin="896" zmax="1096" />
+			<add x="114172" y="14186" zmin="896" zmax="1096" />
+			<add x="113632" y="14407" zmin="896" zmax="1096" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113606" y="17852" zmin="896" zmax="1096" />
+			<add x="114156" y="18082" zmin="896" zmax="1096" />
+			<add x="114012" y="18872" zmin="896" zmax="1096" />
+			<add x="113127" y="18506" zmin="896" zmax="1096" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="112816" y="15534" zmin="1912" zmax="2112" />
+			<add x="113914" y="15527" zmin="1912" zmax="2112" />
+			<add x="113926" y="16612" zmin="1912" zmax="2112" />
+			<add x="112822" y="16596" zmin="1912" zmax="2112" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114091" y="14241" zmin="1905" zmax="2105" />
+			<add x="115256" y="14256" zmin="1905" zmax="2105" />
+			<add x="115242" y="15262" zmin="1905" zmax="2105" />
+			<add x="114119" y="15216" zmin="1905" zmax="2105" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114056" y="15526" zmin="1912" zmax="2112" />
+			<add x="115262" y="15526" zmin="1912" zmax="2112" />
+			<add x="115262" y="16607" zmin="1912" zmax="2112" />
+			<add x="114056" y="16607" zmin="1912" zmax="2112" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114122" y="16886" zmin="1912" zmax="2112" />
+			<add x="115196" y="16872" zmin="1912" zmax="2112" />
+			<add x="115186" y="17867" zmin="1912" zmax="2112" />
+			<add x="114132" y="17882" zmin="1912" zmax="2112" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="112971" y="16821" zmin="1912" zmax="2112" />
+			<add x="113872" y="16826" zmin="1912" zmax="2112" />
+			<add x="113866" y="17656" zmin="1912" zmax="2112" />
+			<add x="113287" y="17377" zmin="1912" zmax="2112" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113672" y="16116" zmin="2956" zmax="3156" />
+			<add x="113866" y="15607" zmin="2956" zmax="3156" />
+			<add x="114312" y="15367" zmin="2956" zmax="3156" />
+			<add x="114802" y="15562" zmin="2956" zmax="3156" />
+			<add x="115032" y="16092" zmin="2956" zmax="3156" />
+			<add x="114866" y="16566" zmin="2956" zmax="3156" />
+			<add x="114407" y="16792" zmin="2956" zmax="3156" />
+			<add x="113926" y="16662" zmin="2956" zmax="3156" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="112987" y="15102" zmin="2921" zmax="3121" />
+			<add x="113516" y="15366" zmin="2921" zmax="3121" />
+			<add x="113302" y="15716" zmin="2921" zmax="3121" />
+			<add x="112792" y="15526" zmin="2921" zmax="3121" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113916" y="17197" zmin="2925" zmax="3125" />
+			<add x="115032" y="17074" zmin="2925" zmax="3125" />
+			<add x="115492" y="17676" zmin="2925" zmax="3125" />
+			<add x="114287" y="17856" zmin="2925" zmax="3125" />
+			<add x="113687" y="17632" zmin="2925" zmax="3125" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115226" y="14442" zmin="2912" zmax="3112" />
+			<add x="115766" y="14636" zmin="2912" zmax="3112" />
+			<add x="116322" y="15492" zmin="2912" zmax="3112" />
+			<add x="115376" y="15696" zmin="2912" zmax="3112" />
+			<add x="115146" y="15276" zmin="2912" zmax="3112" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113602" y="18071" zmin="2925" zmax="3125" />
+			<add x="115566" y="18091" zmin="2925" zmax="3125" />
+			<add x="115826" y="18639" zmin="2925" zmax="3125" />
+			<add x="115199" y="18822" zmin="2925" zmax="3125" />
+			<add x="114081" y="18811" zmin="2925" zmax="3125" />
+			<add x="113462" y="18562" zmin="2925" zmax="3125" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113439" y="14606" zmin="3932" zmax="4132" />
+			<add x="114517" y="14166" zmin="3932" zmax="4132" />
+			<add x="114879" y="15127" zmin="3932" zmax="4132" />
+			<add x="113836" y="15552" zmin="3932" zmax="4132" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114674" y="14196" zmin="3935" zmax="4135" />
+			<add x="115369" y="14281" zmin="3935" zmax="4135" />
+			<add x="115929" y="14709" zmin="3935" zmax="4135" />
+			<add x="115086" y="15031" zmin="3935" zmax="4135" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115172" y="15249" zmin="3936" zmax="4136" />
+			<add x="116082" y="14879" zmin="3936" zmax="4136" />
+			<add x="116539" y="15922" zmin="3936" zmax="4136" />
+			<add x="115594" y="16251" zmin="3936" zmax="4136" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113972" y="15769" zmin="3939" zmax="4139" />
+			<add x="114966" y="15352" zmin="3939" zmax="4139" />
+			<add x="115389" y="16354" zmin="3939" zmax="4139" />
+			<add x="114361" y="16777" zmin="3939" zmax="4139" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115656" y="16496" zmin="3939" zmax="4139" />
+			<add x="116537" y="16121" zmin="3939" zmax="4139" />
+			<add x="116364" y="16936" zmin="3939" zmax="4139" />
+			<add x="116011" y="17376" zmin="3939" zmax="4139" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113202" y="14906" zmin="4941" zmax="5141" />
+			<add x="114336" y="16042" zmin="4941" zmax="5141" />
+			<add x="113142" y="17207" zmin="4941" zmax="5141" />
+			<add x="112846" y="16442" zmin="4941" zmax="5141" />
+			<add x="112846" y="15726" zmin="4941" zmax="5141" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114642" y="16342" zmin="4941" zmax="5141" />
+			<add x="115822" y="17527" zmin="4941" zmax="5141" />
+			<add x="114932" y="17907" zmin="4941" zmax="5141" />
+			<add x="114272" y="17952" zmin="4941" zmax="5141" />
+			<add x="113486" y="17587" zmin="4941" zmax="5141" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116072" y="14902" zmin="4936" zmax="5136" />
+			<add x="116456" y="15806" zmin="4936" zmax="5136" />
+			<add x="116466" y="16422" zmin="4936" zmax="5136" />
+			<add x="116146" y="17167" zmin="4936" zmax="5136" />
+			<add x="114947" y="16047" zmin="4936" zmax="5136" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114687" y="14966" zmin="4932" zmax="5132" />
+			<add x="115352" y="15042" zmin="4932" zmax="5132" />
+			<add x="114652" y="15766" zmin="4932" zmax="5132" />
+			<add x="113967" y="15082" zmin="4932" zmax="5132" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114501" y="15494" zmin="5959" zmax="6159" />
+			<add x="114954" y="15604" zmin="5959" zmax="6159" />
+			<add x="115226" y="15917" zmin="5959" zmax="6159" />
+			<add x="115226" y="16211" zmin="5959" zmax="6159" />
+			<add x="114946" y="16539" zmin="5959" zmax="6159" />
+			<add x="114474" y="16617" zmin="5959" zmax="6159" />
+			<add x="114116" y="16342" zmin="5959" zmax="6159" />
+			<add x="114059" y="15911" zmin="5959" zmax="6159" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116296" y="13722" zmin="5949" zmax="6149" />
+			<add x="116996" y="14427" zmin="5949" zmax="6149" />
+			<add x="116302" y="14876" zmin="5949" zmax="6149" />
+			<add x="115866" y="14422" zmin="5949" zmax="6149" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114336" y="18119" zmin="5956" zmax="6156" />
+			<add x="114969" y="18119" zmin="5956" zmax="6156" />
+			<add x="115154" y="18882" zmin="5956" zmax="6156" />
+			<add x="114147" y="18882" zmin="5956" zmax="6156" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="111871" y="16669" zmin="5956" zmax="6156" />
+			<add x="112617" y="16571" zmin="5956" zmax="6156" />
+			<add x="112882" y="17186" zmin="5956" zmax="6156" />
+			<add x="112267" y="17582" zmin="5956" zmax="6156" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="111869" y="15586" zmin="5945" zmax="6145" />
+			<add x="112576" y="15699" zmin="5945" zmax="6145" />
+			<add x="112576" y="16404" zmin="5945" zmax="6145" />
+			<add x="111869" y="16554" zmin="5945" zmax="6145" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114451" y="17149" zmin="6966" zmax="7166" />
+			<add x="115096" y="17794" zmin="6966" zmax="7166" />
+			<add x="114504" y="18377" zmin="6966" zmax="7166" />
+			<add x="113551" y="18099" zmin="6966" zmax="7166" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114772" y="13804" zmin="6961" zmax="7161" />
+			<add x="115712" y="14092" zmin="6961" zmax="7161" />
+			<add x="114834" y="14859" zmin="6961" zmax="7161" />
+			<add x="114206" y="14331" zmin="6961" zmax="7161" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113727" y="16421" zmin="6965" zmax="7165" />
+			<add x="114292" y="16961" zmin="6965" zmax="7165" />
+			<add x="113299" y="17957" zmin="6965" zmax="7165" />
+			<add x="112786" y="17387" zmin="6965" zmax="7165" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115979" y="14166" zmin="6961" zmax="7161" />
+			<add x="116524" y="14737" zmin="6961" zmax="7161" />
+			<add x="115551" y="15709" zmin="6961" zmax="7161" />
+			<add x="114969" y="15186" zmin="6961" zmax="7161" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113467" y="14146" zmin="6949" zmax="7149" />
+			<add x="114726" y="15352" zmin="6949" zmax="7149" />
+			<add x="113972" y="16116" zmin="6949" zmax="7149" />
+			<add x="112712" y="14846" zmin="6949" zmax="7149" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114526" y="15446" zmin="7952" zmax="8152" />
+			<add x="115032" y="15642" zmin="7952" zmax="8152" />
+			<add x="115236" y="16202" zmin="7952" zmax="8152" />
+			<add x="114792" y="16682" zmin="7952" zmax="8152" />
+			<add x="114232" y="16472" zmin="7952" zmax="8152" />
+			<add x="114007" y="15936" zmin="7952" zmax="8152" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114152" y="16772" zmin="7965" zmax="8165" />
+			<add x="115122" y="16776" zmin="7965" zmax="8165" />
+			<add x="115212" y="17162" zmin="7965" zmax="8165" />
+			<add x="114856" y="17312" zmin="7965" zmax="8165" />
+			<add x="114387" y="17306" zmin="7965" zmax="8165" />
+			<add x="113946" y="17122" zmin="7965" zmax="8165" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114242" y="15624" zmin="7969" zmax="8169" />
+			<add x="114621" y="15624" zmin="7969" zmax="8169" />
+			<add x="114654" y="15824" zmin="7969" zmax="8169" />
+			<add x="114244" y="15824" zmin="7969" zmax="8169" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113542" y="15472" zmin="7961" zmax="8161" />
+			<add x="113916" y="15787" zmin="7961" zmax="8161" />
+			<add x="113947" y="16506" zmin="7961" zmax="8161" />
+			<add x="113587" y="16762" zmin="7961" zmax="8161" />
+			<add x="113402" y="16302" zmin="7961" zmax="8161" />
+			<add x="113402" y="15827" zmin="7961" zmax="8161" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114896" y="14827" zmin="7961" zmax="8161" />
+			<add x="115326" y="15012" zmin="7961" zmax="8161" />
+			<add x="114987" y="15366" zmin="7961" zmax="8161" />
+			<add x="114256" y="15356" zmin="7961" zmax="8161" />
+			<add x="114026" y="14996" zmin="7961" zmax="8161" />
+			<add x="114392" y="14827" zmin="7961" zmax="8161" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="119096" y="-40316" zmin="-4105" zmax="-3605" />
+			<add x="123696" y="-39256" zmin="-4105" zmax="-3605" />
+			<add x="123536" y="-36576" zmin="-4105" zmax="-3605" />
+			<add x="119226" y="-38607" zmin="-4105" zmax="-3605" />
+		</territory>
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="124916" y="-38826" zmin="-3992" zmax="-3492" />
+			<add x="126036" y="-39976" zmin="-3992" zmax="-3492" />
+			<add x="126892" y="-37642" zmin="-3992" zmax="-3492" />
+			<add x="126446" y="-36922" zmin="-3992" zmax="-3492" />
+			<add x="125382" y="-36516" zmin="-3992" zmax="-3492" />
+			<add x="124662" y="-37806" zmin="-3992" zmax="-3492" />
+		</territory>
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="129676" y="-47222" zmin="-3549" zmax="-3049" />
+			<add x="130667" y="-45272" zmin="-3549" zmax="-3049" />
+			<add x="130566" y="-43626" zmin="-3549" zmax="-3049" />
+			<add x="128766" y="-43747" zmin="-3549" zmax="-3049" />
+			<add x="127847" y="-45932" zmin="-3549" zmax="-3049" />
+		</territory>
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="128306" y="-41747" zmin="-3549" zmax="-3049" />
+			<add x="130747" y="-43527" zmin="-3549" zmax="-3049" />
+			<add x="130656" y="-39666" zmin="-3549" zmax="-3049" />
+			<add x="129502" y="-40287" zmin="-3549" zmax="-3049" />
+		</territory>
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="127726" y="-59142" zmin="-3801" zmax="-3301" />
+			<add x="129362" y="-59082" zmin="-3801" zmax="-3301" />
+			<add x="128602" y="-54287" zmin="-3801" zmax="-3301" />
+			<add x="126556" y="-56112" zmin="-3801" zmax="-3301" />
+			<add x="125507" y="-57567" zmin="-3801" zmax="-3301" />
+			<add x="125802" y="-58456" zmin="-3801" zmax="-3301" />
+		</territory>
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="136816" y="-91872" zmin="-3861" zmax="-3361" />
+			<add x="139167" y="-91056" zmin="-3861" zmax="-3361" />
+			<add x="139587" y="-90456" zmin="-3861" zmax="-3361" />
+			<add x="139436" y="-89076" zmin="-3861" zmax="-3361" />
+			<add x="135706" y="-88966" zmin="-3861" zmax="-3361" />
+			<add x="135696" y="-90847" zmin="-3861" zmax="-3361" />
+		</territory>
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="146606" y="-91662" zmin="-4821" zmax="-3821" />
+			<add x="150592" y="-91342" zmin="-4821" zmax="-3821" />
+			<add x="151312" y="-90287" zmin="-4821" zmax="-3821" />
+			<add x="146352" y="-88986" zmin="-4821" zmax="-3821" />
+			<add x="145072" y="-89427" zmin="-4821" zmax="-3821" />
+			<add x="145447" y="-91126" zmin="-4821" zmax="-3821" />
+		</territory>
+		<npc id="18284"/><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="139987" y="-85396" zmin="-4972" zmax="-4272" />
+			<add x="141807" y="-86956" zmin="-4972" zmax="-4272" />
+			<add x="143807" y="-87886" zmin="-4972" zmax="-4272" />
+			<add x="144346" y="-86756" zmin="-4972" zmax="-4272" />
+			<add x="142656" y="-84762" zmin="-4972" zmax="-4272" />
+			<add x="141167" y="-84282" zmin="-4972" zmax="-4272" />
+		</territory>
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="146866" y="-89072" zmin="-4705" zmax="-4205" />
+			<add x="150202" y="-89946" zmin="-4705" zmax="-4205" />
+			<add x="150696" y="-86852" zmin="-4705" zmax="-4205" />
+			<add x="148387" y="-86442" zmin="-4705" zmax="-4205" />
+			<add x="147522" y="-87402" zmin="-4705" zmax="-4205" />
+		</territory>
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="148467" y="-86367" zmin="-5049" zmax="-4349" />
+			<add x="150686" y="-86742" zmin="-5049" zmax="-4349" />
+			<add x="152232" y="-84202" zmin="-5049" zmax="-4349" />
+			<add x="151567" y="-82682" zmin="-5049" zmax="-4349" />
+			<add x="149827" y="-83707" zmin="-5049" zmax="-4349" />
+			<add x="148562" y="-85072" zmin="-5049" zmax="-4349" />
+		</territory>
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="183024" y="-78006" zmin="-2785" zmax="-2485" />
+			<add x="182081" y="-77101" zmin="-2785" zmax="-2485" />
+			<add x="180769" y="-77072" zmin="-2785" zmax="-2485" />
+			<add x="179852" y="-78031" zmin="-2785" zmax="-2485" />
+			<add x="179837" y="-79341" zmin="-2785" zmax="-2485" />
+			<add x="180759" y="-80287" zmin="-2785" zmax="-2485" />
+			<add x="182099" y="-80299" zmin="-2785" zmax="-2485" />
+			<add x="183014" y="-79356" zmin="-2785" zmax="-2485" />
+		</territory>
+		<npc id="18285" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65962" y="-72856" zmin="-3845" zmax="-3445" />
+			<add x="66926" y="-73487" zmin="-3845" zmax="-3445" />
+			<add x="67802" y="-73276" zmin="-3845" zmax="-3445" />
+			<add x="67942" y="-71072" zmin="-3845" zmax="-3445" />
+			<add x="65967" y="-70902" zmin="-3845" zmax="-3445" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71536" y="-76196" zmin="-3945" zmax="-3345" />
+			<add x="72267" y="-76627" zmin="-3945" zmax="-3345" />
+			<add x="73666" y="-75512" zmin="-3945" zmax="-3345" />
+			<add x="74286" y="-74416" zmin="-3945" zmax="-3345" />
+			<add x="73492" y="-74082" zmin="-3945" zmax="-3345" />
+			<add x="73126" y="-72896" zmin="-3945" zmax="-3345" />
+			<add x="71447" y="-73287" zmin="-3945" zmax="-3345" />
+			<add x="71316" y="-74956" zmin="-3945" zmax="-3345" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="75086" y="-77432" zmin="-3685" zmax="-3285" />
+			<add x="76326" y="-76926" zmin="-3685" zmax="-3285" />
+			<add x="76507" y="-76226" zmin="-3685" zmax="-3285" />
+			<add x="75887" y="-75002" zmin="-3685" zmax="-3285" />
+			<add x="75387" y="-75407" zmin="-3685" zmax="-3285" />
+			<add x="75062" y="-74987" zmin="-3685" zmax="-3285" />
+			<add x="74756" y="-74956" zmin="-3685" zmax="-3285" />
+			<add x="74162" y="-75547" zmin="-3685" zmax="-3285" />
+			<add x="74296" y="-76802" zmin="-3685" zmax="-3285" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="73812" y="-84892" zmin="-3712" zmax="-3112" />
+			<add x="74916" y="-84627" zmin="-3712" zmax="-3112" />
+			<add x="76192" y="-82272" zmin="-3712" zmax="-3112" />
+			<add x="74096" y="-81026" zmin="-3712" zmax="-3112" />
+			<add x="72416" y="-80836" zmin="-3712" zmax="-3112" />
+			<add x="73326" y="-82462" zmin="-3712" zmax="-3112" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="75246" y="-85362" zmin="-3685" zmax="-3085" />
+			<add x="75526" y="-85732" zmin="-3685" zmax="-3085" />
+			<add x="76976" y="-84987" zmin="-3685" zmax="-3085" />
+			<add x="77512" y="-83296" zmin="-3685" zmax="-3085" />
+			<add x="76216" y="-82242" zmin="-3685" zmax="-3085" />
+			<add x="74967" y="-84542" zmin="-3685" zmax="-3085" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="78262" y="-88389" zmin="-3651" zmax="-3151" />
+			<add x="80322" y="-89042" zmin="-3651" zmax="-3151" />
+			<add x="80726" y="-88494" zmin="-3651" zmax="-3151" />
+			<add x="81101" y="-86824" zmin="-3651" zmax="-3151" />
+			<add x="80054" y="-86037" zmin="-3651" zmax="-3151" />
+			<add x="79532" y="-85729" zmin="-3651" zmax="-3151" />
+			<add x="77016" y="-87632" zmin="-3651" zmax="-3151" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="81772" y="-85461" zmin="-3649" zmax="-3149" />
+			<add x="83482" y="-85349" zmin="-3649" zmax="-3149" />
+			<add x="84239" y="-83592" zmin="-3649" zmax="-3149" />
+			<add x="84121" y="-81534" zmin="-3649" zmax="-3149" />
+			<add x="83827" y="-81212" zmin="-3649" zmax="-3149" />
+			<add x="83244" y="-81672" zmin="-3649" zmax="-3149" />
+			<add x="81872" y="-83826" zmin="-3649" zmax="-3149" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="78729" y="-78762" zmin="-4099" zmax="-3599" />
+			<add x="80147" y="-79736" zmin="-4099" zmax="-3599" />
+			<add x="81366" y="-78671" zmin="-4099" zmax="-3599" />
+			<add x="79432" y="-77447" zmin="-4099" zmax="-3599" />
+			<add x="78626" y="-78199" zmin="-4099" zmax="-3599" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87939" y="-74679" zmin="-3759" zmax="-3259" />
+			<add x="89056" y="-75557" zmin="-3759" zmax="-3259" />
+			<add x="90187" y="-75174" zmin="-3759" zmax="-3259" />
+			<add x="91669" y="-74429" zmin="-3759" zmax="-3259" />
+			<add x="91094" y="-73649" zmin="-3759" zmax="-3259" />
+			<add x="89207" y="-72416" zmin="-3759" zmax="-3259" />
+			<add x="88637" y="-72456" zmin="-3759" zmax="-3259" />
+			<add x="87769" y="-74176" zmin="-3759" zmax="-3259" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91289" y="-83851" zmin="-2956" zmax="-2456" />
+			<add x="92362" y="-84272" zmin="-2956" zmax="-2456" />
+			<add x="93802" y="-83296" zmin="-2956" zmax="-2456" />
+			<add x="94357" y="-82639" zmin="-2956" zmax="-2456" />
+			<add x="94102" y="-81251" zmin="-2956" zmax="-2456" />
+			<add x="93036" y="-80661" zmin="-2956" zmax="-2456" />
+			<add x="90646" y="-82302" zmin="-2956" zmax="-2456" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="75091" y="-94099" zmin="-3448" zmax="-2948" />
+			<add x="77166" y="-93796" zmin="-3448" zmax="-2948" />
+			<add x="77846" y="-92702" zmin="-3448" zmax="-2948" />
+			<add x="77934" y="-90634" zmin="-3448" zmax="-2948" />
+			<add x="75311" y="-89347" zmin="-3448" zmax="-2948" />
+			<add x="75311" y="-89347" zmin="-3448" zmax="-2948" />
+			<add x="74981" y="-90052" zmin="-3448" zmax="-2948" />
+			<add x="75637" y="-90901" zmin="-3448" zmax="-2948" />
+			<add x="75322" y="-91462" zmin="-3448" zmax="-2948" />
+			<add x="74374" y="-91232" zmin="-3448" zmax="-2948" />
+			<add x="73702" y="-92289" zmin="-3448" zmax="-2948" />
+			<add x="74097" y="-93692" zmin="-3448" zmax="-2948" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="80777" y="-93742" zmin="-3189" zmax="-2689" />
+			<add x="81366" y="-93314" zmin="-3189" zmax="-2689" />
+			<add x="81819" y="-91957" zmin="-3189" zmax="-2689" />
+			<add x="80771" y="-90329" zmin="-3189" zmax="-2689" />
+			<add x="79896" y="-90979" zmin="-3189" zmax="-2689" />
+			<add x="79966" y="-93162" zmin="-3189" zmax="-2689" />
+			<add x="80306" y="-93719" zmin="-3189" zmax="-2689" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="85309" y="-91286" zmin="-2898" zmax="-2398" />
+			<add x="86811" y="-91034" zmin="-2898" zmax="-2398" />
+			<add x="87169" y="-88719" zmin="-2898" zmax="-2398" />
+			<add x="86027" y="-88531" zmin="-2898" zmax="-2398" />
+			<add x="85502" y="-88622" zmin="-2898" zmax="-2398" />
+			<add x="85092" y="-89252" zmin="-2898" zmax="-2398" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="97069" y="-91116" zmin="-2846" zmax="-2346" />
+			<add x="97411" y="-90682" zmin="-2846" zmax="-2346" />
+			<add x="97342" y="-89962" zmin="-2846" zmax="-2346" />
+			<add x="97684" y="-89669" zmin="-2846" zmax="-2346" />
+			<add x="97124" y="-88992" zmin="-2846" zmax="-2346" />
+			<add x="95886" y="-88976" zmin="-2846" zmax="-2346" />
+			<add x="94521" y="-90316" zmin="-2846" zmax="-2346" />
+			<add x="94504" y="-90812" zmin="-2846" zmax="-2346" />
+			<add x="95439" y="-91419" zmin="-2846" zmax="-2346" />
+			<add x="96026" y="-91526" zmin="-2846" zmax="-2346" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="58049" y="-47432" zmin="-3466" zmax="-2166" />
+			<add x="59409" y="-45332" zmin="-3466" zmax="-2166" />
+			<add x="55096" y="-42166" zmin="-3466" zmax="-2166" />
+			<add x="54331" y="-44389" zmin="-3466" zmax="-2166" />
+			<add x="55252" y="-46179" zmin="-3466" zmax="-2166" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="53059" y="-45111" zmin="-3455" zmax="-2055" />
+			<add x="53121" y="-42261" zmin="-3455" zmax="-2055" />
+			<add x="50826" y="-41677" zmin="-3455" zmax="-2055" />
+			<add x="50259" y="-44274" zmin="-3455" zmax="-2055" />
+			<add x="51909" y="-45602" zmin="-3455" zmax="-2055" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="50052" y="-44772" zmin="-3366" zmax="-1966" />
+			<add x="50552" y="-42189" zmin="-3366" zmax="-1966" />
+			<add x="48201" y="-42972" zmin="-3366" zmax="-1966" />
+			<add x="47781" y="-44506" zmin="-3366" zmax="-1966" />
+			<add x="48779" y="-45616" zmin="-3366" zmax="-1966" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="48841" y="-39602" zmin="-2272" zmax="-1372" />
+			<add x="47859" y="-38224" zmin="-2272" zmax="-1372" />
+			<add x="46736" y="-38136" zmin="-2272" zmax="-1372" />
+			<add x="45561" y="-39909" zmin="-2272" zmax="-1372" />
+			<add x="46632" y="-40854" zmin="-2272" zmax="-1372" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="48081" y="-38016" zmin="-2019" zmax="-1219" />
+			<add x="47512" y="-35627" zmin="-2019" zmax="-1219" />
+			<add x="45907" y="-35731" zmin="-2019" zmax="-1219" />
+			<add x="45339" y="-36809" zmin="-2019" zmax="-1219" />
+			<add x="46689" y="-38067" zmin="-2019" zmax="-1219" />
+		</territory>
+		<npc id="18279" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="51807" y="-37216" zmin="-2048" zmax="-1048" />
+			<add x="51166" y="-35851" zmin="-2048" zmax="-1048" />
+			<add x="49674" y="-35182" zmin="-2048" zmax="-1048" />
+			<add x="47844" y="-35731" zmin="-2048" zmax="-1048" />
+			<add x="48249" y="-37977" zmin="-2048" zmax="-1048" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="55327" y="-41062" zmin="-3106" zmax="-1906" />
+			<add x="54892" y="-39479" zmin="-3106" zmax="-1906" />
+			<add x="53637" y="-38834" zmin="-3106" zmax="-1906" />
+			<add x="52741" y="-39441" zmin="-3106" zmax="-1906" />
+			<add x="53557" y="-41751" zmin="-3106" zmax="-1906" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="61742" y="-43011" zmin="-3216" zmax="-2616" />
+			<add x="61991" y="-41266" zmin="-3216" zmax="-2616" />
+			<add x="58287" y="-40739" zmin="-3216" zmax="-2616" />
+			<add x="55959" y="-41439" zmin="-3216" zmax="-2616" />
+			<add x="58731" y="-43589" zmin="-3216" zmax="-2616" />
+			<add x="60332" y="-43916" zmin="-3216" zmax="-2616" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90451" y="-128696" zmin="-4351" zmax="-3951" />
+			<add x="90899" y="-129202" zmin="-4351" zmax="-3951" />
+			<add x="91214" y="-128816" zmin="-4351" zmax="-3951" />
+			<add x="91451" y="-128912" zmin="-4351" zmax="-3951" />
+			<add x="91271" y="-129382" zmin="-4351" zmax="-3951" />
+			<add x="91846" y="-129344" zmin="-4351" zmax="-3951" />
+			<add x="92402" y="-128726" zmin="-4351" zmax="-3951" />
+			<add x="91339" y="-127982" zmin="-4351" zmax="-3951" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87886" y="-120882" zmin="-4725" zmax="-4055" />
+			<add x="86754" y="-122322" zmin="-4725" zmax="-4055" />
+			<add x="87174" y="-123217" zmin="-4725" zmax="-4055" />
+			<add x="88049" y="-122691" zmin="-4725" zmax="-4055" />
+			<add x="88159" y="-121822" zmin="-4725" zmax="-4055" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="94324" y="-122822" zmin="-4702" zmax="-4302" />
+			<add x="97226" y="-123422" zmin="-4702" zmax="-4302" />
+			<add x="95867" y="-122617" zmin="-4702" zmax="-4302" />
+			<add x="94152" y="-121469" zmin="-4702" zmax="-4302" />
+			<add x="94134" y="-122881" zmin="-4702" zmax="-4302" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="92227" y="-120319" zmin="-4619" zmax="-4219" />
+			<add x="91774" y="-121186" zmin="-4619" zmax="-4219" />
+			<add x="92266" y="-122299" zmin="-4619" zmax="-4219" />
+			<add x="93256" y="-120667" zmin="-4619" zmax="-4219" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86202" y="-116992" zmin="-3662" zmax="-3062" />
+			<add x="87991" y="-118869" zmin="-3662" zmax="-3062" />
+			<add x="89272" y="-117249" zmin="-3662" zmax="-3062" />
+			<add x="86992" y="-116226" zmin="-3662" zmax="-3062" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="89959" y="-113621" zmin="-3472" zmax="-2672" />
+			<add x="89142" y="-112734" zmin="-3472" zmax="-2672" />
+			<add x="87474" y="-114649" zmin="-3472" zmax="-2672" />
+			<add x="89072" y="-115086" zmin="-3472" zmax="-2672" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="89972" y="-113642" zmin="-3756" zmax="-2716" />
+			<add x="89131" y="-115081" zmin="-3756" zmax="-2716" />
+			<add x="89986" y="-115622" zmin="-3756" zmax="-2716" />
+			<add x="91442" y="-114927" zmin="-3756" zmax="-2716" />
+		</territory>
+		<npc id="18282" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116382" y="-161256" zmin="-1321" zmax="-821" />
+			<add x="118877" y="-161489" zmin="-1321" zmax="-821" />
+			<add x="120041" y="-160292" zmin="-1321" zmax="-821" />
+			<add x="116362" y="-159987" zmin="-1321" zmax="-821" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118469" y="-161899" zmin="-1461" zmax="-911" />
+			<add x="118902" y="-162776" zmin="-1461" zmax="-911" />
+			<add x="120907" y="-162209" zmin="-1461" zmax="-911" />
+			<add x="119922" y="-160432" zmin="-1461" zmax="-911" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113681" y="-162024" zmin="-1652" zmax="-1152" />
+			<add x="114581" y="-162242" zmin="-1652" zmax="-1152" />
+			<add x="114941" y="-161066" zmin="-1652" zmax="-1152" />
+			<add x="112996" y="-160261" zmin="-1652" zmax="-1152" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="112984" y="-160241" zmin="-1741" zmax="-1241" />
+			<add x="114086" y="-160706" zmin="-1741" zmax="-1241" />
+			<add x="113826" y="-159581" zmin="-1741" zmax="-1241" />
+			<add x="111971" y="-159071" zmin="-1741" zmax="-1241" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="112209" y="-159146" zmin="-1885" zmax="-1385" />
+			<add x="113394" y="-159466" zmin="-1885" zmax="-1385" />
+			<add x="112942" y="-157721" zmin="-1885" zmax="-1385" />
+			<add x="111882" y="-157216" zmin="-1885" zmax="-1385" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="109139" y="-157319" zmin="-2256" zmax="-1756" />
+			<add x="112042" y="-158196" zmin="-2256" zmax="-1756" />
+			<add x="111854" y="-157217" zmin="-2256" zmax="-1756" />
+			<add x="109036" y="-156492" zmin="-2256" zmax="-1756" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="106551" y="-158266" zmin="-2249" zmax="-1749" />
+			<add x="109142" y="-157446" zmin="-2249" zmax="-1749" />
+			<add x="109019" y="-156446" zmin="-2249" zmax="-1749" />
+			<add x="105926" y="-156799" zmin="-2249" zmax="-1749" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="106324" y="-160032" zmin="-2092" zmax="-1592" />
+			<add x="107721" y="-160276" zmin="-2092" zmax="-1592" />
+			<add x="108414" y="-157659" zmin="-2092" zmax="-1592" />
+			<add x="106569" y="-158261" zmin="-2092" zmax="-1592" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="109922" y="-161771" zmin="-1912" zmax="-1412" />
+			<add x="109169" y="-159429" zmin="-1912" zmax="-1412" />
+			<add x="108096" y="-158894" zmin="-1912" zmax="-1412" />
+			<add x="107727" y="-160266" zmin="-1912" zmax="-1412" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="107614" y="-156611" zmin="-2265" zmax="-1765" />
+			<add x="109244" y="-156406" zmin="-2265" zmax="-1765" />
+			<add x="109462" y="-154407" zmin="-2265" zmax="-1765" />
+			<add x="108522" y="-153827" zmin="-2265" zmax="-1765" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116126" y="-150949" zmin="-2581" zmax="-1881" />
+			<add x="117896" y="-150961" zmin="-2581" zmax="-1881" />
+			<add x="117902" y="-148829" zmin="-2581" zmax="-1881" />
+			<add x="116612" y="-148591" zmin="-2581" zmax="-1881" />
+		</territory>
+		<npc id="18269" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="107106" y="-146422" zmin="-3776" zmax="-3276" />
+			<add x="108656" y="-145477" zmin="-3776" zmax="-3276" />
+			<add x="107086" y="-143812" zmin="-3776" zmax="-3276" />
+			<add x="106364" y="-145029" zmin="-3776" zmax="-3276" />
+		</territory>
+		<npc id="18271" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="102181" y="-141112" zmin="-3512" zmax="-2812" />
+			<add x="104819" y="-141199" zmin="-3512" zmax="-2812" />
+			<add x="105272" y="-139329" zmin="-3512" zmax="-2812" />
+			<add x="101414" y="-139642" zmin="-3512" zmax="-2812" />
+		</territory>
+		<npc id="18271" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="100322" y="-148636" zmin="-3249" zmax="-2549" />
+			<add x="103206" y="-147891" zmin="-3249" zmax="-2549" />
+			<add x="102481" y="-145996" zmin="-3249" zmax="-2549" />
+			<add x="99864" y="-146714" zmin="-3249" zmax="-2549" />
+		</territory>
+		<npc id="18271" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="101241" y="-150512" zmin="-3216" zmax="-2516" />
+			<add x="103161" y="-150321" zmin="-3216" zmax="-2516" />
+			<add x="102627" y="-148049" zmin="-3216" zmax="-2516" />
+			<add x="100866" y="-148514" zmin="-3216" zmax="-2516" />
+		</territory>
+		<npc id="18271" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="121217" y="-149359" zmin="-3649" zmax="-2949" />
+			<add x="123656" y="-148397" zmin="-3649" zmax="-2949" />
+			<add x="123861" y="-145772" zmin="-3649" zmax="-2949" />
+			<add x="120574" y="-147659" zmin="-3649" zmax="-2949" />
+		</territory>
+		<npc id="18271" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="122992" y="-150619" zmin="-3641" zmax="-2641" />
+			<add x="125854" y="-151426" zmin="-3641" zmax="-2641" />
+			<add x="124587" y="-148037" zmin="-3641" zmax="-2641" />
+			<add x="122672" y="-148831" zmin="-3641" zmax="-2641" />
+		</territory>
+		<npc id="18271" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="105311" y="-115299" zmin="-3096" zmax="-2396" />
+			<add x="108272" y="-115862" zmin="-3096" zmax="-2396" />
+			<add x="107646" y="-114609" zmin="-3096" zmax="-2396" />
+			<add x="104867" y="-114681" zmin="-3096" zmax="-2396" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="105139" y="-118957" zmin="-2976" zmax="-2276" />
+			<add x="106041" y="-119102" zmin="-2976" zmax="-2276" />
+			<add x="106796" y="-118069" zmin="-2976" zmax="-2276" />
+			<add x="105242" y="-117482" zmin="-2976" zmax="-2276" />
+			<add x="104684" y="-118014" zmin="-2976" zmax="-2276" />
+			<add x="105327" y="-118322" zmin="-2976" zmax="-2276" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116812" y="-122167" zmin="-2985" zmax="-2285" />
+			<add x="119632" y="-122019" zmin="-2985" zmax="-2285" />
+			<add x="119061" y="-120287" zmin="-2985" zmax="-2285" />
+			<add x="119944" y="-119719" zmin="-2985" zmax="-2285" />
+			<add x="118501" y="-118939" zmin="-2985" zmax="-2285" />
+			<add x="116012" y="-121417" zmin="-2985" zmax="-2285" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="124161" y="-103589" zmin="-3121" zmax="-2421" />
+			<add x="124716" y="-104646" zmin="-3121" zmax="-2421" />
+			<add x="125201" y="-104256" zmin="-3121" zmax="-2421" />
+			<add x="124562" y="-102942" zmin="-3121" zmax="-2421" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="112262" y="-102337" zmin="-4185" zmax="-3485" />
+			<add x="114822" y="-101812" zmin="-4185" zmax="-3485" />
+			<add x="115261" y="-99992" zmin="-4185" zmax="-3485" />
+			<add x="111632" y="-100579" zmin="-4185" zmax="-3485" />
+		</territory>
+		<npc id="18276" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123051" y="-111586" zmin="-2849" zmax="-2149" />
+			<add x="125521" y="-111656" zmin="-2849" zmax="-2149" />
+			<add x="125047" y="-109571" zmin="-2849" zmax="-2149" />
+			<add x="123807" y="-108591" zmin="-2849" zmax="-2149" />
+			<add x="122394" y="-110409" zmin="-2849" zmax="-2149" />
+		</territory>
+		<npc id="18278" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="128102" y="-112294" zmin="-3196" zmax="-2496" />
+			<add x="128772" y="-111302" zmin="-3196" zmax="-2496" />
+			<add x="128177" y="-109679" zmin="-3196" zmax="-2496" />
+			<add x="127194" y="-110522" zmin="-3196" zmax="-2496" />
+			<add x="127536" y="-111156" zmin="-3196" zmax="-2496" />
+			<add x="127209" y="-111994" zmin="-3196" zmax="-2496" />
+		</territory>
+		<npc id="18278" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="119682" y="-114589" zmin="-2805" zmax="-2105" />
+			<add x="121202" y="-114896" zmin="-2805" zmax="-2105" />
+			<add x="122077" y="-111996" zmin="-2805" zmax="-2105" />
+			<add x="120341" y="-111807" zmin="-2805" zmax="-2105" />
+		</territory>
+		<npc id="18278" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123479" y="-113391" zmin="-2956" zmax="-2256" />
+			<add x="123986" y="-114294" zmin="-2956" zmax="-2256" />
+			<add x="124872" y="-114366" zmin="-2956" zmax="-2256" />
+			<add x="126279" y="-114096" zmin="-2956" zmax="-2256" />
+			<add x="124509" y="-113029" zmin="-2956" zmax="-2256" />
+		</territory>
+		<npc id="18278" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="125942" y="-116971" zmin="-2981" zmax="-2281" />
+			<add x="128481" y="-115159" zmin="-2981" zmax="-2281" />
+			<add x="127126" y="-113912" zmin="-2981" zmax="-2281" />
+			<add x="124886" y="-114381" zmin="-2981" zmax="-2281" />
+			<add x="126047" y="-115747" zmin="-2981" zmax="-2281" />
+			<add x="125091" y="-116172" zmin="-2981" zmax="-2281" />
+		</territory>
+		<npc id="18278" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="119092" y="-102282" zmin="-3956" zmax="-3256" />
+			<add x="120959" y="-102261" zmin="-3956" zmax="-3256" />
+			<add x="121532" y="-100702" zmin="-3956" zmax="-3256" />
+			<add x="119296" y="-100331" zmin="-3956" zmax="-3256" />
+		</territory>
+		<npc id="18278" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="173084" y="54421" zmin="-4385" zmax="-4135" />
+			<add x="175816" y="54456" zmin="-4385" zmax="-4135" />
+			<add x="175816" y="56344" zmin="-4385" zmax="-4135" />
+			<add x="173084" y="56316" zmin="-4385" zmax="-4135" />
+		</territory>
+		<npc id="18285" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="181391" y="61096" zmin="-4001" zmax="-3801" />
+			<add x="182876" y="61096" zmin="-4001" zmax="-3801" />
+			<add x="182876" y="62826" zmin="-4001" zmax="-3801" />
+			<add x="181391" y="62826" zmin="-4001" zmax="-3801" />
+		</territory>
+		<npc id="18285" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="177302" y="54231" zmin="-4001" zmax="-3801" />
+			<add x="179836" y="53279" zmin="-4001" zmax="-3801" />
+			<add x="180492" y="55006" zmin="-4001" zmax="-3801" />
+			<add x="177959" y="55916" zmin="-4001" zmax="-3801" />
+		</territory>
+		<npc id="18285" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="187831" y="47231" zmin="-4385" zmax="-4185" />
+			<add x="187306" y="48121" zmin="-4385" zmax="-4185" />
+			<add x="185979" y="50441" zmin="-4385" zmax="-4185" />
+			<add x="184331" y="49479" zmin="-4385" zmax="-4185" />
+		</territory>
+		<npc id="18285" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="189489" y="51584" zmin="-4385" zmax="-4185" />
+			<add x="191109" y="51584" zmin="-4385" zmax="-4185" />
+			<add x="191109" y="53322" zmin="-4385" zmax="-4185" />
+			<add x="189489" y="53322" zmin="-4385" zmax="-4185" />
+		</territory>
+		<npc id="18285" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="191422" y="51324" zmin="-4385" zmax="-4185" />
+			<add x="192757" y="51324" zmin="-4385" zmax="-4185" />
+			<add x="192757" y="53122" zmin="-4385" zmax="-4185" />
+			<add x="191422" y="53102" zmin="-4385" zmax="-4185" />
+		</territory>
+		<npc id="18285" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="155861" y="-44042" zmin="-3821" zmax="-3621" />
+			<add x="156554" y="-43516" zmin="-3821" zmax="-3621" />
+			<add x="156509" y="-42426" zmin="-3821" zmax="-3621" />
+			<add x="154601" y="-42186" zmin="-3821" zmax="-3621" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="156612" y="-49272" zmin="-3375" zmax="-3075" />
+			<add x="157652" y="-49032" zmin="-3375" zmax="-3075" />
+			<add x="158307" y="-47702" zmin="-3375" zmax="-3075" />
+			<add x="157047" y="-46812" zmin="-3375" zmax="-3075" />
+			<add x="156027" y="-48892" zmin="-3375" zmax="-3075" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="154654" y="-57042" zmin="-3271" zmax="-3071" />
+			<add x="156129" y="-56497" zmin="-3271" zmax="-3071" />
+			<add x="156354" y="-54762" zmin="-3271" zmax="-3071" />
+			<add x="154601" y="-54912" zmin="-3271" zmax="-3071" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="153932" y="-58189" zmin="-3472" zmax="-3072" />
+			<add x="154782" y="-58289" zmin="-3472" zmax="-3072" />
+			<add x="154606" y="-56479" zmin="-3472" zmax="-3072" />
+			<add x="153747" y="-57474" zmin="-3472" zmax="-3072" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="141281" y="-60189" zmin="-3406" zmax="-3206" />
+			<add x="141824" y="-59824" zmin="-3406" zmax="-3206" />
+			<add x="141311" y="-59221" zmin="-3406" zmax="-3206" />
+			<add x="140681" y="-59389" zmin="-3406" zmax="-3206" />
+			<add x="140759" y="-60169" zmin="-3406" zmax="-3206" />
+		</territory>
+		<npc id="18281" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="110920" y="-55624" z="-2800" h="54566" />
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="119320" y="-57080" z="-2192" h="59545" />
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="124984" y="-51336" z="-2448" h="14970" />
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="121576" y="-45480" z="-2864" h="26634" />
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="123032" y="-41688" z="-3216" h="52192" />
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="130488" y="-42344" z="-3440" h="57343" />
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="124936" y="-37816" z="-3856" h="37604" />
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="153128" y="-85864" z="-4784" h="48765" />
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="154504" y="-89480" z="-4136" h="13028" />
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="146056" y="-89352" z="-4704" h="29565" />
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="139608" y="-86920" z="-4384" h="23421" />
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="135448" y="-82632" z="-4144" h="18664" />
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="139304" y="-81208" z="-4944" h="7310" />
+		<npc id="18284" /><!--Treasure Chest-->
+	</spawn>	
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="80984" y="68136" z="-3488" h="26941" />
+		<npc id="18286" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="82344" y="61160" z="-3504" h="62980" />
+		<npc id="18286" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="84664" y="225720" z="-3744" h="59624" />
+		<npc id="18286" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="91912" y="223320" z="-3760" h="59165" />
+		<npc id="18286" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="79432" y="226552" z="-3728" h="42205" />
+		<npc id="18286" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="80712" y="217112" z="-3680" h="56152" />
+		<npc id="18286" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="46248" y="-119432" z="-3808" h="39237" />
+		<npc id="18286" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="47672" y="-123016" z="-3872" h="64631" />
+		<npc id="18286" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52712" y="-126200" z="-4048" h="58773" />
+		<npc id="18286" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55224" y="-123080" z="-4080" h="20126" />
+		<npc id="18286" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="92808" y="83352" z="-3616" h="54788" />
+		<npc id="18286" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="89464" y="75048" z="-3328" h="43807" />
+		<npc id="18286" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="92328" y="89192" z="-3520" h="21673" />
+		<npc id="18286" /><!--Treasure Chest-->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="84248" y="93752" z="-3456" h="29204" />
+		<npc id="18286" /><!--Treasure Chest-->
+	</spawn>	
+</list>

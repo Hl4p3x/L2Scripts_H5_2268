@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "votereward.dtd">
+<!--AUTHOR: Bonux-->
+<list>
+	<configs>
+		<config name="reward_commands" value="vr;votereward"/>
+	</configs>
+	<!--HopZone.net-->
+	<vote_site impl="HopZone" enabled="false">
+		<parameter name="api_key" value=""/>	<!--https://api.hopzone.net/lineage2/vote?token= {api_key} &ip_address=192.168.0.1-->
+		<rewards>
+			<group chance="100">
+				<reward item_id="57" min="1000" max="10000" chance="100" /> <!-- Festival Adena -->
+			</group>
+			<group chance="10">
+				<reward item_id="6673" min="1" max="2" chance="100" /> <!-- Festival Adena -->
+			</group>
+		</rewards>
+	</vote_site>
+	<!--L2TopZone.com-->
+	<vote_site impl="L2TopZone" enabled="false">
+		<parameter name="api_key" value=""/>	<!--https://api.l2topzone.com/v1/vote?token= {api_key} &ip=192.168.0.1-->
+		<rewards>
+			<group chance="100">
+				<reward item_id="57" min="1000" max="10000" chance="100" /> <!-- Festival Adena -->
+			</group>
+			<group chance="10">
+				<reward item_id="6673" min="1" max="2" chance="100" /> <!-- Festival Adena -->
+			</group>
+		</rewards>
+	</vote_site>
+	<!--L2Network.eu-->
+	<vote_site impl="L2Network" enabled="false">
+		<parameter name="api_key" value=""/>	<!--https://l2network.eu/index.php?a=in&u= {api_key} &ipc=192.168.0.1-->
+		<rewards>
+			<group chance="100">
+				<reward item_id="57" min="1000" max="10000" chance="100" /> <!-- Festival Adena -->
+			</group>
+			<group chance="10">
+				<reward item_id="6673" min="1" max="2" chance="100" /> <!-- Festival Adena -->
+			</group>
+		</rewards>
+	</vote_site>
+	<!--L2Top.ru-->
+	<vote_site impl="L2Top" enabled="false">
+		<parameter name="run_delay" value="300"/>	<!--Auto reward delay in seconds-->
+		<parameter name="api_key" value=""/>	<!--http://l2top.ru/editServ/?adminAct=lastVotes&uid= {server_uid} _web&key= {api_key} -->
+		<parameter name="server_uid" value="0"/>
+		<parameter name="server_prefix" value=""/>
+		<rewards>
+			<group chance="100">
+				<reward item_id="57" min="1000" max="10000" chance="100" /> <!-- Festival Adena -->
+			</group>
+			<group chance="10">
+				<reward item_id="6673" min="1" max="2" chance="100" /> <!-- Festival Adena -->
+			</group>
+		</rewards>
+	</vote_site>
+	<!--MmoTop.ru-->
+	<vote_site impl="MmoTop" enabled="false">
+		<parameter name="run_delay" value="300"/>	<!--Auto reward delay in seconds-->
+		<parameter name="votes_link" value=""/>	<!--https://mmotop.ru/votes/ {votes_link} -->
+		<parameter name="identifier_type" value="IP"/>	<!--NICKNAME, IP-->
+		<rewards>
+			<group chance="100">
+				<reward item_id="57" min="1000" max="10000" chance="100" /> <!-- Festival Adena -->
+			</group>
+			<group chance="10">
+				<reward item_id="6673" min="1" max="2" chance="100" /> <!-- Festival Adena -->
+			</group>
+		</rewards>
+	</vote_site>
+	<!--MmoVote.ru-->
+	<vote_site impl="MmoVote" enabled="false">
+		<parameter name="run_delay" value="300"/>	<!--Auto reward delay in seconds-->
+		<parameter name="votes_link" value=""/>	<!--http://stat.mmovote.ru/ru/stat/ {votes_link} -->
+		<parameter name="identifier_type" value="IP"/>	<!--NICKNAME, IP-->
+		<rewards>
+			<group chance="100">
+				<reward item_id="57" min="1000" max="10000" chance="100" /> <!-- Festival Adena -->
+			</group>
+			<group chance="10">
+				<reward item_id="6673" min="1" max="2" chance="100" /> <!-- Festival Adena -->
+			</group>
+		</rewards>
+	</vote_site>
+</list>

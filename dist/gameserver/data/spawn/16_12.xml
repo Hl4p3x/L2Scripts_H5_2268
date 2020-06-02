@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114224" y="-181504" z="-6753" h="32768" />
+		<npc id="31488" /><!--Rift Post Recruit-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114216" y="-178698" z="-6753" h="32768" />
+		<npc id="31489" /><!--Rift Post Private-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114798" y="-178084" z="-6753" h="49152" />
+		<npc id="31490" /><!--Rift Post Officer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115362" y="-178692" z="-6753" h="0" />
+		<npc id="31491" /><!--Rift Post Captain-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115364" y="-181517" z="-6753" h="0" />
+		<npc id="31492" /><!--Rift Post Commander-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114793" y="-182125" z="-6753" h="16384" />
+		<npc id="31493" /><!--Rift Post Hero-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111971" y="-182437" z="-6755" h="0" />
+		<npc id="31865" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111098" y="-182451" z="-6755" h="0" />
+		<npc id="31866" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110274" y="-180570" z="-6755" h="0" />
+		<npc id="31867" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109391" y="-180543" z="-6755" h="0" />
+		<npc id="31868" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113276" y="-181523" z="-6755" h="0" />
+		<npc id="31869" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111564" y="-180548" z="-6753" h="0" />
+		<npc id="31870" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109782" y="-182443" z="-6755" h="0" />
+		<npc id="31871" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111571" y="-181523" z="-6755" h="0" />
+		<npc id="31872" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109884" y="-181517" z="-6755" h="0" />
+		<npc id="31873" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111974" y="-179611" z="-6755" h="0" />
+		<npc id="31874" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111102" y="-179625" z="-6755" h="0" />
+		<npc id="31875" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110277" y="-177744" z="-6755" h="0" />
+		<npc id="31876" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109395" y="-177716" z="-6755" h="0" />
+		<npc id="31877" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113280" y="-178697" z="-6755" h="0" />
+		<npc id="31878" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111567" y="-177721" z="-6753" h="0" />
+		<npc id="31879" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109785" y="-179617" z="-6755" h="0" />
+		<npc id="31880" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111574" y="-178697" z="-6755" h="0" />
+		<npc id="31881" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109888" y="-178691" z="-6755" h="0" />
+		<npc id="31882" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113797" y="-175816" z="-6755" h="0" />
+		<npc id="31883" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114077" y="-174938" z="-6755" h="0" />
+		<npc id="31884" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115705" y="-174147" z="-6755" h="0" />
+		<npc id="31885" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115681" y="-173229" z="-6755" h="0" />
+		<npc id="31886" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114751" y="-177066" z="-6755" h="0" />
+		<npc id="31887" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115690" y="-175409" z="-6755" h="0" />
+		<npc id="31888" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113805" y="-173604" z="-6755" h="0" />
+		<npc id="31889" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114724" y="-175385" z="-6755" h="0" />
+		<npc id="31890" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114723" y="-173724" z="-6755" h="0" />
+		<npc id="31891" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117634" y="-177784" z="-6755" h="0" />
+		<npc id="31892" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118465" y="-177758" z="-6755" h="0" />
+		<npc id="31893" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119262" y="-179660" z="-6755" h="0" />
+		<npc id="31894" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-120151" y="-179668" z="-6755" h="0" />
+		<npc id="31895" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116326" y="-178729" z="-6755" h="0" />
+		<npc id="31896" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117973" y="-179667" z="-6755" h="0" />
+		<npc id="31897" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119753" y="-177759" z="-6755" h="0" />
+		<npc id="31898" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117976" y="-178724" z="-6755" h="0" />
+		<npc id="31899" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119679" y="-178707" z="-6755" h="0" />
+		<npc id="31900" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117676" y="-180613" z="-6755" h="0" />
+		<npc id="31901" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118506" y="-180587" z="-6755" h="0" />
+		<npc id="31902" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119304" y="-182488" z="-6755" h="0" />
+		<npc id="31903" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-120193" y="-182497" z="-6755" h="0" />
+		<npc id="31904" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116367" y="-181558" z="-6755" h="0" />
+		<npc id="31905" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118015" y="-182496" z="-6755" h="0" />
+		<npc id="31906" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119795" y="-180588" z="-6755" h="0" />
+		<npc id="31907" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118017" y="-181553" z="-6755" h="0" />
+		<npc id="31908" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119720" y="-181536" z="-6755" h="0" />
+		<npc id="31909" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115720" y="-184407" z="-6755" h="0" />
+		<npc id="31910" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115714" y="-185264" z="-6755" h="0" />
+		<npc id="31911" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113830" y="-186056" z="-6755" h="0" />
+		<npc id="31912" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113828" y="-186929" z="-6755" h="0" />
+		<npc id="31913" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114797" y="-183022" z="-6755" h="0" />
+		<npc id="31914" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113868" y="-184724" z="-6755" h="0" />
+		<npc id="31915" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115704" y="-186503" z="-6755" h="0" />
+		<npc id="31916" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114815" y="-184706" z="-6755" h="0" />
+		<npc id="31917" /><!--Guardian of Border-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114803" y="-186399" z="-6755" h="0" />
+		<npc id="31918" /><!--Guardian of Border-->
+	</spawn>
+</list>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-204849" y="242148" z="1781" h="0" />
+		<npc id="32518" /><!--Vortex Gate -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-223211" y="247803" z="1781" h="0" />
+		<npc id="32519" /><!--Vortex Gate -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-223331" y="233909" z="4166" h="0" />
+		<npc id="18690" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-224189" y="233518" z="4569" h="0" />
+		<npc id="18690" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-224618" y="237037" z="4867" h="0" />
+		<npc id="18690" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-226334" y="232736" z="5046" h="0" />
+		<npc id="18690" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-221615" y="233518" z="4360" h="0" />
+		<npc id="18690" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-221615" y="232736" z="4569" h="0" />
+		<npc id="18690" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-220757" y="233127" z="4864" h="0" />
+		<npc id="18691" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-222044" y="233127" z="4246" h="0" />
+		<npc id="18691" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-222473" y="237037" z="5276" h="0" />
+		<npc id="18691" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-224189" y="233909" z="4879" h="0" />
+		<npc id="18691" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-226763" y="233909" z="5393" h="0" />
+		<npc id="18691" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-226334" y="234300" z="5411" h="0" />
+		<npc id="18691" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-227192" y="233909" z="5229" h="0" />
+		<npc id="18691" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-223760" y="237037" z="4733" h="0" />
+		<npc id="18692" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-225476" y="238601" z="4107" h="0" />
+		<npc id="18692" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-224618" y="232345" z="5341" h="0" />
+		<npc id="18692" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-221186" y="232345" z="5436" h="0" />
+		<npc id="18692" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-221186" y="235082" z="3960" h="0" />
+		<npc id="18692" /><!--Green Star Stone-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-222473" y="235473" z="4018" h="0" />
+		<npc id="18692" /><!--Green Star Stone-->
+	</spawn>
+</list>

@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-175533" y="153808" z="2704" h="16016" />
+		<npc id="32735" /><!--Nemo-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-175533" y="154851" z="2720" h="16016" />
+		<npc id="32779" /><!--Airship Controller-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-178467" y="153371" z="2472" h="11632" />
+		<npc id="32734" /><!--Klemis-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-181199" y="153605" z="2704" h="11632" />
+		<npc id="32737" /><!--Seyo-->
+	</spawn>
+	
+	<spawn group="lakkfi_1" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="106725" y="41112" zmin="-4680" zmax="-4430" />
+			<add x="108005" y="41396" zmin="-4680" zmax="-4430" />
+			<add x="107892" y="41825" zmin="-4680" zmax="-4430" />
+			<add x="106832" y="41941" zmin="-4680" zmax="-4430" />
+		</territory>
+		<npc id="18664" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_1" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="109465" y="60441" zmin="-4628" zmax="-4428" />
+			<add x="110689" y="60441" zmin="-4628" zmax="-4428" />
+			<add x="111852" y="61205" zmin="-4628" zmax="-4428" />
+			<add x="108472" y="61169" zmin="-4628" zmax="-4428" />
+		</territory>
+		<npc id="18664" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_1" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="125616" y="47701" zmin="-4720" zmax="-4520" />
+			<add x="126405" y="47576" zmin="-4720" zmax="-4520" />
+			<add x="126941" y="48132" zmin="-4720" zmax="-4520" />
+			<add x="126456" y="48756" zmin="-4720" zmax="-4520" />
+			<add x="125941" y="48789" zmin="-4720" zmax="-4520" />
+			<add x="125441" y="48285" zmin="-4720" zmax="-4520" />
+		</territory>
+		<npc id="18664" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_1" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="126561" y="43269" zmin="-4704" zmax="-4404" />
+			<add x="126961" y="43425" zmin="-4704" zmax="-4404" />
+			<add x="126565" y="45161" zmin="-4704" zmax="-4404" />
+			<add x="125841" y="44932" zmin="-4704" zmax="-4404" />
+			<add x="125785" y="44021" zmin="-4704" zmax="-4404" />
+		</territory>
+		<npc id="18664" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_1" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="120581" y="42336" zmin="-4624" zmax="-4424" />
+			<add x="121369" y="42101" zmin="-4624" zmax="-4424" />
+			<add x="123265" y="43856" zmin="-4624" zmax="-4424" />
+			<add x="122121" y="44045" zmin="-4624" zmax="-4424" />
+		</territory>
+		<npc id="18664" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_1" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="109849" y="38212" zmin="-3876" zmax="-3276" />
+			<add x="113165" y="35616" zmin="-3876" zmax="-3276" />
+			<add x="114432" y="37616" zmin="-3876" zmax="-3276" />
+			<add x="114385" y="39201" zmin="-3876" zmax="-3276" />
+			<add x="113081" y="40249" zmin="-3876" zmax="-3276" />
+			<add x="112132" y="40241" zmin="-3876" zmax="-3276" />
+		</territory>
+		<npc id="18664" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_1" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="121449" y="36852" zmin="-3848" zmax="-3548" />
+			<add x="123172" y="36932" zmin="-3848" zmax="-3548" />
+			<add x="124725" y="37681" zmin="-3848" zmax="-3548" />
+			<add x="122745" y="38185" zmin="-3848" zmax="-3548" />
+		</territory>
+		<npc id="18664" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_1" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118216" y="37356" zmin="-4024" zmax="-3424" />
+			<add x="120649" y="38885" zmin="-4024" zmax="-3424" />
+			<add x="121161" y="40109" zmin="-4024" zmax="-3424" />
+			<add x="116461" y="38809" zmin="-4024" zmax="-3424" />
+		</territory>
+		<npc id="18664" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_1" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="119661" y="47029" zmin="-3992" zmax="-3592" />
+			<add x="121549" y="47545" zmin="-3992" zmax="-3592" />
+			<add x="121912" y="48421" zmin="-3992" zmax="-3592" />
+			<add x="119116" y="47556" zmin="-3992" zmax="-3592" />
+		</territory>
+		<npc id="18664" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_1" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="104172" y="55761" zmin="-3828" zmax="-3428" />
+			<add x="105285" y="55765" zmin="-3828" zmax="-3428" />
+			<add x="106196" y="58885" zmin="-3828" zmax="-3428" />
+			<add x="103789" y="56629" zmin="-3828" zmax="-3428" />
+		</territory>
+		<npc id="18664" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_2" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="50492" y="-82166" zmin="-2964" zmax="-2664" />
+			<add x="51672" y="-82211" zmin="-2964" zmax="-2664" />
+			<add x="52132" y="-81826" zmin="-2964" zmax="-2664" />
+			<add x="51869" y="-80955" zmin="-2964" zmax="-2664" />
+			<add x="50866" y="-81499" zmin="-2964" zmax="-2664" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_2" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="52066" y="-80741" zmin="-3513" zmax="-2713" />
+			<add x="52915" y="-80725" zmin="-3513" zmax="-2713" />
+			<add x="53679" y="-78236" zmin="-3513" zmax="-2713" />
+			<add x="51535" y="-78385" zmin="-3513" zmax="-2713" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_2" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="49921" y="-86768" zmin="-2894" zmax="-2494" />
+			<add x="51849" y="-86551" zmin="-2894" zmax="-2494" />
+			<add x="51996" y="-84951" zmin="-2894" zmax="-2494" />
+			<add x="51116" y="-84582" zmin="-2894" zmax="-2494" />
+			<add x="49585" y="-86388" zmin="-2894" zmax="-2494" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_2" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="52302" y="-90952" zmin="-2213" zmax="-2013" />
+			<add x="52919" y="-90946" zmin="-2213" zmax="-2013" />
+			<add x="53999" y="-89541" zmin="-2213" zmax="-2013" />
+			<add x="52275" y="-89412" zmin="-2213" zmax="-2013" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_2" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="48689" y="-91412" zmin="-2525" zmax="-2125" />
+			<add x="51286" y="-91446" zmin="-2525" zmax="-2125" />
+			<add x="51318" y="-88758" zmin="-2525" zmax="-2125" />
+			<add x="48549" y="-88849" zmin="-2525" zmax="-2125" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_2" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="47011" y="-88806" zmin="-2681" zmax="-2481" />
+			<add x="47779" y="-87319" zmin="-2681" zmax="-2481" />
+			<add x="47562" y="-86755" zmin="-2681" zmax="-2481" />
+			<add x="46619" y="-85946" zmin="-2681" zmax="-2481" />
+			<add x="45131" y="-86946" zmin="-2681" zmax="-2481" />
+			<add x="45439" y="-88235" zmin="-2681" zmax="-2481" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_2" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="50482" y="-77692" zmin="-3505" zmax="-3205" />
+			<add x="51779" y="-77392" zmin="-3505" zmax="-3205" />
+			<add x="51559" y="-75786" zmin="-3505" zmax="-3205" />
+			<add x="49996" y="-76246" zmin="-3505" zmax="-3205" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_2" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="54325" y="-78291" zmin="-3622" zmax="-3272" />
+			<add x="55036" y="-78799" zmin="-3622" zmax="-3272" />
+			<add x="57281" y="-75648" zmin="-3622" zmax="-3272" />
+			<add x="56452" y="-75162" zmin="-3622" zmax="-3272" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_2" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="56865" y="-81599" zmin="-3236" zmax="-3036" />
+			<add x="57392" y="-81215" zmin="-3236" zmax="-3036" />
+			<add x="56449" y="-80171" zmin="-3236" zmax="-3036" />
+			<add x="56025" y="-80582" zmin="-3236" zmax="-3036" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_2" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="56431" y="-87708" zmin="-2345" zmax="-2145" />
+			<add x="58482" y="-87728" zmin="-2345" zmax="-2145" />
+			<add x="59786" y="-86342" zmin="-2345" zmax="-2145" />
+			<add x="57766" y="-86296" zmin="-2345" zmax="-2145" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_3" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87161" y="89629" zmin="-3380" zmax="-3080" />
+			<add x="90161" y="89872" zmin="-3380" zmax="-3080" />
+			<add x="90176" y="93581" zmin="-3380" zmax="-3080" />
+			<add x="85156" y="92789" zmin="-3380" zmax="-3080" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_3" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90195" y="90192" zmin="-3548" zmax="-3148" />
+			<add x="94901" y="90359" zmin="-3548" zmax="-3148" />
+			<add x="94882" y="91075" zmin="-3548" zmax="-3148" />
+			<add x="95511" y="91111" zmin="-3548" zmax="-3148" />
+			<add x="94698" y="92266" zmin="-3548" zmax="-3148" />
+			<add x="92941" y="93411" zmin="-3548" zmax="-3148" />
+			<add x="90191" y="93581" zmin="-3548" zmax="-3148" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_3" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="89949" y="85909" zmin="-3680" zmax="-3180" />
+			<add x="94192" y="86646" zmin="-3680" zmax="-3180" />
+			<add x="96015" y="88662" zmin="-3680" zmax="-3180" />
+			<add x="95949" y="89759" zmin="-3680" zmax="-3180" />
+			<add x="95591" y="90356" zmin="-3680" zmax="-3180" />
+			<add x="90308" y="90178" zmin="-3680" zmax="-3180" />
+			<add x="90296" y="87921" zmin="-3680" zmax="-3180" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_3" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="89935" y="82096" zmin="-3788" zmax="-3288" />
+			<add x="94266" y="82946" zmin="-3788" zmax="-3288" />
+			<add x="94059" y="84326" zmin="-3788" zmax="-3288" />
+			<add x="93752" y="86416" zmin="-3788" zmax="-3288" />
+			<add x="90086" y="85791" zmin="-3788" zmax="-3288" />
+			<add x="89696" y="85272" zmin="-3788" zmax="-3288" />
+			<add x="89799" y="83628" zmin="-3788" zmax="-3288" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_3" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="94709" y="78626" zmin="-3644" zmax="-3044" />
+			<add x="94589" y="80745" zmin="-3644" zmax="-3044" />
+			<add x="94051" y="81312" zmin="-3644" zmax="-3044" />
+			<add x="94191" y="82851" zmin="-3644" zmax="-3044" />
+			<add x="89936" y="81965" zmin="-3644" zmax="-3044" />
+			<add x="90071" y="80362" zmin="-3644" zmax="-3044" />
+			<add x="90082" y="78122" zmin="-3644" zmax="-3044" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_3" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90068" y="74941" zmin="-3640" zmax="-3040" />
+			<add x="92412" y="73949" zmin="-3640" zmax="-3040" />
+			<add x="94418" y="75629" zmin="-3640" zmax="-3040" />
+			<add x="94605" y="78552" zmin="-3640" zmax="-3040" />
+			<add x="90079" y="78076" zmin="-3640" zmax="-3040" />
+			<add x="90099" y="76282" zmin="-3640" zmax="-3040" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_3" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83279" y="81946" zmin="-3780" zmax="-3180" />
+			<add x="84182" y="78535" zmin="-3780" zmax="-3180" />
+			<add x="90001" y="80348" zmin="-3780" zmax="-3180" />
+			<add x="89686" y="83455" zmin="-3780" zmax="-3180" />
+			<add x="87996" y="82845" zmin="-3780" zmax="-3180" />
+			<add x="87448" y="82421" zmin="-3780" zmax="-3180" />
+			<add x="86586" y="82269" zmin="-3780" zmax="-3180" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_3" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="89999" y="73969" zmin="-3716" zmax="-3116" />
+			<add x="90071" y="76239" zmin="-3716" zmax="-3116" />
+			<add x="84746" y="76175" zmin="-3716" zmax="-3116" />
+			<add x="85419" y="73246" zmin="-3716" zmax="-3116" />
+			<add x="86572" y="72032" zmin="-3716" zmax="-3116" />
+			<add x="87845" y="71986" zmin="-3716" zmax="-3116" />
+			<add x="88921" y="73066" zmin="-3716" zmax="-3116" />
+			<add x="88849" y="74411" zmin="-3716" zmax="-3116" />
+			<add x="88849" y="74411" zmin="-3716" zmax="-3116" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_3" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79692" y="78475" zmin="-3780" zmax="-3080" />
+			<add x="84126" y="78442" zmin="-3780" zmax="-3080" />
+			<add x="83205" y="82112" zmin="-3780" zmax="-3080" />
+			<add x="83012" y="83448" zmin="-3780" zmax="-3080" />
+			<add x="80916" y="83669" zmin="-3780" zmax="-3080" />
+			<add x="79401" y="80996" zmin="-3780" zmax="-3080" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_3" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="84052" y="74361" zmin="-3780" zmax="-3180" />
+			<add x="85352" y="73299" zmin="-3780" zmax="-3180" />
+			<add x="84221" y="78339" zmin="-3780" zmax="-3180" />
+			<add x="79101" y="78408" zmin="-3780" zmax="-3180" />
+			<add x="79932" y="76452" zmin="-3780" zmax="-3180" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_4" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="89072" y="57001" zmin="-3686" zmax="-3386" />
+			<add x="89745" y="56992" zmin="-3686" zmax="-3386" />
+			<add x="89741" y="58051" zmin="-3686" zmax="-3386" />
+			<add x="89059" y="58049" zmin="-3686" zmax="-3386" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_4" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="84671" y="59355" zmin="-3475" zmax="-3175" />
+			<add x="85671" y="59386" zmin="-3475" zmax="-3175" />
+			<add x="85662" y="60058" zmin="-3475" zmax="-3175" />
+			<add x="84658" y="60081" zmin="-3475" zmax="-3175" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_4" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83248" y="58911" zmin="-3537" zmax="-3237" />
+			<add x="84251" y="58916" zmin="-3537" zmax="-3237" />
+			<add x="84256" y="59571" zmin="-3537" zmax="-3237" />
+			<add x="83242" y="59575" zmin="-3537" zmax="-3237" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_4" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="80402" y="62291" zmin="-3740" zmax="-3440" />
+			<add x="81009" y="62288" zmin="-3740" zmax="-3440" />
+			<add x="81046" y="63308" zmin="-3740" zmax="-3440" />
+			<add x="80416" y="63311" zmin="-3740" zmax="-3440" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_4" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90005" y="61656" zmin="-3473" zmax="-3173" />
+			<add x="91002" y="61658" zmin="-3473" zmax="-3173" />
+			<add x="91011" y="62342" zmin="-3473" zmax="-3173" />
+			<add x="90009" y="62355" zmin="-3473" zmax="-3173" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_4" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90099" y="63741" zmin="-3577" zmax="-3277" />
+			<add x="91206" y="63791" zmin="-3577" zmax="-3277" />
+			<add x="91691" y="64442" zmin="-3577" zmax="-3277" />
+			<add x="90101" y="64456" zmin="-3577" zmax="-3277" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_4" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="78309" y="65815" zmin="-3256" zmax="-3056" />
+			<add x="78918" y="65809" zmin="-3256" zmax="-3056" />
+			<add x="78931" y="66838" zmin="-3256" zmax="-3056" />
+			<add x="78306" y="66842" zmin="-3256" zmax="-3056" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_4" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83368" y="66628" zmin="-3047" zmax="-2847" />
+			<add x="84259" y="66612" zmin="-3047" zmax="-2847" />
+			<add x="84259" y="67299" zmin="-3047" zmax="-2847" />
+			<add x="83376" y="67302" zmin="-3047" zmax="-2847" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_4" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="82019" y="66129" zmin="-3059" zmax="-2859" />
+			<add x="82919" y="66121" zmin="-3059" zmax="-2859" />
+			<add x="82938" y="66726" zmin="-3059" zmax="-2859" />
+			<add x="82012" y="66736" zmin="-3059" zmax="-2859" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_4" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="82035" y="67205" zmin="-3070" zmax="-2870" />
+			<add x="82958" y="67191" zmin="-3070" zmax="-2870" />
+			<add x="82976" y="67769" zmin="-3070" zmax="-2870" />
+			<add x="82026" y="67786" zmin="-3070" zmax="-2870" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_5" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="89679" y="172591" zmin="-3858" zmax="-3058" />
+			<add x="91882" y="173686" zmin="-3858" zmax="-3058" />
+			<add x="91662" y="175809" zmin="-3858" zmax="-3058" />
+			<add x="88605" y="174429" zmin="-3858" zmax="-3058" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_5" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83979" y="175112" zmin="-3851" zmax="-3251" />
+			<add x="87986" y="177448" zmin="-3851" zmax="-3251" />
+			<add x="85979" y="179399" zmin="-3851" zmax="-3251" />
+			<add x="83946" y="177585" zmin="-3851" zmax="-3251" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_5" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86042" y="179582" zmin="-3858" zmax="-3258" />
+			<add x="88296" y="180662" zmin="-3858" zmax="-3258" />
+			<add x="85429" y="184441" zmin="-3858" zmax="-3258" />
+			<add x="83421" y="182616" zmin="-3858" zmax="-3258" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_5" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79865" y="185269" zmin="-3858" zmax="-3358" />
+			<add x="83082" y="186809" zmin="-3858" zmax="-3358" />
+			<add x="80212" y="189666" zmin="-3858" zmax="-3358" />
+			<add x="79035" y="188389" zmin="-3858" zmax="-3358" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_5" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79186" y="192229" zmin="-3898" zmax="-3098" />
+			<add x="79255" y="193416" zmin="-3898" zmax="-3098" />
+			<add x="77706" y="194658" zmin="-3898" zmax="-3098" />
+			<add x="75302" y="193829" zmin="-3898" zmax="-3098" />
+			<add x="76191" y="192082" zmin="-3898" zmax="-3098" />
+			<add x="78018" y="191579" zmin="-3898" zmax="-3098" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_5" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="93292" y="185482" zmin="-3858" zmax="-3358" />
+			<add x="94561" y="186129" zmin="-3858" zmax="-3358" />
+			<add x="94491" y="188278" zmin="-3858" zmax="-3358" />
+			<add x="91175" y="187181" zmin="-3858" zmax="-3358" />
+			<add x="91971" y="185652" zmin="-3858" zmax="-3358" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_5" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86516" y="189602" zmin="-3858" zmax="-3058" />
+			<add x="88116" y="191061" zmin="-3858" zmax="-3058" />
+			<add x="85176" y="195139" zmin="-3858" zmax="-3058" />
+			<add x="83442" y="191256" zmin="-3858" zmax="-3058" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_5" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83595" y="188192" zmin="-3847" zmax="-3447" />
+			<add x="84629" y="189155" zmin="-3847" zmax="-3447" />
+			<add x="82909" y="190468" zmin="-3847" zmax="-3447" />
+			<add x="81769" y="188999" zmin="-3847" zmax="-3447" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_5" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="89418" y="191735" zmin="-3872" zmax="-3372" />
+			<add x="91211" y="192899" zmin="-3872" zmax="-3372" />
+			<add x="88962" y="194381" zmin="-3872" zmax="-3372" />
+			<add x="87566" y="192496" zmin="-3872" zmax="-3372" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_5" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91822" y="213066" zmin="-3902" zmax="-2902" />
+			<add x="87842" y="213511" zmin="-3902" zmax="-2902" />
+			<add x="87202" y="210592" zmin="-3902" zmax="-2902" />
+			<add x="90775" y="209911" zmin="-3902" zmax="-2902" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_6" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="52808" y="-114852" zmin="-3620" zmax="-3120" />
+			<add x="51631" y="-114709" zmin="-3620" zmax="-3120" />
+			<add x="51271" y="-115329" zmin="-3620" zmax="-3120" />
+			<add x="51466" y="-115652" zmin="-3620" zmax="-3120" />
+			<add x="53289" y="-115502" zmin="-3620" zmax="-3120" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_6" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="55339" y="-121526" zmin="-4305" zmax="-3405" />
+			<add x="54151" y="-121601" zmin="-4305" zmax="-3405" />
+			<add x="55799" y="-125026" zmin="-4305" zmax="-3405" />
+			<add x="56766" y="-124281" zmin="-4305" zmax="-3405" />
+			<add x="56576" y="-123049" zmin="-4305" zmax="-3405" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_6" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="51326" y="-119151" zmin="-4253" zmax="-3553" />
+			<add x="50985" y="-118301" zmin="-4253" zmax="-3553" />
+			<add x="50159" y="-117952" zmin="-4253" zmax="-3553" />
+			<add x="49318" y="-118298" zmin="-4253" zmax="-3553" />
+			<add x="48976" y="-119131" zmin="-4253" zmax="-3553" />
+			<add x="49338" y="-119955" zmin="-4253" zmax="-3553" />
+			<add x="50179" y="-120315" zmin="-4253" zmax="-3553" />
+			<add x="51018" y="-119972" zmin="-4253" zmax="-3553" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_6" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="49292" y="-122052" zmin="-4030" zmax="-3330" />
+			<add x="48951" y="-121202" zmin="-4030" zmax="-3330" />
+			<add x="48125" y="-120856" zmin="-4030" zmax="-3330" />
+			<add x="47285" y="-121199" zmin="-4030" zmax="-3330" />
+			<add x="46942" y="-122035" zmin="-4030" zmax="-3330" />
+			<add x="47302" y="-122856" zmin="-4030" zmax="-3330" />
+			<add x="48145" y="-123216" zmin="-4030" zmax="-3330" />
+			<add x="48982" y="-122876" zmin="-4030" zmax="-3330" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_6" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="53379" y="-122039" zmin="-4030" zmax="-3330" />
+			<add x="53036" y="-121189" zmin="-4030" zmax="-3330" />
+			<add x="52209" y="-120841" zmin="-4030" zmax="-3330" />
+			<add x="51369" y="-121186" zmin="-4030" zmax="-3330" />
+			<add x="51028" y="-122019" zmin="-4030" zmax="-3330" />
+			<add x="51389" y="-122842" zmin="-4030" zmax="-3330" />
+			<add x="52229" y="-123202" zmin="-4030" zmax="-3330" />
+			<add x="53069" y="-122861" zmin="-4030" zmax="-3330" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_6" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="51316" y="-124939" zmin="-3835" zmax="-3135" />
+			<add x="50972" y="-124089" zmin="-3835" zmax="-3135" />
+			<add x="50148" y="-123742" zmin="-3835" zmax="-3135" />
+			<add x="49308" y="-124086" zmin="-3835" zmax="-3135" />
+			<add x="48966" y="-124921" zmin="-3835" zmax="-3135" />
+			<add x="49326" y="-125742" zmin="-3835" zmax="-3135" />
+			<add x="50168" y="-126102" zmin="-3835" zmax="-3135" />
+			<add x="51006" y="-125761" zmin="-3835" zmax="-3135" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_6" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="47612" y="-124918" zmin="-3732" zmax="-3032" />
+			<add x="47301" y="-124152" zmin="-3732" zmax="-3032" />
+			<add x="46522" y="-123821" zmin="-3732" zmax="-3032" />
+			<add x="45759" y="-124156" zmin="-3732" zmax="-3032" />
+			<add x="45618" y="-124699" zmin="-3732" zmax="-3032" />
+			<add x="45941" y="-125619" zmin="-3732" zmax="-3032" />
+			<add x="46578" y="-126012" zmin="-3732" zmax="-3032" />
+			<add x="47306" y="-125679" zmin="-3732" zmax="-3032" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_6" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="50015" y="-121952" zmin="-4312" zmax="-3612" />
+			<add x="49236" y="-120716" zmin="-4312" zmax="-3612" />
+			<add x="47742" y="-120345" zmin="-4312" zmax="-3612" />
+			<add x="46869" y="-121142" zmin="-4312" zmax="-3612" />
+			<add x="46512" y="-122472" zmin="-4312" zmax="-3612" />
+			<add x="47258" y="-123456" zmin="-4312" zmax="-3612" />
+			<add x="48409" y="-123686" zmin="-4312" zmax="-3612" />
+			<add x="49531" y="-123042" zmin="-4312" zmax="-3612" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_6" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="53599" y="-125216" zmin="-3333" zmax="-3033" />
+			<add x="54188" y="-125231" zmin="-3333" zmax="-3033" />
+			<add x="54186" y="-124622" zmin="-3333" zmax="-3033" />
+			<add x="53591" y="-124625" zmin="-3333" zmax="-3033" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_6" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="51919" y="-122315" zmin="-3582" zmax="-3282" />
+			<add x="52508" y="-122329" zmin="-3582" zmax="-3282" />
+			<add x="52506" y="-121721" zmin="-3582" zmax="-3282" />
+			<add x="51911" y="-121722" zmin="-3582" zmax="-3282" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_7" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="70551" y="-126682" zmin="-3242" zmax="-2642" />
+			<add x="71468" y="-126371" zmin="-3242" zmax="-2642" />
+			<add x="71799" y="-125481" zmin="-3242" zmax="-2642" />
+			<add x="69798" y="-125978" zmin="-3242" zmax="-2642" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_7" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67238" y="-123406" zmin="-3102" zmax="-2502" />
+			<add x="68006" y="-123298" zmin="-3102" zmax="-2502" />
+			<add x="68521" y="-122769" zmin="-3102" zmax="-2502" />
+			<add x="68442" y="-121719" zmin="-3102" zmax="-2502" />
+			<add x="66569" y="-122946" zmin="-3102" zmax="-2502" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_7" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="74351" y="-121546" zmin="-3182" zmax="-2582" />
+			<add x="72889" y="-122055" zmin="-3182" zmax="-2582" />
+			<add x="74092" y="-122942" zmin="-3182" zmax="-2582" />
+			<add x="75236" y="-122482" zmin="-3182" zmax="-2582" />
+			<add x="75901" y="-121411" zmin="-3182" zmax="-2582" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_7" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="69198" y="-119756" zmin="-2758" zmax="-2158" />
+			<add x="70851" y="-117836" zmin="-2758" zmax="-2158" />
+			<add x="69439" y="-117959" zmin="-2758" zmax="-2158" />
+			<add x="68901" y="-118972" zmin="-2758" zmax="-2158" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_7" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67749" y="-117308" zmin="-2298" zmax="-1698" />
+			<add x="68779" y="-117116" zmin="-2298" zmax="-1698" />
+			<add x="69321" y="-116311" zmin="-2298" zmax="-1698" />
+			<add x="68942" y="-115339" zmin="-2298" zmax="-1698" />
+			<add x="67022" y="-116766" zmin="-2298" zmax="-1698" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_7" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="68635" y="-106361" zmin="-1326" zmax="-726" />
+			<add x="67755" y="-106041" zmin="-1326" zmax="-726" />
+			<add x="67105" y="-106621" zmin="-1326" zmax="-726" />
+			<add x="66922" y="-107146" zmin="-1326" zmax="-726" />
+			<add x="67051" y="-107802" zmin="-1326" zmax="-726" />
+			<add x="68832" y="-106752" zmin="-1326" zmax="-726" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_7" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="61599" y="-117532" zmin="-3290" zmax="-2690" />
+			<add x="63171" y="-116766" zmin="-3290" zmax="-2690" />
+			<add x="62479" y="-116299" zmin="-3290" zmax="-2690" />
+			<add x="61619" y="-116565" zmin="-3290" zmax="-2690" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_7" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71076" y="-129852" zmin="-3664" zmax="-3064" />
+			<add x="73796" y="-128646" zmin="-3664" zmax="-3064" />
+			<add x="73389" y="-127626" zmin="-3664" zmax="-3064" />
+			<add x="70089" y="-128476" zmin="-3664" zmax="-3064" />
+			<add x="70412" y="-129242" zmin="-3664" zmax="-3064" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_7" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65732" y="-120336" zmin="-3154" zmax="-2554" />
+			<add x="71252" y="-120365" zmin="-3154" zmax="-2554" />
+			<add x="71356" y="-118612" zmin="-3154" zmax="-2554" />
+			<add x="70585" y="-116812" zmin="-3154" zmax="-2554" />
+			<add x="65869" y="-118536" zmin="-3154" zmax="-2554" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_7" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="75036" y="-129201" zmin="-3574" zmax="-2974" />
+			<add x="75901" y="-129616" zmin="-3574" zmax="-2974" />
+			<add x="76449" y="-128861" zmin="-3574" zmax="-2974" />
+			<add x="74412" y="-127932" zmin="-3574" zmax="-2974" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_8" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="3252" y="-15652" zmin="-3608" zmax="-3408" />
+			<add x="3489" y="-15739" zmin="-3608" zmax="-3408" />
+			<add x="3725" y="-15652" zmin="-3608" zmax="-3408" />
+			<add x="3651" y="-15358" zmin="-3608" zmax="-3408" />
+			<add x="3441" y="-15261" zmin="-3608" zmax="-3408" />
+			<add x="3285" y="-15409" zmin="-3608" zmax="-3408" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_8" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="6326" y="-14791" zmin="-3876" zmax="-3676" />
+			<add x="6932" y="-12901" zmin="-3876" zmax="-3676" />
+			<add x="5961" y="-12632" zmin="-3876" zmax="-3676" />
+			<add x="5401" y="-13885" zmin="-3876" zmax="-3676" />
+			<add x="6016" y="-14032" zmin="-3876" zmax="-3676" />
+			<add x="5956" y="-14789" zmin="-3876" zmax="-3676" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_8" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="13285" y="-18081" zmin="-3232" zmax="-2832" />
+			<add x="14372" y="-19509" zmin="-3232" zmax="-2832" />
+			<add x="16241" y="-19741" zmin="-3232" zmax="-2832" />
+			<add x="13861" y="-16921" zmin="-3232" zmax="-2832" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_8" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="16769" y="-18245" zmin="-3448" zmax="-3048" />
+			<add x="20232" y="-19245" zmin="-3448" zmax="-3048" />
+			<add x="20532" y="-17569" zmin="-3448" zmax="-3048" />
+			<add x="17685" y="-16072" zmin="-3448" zmax="-3048" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_8" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="22565" y="-18736" zmin="-2884" zmax="-1984" />
+			<add x="24901" y="-20909" zmin="-2884" zmax="-1984" />
+			<add x="26396" y="-19476" zmin="-2884" zmax="-1984" />
+			<add x="26385" y="-18169" zmin="-2884" zmax="-1984" />
+			<add x="23345" y="-18032" zmin="-2884" zmax="-1984" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_8" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="23496" y="-18001" zmin="-2864" zmax="-2164" />
+			<add x="28169" y="-18305" zmin="-2864" zmax="-2164" />
+			<add x="29401" y="-17709" zmin="-2864" zmax="-2164" />
+			<add x="29065" y="-16221" zmin="-2864" zmax="-2164" />
+			<add x="24209" y="-16121" zmin="-2864" zmax="-2164" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_8" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="23025" y="-17792" zmin="-3272" zmax="-2572" />
+			<add x="22292" y="-17425" zmin="-3272" zmax="-2572" />
+			<add x="21489" y="-14736" zmin="-3272" zmax="-2572" />
+			<add x="18116" y="-14669" zmin="-3272" zmax="-2572" />
+			<add x="17616" y="-16116" zmin="-3272" zmax="-2572" />
+			<add x="22425" y="-18321" zmin="-3272" zmax="-2572" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_8" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="15469" y="-16085" zmin="-3308" zmax="-3008" />
+			<add x="17652" y="-16165" zmin="-3308" zmax="-3008" />
+			<add x="18132" y="-14565" zmin="-3308" zmax="-3008" />
+			<add x="13121" y="-13196" zmin="-3308" zmax="-3008" />
+			<add x="13376" y="-15056" zmin="-3308" zmax="-3008" />
+			<add x="14592" y="-15129" zmin="-3308" zmax="-3008" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_8" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="22296" y="-12636" zmin="-2764" zmax="-2364" />
+			<add x="24341" y="-13845" zmin="-2764" zmax="-2364" />
+			<add x="26821" y="-10301" zmin="-2764" zmax="-2364" />
+			<add x="24265" y="-9769" zmin="-2764" zmax="-2364" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_8" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="21672" y="-12081" zmin="-2992" zmax="-2492" />
+			<add x="22121" y="-12872" zmin="-2992" zmax="-2492" />
+			<add x="24225" y="-9801" zmin="-2992" zmax="-2492" />
+			<add x="21729" y="-8952" zmin="-2992" zmax="-2492" />
+			<add x="19945" y="-13376" zmin="-2992" zmax="-2492" />
+		</territory>
+		<npc id="18665" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_9" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79129" y="115329" zmin="-3792" zmax="-3192" />
+			<add x="80616" y="115132" zmin="-3792" zmax="-3192" />
+			<add x="81652" y="116421" zmin="-3792" zmax="-3192" />
+			<add x="81325" y="116745" zmin="-3792" zmax="-3192" />
+			<add x="80052" y="116876" zmin="-3792" zmax="-3192" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_9" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="82736" y="117036" zmin="-3112" zmax="-2712" />
+			<add x="84836" y="116981" zmin="-3112" zmax="-2712" />
+			<add x="86649" y="119832" zmin="-3112" zmax="-2712" />
+			<add x="85036" y="121536" zmin="-3112" zmax="-2712" />
+			<add x="83825" y="121389" zmin="-3112" zmax="-2712" />
+			<add x="82692" y="120152" zmin="-3112" zmax="-2712" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_9" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="84865" y="119401" zmin="-3140" zmax="-2740" />
+			<add x="87825" y="120305" zmin="-3140" zmax="-2740" />
+			<add x="86656" y="120621" zmin="-3140" zmax="-2740" />
+			<add x="85809" y="120741" zmin="-3140" zmax="-2740" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_9" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="85481" y="121109" zmin="-3108" zmax="-2908" />
+			<add x="88061" y="118625" zmin="-3108" zmax="-2908" />
+			<add x="88876" y="118896" zmin="-3108" zmax="-2908" />
+			<add x="89601" y="120521" zmin="-3108" zmax="-2908" />
+			<add x="88112" y="121556" zmin="-3108" zmax="-2908" />
+			<add x="86556" y="121452" zmin="-3108" zmax="-2908" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_9" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="88369" y="111832" zmin="-3408" zmax="-3208" />
+			<add x="88885" y="112236" zmin="-3408" zmax="-3208" />
+			<add x="88789" y="112725" zmin="-3408" zmax="-3208" />
+			<add x="86821" y="112369" zmin="-3408" zmax="-3208" />
+			<add x="87069" y="111829" zmin="-3408" zmax="-3208" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_9" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="82501" y="112732" zmin="-3168" zmax="-2768" />
+			<add x="84225" y="111716" zmin="-3168" zmax="-2768" />
+			<add x="84985" y="112409" zmin="-3168" zmax="-2768" />
+			<add x="83101" y="113536" zmin="-3168" zmax="-2768" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_9" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="81229" y="114189" zmin="-3652" zmax="-3052" />
+			<add x="82056" y="113852" zmin="-3652" zmax="-3052" />
+			<add x="82441" y="114096" zmin="-3652" zmax="-3052" />
+			<add x="81885" y="114621" zmin="-3652" zmax="-3052" />
+			<add x="81076" y="114556" zmin="-3652" zmax="-3052" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_9" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83045" y="109872" zmin="-3848" zmax="-3448" />
+			<add x="84541" y="110065" zmin="-3848" zmax="-3448" />
+			<add x="83901" y="111281" zmin="-3848" zmax="-3448" />
+			<add x="83085" y="112092" zmin="-3848" zmax="-3448" />
+			<add x="82356" y="112229" zmin="-3848" zmax="-3448" />
+			<add x="81616" y="112101" zmin="-3848" zmax="-3448" />
+			<add x="81432" y="111481" zmin="-3848" zmax="-3448" />
+			<add x="81572" y="110689" zmin="-3848" zmax="-3448" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_9" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="84589" y="110089" zmin="-3852" zmax="-3452" />
+			<add x="86032" y="109736" zmin="-3852" zmax="-3452" />
+			<add x="88312" y="110092" zmin="-3852" zmax="-3452" />
+			<add x="88321" y="111316" zmin="-3852" zmax="-3452" />
+			<add x="84065" y="111149" zmin="-3852" zmax="-3452" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+	<spawn group="lakkfi_9" count="1" respawn="1200" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="80301" y="109581" zmin="-3264" zmax="-2864" />
+			<add x="80885" y="109109" zmin="-3264" zmax="-2864" />
+			<add x="82516" y="108676" zmin="-3264" zmax="-2864" />
+			<add x="82416" y="109585" zmin="-3264" zmax="-2864" />
+			<add x="81156" y="110376" zmin="-3264" zmax="-2864" />
+			<add x="80705" y="110341" zmin="-3264" zmax="-2864" />
+		</territory>
+		<npc id="18666" /><!--Lakkfi-->
+	</spawn>
+</list>

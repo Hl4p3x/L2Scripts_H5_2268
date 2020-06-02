@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<item>
+		<production id="877" count="1"/>	<!--Ring of Wisdom-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="845" count="1"/>	<!--Cat's Eye Earring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="908" count="1"/>	<!--Necklace of Wisdom-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="878" count="1"/>	<!--Blue Coral Ring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="846" count="1"/>	<!--Coral Earring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="909" count="1"/>	<!--Blue Diamond Necklace-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="890" count="1"/>	<!--Ring of Devotion-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="847" count="1"/>	<!--Red Crescent Earring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="910" count="1"/>	<!--Necklace of Devotion-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="879" count="1"/>	<!--Enchanted Ring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="848" count="1"/>	<!--Enchanted Earring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="911" count="1"/>	<!--Enchanted Necklace-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="880" count="1"/>	<!--Black Pearl Ring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="849" count="1"/>	<!--Tiger's Eye Earring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="912" count="1"/>	<!--Near Forest Necklace-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="881" count="1"/>	<!--Elven Ring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="850" count="1"/>	<!--Elven Earring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="913" count="1"/>	<!--Elven Necklace-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+
+	<item>
+		<production id="882" count="1"/>	<!--Mithril Ring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="851" count="1"/>	<!--Omen Beast's Eye Earring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="914" count="1"/>	<!--Necklace of Darkness-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="883" count="1"/>	<!--Aquastone Ring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="852" count="1"/>	<!--Moonstone Earring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="915" count="1"/>	<!--Aquastone Necklace-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="884" count="1"/>	<!--Ring of Protection-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="853" count="1"/>	<!--Earring of Protection-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="916" count="1"/>	<!--Necklace of Protection-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="885" count="1"/>	<!--Ring of Ages-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="854" count="1"/>	<!--Earring of Seal-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="917" count="1"/>	<!--Necklace of Mermaid-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="886" count="1"/>	<!--Ring of Seal-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="855" count="1"/>	<!--Nassen's Earring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="119" count="1"/>	<!--Necklace of Seal-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="887" count="1"/>	<!--Adamantite Ring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="856" count="1"/>	<!--Adamantite Earring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="918" count="1"/>	<!--Adamantite Necklace-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="895" count="1"/>	<!--Black Ore Ring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="864" count="1"/>	<!--Black Ore Earring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="926" count="1"/>	<!--Black Ore Necklace-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="902" count="1"/>	<!--Phoenix Ring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="871" count="1"/>	<!--Phoenix Earring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="933" count="1"/>	<!--Phoenix Necklace-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="893" count="1"/>	<!--Majestic Ring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="862" count="1"/>	<!--Majestic Earring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="924" count="1"/>	<!--Majestic Necklace-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="889" count="1"/>	<!--Tateossian Ring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="858" count="1"/>	<!--Tateossian Earring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="920" count="1"/>	<!--Tateossian Necklace-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>	
+	<item>
+		<production id="9457" count="1"/>	<!--Dynasty Ring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="9455" count="1"/>	<!--Dynasty Earring-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="9456" count="1"/>	<!--Dynasty Necklace-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>	
+</list>

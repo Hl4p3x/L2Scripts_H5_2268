@@ -1,0 +1,48 @@
+<html><body>
+<title>Бан Меню</title>
+<center>
+<table width=260 bgcolor=DAFF7F>
+<tr>
+<td><button value="Меню" action="bypass -h admin_admin" width=50 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="Ивенты" action="bypass -h admin_events" width=50 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="Игроки" action="bypass -h admin_char_manage" width=50 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="Сервер" action="bypass -h admin_server admserver.htm" width=50 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="ГМ Шоп" action="bypass -h admin_gmshop" width=50 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr></table><br>
+<table width=260>
+<tr><td><font color="LEVEL">Имя Игрока:</font></td><td><edit var="name" width=90></td></tr><br>
+<tr><td><font color="LEVEL">Время/Карма:</font></td><td><edit var="time" width=90></td></tr><br>
+<tr><td><font color="LEVEL">Причина:</font></td><td><edit var="reason" width=90></td></tr><br>
+</table><br>
+<table><tr>
+<td><button value="Разбан"  action="bypass -h admin_unban $name" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="Бан"  action="bypass -h admin_ban $name $time $reason" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="Карма"  action="bypass -h admin_ckarma $name $time $reason" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="Кик" action="bypass -h admin_kick_menu $name" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+<tr>
+<td><button value="Иди к" action="bypass -h admin_goto_char_menu $name" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="Убить" action="bypass -h admin_kill_menu $name" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="Призвать" action="bypass -h admin_recall_char_menu $name" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="Разбан" action="bypass -h admin_unban_menu $name" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+<tr>
+<td><button value="Бан Акк" action="bypass -h admin_acc_ban $name" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="Разбан Акк" action="bypass -h admin_acc_unban $name" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="ИП Разбан" action="bypass -h admin_ipunblock $reason" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="ИП Бан" action="bypass -h admin_ipban $name" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+<tr>
+<td><button value="ИП Разбан" action="bypass -h admin_ipunban $reason" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="ИП Чар" action="bypass -h admin_char $name" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="Блок ИП" action="bypass -h admin_ipblock $reason" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="ИП Бан Чар" action="bypass -h admin_ipcharban $name" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+<tr>
+<td><button value="Трейд Бан" action="bypass -h admin_trade_ban $qbox" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+<td><button value="Трейд Разбан" action="bypass -h admin_trade_unban $qbox" width=70 height=15 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+<tr>
+</tr>
+</table></center>
+</body></html>

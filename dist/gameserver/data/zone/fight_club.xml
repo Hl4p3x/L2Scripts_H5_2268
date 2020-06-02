@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "zone.dtd">
+<list>
+	<zone name="[FC_Salle_throne]" type="dummy">
+		<polygon>
+			<coords loc="16440 210856 -9390 -9300"/>
+			<coords loc="17304 210936 -9390 -9300"/>
+			<coords loc="18488 212152 -9390 -9300"/>
+			<coords loc="18616 213080 -9390 -9300"/>
+			<coords loc="18504 214120 -9390 -9300"/>
+			<coords loc="17240 215368 -9390 -9300"/>
+			<coords loc="16584 215496 -9390 -9300"/>
+			<coords loc="16200 215432 -9390 -9300"/>
+			<coords loc="15384 215352 -9390 -9300"/>
+			<coords loc="14168 214104 -9390 -9300"/>
+			<coords loc="14056 213208 -9390 -9300"/>
+			<coords loc="14088 212312 -9390 -9300"/>
+			<coords loc="15368 211000 -9390 -9300"/>
+			<coords loc="16296 210920 -9390 -9300"/>
+		</polygon>
+	</zone>
+	<zone name="[FC_Primeval_Isle_Wharf]" type="dummy">
+		<polygon>
+			<coords loc="5320 -23160"/>
+			<coords loc="4904 -24408"/>
+			<coords loc="6872 -25080"/>
+			<coords loc="9832 -25496"/>
+			<coords loc="11752 -25592"/>
+			<coords loc="12360 -24904"/>
+			<coords loc="12584 -24024"/>
+			<coords loc="12504 -23480"/>
+			<coords loc="11640 -22312"/>
+			<coords loc="9944 -22168"/>
+			<coords loc="9480 -22392"/>
+			<coords loc="8056 -22280"/>
+			<coords loc="7144 -22152"/>
+		</polygon>
+	</zone>
+	<zone name="[FC_School_Of_Dark_Arts]" type="dummy">
+		<polygon>
+			<coords loc="-46824 58216"/>
+			<coords loc="-45400 57864"/>
+			<coords loc="-45336 55736"/>
+			<coords loc="-43752 55048"/>
+			<coords loc="-43144 54392"/>
+			<coords loc="-43144 52872"/>
+			<coords loc="-43976 52632"/>
+			<coords loc="-44008 50568"/>
+			<coords loc="-43480 50152"/>
+			<coords loc="-43688 48472"/>
+			<coords loc="-43464 46024"/>
+			<coords loc="-43432 44264"/>
+			<coords loc="-43992 42856"/>
+			<coords loc="-47048 42536"/>
+			<coords loc="-51176 42584"/>
+			<coords loc="-51400 43976"/>
+			<coords loc="-51352 45944"/>
+			<coords loc="-50712 46088"/>
+			<coords loc="-51112 46984"/>
+			<coords loc="-51288 50232"/>
+			<coords loc="-50760 50424"/>
+			<coords loc="-50776 52648"/>
+			<coords loc="-51640 52728"/>
+			<coords loc="-51624 54408"/>
+			<coords loc="-49944 55944"/>
+			<coords loc="-49928 57944"/>
+			<coords loc="-47352 58120"/>
+		</polygon>
+	</zone>
+	<zone name="[FC_Ivory_Tower]" type="dummy">
+		<polygon>
+			<coords loc="85560 24008 -3900 -3500"/>
+			<coords loc="85096 23976 -3900 -3500"/>
+			<coords loc="82552 17800 -3900 -3500"/>
+			<coords loc="82536 14568 -3900 -3500"/>
+			<coords loc="85128 8440 -3900 -3500"/>
+			<coords loc="85560 8440 -3900 -3500"/>
+			<coords loc="88120 14568 -3900 -3500"/>
+			<coords loc="88136 17784 -3900 -3500"/>
+		</polygon>
+	</zone>
+	<zone name="[FC_Death_Pass]" type="dummy">
+		<polygon>
+			<coords loc="99640 -61240"/>
+			<coords loc="98920 -59784"/>
+			<coords loc="100808 -59144"/>
+			<coords loc="102792 -58984"/>
+			<coords loc="103944 -59496"/>
+			<coords loc="104792 -59880"/>
+			<coords loc="105592 -60360"/>
+			<coords loc="107192 -61480"/>
+			<coords loc="106520 -63832"/>
+			<coords loc="103304 -61368"/>
+			<coords loc="101224 -60744"/>
+		</polygon>
+	</zone>
+	<zone name="[FC_Hellbound_Town]" type="dummy">
+		<polygon>
+			<coords loc="13752 256568"/>
+			<coords loc="20360 256584"/>
+			<coords loc="21272 255208"/>
+			<coords loc="23400 254056"/>
+			<coords loc="21624 249928"/>
+			<coords loc="13720 249928"/>
+		</polygon>
+	</zone>
+	<zone name="[FC_Baium_Room]" type="dummy">
+		<polygon>
+			<coords loc="117336 15448 10000 10200"/>
+			<coords loc="116056 13912 10000 10200"/>
+			<coords loc="113512 13816 10000 10200"/>
+			<coords loc="112520 14664 10000 10200"/>
+			<coords loc="112120 16824 10000 10200"/>
+			<coords loc="113192 18264 10000 10200"/>
+			<coords loc="114760 18760 10000 10200"/>
+			<coords loc="116760 17416 10000 10200"/>
+		</polygon>
+	</zone>
+	<zone name="[FC_Tiats_Room]" type="dummy">
+		<polygon>
+			<coords loc="-248584 210408 -11100 -11900"/>
+			<coords loc="-250072 210568 -11100 -11900"/>
+			<coords loc="-250328 210984 -11100 -11900"/>
+			<coords loc="-250472 211000 -11100 -11900"/>
+			<coords loc="-250648 210632 -11100 -11900"/>
+			<coords loc="-252104 210440 -11100 -11900"/>
+			<coords loc="-252424 210232 -11100 -11900"/>
+			<coords loc="-252408 206136 -11100 -11900"/>
+			<coords loc="-251992 205928 -11100 -11900"/>
+			<coords loc="-250696 206888 -11100 -11900"/>
+			<coords loc="-250072 206856 -11100 -11900"/>
+			<coords loc="-248968 206056 -11100 -11900"/>
+			<coords loc="-248360 206216 -11100 -11900"/>
+		</polygon>
+	</zone>
+	<zone name="[FC_Monastery_of_Silence_center]" type="dummy">
+		<polygon>
+			<coords loc="116104 -86808 -3400 -3320"/>
+			<coords loc="116328 -86584 -3400 -3320"/>
+			<coords loc="117160 -85416 -3400 -3320"/>
+			<coords loc="117464 -85032 -3400 -3320"/>
+			<coords loc="117176 -81768 -3400 -3320"/>
+			<coords loc="117160 -81048 -3400 -3320"/>
+			<coords loc="116312 -79880 -3400 -3320"/>
+			<coords loc="116088 -79544 -3400 -3320"/>
+			<coords loc="115800 -79592 -3400 -3320"/>
+			<coords loc="115544 -79880 -3400 -3320"/>
+			<coords loc="114712 -81048 -3400 -3320"/>
+			<coords loc="114680 -81768 -3400 -3320"/>
+			<coords loc="114696 -84696 -3400 -3320"/>
+			<coords loc="114712 -85400 -3400 -3320"/>
+			<coords loc="115544 -86584 -3400 -3320"/>
+			<coords loc="115768 -86824 -3400 -3320"/>
+		</polygon>
+	</zone>
+	<zone name="[FC_Emerald_Square]" type="dummy">
+		<polygon>
+			<coords loc="143928 144664 -12300 -11800"/>
+			<coords loc="145208 146568 -12300 -11800"/>
+			<coords loc="145384 146840 -12300 -11800"/>
+			<coords loc="145384 147704 -12300 -11800"/>
+			<coords loc="144408 147960 -12300 -11800"/>
+			<coords loc="142440 146824 -12300 -11800"/>
+			<coords loc="142216 146488 -12300 -11800"/>
+			<coords loc="141672 145576 -12300 -11800"/>
+			<coords loc="141304 144840 -12300 -11800"/>
+			<coords loc="141640 143432 -12300 -11800"/>
+			<coords loc="142344 142584 -12300 -11800"/>
+			<coords loc="143256 142168 -12300 -11800"/>
+			<coords loc="144024 142168 -12300 -11800"/>
+			<coords loc="147512 142408 -12300 -11800"/>
+			<coords loc="148568 142168 -12300 -11800"/>
+			<coords loc="148952 142264 -12300 -11800"/>
+			<coords loc="149272 142424 -12300 -11800"/>
+			<coords loc="150536 143976 -12300 -11800"/>
+			<coords loc="150600 144936 -12300 -11800"/>
+			<coords loc="150008 146744 -12300 -11800"/>
+			<coords loc="149528 147416 -12300 -11800"/>
+			<coords loc="147752 147432 -12300 -11800"/>
+			<coords loc="147096 147592 -12300 -11800"/>
+			<coords loc="146456 147672 -12300 -11800"/>
+			<coords loc="146328 147464 -12300 -11800"/>
+			<coords loc="146360 146600 -12300 -11800"/>
+		</polygon>
+	</zone>
+		<zone name="[FC_School_Of_Dark_Arts]" type="dummy">
+				<polygon>
+						<coords loc="-46824 58216"/>
+						<coords loc="-45400 57864"/>
+						<coords loc="-45336 55736"/>
+						<coords loc="-43752 55048"/>
+						<coords loc="-43144 54392"/>
+						<coords loc="-43144 52872"/>
+						<coords loc="-43976 52632"/>
+						<coords loc="-44008 50568"/>
+						<coords loc="-43480 50152"/>
+						<coords loc="-43688 48472"/>
+						<coords loc="-43464 46024"/>
+						<coords loc="-43432 44264"/>
+						<coords loc="-43992 42856"/>
+						<coords loc="-47048 42536"/>
+						<coords loc="-51176 42584"/>
+						<coords loc="-51400 43976"/>
+						<coords loc="-51352 45944"/>
+						<coords loc="-50712 46088"/>
+						<coords loc="-51112 46984"/>
+						<coords loc="-51288 50232"/>
+						<coords loc="-50760 50424"/>
+						<coords loc="-50776 52648"/>
+						<coords loc="-51640 52728"/>
+						<coords loc="-51624 54408"/>
+						<coords loc="-49944 55944"/>
+						<coords loc="-49928 57944"/>
+						<coords loc="-47352 58120"/>
+				</polygon>
+		</zone>
+		<zone name="[FC_Tully_Last_Floor]" type="dummy">
+				<polygon>
+						<coords loc="22872 244760"/>
+						<coords loc="22296 245144"/>
+						<coords loc="21624 245160"/>
+						<coords loc="21064 244872"/>
+						<coords loc="20712 244312"/>
+						<coords loc="20680 243656"/>
+						<coords loc="20984 243048"/>
+						<coords loc="21528 242696"/>
+						<coords loc="22200 242664"/>
+						<coords loc="22792 242968"/>
+						<coords loc="23160 243528"/>
+						<coords loc="23160 244264"/>
+				</polygon>
+		</zone>
+</list>

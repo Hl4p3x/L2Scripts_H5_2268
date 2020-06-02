@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<item>
+		<production id="13890" count="1"/>	<!--Плащ Святого Духа-->
+		<ingredient id="57" count="-1"/>	<!--Adena-->
+	</item>
+</list>

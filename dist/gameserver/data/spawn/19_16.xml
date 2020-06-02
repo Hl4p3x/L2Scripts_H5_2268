@@ -1,0 +1,1869 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+
+<list>
+	<spawn count="3" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-16931" y="-39350" zmin="-10761" zmax="-10651" />
+			<add x="-16931" y="-42230" zmin="-10761" zmax="-10651" />
+			<add x="-17955" y="-42230" zmin="-10761" zmax="-10651" />
+			<add x="-17951" y="-39351" zmin="-10761" zmax="-10651" />
+		</territory>
+		<npc id="22140" /><!--Zombie Worker-->
+	</spawn>
+	<spawn count="3" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-16931" y="-39350" zmin="-10761" zmax="-10651" />
+			<add x="-16931" y="-42230" zmin="-10761" zmax="-10651" />
+			<add x="-17955" y="-42230" zmin="-10761" zmax="-10651" />
+			<add x="-17951" y="-39351" zmin="-10761" zmax="-10651" />
+		</territory>
+		<npc id="22149" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="3" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-15773" y="-39354" zmin="-10761" zmax="-10651" />
+			<add x="-15778" y="-42235" zmin="-10761" zmax="-10651" />
+			<add x="-14821" y="-42232" zmin="-10761" zmax="-10651" />
+			<add x="-14826" y="-39352" zmin="-10761" zmax="-10651" />
+		</territory>
+		<npc id="22140" /><!--Zombie Worker-->
+	</spawn>
+	<spawn count="3" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-15773" y="-39354" zmin="-10761" zmax="-10651" />
+			<add x="-15778" y="-42235" zmin="-10761" zmax="-10651" />
+			<add x="-14821" y="-42232" zmin="-10761" zmax="-10651" />
+			<add x="-14826" y="-39352" zmin="-10761" zmax="-10651" />
+		</territory>
+		<npc id="22149" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-19441" y="-38240" zmin="-10758" zmax="-10648" />
+			<add x="-19441" y="-37674" zmin="-10758" zmax="-10648" />
+			<add x="-20537" y="-37665" zmin="-10758" zmax="-10648" />
+			<add x="-20544" y="-38226" zmin="-10758" zmax="-10648" />
+		</territory>
+		<npc id="22140" /><!--Zombie Worker-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-19441" y="-38240" zmin="-10758" zmax="-10648" />
+			<add x="-19441" y="-37674" zmin="-10758" zmax="-10648" />
+			<add x="-20537" y="-37665" zmin="-10758" zmax="-10648" />
+			<add x="-20544" y="-38226" zmin="-10758" zmax="-10648" />
+		</territory>
+		<npc id="22141" /><!--Forgotten Victim-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-19441" y="-38240" zmin="-10758" zmax="-10648" />
+			<add x="-19441" y="-37674" zmin="-10758" zmax="-10648" />
+			<add x="-20537" y="-37665" zmin="-10758" zmax="-10648" />
+			<add x="-20544" y="-38226" zmin="-10758" zmax="-10648" />
+		</territory>
+		<npc id="22139" /><!--Old Aristocrat's Soldier-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-19430" y="-40097" zmin="-10761" zmax="-10651" />
+			<add x="-20547" y="-40098" zmin="-10761" zmax="-10651" />
+			<add x="-20542" y="-39522" zmin="-10761" zmax="-10651" />
+			<add x="-19431" y="-39521" zmin="-10761" zmax="-10651" />
+		</territory>
+		<npc id="22140" /><!--Zombie Worker-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-19430" y="-40097" zmin="-10761" zmax="-10651" />
+			<add x="-20547" y="-40098" zmin="-10761" zmax="-10651" />
+			<add x="-20542" y="-39522" zmin="-10761" zmax="-10651" />
+			<add x="-19431" y="-39521" zmin="-10761" zmax="-10651" />
+		</territory>
+		<npc id="22139" /><!--Old Aristocrat's Soldier-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-19430" y="-40097" zmin="-10761" zmax="-10651" />
+			<add x="-20547" y="-40098" zmin="-10761" zmax="-10651" />
+			<add x="-20542" y="-39522" zmin="-10761" zmax="-10651" />
+			<add x="-19431" y="-39521" zmin="-10761" zmax="-10651" />
+		</territory>
+		<npc id="22141" /><!--Forgotten Victim-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-19433" y="-41413" zmin="-10748" zmax="-10648" />
+			<add x="-20532" y="-41412" zmin="-10751" zmax="-10651" />
+			<add x="-20540" y="-41983" zmin="-10751" zmax="-10651" />
+			<add x="-19428" y="-41985" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22140" /><!--Zombie Worker-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-19433" y="-41413" zmin="-10748" zmax="-10648" />
+			<add x="-20532" y="-41412" zmin="-10751" zmax="-10651" />
+			<add x="-20540" y="-41983" zmin="-10751" zmax="-10651" />
+			<add x="-19428" y="-41985" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22139" /><!--Old Aristocrat's Soldier-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-19433" y="-41413" zmin="-10748" zmax="-10648" />
+			<add x="-20532" y="-41412" zmin="-10751" zmax="-10651" />
+			<add x="-20540" y="-41983" zmin="-10751" zmax="-10651" />
+			<add x="-19428" y="-41985" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22141" /><!--Forgotten Victim-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-20560" y="-43263" zmin="-10751" zmax="-10651" />
+			<add x="-20546" y="-43843" zmin="-10751" zmax="-10651" />
+			<add x="-19434" y="-43852" zmin="-10751" zmax="-10651" />
+			<add x="-19436" y="-43258" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22140" /><!--Zombie Worker-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-20560" y="-43263" zmin="-10751" zmax="-10651" />
+			<add x="-20546" y="-43843" zmin="-10751" zmax="-10651" />
+			<add x="-19434" y="-43852" zmin="-10751" zmax="-10651" />
+			<add x="-19436" y="-43258" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22139" /><!--Old Aristocrat's Soldier-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-20560" y="-43263" zmin="-10751" zmax="-10651" />
+			<add x="-20546" y="-43843" zmin="-10751" zmax="-10651" />
+			<add x="-19434" y="-43852" zmin="-10751" zmax="-10651" />
+			<add x="-19436" y="-43258" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22141" /><!--Forgotten Victim-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-13290" y="-37661" zmin="-10751" zmax="-10651" />
+			<add x="-12186" y="-37658" zmin="-10748" zmax="-10648" />
+			<add x="-12178" y="-38244" zmin="-10751" zmax="-10651" />
+			<add x="-13292" y="-38227" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22140" /><!--Zombie Worker-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-13290" y="-37661" zmin="-10751" zmax="-10651" />
+			<add x="-12186" y="-37658" zmin="-10748" zmax="-10648" />
+			<add x="-12178" y="-38244" zmin="-10751" zmax="-10651" />
+			<add x="-13292" y="-38227" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22139" /><!--Old Aristocrat's Soldier-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-13290" y="-37661" zmin="-10751" zmax="-10651" />
+			<add x="-12186" y="-37658" zmin="-10748" zmax="-10648" />
+			<add x="-12178" y="-38244" zmin="-10751" zmax="-10651" />
+			<add x="-13292" y="-38227" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22141" /><!--Forgotten Victim-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-12165" y="-39525" zmin="-10751" zmax="-10651" />
+			<add x="-13300" y="-39507" zmin="-10751" zmax="-10651" />
+			<add x="-13300" y="-40105" zmin="-10751" zmax="-10651" />
+			<add x="-12178" y="-40107" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22140" /><!--Zombie Worker-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-12165" y="-39525" zmin="-10751" zmax="-10651" />
+			<add x="-13300" y="-39507" zmin="-10751" zmax="-10651" />
+			<add x="-13300" y="-40105" zmin="-10751" zmax="-10651" />
+			<add x="-12178" y="-40107" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22139" /><!--Old Aristocrat's Soldier-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-12165" y="-39525" zmin="-10751" zmax="-10651" />
+			<add x="-13300" y="-39507" zmin="-10751" zmax="-10651" />
+			<add x="-13300" y="-40105" zmin="-10751" zmax="-10651" />
+			<add x="-12178" y="-40107" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22141" /><!--Forgotten Victim-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-13296" y="-41394" zmin="-10751" zmax="-10651" />
+			<add x="-12182" y="-41400" zmin="-10751" zmax="-10651" />
+			<add x="-12189" y="-41973" zmin="-10746" zmax="-10646" />
+			<add x="-13297" y="-41976" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22140" /><!--Zombie Worker-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-13296" y="-41394" zmin="-10751" zmax="-10651" />
+			<add x="-12182" y="-41400" zmin="-10751" zmax="-10651" />
+			<add x="-12189" y="-41973" zmin="-10746" zmax="-10646" />
+			<add x="-13297" y="-41976" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22139" /><!--Old Aristocrat's Soldier-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-13296" y="-41394" zmin="-10751" zmax="-10651" />
+			<add x="-12182" y="-41400" zmin="-10751" zmax="-10651" />
+			<add x="-12189" y="-41973" zmin="-10746" zmax="-10646" />
+			<add x="-13297" y="-41976" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22141" /><!--Forgotten Victim-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-12180" y="-43249" zmin="-10751" zmax="-10651" />
+			<add x="-12167" y="-43835" zmin="-10751" zmax="-10651" />
+			<add x="-13290" y="-43835" zmin="-10751" zmax="-10651" />
+			<add x="-13290" y="-43255" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22140" /><!--Zombie Worker-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-12180" y="-43249" zmin="-10751" zmax="-10651" />
+			<add x="-12167" y="-43835" zmin="-10751" zmax="-10651" />
+			<add x="-13290" y="-43835" zmin="-10751" zmax="-10651" />
+			<add x="-13290" y="-43255" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22139" /><!--Old Aristocrat's Soldier-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-12180" y="-43249" zmin="-10751" zmax="-10651" />
+			<add x="-12167" y="-43835" zmin="-10751" zmax="-10651" />
+			<add x="-13290" y="-43835" zmin="-10751" zmax="-10651" />
+			<add x="-13290" y="-43255" zmin="-10751" zmax="-10651" />
+		</territory>
+		<npc id="22141" /><!--Forgotten Victim-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-22432" y="-37647" zmin="-10943" zmax="-10843" />
+			<add x="-23576" y="-37653" zmin="-10943" zmax="-10843" />
+			<add x="-23588" y="-38245" zmin="-10943" zmax="-10843" />
+			<add x="-22455" y="-38264" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-22432" y="-37647" zmin="-10943" zmax="-10843" />
+			<add x="-23576" y="-37653" zmin="-10943" zmax="-10843" />
+			<add x="-23588" y="-38245" zmin="-10943" zmax="-10843" />
+			<add x="-22455" y="-38264" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22144" /><!--Resurrected Temple Knight-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-22432" y="-37647" zmin="-10943" zmax="-10843" />
+			<add x="-23576" y="-37653" zmin="-10943" zmax="-10843" />
+			<add x="-23588" y="-38245" zmin="-10943" zmax="-10843" />
+			<add x="-22455" y="-38264" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22145" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-22453" y="-39533" zmin="-10943" zmax="-10843" />
+			<add x="-23583" y="-39518" zmin="-10943" zmax="-10843" />
+			<add x="-23570" y="-40109" zmin="-10943" zmax="-10843" />
+			<add x="-22444" y="-40120" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-22453" y="-39533" zmin="-10943" zmax="-10843" />
+			<add x="-23583" y="-39518" zmin="-10943" zmax="-10843" />
+			<add x="-23570" y="-40109" zmin="-10943" zmax="-10843" />
+			<add x="-22444" y="-40120" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22144" /><!--Resurrected Temple Knight-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-22453" y="-39533" zmin="-10943" zmax="-10843" />
+			<add x="-23583" y="-39518" zmin="-10943" zmax="-10843" />
+			<add x="-23570" y="-40109" zmin="-10943" zmax="-10843" />
+			<add x="-22444" y="-40120" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22145" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-22455" y="-41412" zmin="-10943" zmax="-10843" />
+			<add x="-23546" y="-41386" zmin="-10943" zmax="-10843" />
+			<add x="-23575" y="-42003" zmin="-10943" zmax="-10843" />
+			<add x="-22454" y="-42011" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-22455" y="-41412" zmin="-10943" zmax="-10843" />
+			<add x="-23546" y="-41386" zmin="-10943" zmax="-10843" />
+			<add x="-23575" y="-42003" zmin="-10943" zmax="-10843" />
+			<add x="-22454" y="-42011" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22144" /><!--Resurrected Temple Knight-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-22455" y="-41412" zmin="-10943" zmax="-10843" />
+			<add x="-23546" y="-41386" zmin="-10943" zmax="-10843" />
+			<add x="-23575" y="-42003" zmin="-10943" zmax="-10843" />
+			<add x="-22454" y="-42011" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22145" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-22474" y="-43278" zmin="-10940" zmax="-10843" />
+			<add x="-23532" y="-43257" zmin="-10943" zmax="-10843" />
+			<add x="-23581" y="-43872" zmin="-10943" zmax="-10843" />
+			<add x="-22440" y="-43868" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-22474" y="-43278" zmin="-10940" zmax="-10843" />
+			<add x="-23532" y="-43257" zmin="-10943" zmax="-10843" />
+			<add x="-23581" y="-43872" zmin="-10943" zmax="-10843" />
+			<add x="-22440" y="-43868" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22144" /><!--Resurrected Temple Knight-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-22474" y="-43278" zmin="-10940" zmax="-10843" />
+			<add x="-23532" y="-43257" zmin="-10943" zmax="-10843" />
+			<add x="-23581" y="-43872" zmin="-10943" zmax="-10843" />
+			<add x="-22440" y="-43868" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22145" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-10282" y="-37643" zmin="-10943" zmax="-10843" />
+			<add x="-9151" y="-37649" zmin="-10943" zmax="-10843" />
+			<add x="-9151" y="-38239" zmin="-10943" zmax="-10843" />
+			<add x="-10289" y="-38244" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-10282" y="-37643" zmin="-10943" zmax="-10843" />
+			<add x="-9151" y="-37649" zmin="-10943" zmax="-10843" />
+			<add x="-9151" y="-38239" zmin="-10943" zmax="-10843" />
+			<add x="-10289" y="-38244" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22144" /><!--Resurrected Temple Knight-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-10282" y="-37643" zmin="-10943" zmax="-10843" />
+			<add x="-9151" y="-37649" zmin="-10943" zmax="-10843" />
+			<add x="-9151" y="-38239" zmin="-10943" zmax="-10843" />
+			<add x="-10289" y="-38244" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22145" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-10255" y="-39503" zmin="-10943" zmax="-10843" />
+			<add x="-9161" y="-39507" zmin="-10943" zmax="-10843" />
+			<add x="-9154" y="-40115" zmin="-10943" zmax="-10843" />
+			<add x="-10283" y="-40113" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-10255" y="-39503" zmin="-10943" zmax="-10843" />
+			<add x="-9161" y="-39507" zmin="-10943" zmax="-10843" />
+			<add x="-9154" y="-40115" zmin="-10943" zmax="-10843" />
+			<add x="-10283" y="-40113" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22144" /><!--Resurrected Temple Knight-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-10255" y="-39503" zmin="-10943" zmax="-10843" />
+			<add x="-9161" y="-39507" zmin="-10943" zmax="-10843" />
+			<add x="-9154" y="-40115" zmin="-10943" zmax="-10843" />
+			<add x="-10283" y="-40113" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22145" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-10285" y="-41403" zmin="-10943" zmax="-10843" />
+			<add x="-9149" y="-41396" zmin="-10943" zmax="-10843" />
+			<add x="-9151" y="-41980" zmin="-10943" zmax="-10843" />
+			<add x="-10260" y="-41983" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-10285" y="-41403" zmin="-10943" zmax="-10843" />
+			<add x="-9149" y="-41396" zmin="-10943" zmax="-10843" />
+			<add x="-9151" y="-41980" zmin="-10943" zmax="-10843" />
+			<add x="-10260" y="-41983" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22144" /><!--Resurrected Temple Knight-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-10285" y="-41403" zmin="-10943" zmax="-10843" />
+			<add x="-9149" y="-41396" zmin="-10943" zmax="-10843" />
+			<add x="-9151" y="-41980" zmin="-10943" zmax="-10843" />
+			<add x="-10260" y="-41983" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22145" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-10293" y="-43232" zmin="-10943" zmax="-10843" />
+			<add x="-9154" y="-43243" zmin="-10943" zmax="-10843" />
+			<add x="-9141" y="-43831" zmin="-10943" zmax="-10843" />
+			<add x="-10272" y="-43836" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-10293" y="-43232" zmin="-10943" zmax="-10843" />
+			<add x="-9154" y="-43243" zmin="-10943" zmax="-10843" />
+			<add x="-9141" y="-43831" zmin="-10943" zmax="-10843" />
+			<add x="-10272" y="-43836" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22144" /><!--Resurrected Temple Knight-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-10293" y="-43232" zmin="-10943" zmax="-10843" />
+			<add x="-9154" y="-43243" zmin="-10943" zmax="-10843" />
+			<add x="-9141" y="-43831" zmin="-10943" zmax="-10843" />
+			<add x="-10272" y="-43836" zmin="-10943" zmax="-10843" />
+		</territory>
+		<npc id="22145" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<point x="-16382" y="-53450" z="-10432" h="43200" />
+		<npc id="29062" /><!--Andreas Van Halter-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11986" y="-35903" z="-10857" h="31655" />
+		<npc id="32039" /><!--Triol's Mirror-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15937" y="-36647" z="-10751" h="15439" />
+		<npc id="32034" /><!--Temple Gatekeeper-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16722" y="-36928" z="-10725" h="52401" />
+		<npc id="32035" /><!--Temple Gatekeeper-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15853" y="-43811" z="-10685" h="16384" />
+		<npc id="32036" /><!--Temple Gatekeeper-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16629" y="-44290" z="-10725" h="49152" />
+		<npc id="32037" /><!--Temple Gatekeeper-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-37852" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-37920" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-37990" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-38058" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-39718" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-39786" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-39856" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-39924" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-41588" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-41656" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-41726" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-41794" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-43458" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-43526" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-43596" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21520" y="-43664" z="-10850" h="0" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-37850" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-37918" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-37988" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-38056" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-39718" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-39786" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-39856" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-39924" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-41585" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-41654" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-41724" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-41792" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-43452" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-43520" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-43590" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11200" y="-43658" z="-10850" h="32768" />
+		<npc id="22194" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20496" y="-38890" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20426" y="-38890" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20354" y="-38890" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20290" y="-38890" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19681" y="-40737" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19611" y="-40737" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19541" y="-40737" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19471" y="-40737" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20501" y="-42601" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20431" y="-42601" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20361" y="-42601" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20291" y="-42601" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23021" y="-42600" z="-10953" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23091" y="-42600" z="-10953" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23161" y="-42600" z="-10953" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23231" y="-42600" z="-10953" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22311" y="-40754" z="-10953" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22381" y="-40754" z="-10953" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22451" y="-40754" z="-10953" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22521" y="-40754" z="-10953" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23026" y="-38885" z="-10953" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23096" y="-38885" z="-10953" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23166" y="-38885" z="-10953" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23236" y="-38885" z="-10953" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12240" y="-42601" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12310" y="-42601" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12380" y="-42601" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12450" y="-42601" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12235" y="-38895" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12305" y="-38895" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12375" y="-38895" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12445" y="-38895" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13035" y="-40728" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13105" y="-40728" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13175" y="-40728" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13245" y="-40728" z="-10751" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9691" y="-42612" z="-10943" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9619" y="-42612" z="-10943" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9545" y="-42612" z="-10943" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9478" y="-42612" z="-10943" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9692" y="-38893" z="-10943" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9620" y="-38893" z="-10943" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9550" y="-38893" z="-10943" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9480" y="-38893" z="-10943" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10417" y="-40759" z="-10943" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10347" y="-40759" z="-10943" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10277" y="-40759" z="-10943" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10207" y="-40759" z="-10943" h="16384" />
+		<npc id="22137" /><!--Penance Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20000" y="-37953" z="-10784" h="0" />
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19990" y="-39810" z="-10783" h="0" />
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19990" y="-41703" z="-10783" h="0" />
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19990" y="-43560" z="-10783" h="0" />
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12729" y="-37939" z="-10783" h="32768" />
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12743" y="-39810" z="-10783" h="32768" />
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12731" y="-41695" z="-10782" h="32768" />
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12741" y="-43548" z="-10783" h="32768" />
+		<npc id="22142" /><!--Triol's Layperson-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23027" y="-37956" z="-10975" h="0" />
+		<npc id="22143" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23025" y="-39821" z="-10976" h="0" />
+		<npc id="22143" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23016" y="-41693" z="-10976" h="0" />
+		<npc id="22143" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23028" y="-43556" z="-10976" h="0" />
+		<npc id="22143" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9712" y="-37944" z="-10976" h="32768" />
+		<npc id="22143" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9707" y="-39816" z="-10976" h="32768" />
+		<npc id="22143" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9713" y="-41685" z="-10976" h="32768" />
+		<npc id="22143" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9701" y="-43536" z="-10976" h="32768" />
+		<npc id="22143" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-12913" y="-45558" z="-10725" h="32698" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-12913" y="-45612" z="-10725" h="32698" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-12913" y="-45667" z="-10725" h="32698" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-12914" y="-49649" z="-10917" h="31928" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-12914" y="-49717" z="-10917" h="31928" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-12914" y="-49791" z="-10917" h="31928" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-12930" y="-47615" z="-10821" h="32651" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-12930" y="-47675" z="-10821" h="32651" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-12930" y="-47735" z="-10821" h="32651" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-12946" y="-51690" z="-11013" h="33522" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-12946" y="-51745" z="-11013" h="33522" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-12946" y="-51822" z="-11013" h="33522" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-14448" y="-44446" z="-10725" h="32698" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-14448" y="-44508" z="-10725" h="32698" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-14448" y="-44567" z="-10725" h="32698" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-14500" y="-46511" z="-10821" h="32651" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-14500" y="-46582" z="-10821" h="32651" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-14500" y="-46643" z="-10821" h="32651" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-14503" y="-48557" z="-10917" h="31928" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-14503" y="-48612" z="-10917" h="31928" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-14503" y="-48681" z="-10917" h="31928" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-14504" y="-50621" z="-11013" h="33522" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-14504" y="-50681" z="-11013" h="33522" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-14504" y="-50740" z="-11013" h="33522" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-15763" y="-50095" z="-10917" h="40662" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-15819" y="-50061" z="-10917" h="40662" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-15854" y="-50010" z="-10917" h="40662" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-15870" y="-49941" z="-10917" h="40662" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-15912" y="-49879" z="-10917" h="40662" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15984" y="-45983" z="-10725" h="34769" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-15993" y="-47783" z="-10821" h="31547" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-15993" y="-47857" z="-10821" h="31547" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-15993" y="-47940" z="-10821" h="31547" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-15993" y="-48016" z="-10821" h="31547" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-15994" y="-45737" z="-10725" h="32768" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-15994" y="-45806" z="-10725" h="31399" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-15994" y="-45873" z="-10725" h="31399" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-15994" y="-45937" z="-10725" h="31399" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-16777" y="-45739" z="-10725" h="211" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-16777" y="-45805" z="-10725" h="211" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-16777" y="-45878" z="-10725" h="211" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-16777" y="-45942" z="-10725" h="211" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-16777" y="-45990" z="-10725" h="211" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-16781" y="-47807" z="-10821" h="64708" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-16781" y="-47886" z="-10821" h="64708" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-16781" y="-47959" z="-10821" h="64708" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-16781" y="-48025" z="-10821" h="64708" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-16794" y="-49896" z="-10917" h="63262" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-16818" y="-49975" z="-10917" h="63262" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-16842" y="-50040" z="-10917" h="63262" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-16876" y="-50098" z="-10918" h="63262" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-16921" y="-50149" z="-10936" h="63262" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-18308" y="-50625" z="-11013" h="63878" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-18308" y="-50680" z="-11013" h="63878" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-18308" y="-50743" z="-11013" h="63878" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-18311" y="-48556" z="-10917" h="0" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-18311" y="-48620" z="-10917" h="0" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-18311" y="-48688" z="-10917" h="0" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-18323" y="-46505" z="-10821" h="264" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-18323" y="-46570" z="-10821" h="264" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-18323" y="-46639" z="-10821" h="264" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-18329" y="-44461" z="-10725" h="0" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-18329" y="-44516" z="-10725" h="0" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-18329" y="-44575" z="-10725" h="0" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-19876" y="-47606" z="-10821" h="65001" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-19876" y="-47674" z="-10821" h="65001" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-19876" y="-47737" z="-10821" h="65001" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-19883" y="-45560" z="-10725" h="0" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-19883" y="-45617" z="-10725" h="0" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-19883" y="-45675" z="-10725" h="0" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-19884" y="-49645" z="-10917" h="0" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-19884" y="-49712" z="-10917" h="0" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-19884" y="-49778" z="-10917" h="0" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-19886" y="-51688" z="-11013" h="63878" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-19886" y="-51754" z="-11013" h="63878" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-19886" y="-51826" z="-11013" h="63878" />
+		<npc id="22138" /><!--Chapel Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12291" y="-47375" z="-10821" h="15065" />
+		<npc id="22146" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13461" y="-46979" z="-10847" h="59967" />
+		<npc id="22146" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13676" y="-44920" z="-10725" h="52319" />
+		<npc id="22146" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15088" y="-44849" z="-10725" h="44235" />
+		<npc id="22146" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15249" y="-47257" z="-10821" h="13363" />
+		<npc id="22146" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17395" y="-47434" z="-10821" h="20673" />
+		<npc id="22146" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17504" y="-45841" z="-10725" h="32140" />
+		<npc id="22146" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18935" y="-46882" z="-10821" h="43018" />
+		<npc id="22146" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18938" y="-44829" z="-10725" h="43183" />
+		<npc id="22146" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19477" y="-47289" z="-10821" h="8487" />
+		<npc id="22146" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20433" y="-45589" z="-10725" h="31970" />
+		<npc id="22146" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20505" y="-47313" z="-10821" h="2148" />
+		<npc id="22146" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12422" y="-47167" z="-10821" h="44200" />
+		<npc id="22147" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13709" y="-50927" z="-11013" h="62664" />
+		<npc id="22147" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13774" y="-45393" z="-10725" h="47714" />
+		<npc id="22147" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13932" y="-51545" z="-11013" h="36421" />
+		<npc id="22147" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14015" y="-46842" z="-10821" h="46950" />
+		<npc id="22147" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15543" y="-45148" z="-10725" h="21426" />
+		<npc id="22147" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17608" y="-45188" z="-10751" h="21419" />
+		<npc id="22147" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17792" y="-47616" z="-10821" h="43488" />
+		<npc id="22147" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18725" y="-50823" z="-11013" h="51912" />
+		<npc id="22147" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19034" y="-46832" z="-10821" h="52902" />
+		<npc id="22147" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19048" y="-44780" z="-10725" h="3830" />
+		<npc id="22147" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19149" y="-45457" z="-10725" h="13449" />
+		<npc id="22147" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19423" y="-51456" z="-11013" h="40167" />
+		<npc id="22147" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20511" y="-46795" z="-10821" h="44566" />
+		<npc id="22147" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20795" y="-47631" z="-10821" h="1066" />
+		<npc id="22147" /><!--Ritual Offering-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12407" y="-51523" z="-11013" h="22227" />
+		<npc id="22151" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13620" y="-50798" z="-11013" h="64637" />
+		<npc id="22151" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19026" y="-48907" z="-10917" h="17369" />
+		<npc id="22151" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19317" y="-51307" z="-11013" h="5869" />
+		<npc id="22151" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20347" y="-50677" z="-11013" h="43591" />
+		<npc id="22151" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20798" y="-51645" z="-11013" h="30778" />
+		<npc id="22151" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12420" y="-53928" z="-11114" h="33922" />
+		<npc id="22152" /><!--Temple Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12509" y="-52569" z="-10938" h="32156" />
+		<npc id="22152" /><!--Temple Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13087" y="-54400" z="-11114" h="65404" />
+		<npc id="22152" /><!--Temple Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13899" y="-51207" z="-11013" h="4363" />
+		<npc id="22152" /><!--Temple Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15312" y="-49473" z="-10943" h="38725" />
+		<npc id="22152" /><!--Temple Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15380" y="-48542" z="-10917" h="49337" />
+		<npc id="22152" /><!--Temple Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17225" y="-48606" z="-10917" h="47159" />
+		<npc id="22152" /><!--Temple Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17717" y="-49655" z="-10917" h="321" />
+		<npc id="22152" /><!--Temple Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18700" y="-50818" z="-11013" h="3874" />
+		<npc id="22152" /><!--Temple Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19557" y="-54282" z="-11114" h="36442" />
+		<npc id="22152" /><!--Temple Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20391" y="-54318" z="-11114" h="17297" />
+		<npc id="22152" /><!--Temple Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20490" y="-51378" z="-11013" h="47484" />
+		<npc id="22152" /><!--Temple Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20898" y="-50927" z="-11013" h="64243" />
+		<npc id="22152" /><!--Temple Guard-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12263" y="-51132" z="-11013" h="37729" />
+		<npc id="22153" /><!--Temple Guard Captain-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12312" y="-49582" z="-10943" h="5009" />
+		<npc id="22153" /><!--Temple Guard Captain-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12340" y="-49071" z="-10917" h="54978" />
+		<npc id="22153" /><!--Temple Guard Captain-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12367" y="-54299" z="-11114" h="2327" />
+		<npc id="22153" /><!--Temple Guard Captain-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13617" y="-49081" z="-10917" h="23575" />
+		<npc id="22153" /><!--Temple Guard Captain-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13642" y="-49653" z="-10917" h="61593" />
+		<npc id="22153" /><!--Temple Guard Captain-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14745" y="-49301" z="-10917" h="33937" />
+		<npc id="22153" /><!--Temple Guard Captain-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18053" y="-49327" z="-10917" h="47311" />
+		<npc id="22153" /><!--Temple Guard Captain-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19127" y="-48858" z="-10917" h="61631" />
+		<npc id="22153" /><!--Temple Guard Captain-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19437" y="-49344" z="-10917" h="8961" />
+		<npc id="22153" /><!--Temple Guard Captain-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20006" y="-54164" z="-11114" h="44952" />
+		<npc id="22153" /><!--Temple Guard Captain-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20237" y="-49432" z="-10917" h="57132" />
+		<npc id="22153" /><!--Temple Guard Captain-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12255" y="-51607" z="-11013" h="11412" />
+		<npc id="22154" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12302" y="-51946" z="-11013" h="26682" />
+		<npc id="22154" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12606" y="-52727" z="-10938" h="5934" />
+		<npc id="22154" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13844" y="-51147" z="-11013" h="54974" />
+		<npc id="22154" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15001" y="-49006" z="-10943" h="57447" />
+		<npc id="22154" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15524" y="-49085" z="-10917" h="16951" />
+		<npc id="22154" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17425" y="-49086" z="-10917" h="56058" />
+		<npc id="22154" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17662" y="-49741" z="-10917" h="30529" />
+		<npc id="22154" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18895" y="-51265" z="-11013" h="19425" />
+		<npc id="22154" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18982" y="-49372" z="-10917" h="64894" />
+		<npc id="22154" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20091" y="-52681" z="-10938" h="57155" />
+		<npc id="22154" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20519" y="-49398" z="-10917" h="64247" />
+		<npc id="22154" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20604" y="-51170" z="-11013" h="56571" />
+		<npc id="22154" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20710" y="-48872" z="-10917" h="61095" />
+		<npc id="22154" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12653" y="-54238" z="-11114" h="2877" />
+		<npc id="22155" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12687" y="-52666" z="-10938" h="60928" />
+		<npc id="22155" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15250" y="-57004" z="-10850" h="37837" />
+		<npc id="22155" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15658" y="-53286" z="-11565" h="44488" />
+		<npc id="22155" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16453" y="-53309" z="-11565" h="49538" />
+		<npc id="22155" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17703" y="-57011" z="-10850" h="2320" />
+		<npc id="22155" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17881" y="-53497" z="-11565" h="0" />
+		<npc id="22155" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19751" y="-52493" z="-10938" h="34047" />
+		<npc id="22155" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20330" y="-54215" z="-11114" h="34741" />
+		<npc id="22155" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12305" y="-50814" z="-11013" h="12548" />
+		<npc id="22156" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12715" y="-54324" z="-11114" h="4305" />
+		<npc id="22156" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12739" y="-52757" z="-10938" h="26747" />
+		<npc id="22156" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13176" y="-51678" z="-11013" h="6453" />
+		<npc id="22156" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14162" y="-51125" z="-11013" h="47330" />
+		<npc id="22156" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14846" y="-53259" z="-11565" h="7015" />
+		<npc id="22156" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15679" y="-56564" z="-10850" h="35078" />
+		<npc id="22156" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15735" y="-54130" z="-11565" h="5415" />
+		<npc id="22156" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16979" y="-56601" z="-10850" h="22146" />
+		<npc id="22156" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17974" y="-53518" z="-11565" h="1906" />
+		<npc id="22156" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18807" y="-50796" z="-11013" h="35504" />
+		<npc id="22156" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20227" y="-54203" z="-11114" h="6763" />
+		<npc id="22156" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20360" y="-51837" z="-11013" h="13414" />
+		<npc id="22156" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20380" y="-52781" z="-10938" h="53103" />
+		<npc id="22156" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20871" y="-50721" z="-11013" h="27767" />
+		<npc id="22156" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15205" y="-56909" z="-10850" h="21495" />
+		<npc id="22157" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16326" y="-56926" z="-10850" h="31751" />
+		<npc id="22157" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16844" y="-56562" z="-10850" h="9084" />
+		<npc id="22157" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17058" y="-54136" z="-11565" h="16819" />
+		<npc id="22157" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17185" y="-53128" z="-11565" h="19068" />
+		<npc id="22157" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17402" y="-56532" z="-10850" h="16654" />
+		<npc id="22157" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17638" y="-56994" z="-10850" h="25248" />
+		<npc id="22157" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17732" y="-57079" z="-10850" h="57797" />
+		<npc id="22157" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12560" y="-54301" z="-11114" h="34510" />
+		<npc id="22158" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12657" y="-52762" z="-10938" h="28108" />
+		<npc id="22158" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20368" y="-54101" z="-11114" h="14225" />
+		<npc id="22158" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15063" y="-56562" z="-10850" h="33926" />
+		<npc id="22159" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16816" y="-56567" z="-10850" h="41346" />
+		<npc id="22159" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17226" y="-53189" z="-11565" h="49964" />
+		<npc id="22159" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20069" y="-52782" z="-10938" h="13633" />
+		<npc id="22159" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15316" y="-56955" z="-10850" h="19811" />
+		<npc id="22160" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15781" y="-53271" z="-11565" h="24134" />
+		<npc id="22160" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16541" y="-53421" z="-11565" h="54984" />
+		<npc id="22160" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15706" y="-54049" z="-11565" h="40042" />
+		<npc id="22161" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15733" y="-53413" z="-11565" h="45218" />
+		<npc id="22161" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15792" y="-56538" z="-10850" h="59496" />
+		<npc id="22161" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16965" y="-56552" z="-10850" h="27881" />
+		<npc id="22161" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17589" y="-56614" z="-10850" h="11548" />
+		<npc id="22161" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17715" y="-57081" z="-10850" h="42225" />
+		<npc id="22161" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15006" y="-56363" z="-10850" h="47093" />
+		<npc id="22162" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16354" y="-53302" z="-11565" h="11548" />
+		<npc id="22162" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14941" y="-53216" z="-11565" h="14739" />
+		<npc id="22163" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16385" y="-57031" z="-10850" h="34783" />
+		<npc id="22163" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15712" y="-53178" z="-11565" h="47429" />
+		<npc id="22164" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17589" y="-56499" z="-10850" h="37846" />
+		<npc id="22164" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15635" y="-53961" z="-11565" h="60699" />
+		<npc id="22165" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16274" y="-56950" z="-10850" h="38943" />
+		<npc id="22165" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14982" y="-53309" z="-11565" h="36442" />
+		<npc id="22166" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15665" y="-54709" z="-11565" h="2099" />
+		<npc id="22166" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15946" y="-56559" z="-10850" h="51085" />
+		<npc id="22166" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16591" y="-54688" z="-11565" h="23897" />
+		<npc id="22166" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17826" y="-53230" z="-11565" h="35982" />
+		<npc id="22166" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17109" y="-54246" z="-11565" h="42723" />
+		<npc id="22167" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17535" y="-56542" z="-10850" h="45583" />
+		<npc id="22167" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11919" y="-44432" z="-10725" h="44579" />
+		<npc id="22168" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12036" y="-49000" z="-10917" h="561" />
+		<npc id="22168" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12426" y="-47383" z="-10821" h="45894" />
+		<npc id="22168" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13852" y="-49069" z="-10917" h="21528" />
+		<npc id="22168" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14782" y="-46587" z="-10821" h="64496" />
+		<npc id="22168" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15300" y="-57065" z="-10850" h="45680" />
+		<npc id="22168" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16195" y="-56941" z="-10850" h="64346" />
+		<npc id="22168" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17489" y="-56574" z="-10850" h="42536" />
+		<npc id="22168" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17747" y="-47343" z="-10821" h="25731" />
+		<npc id="22168" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17844" y="-53590" z="-11565" h="44758" />
+		<npc id="22168" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18044" y="-44652" z="-10725" h="46713" />
+		<npc id="22168" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19366" y="-45267" z="-10725" h="39762" />
+		<npc id="22168" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20272" y="-47735" z="-10821" h="924" />
+		<npc id="22168" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20548" y="-49186" z="-10917" h="55355" />
+		<npc id="22168" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20593" y="-44559" z="-10725" h="50212" />
+		<npc id="22168" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15001" y="-53177" z="-11565" h="5290" />
+		<npc id="22169" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15180" y="-57081" z="-10850" h="48836" />
+		<npc id="22169" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16250" y="-56843" z="-10850" h="55221" />
+		<npc id="22169" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17198" y="-54245" z="-11565" h="28900" />
+		<npc id="22170" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17217" y="-53386" z="-11565" h="29991" />
+		<npc id="22170" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17549" y="-57089" z="-10850" h="56649" />
+		<npc id="22170" /><!--Triol's Believer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15616" y="-53897" z="-11565" h="52028" />
+		<npc id="22171" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15764" y="-56612" z="-10850" h="15163" />
+		<npc id="22171" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20819" y="-49287" z="-10917" h="61766" />
+		<npc id="22171" /><!--Triol's High Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15051" y="-56457" z="-10850" h="35459" />
+		<npc id="22172" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16483" y="-53313" z="-11565" h="44967" />
+		<npc id="22172" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14983" y="-56505" z="-10850" h="22943" />
+		<npc id="22173" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16401" y="-54207" z="-11565" h="47014" />
+		<npc id="22173" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17067" y="-54418" z="-11565" h="56664" />
+		<npc id="22174" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17074" y="-56518" z="-10850" h="62892" />
+		<npc id="22174" /><!--Triol's Priest-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16199" y="-53591" z="-10449" h="14881" />
+		<npc id="22189" /><!--Andreas' Royal Guards-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16331" y="-53260" z="-10449" h="6134" />
+		<npc id="22189" /><!--Andreas' Royal Guards-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16479" y="-53528" z="-10449" h="11646" />
+		<npc id="22189" /><!--Andreas' Royal Guards-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15847" y="-53336" z="-10449" h="31957" />
+		<npc id="22190" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16297" y="-53086" z="-10449" h="7806" />
+		<npc id="22190" /><!--Ritual Sacrifice-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16712" y="-53438" z="-10449" h="4083" />
+		<npc id="22190" /><!--Ritual Sacrifice-->
+	</spawn>
+</list>

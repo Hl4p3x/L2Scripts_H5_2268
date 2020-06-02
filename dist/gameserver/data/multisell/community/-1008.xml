@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<item>
+		<production id="6658" count="1"/>	<!-- Ring of Baium -->
+		<ingredient id="4037" count="70"/>	<!--col-->
+	</item>
+	<item>
+		<production id="6659" count="1"/>	<!-- Zaken's Earring -->
+		<ingredient id="4037" count="20"/>	<!--col-->
+	</item>
+	<item>
+		<production id="21712" count="1"/>	<!-- Zaken's Earring of Immortality -->
+		<ingredient id="4037" count="120"/>	<!--col-->
+	</item>
+	<item>
+		<production id="6656" count="1"/>	<!-- Earring of Antharas -->
+		<ingredient id="4037" count="100"/>	<!--col-->
+	</item>
+	<item>
+		<production id="6657" count="1"/>	<!-- Necklace of Valakas -->
+		<ingredient id="4037" count="100"/>	<!--col-->
+	</item>
+	<item>
+		<production id="6660" count="1"/>	<!-- Ring of Queen Ant -->
+		<ingredient id="4037" count="20"/>	<!--col-->
+	</item>
+	<item>
+		<production id="22174" count="1"/>	<!-- Greater Queen Ant's Ring -->
+		<ingredient id="4037" count="90"/>	<!--col-->
+	</item>
+	<item>
+		<production id="16025" count="1"/>	<!-- Freya Necklace -->
+		<ingredient id="4037" count="25"/>	<!--col-->
+	</item>
+	<item>
+		<production id="16026" count="1"/>	<!-- Blessed Freya Necklace -->
+		<ingredient id="4037" count="100"/>	<!--col-->
+	</item>
+	<item>
+		<production id="8191" count="1"/>	<!-- Frintezza's Necklace -->
+		<ingredient id="4037" count="20"/>	<!--col-->
+	</item>
+	<item>
+		<production id="10314" count="1"/>	<!-- Beleth's Ring -->
+		<ingredient id="4037" count="100"/>	<!--col-->
+	</item>
+	
+</list>

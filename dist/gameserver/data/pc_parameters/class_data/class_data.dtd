@@ -1,0 +1,12 @@
+<!ELEMENT list (class_data)*>
+<!ELEMENT class_data (lvl_up_data)*>
+<!ATTLIST class_data
+	class_id CDATA #REQUIRED>
+
+<!ELEMENT lvl_up_data (lvl_add)*>
+<!ELEMENT lvl_add (#PCDATA)>
+<!ATTLIST lvl_add
+	lvl CDATA #REQUIRED
+	hp CDATA #REQUIRED
+	mp CDATA #REQUIRED
+	cp CDATA #REQUIRED>

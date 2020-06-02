@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!ELEMENT list (configs|vote_site)*>
+
+	<!ELEMENT configs (config)*>
+
+		<!ELEMENT config (#PCDATA)>
+		<!ATTLIST config
+			name CDATA #REQUIRED
+			value CDATA #REQUIRED>
+
+	<!ELEMENT vote_site (parameter|rewards)*>
+	<!ATTLIST vote_site
+		impl CDATA #REQUIRED
+		enabled CDATA #REQUIRED>
+
+		<!ELEMENT parameter (#PCDATA)>
+		<!ATTLIST parameter
+			name CDATA #REQUIRED
+			value CDATA #REQUIRED>
+
+		<!ELEMENT rewards (group)*>
+		
+			<!ELEMENT group (reward)*>
+			<!ATTLIST group
+				chance CDATA #REQUIRED>
+
+				<!ELEMENT reward (#PCDATA)>
+				<!ATTLIST reward
+					item_id CDATA #REQUIRED
+					min CDATA #REQUIRED
+					max CDATA #REQUIRED
+					chance CDATA #REQUIRED>

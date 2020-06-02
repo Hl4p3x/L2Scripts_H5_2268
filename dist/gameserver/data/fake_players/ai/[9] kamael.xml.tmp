@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE fake_player_ai SYSTEM "fake_player.dtd">
+<!--AUTHOR: Bonux-->
+<fake_player_ai race="KAMAEL" type="FIGHTER">
+	<on_character_create>	<!--Создается персонаж-->
+		<wait min_delay="3000" max_delay="9000"/>
+		<move_to_npc id="32134"/>
+		<speak_with_npc id="32134"/>
+		<wait min_delay="1000" max_delay="3000"/>
+		<use_community bypass="_cbbsbuffer get 0 1_0 Warrior;Воину"/>
+		<wait min_delay="500" max_delay="1500"/>
+		<farm/>
+	</on_character_create>
+	<farm name="Cave of Soul" min_level="1" max_level="40">
+		<zones>
+			<zone>
+				<polygon>
+					<coords loc="-125752 38904 1000 1300"/>
+					<coords loc="-124136 38952 1000 1300"/>
+					<coords loc="-124152 37368 1000 1300"/>
+					<coords loc="-125816 37272 1000 1300"/>
+				</polygon>
+			</zone>
+			<spawn_points>
+				<coords loc="-125607 38452 1152 0"/>
+				<coords loc="-125472 38450 1152 0"/>
+				<coords loc="-125615 37771 1152 0"/>
+				<coords loc="-125464 37776 1152 0"/>
+				<coords loc="-125517 38267 1155 0"/>
+				<coords loc="-125531 37944 1155 0"/>
+			</spawn_points>
+		</zones>
+		<farm_monsters>
+			<npc id="18342"/>
+		</farm_monsters>
+		<on_obtain_max_level>
+			<wait min_delay="1000" max_delay="3000"/>
+			<random_action>
+				<ordinary_actions>
+					<wait min_delay="2000" max_delay="3000"/>
+					<use_community bypass="_cbbsteleport_15"/>
+				</ordinary_actions>
+				<ordinary_actions>
+					<move_to_point x="-125512" y="38120" z="1176" min_range="50" max_range="150"/>
+					<move_to_point x="-125048" y="38664" z="1144" min_range="50" max_range="150"/>
+					<move_to_point x="-124296" y="38376" z="1176" min_range="50" max_range="150"/>
+					<move_to_point x="-124104" y="38136" z="1176" min_range="50" max_range="150"/>
+					<move_to_point x="-123272" y="38104" z="1368" min_range="0" max_range="50"/>
+					<move_to_point x="-122504" y="38120" z="1432" min_range="0" max_range="50"/>
+					<move_to_point x="-121848" y="38136" z="1392" min_range="50" max_range="150"/>
+					<random_action>
+						<use_item id="10650"/>	<!--Используем SoE-->
+						<ordinary_actions>
+							<move_to_point x="-120616" y="38440" z="1408" min_range="50" max_range="150"/>
+							<move_to_point x="-120168" y="39112" z="1376" min_range="50" max_range="150"/>
+							<move_to_point x="-120552" y="39832" z="1344" min_range="50" max_range="150"/>
+							<move_to_point x="-121896" y="40840" z="1200" min_range="50" max_range="150"/>
+							<move_to_point x="-122680" y="41816" z="992" min_range="50" max_range="150"/>
+							<move_to_point x="-122568" y="42840" z="880" min_range="50" max_range="150"/>
+							<move_to_point x="-121304" y="43720" z="616" min_range="50" max_range="150"/>
+							<move_to_point x="-119768" y="44632" z="352" min_range="50" max_range="150"/>
+						</ordinary_actions>
+					</random_action>
+				</ordinary_actions>
+			</random_action>
+		</on_obtain_max_level>
+	</farm>
+</fake_player_ai>

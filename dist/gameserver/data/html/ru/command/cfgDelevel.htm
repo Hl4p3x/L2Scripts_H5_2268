@@ -1,0 +1,22 @@
+<html><head><title>Снижение уровня персонажа</title></head><body><br>
+<center>
+<img src="L2UI.squaregray" width="280" height="1">
+<table width=280 bgcolor=222120>
+	<tr>
+		<td>
+			<center>
+			<font name="hs12" color="a22020">Your Server</font>
+			</center>
+		</td>
+	</tr>
+</table>
+<img src="L2UI.squaregray" width="280" height="1">
+<br><br>
+<font color=686764>Сколько уровней Вы желаете удалить?<br>
+Стоимость за каждый уровень - 1 Event Pound!<br>
+<edit var="levels" width=100 height=15 />
+<br><br>
+<button value="Снизить уровень" action="bypass -h user_cp delevel $levels" width=150 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" />
+<button value="Назад" action="bypass -h user_cp back" width=150 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" /><br>
+</center>
+</body></html>

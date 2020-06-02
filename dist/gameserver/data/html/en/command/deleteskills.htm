@@ -1,0 +1,107 @@
+<!--AUTHOR: Bonux-->
+<html><head>
+<title>Deleting Skills</title>
+<table border=0 cellpadding=0 cellspacing=0 width=280>
+	<?message?>
+	<?price?>
+	<?content?>
+</table>
+</html>
+<!--TEMPLATE1
+<tr>
+	<td>
+		<table width=280 border=0 background="L2UI_CT1.editbox_df_bg">
+			<tr><td align=center width=5></td><td align=center height=10></td><td align=center width=5></td></tr>
+			<tr><td align=center width=5></td><td align=center width=270><?message_text?></td><td align=center width=5></td></tr>
+			<tr><td align=center width=5></td><td align=center height=10></td><td align=center width=5></td></tr>
+		</table>
+		<br>
+	</td>
+</tr>
+TEMPLATE-->
+<!--TEMPLATE2
+<font color="FF0000">Your character does not have this skill!</font>
+TEMPLATE-->
+<!--TEMPLATE3
+<font color="FF0000">Skill '<?skill_name?>'<br1>can not be deleted!</font>
+TEMPLATE-->
+<!--TEMPLATE4
+<font color="FF0000">An incorrect skill ID has been entered!</font>
+TEMPLATE-->
+<!--TEMPLATE5
+<font color="4CFF00">Skill '<?skill_name?>'<br1>was successfully deleted!</font>
+TEMPLATE-->
+<!--TEMPLATE6
+<font color="DDD3B6">Your character has no skills.</font>
+TEMPLATE-->
+<!--TEMPLATE7
+<font color="FF0000">Insufficient items necessary<br1>for skill removal!</font>
+TEMPLATE-->
+<!--TEMPLATE100
+<tr>
+	<td>
+		<?skill_list?>
+	</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+	<td>
+		<table border=0 cellpadding=0 cellspacing=0 width=280>
+			<tr>
+				<td width=74 height=35></td>
+				<td width=30 height=35 align=center><?prev_page_button?></td>
+				<td width=70 height=35 align=center>Страница: <?current_page?></td>
+				<td width=30 height=35 align=center><?next_page_button?></td>
+				<td width=74 height=35></td>
+			</tr>
+		</table>
+	</td>
+</tr>
+TEMPLATE-->
+<!--TEMPLATE101
+<table border=0 cellpadding=0 cellspacing=0 width=280 bgcolor=<?bg_color?>>
+<tr>
+	<td width=40 height=45 align=center>
+		<img src="<?skill_icon?>" width=32 height=32>
+	</td>
+	<td width=170 height=45>
+		<table width=165>
+			<tr>
+				<td><?skill_name?></td>
+			</tr>
+			<tr>
+				<td><font color="00FFFF">(<?skill_level?> ур.)</font></td>
+			</tr>
+		</table>
+	</td>
+	<td width=70 height=45 align=center>
+		<button value="Удалить" action="bypass -h user_deleteskill <?skill_id?> <?current_page?>" back="l2ui_ct1.Button_DF_Msn_down" width=65 height=30 fore="l2ui_ct1.Button_DF_Msn">
+	</td>
+</tr>
+</table>
+TEMPLATE-->
+<!--TEMPLATE102
+"443E36"
+TEMPLATE-->
+<!--TEMPLATE103
+"786C5C"
+TEMPLATE-->
+<!--TEMPLATE104
+<button action="bypass -h user_deleteskills <?prev_page?>" back="L2UI_CT1.Button_DF_Left_Down" fore="L2UI_CT1.Button_DF_Left" width=15 height=15>
+TEMPLATE-->
+<!--TEMPLATE105
+<button action="bypass -h user_deleteskills <?next_page?>" back="L2UI_CT1.Button_DF_Right_Down" fore="L2UI_CT1.Button_DF_Right" width=15 height=15>
+TEMPLATE-->
+<!--TEMPLATE106
+	<tr>
+		<td>
+			<table width=280 border=0 background="L2UI_CT1.editbox_df_bg">
+				<tr><td align=center width=5></td><td align=center height=10></td><td align=center width=5></td></tr>
+				<tr><td align=center width=5></td><td align=center width=270>Цена: <font color=LEVEL><?fee_item_count?> <?fee_item_name?></font></td><td align=center width=5></td></tr>
+				<tr><td align=center width=5></td><td align=center height=10></td><td align=center width=5></td></tr>
+			</table>
+			<br>
+		</td>
+	</tr>
+TEMPLATE-->

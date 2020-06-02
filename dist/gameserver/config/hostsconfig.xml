@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "hostsconfig.dtd">
+<!--AUTHOR: Bonux-->
+<list>
+	<authserver address="127.0.0.1" port="9014"/>	<!--AuthServer IP (domain) and port-->
+	<gameserver>	<!--GameServer hosts-->
+		<!--id: server id in server list-->
+		<!--address: ip or domain-->
+		<!--port: gameserver port-->
+		<host id="1" address="127.0.0.1" port="7777" key="ENTER_RANDOM_KEY">
+			<!--subnet properties-->
+			<advanced address="127.0.0.1" subnet="127.0.0.0/8"/>
+			<advanced address="10.0.0.0" subnet="10.0.0.0/8"/>
+			<advanced address="172.16.0.0" subnet="172.16.0.0/12"/>
+			<advanced address="192.168.0.0" subnet="192.168.0.0/16"/>
+			<advanced address="169.254.0.0" subnet="169.254.0.0/16"/>
+		</host>
+		<!--EXAMPLE FOR USE WITH A ROUTER:
+		<host id="1" address="*" port="7777" key="ENTER_RANDOM_KEY">
+			<advanced address="127.0.0.1" subnet="127.0.0.0/8"/>
+			<advanced address="10.0.0.0" subnet="10.0.0.0/8"/>
+			<advanced address="172.16.0.0" subnet="172.16.0.0/12"/>
+			<advanced address="192.168.0.0" subnet="192.168.0.0/16"/>
+			<advanced address="169.254.0.0" subnet="169.254.0.0/16"/>
+			<advanced address="ENTER_YOUR_EXTERNAL_IP" subnet="0.0.0.0/0"/>
+		</host>
+		-->
+	</gameserver>
+</list>

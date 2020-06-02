@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "tree.dtd">
+<!--AUTHOR: Bonux-->
+<list>
+	<gm_skill_tree>
+		<skill id="7029" level="4" name="Super Haste"/>
+		<!--
+		<skill id="7041" level="1" name="Master's Blessing - Focus"/>
+		<skill id="7042" level="1" name="Master's Blessing - Death Whisper"/>
+		<skill id="7043" level="1" name="Master's Blessing - Haste"/>
+		<skill id="7044" level="1" name="Master's Blessing - Guidance"/>
+		<skill id="7045" level="1" name="Master's Blessing - Blessed Body"/>
+		<skill id="7046" level="1" name="Master's Blessing - Blessed Soul"/>
+		<skill id="7047" level="1" name="Master's Blessing - Agility"/>
+		<skill id="7048" level="1" name="Master's Blessing - Acumen"/>
+		<skill id="7049" level="1" name="Master's Blessing - Decrease Weight"/>
+		<skill id="7050" level="1" name="Master's Blessing - Might"/>
+		<skill id="7051" level="1" name="Master's Blessing - Shield"/>
+		<skill id="7052" level="1" name="Master's Blessing - Magic Barrier"/>
+		<skill id="7053" level="1" name="Master's Blessing - Vampiric Rage"/>
+		<skill id="7054" level="1" name="Master's Blessing - Empower"/>
+		<skill id="7055" level="1" name="Master's Blessing - Wind Walk"/>
+		<skill id="7056" level="1" name="Master's Blessing - Berserker Spirit"/>
+		<skill id="7057" level="1" name="Master's Blessing - Greater Might"/>
+		<skill id="7058" level="1" name="Master's Blessing - Greater Shield"/>
+		<skill id="7059" level="1" name="Master's Blessing - Wild Magic"/>
+		<skill id="7060" level="1" name="Master's Blessing - Clarity"/>
+		<skill id="7061" level="1" name="Master's Blessing - Prophecy of Water"/>
+		<skill id="7062" level="1" name="Master's Blessing - Prophecy of Fire"/>
+		<skill id="7063" level="1" name="Master's Blessing - Prophecy of Wind"/>
+		<skill id="7064" level="1" name="Master's Blessing - Chant of Victory"/>
+		<skill id="7088" level="1" name="Master's Blessing - Improve Combat"/>
+		<skill id="7089" level="1" name="Master's Blessing - Improve Magic"/>
+		<skill id="7090" level="1" name="Master's Blessing - Improve Condition"/>
+		<skill id="7091" level="1" name="Master's Blessing - Improve Critical"/>
+		<skill id="7092" level="1" name="Master's Blessing - Improve Shield Defense"/>
+		<skill id="7093" level="1" name="Master's Blessing - Improve Movement"/>
+		<skill id="7094" level="1" name="Master's Blessing - Sharpen Edge"/>
+		<skill id="7095" level="1" name="Master's Blessing - Face Harden"/>
+		<skill id="7096" level="1" name="Master's Blessing - Blessing of Noblesse"/>
+		-->
+	</gm_skill_tree>
+</list>

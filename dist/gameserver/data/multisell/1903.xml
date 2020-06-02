@@ -1,0 +1,437 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Olympiad Token ==> items -->
+
+<list>
+	<!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+	<!-- ignoreprice не работает с keepencahnted -->
+	<config showall="true" notax="true" keepenchanted="false" />
+	<item>
+		<!-- Fame -->
+		<ingredient id="21874" count="1" />
+		<production id="-300" count="100" />
+	</item>
+	<item>
+		<!-- Noble Enhancement Stone  -->
+		<ingredient id="13722" count="2000" />
+		<production id="14052" count="1" />
+	</item>
+	<item>
+		<!-- Blessed Scroll: Enchant Weapon (S) -->
+		<ingredient id="13722" count="420000" />
+		<production id="6577" count="1" />
+	</item>
+	<item>
+		<!-- Blessed Scroll: Enchant Weapon (A) -->
+		<ingredient id="13722" count="195000" />
+		<production id="6569" count="1" />
+	</item>
+	<item>
+		<!-- Blessed Scroll: Enchant Weapon (B) -->
+		<ingredient id="13722" count="84000" />
+		<production id="6571" count="1" />
+	</item>
+	<item>
+		<!-- Blessed Scroll: Enchant Armor (S) -->
+		<ingredient id="13722" count="63000" />
+		<production id="6578" count="1" />
+	</item>
+	<item>
+		<!-- Blessed Scroll: Enchant Armor (A) -->
+		<ingredient id="13722" count="23400" />
+		<production id="6570" count="1" />
+	</item>
+	<item>
+		<!-- Blessed Scroll: Enchant Armor (B) -->
+		<ingredient id="13722" count="9000" />
+		<production id="6572" count="1" />
+	</item>
+	<item>
+		<!-- Scroll: Enchant Weapon (S) -->
+		<ingredient id="13722" count="70000" />
+		<production id="959" count="1" />
+	</item>
+	<item>
+		<!-- Scroll: Enchant Weapon (A) -->
+		<ingredient id="13722" count="23400" />
+		<production id="729" count="1" />
+	</item>
+	<item>
+		<!-- Scroll: Enchant Weapon (B) -->
+		<ingredient id="13722" count="6000" />
+		<production id="947" count="1" />
+	</item>
+	<item>
+		<!-- Scroll: Enchant Armor (S) -->
+		<ingredient id="13722" count="7000" />
+		<production id="960" count="1" />
+	</item>
+	<item>
+		<!-- Scroll: Enchant Armor (A) -->
+		<ingredient id="13722" count="3120" />
+		<production id="730" count="1" />
+	</item>
+	<item>
+		<!-- Scroll: Enchant Armor (B) -->
+		<ingredient id="13722" count="960" />
+		<production id="948" count="1" />
+	</item>
+	<item>
+		<!-- Eye Patch -->
+		<ingredient id="13722" count="10000" />
+		<production id="8916" count="1" />
+	</item>
+	<item>
+		<!-- Shield Master Circlet -->
+		<ingredient id="13722" count="12000" />
+		<production id="9397" count="1" />
+	</item>
+	<item>
+		<!-- Bard Circlet -->
+		<ingredient id="13722" count="12000" />
+		<production id="9398" count="1" />
+	</item>
+	<item>
+		<!-- Force Master Circlet -->
+		<ingredient id="13722" count="12000" />
+		<production id="9399" count="1" />
+	</item>
+	<item>
+		<!-- Weapon Master Circlet -->
+		<ingredient id="13722" count="12000" />
+		<production id="9400" count="1" />
+	</item>
+	<item>
+		<!-- Dagger Master Circlet -->
+		<ingredient id="13722" count="12000" />
+		<production id="9401" count="1" />
+	</item>
+	<item>
+		<!-- Bow Master Circlet -->
+		<ingredient id="13722" count="12000" />
+		<production id="9402" count="1" />
+	</item>
+	<item>
+		<!-- Wizard Circlet -->
+		<ingredient id="13722" count="12000" />
+		<production id="9403" count="1" />
+	</item>
+	<item>
+		<!-- Summoner Circlet -->
+		<ingredient id="13722" count="12000" />
+		<production id="9404" count="1" />
+	</item>
+	<item>
+		<!-- Healer Circlet -->
+		<ingredient id="13722" count="12000" />
+		<production id="9405" count="1" />
+	</item>
+	<item>
+		<!-- Enchanter Circlet -->
+		<ingredient id="13722" count="12000" />
+		<production id="9406" count="1" />
+	</item>
+	<item>
+		<!-- Weapon Master Circlet (Kamael only) -->
+		<ingredient id="13722" count="12000" />
+		<production id="9407" count="1" />
+	</item>
+	<item>
+		<!-- Bow Master Circlet (Kamael only) -->
+		<ingredient id="13722" count="12000" />
+		<production id="9408" count="1" />
+	</item>
+	<item>
+		<!-- Enchanter Circlet (Kamael only) -->
+		<ingredient id="13722" count="12000" />
+		<production id="10169" count="1" />
+	</item>
+	<item>
+		<!-- Giant's Codex -->
+		<ingredient id="13722" count="550" />
+		<production id="6622" count="1" />
+	</item>
+	<item>
+		<!-- Ancient Book - Divine Inspiration (Original Version) -->
+		<ingredient id="13722" count="90000" />
+		<production id="8621" count="1" />
+	</item>
+	<item>
+		<!-- Warrior's Temporary Healing Potion -->
+		<ingredient id="13722" count="220" />
+		<production id="13750" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Seed of Revenge -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14170" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Hell Scream -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14171" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Spirit of Phoenix -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14172" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Eva's Will -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14173" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Pain of Shillien -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14174" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Exciting Adventure -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14175" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Wind Riding -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14176" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Ghost Walking -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14177" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Flame Hawk -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14178" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Arrow Rain -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14179" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Ghost Piercing -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14180" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Dread Pool -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14181" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Force of Destruction -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14182" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Demolition Impact -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14183" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Golem Armor -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14184" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Wild Shot -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14185" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Lightning Shock -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14186" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Flame Armor -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14187" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Frost Armor -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14188" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Hurricane Armor -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14189" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Vampiric Mist -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14190" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Sublime Self Sacrifice -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14193" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Blessing of Eva -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14194" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Lord of Vampire -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14195" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Song of Purification -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14198" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Dance of Berserker -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14199" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Summon Imperial Phoenix -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14200" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Maximum Focus Force -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14201" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Maximum Focus Sonic -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14202" count="1" />
+	</item>
+	<!-- <item>
+		 Forgotten Scroll - Weapon Blockade 
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14203" count="1" />
+	</item> -->
+	<item>
+		<!-- Forgotten Scroll - Spirit of the Cat -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14204" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Spirit of the Phantom -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14206" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Seal of Limit -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14197" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Spirit of the Unicorn -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14205" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Lucky Strike -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14222" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Eye for Eye -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14223" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Counter Critical -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14225" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Onslaught of Pa'agrio -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14226" count="1" />
+	</item>
+	<item>
+		<!-- Forgotten Scroll - Great Fury -->
+		<ingredient id="13722" count="52000" />
+		<ingredient id="-300" count="26000" />
+		<ingredient id="57" count="12000000" />
+		<production id="14227" count="1" />
+	</item>
+</list>

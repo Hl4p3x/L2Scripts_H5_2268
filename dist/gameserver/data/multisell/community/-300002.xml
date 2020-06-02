@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<item>
+		<production id="9589" count="1"/>	<!-- -->
+		<ingredient id="57" count="1500000"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="9590" count="1"/>	<!-- -->
+		<ingredient id="57" count="2500000"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="9591" count="1"/>	<!-- -->
+		<ingredient id="57" count="2900000"/>	<!--Adena-->
+	</item>
+	<item>
+		<production id="10209" count="1"/>	<!-- -->
+		<ingredient id="57" count="3500000"/>	<!--Adena-->
+	</item>	
+</list>

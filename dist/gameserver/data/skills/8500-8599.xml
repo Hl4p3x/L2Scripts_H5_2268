@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="8500" levels="1" name="Pink Talisman - CON">
+		<set name="icon" value="icon.etc_talisman_event_i00" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<cond>
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<add order="0x40" stat="CON" value="2" />
+		</for>
+	</skill>
+	<skill id="8501" levels="1" name="Pink Talisman - INT">
+		<set name="icon" value="icon.etc_talisman_event_i00" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<cond>
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<add order="0x40" stat="INT" value="2" />
+		</for>
+	</skill>
+	<skill id="8502" levels="1" name="Pink Talisman - WIT">
+		<set name="icon" value="icon.etc_talisman_event_i00" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<cond>
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<add order="0x40" stat="WIT" value="2" />
+		</for>
+	</skill>
+	<skill id="8503" levels="1" name="Pink Talisman - MEN">
+		<set name="icon" value="icon.etc_talisman_event_i00" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<cond>
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<add order="0x40" stat="MEN" value="2" />
+		</for>
+	</skill>
+	<skill id="8504" levels="1" name="Pink Talisman - Stun Resist">
+		<set name="icon" value="icon.etc_talisman_event_i01" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<cond>
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<add order="0x40" stat="stunResist" value="15" />
+		</for>
+	</skill>
+	<skill id="8505" levels="1" name="Pink Talisman - Sleep Resist">
+		<set name="icon" value="icon.etc_talisman_event_i01" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<cond>
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<add order="0x40" stat="sleepResist" value="15" />
+		</for>
+	</skill>
+	<skill id="8506" levels="1" name="Pink Talisman - Hold Resist">
+		<set name="icon" value="icon.etc_talisman_event_i01" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<cond>
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<add order="0x40" stat="rootResist" value="15" />
+		</for>
+	</skill>
+	<skill id="8507" levels="1" name="Pink Talisman - Paralyze Resist">
+		<set name="icon" value="icon.etc_talisman_event_i01" />
+		<set name="magicLevel" value="55" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<cond>
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<add order="0x40" stat="paralyzeResist" value="15" />
+		</for>
+	</skill>
+	<skill id="8508" levels="1" name="Pink Talisman - All STAT">
+		<set name="icon" value="icon.etc_talisman_event_i02" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<cond>
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<add order="0x40" stat="STR" value="1" />
+			<add order="0x40" stat="DEX" value="1" />
+			<add order="0x40" stat="CON" value="1" />
+			<add order="0x40" stat="INT" value="1" />
+			<add order="0x40" stat="WIT" value="1" />
+			<add order="0x40" stat="MEN" value="1" />
+		</for>
+	</skill>
+	<skill id="8509" levels="1" name="High Angel Circlet">
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.accessory_highangel_circlet_i00" />
+		<set name="reuseDelay" value="3600000" />
+		<set name="magicLevel" value="1" />
+		<set name="hitTime" value="200" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="RECALL" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="8510" levels="1" name="Summon Friend">
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_summon_aga_agit_i00" />
+		<set name="reuseDelay" value="3600000" />
+		<set name="magicLevel" value="1" />
+		<set name="hitTime" value="10000" />
+		<set name="hitCancelTime" value="500" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_PASSIVE" />
+	</skill>
+	<skill id="8511" levels="1" name="Blessing of Victory" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" value="BranchSys2.icon.br_worldcup_hair_i02" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="8512" levels="1" name="National Representative Warrior's Tenacity" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" value="BranchSys2.icon.br_spirit_of_brave_i00" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="8513" levels="1" name="National Representative Spell of Blessing" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" value="BranchSys2.icon.br_spell_of_blessing_i00" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="8514" levels="1" name="National Representative Energy of Victory" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" value="BranchSys2.icon.br_obsession_of_winning_i00" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="8515" levels="1" name="Release Seal on Agathion - Ball Trapping Gnosian" >
+		<set name="icon" value="icon.etc_summon_aga_agit_i00" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="SUMMON" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="useSS" value="false" />
+		<set name="npcId" value="1576" />
+		<set name="summonType" value="agathion" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="8516" levels="1" name="Release Seal on Agathion - Ball Trapping Orodriel" >
+		<set name="icon" value="icon.etc_summon_aga_agit_i00" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="SUMMON" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="useSS" value="false" />
+		<set name="npcId" value="1577" />
+		<set name="summonType" value="agathion" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="8517" levels="1" name="Release Seal on Agathion - Penalty Kick" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" value="icon.etc_summon_aga_agit_i00" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="SUMMON" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="useSS" value="false" />
+		<set name="npcId" value="1578" />
+		<set name="summonType" value="agathion" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="8518" levels="1" name="Notifier" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" value="icon.skill5239" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="8519" levels="1" name="Notifier" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" value="icon.skill5239" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="8520" levels="1" name="Notifier" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" value="icon.skill5239" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="8521" levels="1" name="Release Seal on Agathion - Antharas" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_summon_aga_agit_i00" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="SUMMON" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="useSS" value="false" />
+		<set name="npcId" value="16077" />
+		<set name="summonType" value="agathion" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="8522" levels="1" name="Release Seal on Agathion - Nevit's Messenger Kanna" >
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_summon_aga_agit_i00" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="SUMMON" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="useSS" value="false" />
+		<set name="npcId" value="16078" />
+		<set name="summonType" value="agathion" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="8523" levels="1" name="Release Seal on Agathion - Guardian of the Dawn Kallesin" >
+		<set name="magicType" value="SPECIAL" />
+		<set name="icon" value="icon.etc_summon_aga_agit_i00" />
+		<set name="magicLevel" value="85" />
+		<set name="hitTime" value="3000" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="SUMMON" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" value="true" />
+		<set name="useSS" value="false" />
+		<set name="npcId" value="16079" />
+		<set name="summonType" value="agathion" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="8524" levels="1" name="Hero's Holy Attack" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" value="icon.weapon_the_sword_of_hero_i00" />
+		<set name="icon" value="icon.etc_holy_crystal_i00" />
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="attackHoly" value="250" />
+		</for>
+	</skill>
+	<skill id="8525" levels="1" name="Hero's Holy Attack" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" value="icon.weapon_the_staff_of_hero_i00" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+	<skill id="8526" levels="1" name="Shiny Bracelet" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" value="icon.accessory_shiny_bracelet" />
+		<set name="target" value="TARGET_NONE" />
+		<set name="skillType" value="NOTDONE" />
+		<set name="operateType" value="OP_ACTIVE" />
+	</skill>
+</list>
